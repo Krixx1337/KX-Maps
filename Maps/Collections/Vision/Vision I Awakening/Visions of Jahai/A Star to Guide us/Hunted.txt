@@ -1,0 +1,1 @@
+1	'Defeat-the-Hydra-which-will-spawn-in-this-area' -482.74 136.28 -5.31

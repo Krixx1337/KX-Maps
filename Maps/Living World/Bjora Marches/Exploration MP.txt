@@ -1,0 +1,7 @@
+1	'masterypoint' 1066.348 154.09 -485.603
+2	'masterypoint' 541.266 216.694 -539.688
+3	'masterypoint' 1424.01 146.585 234.75
+4	'masterypoint' 403.546 260.119 661.549
+5	'masterypoint' -314.77 484.923 796.646
+6	'masterypoint' -1223.513 29.286 -427.325
+7	'masterypoint' -536.985 230.342 112.822

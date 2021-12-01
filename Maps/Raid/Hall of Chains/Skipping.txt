@@ -1,0 +1,9 @@
+1	'Desminaspawn' -331.182 25.5444 24.4663
+2	'River-firstenforcer' -189.123 45.3794 26.9662
+3	'River-secondenforcer' -100.796 64.1044 39.909
+4	'River-ofSoulsEND' 253.038 180.4 51.7755
+5	'Statues-Mouth' 116.106 122.978 -203.353
+6	'Statues-King' 181.414 137.982 234.391
+7	'Eye-leftgroup-start' 501.515 97.9352 87.3669
+8	'Eye-rightgroup-start' 493.422 99.3744 -27.6443
+9	'Dhuum' 491.584 194.221 63.976

@@ -1,0 +1,65 @@
+Hello and Welcome to the Full Aurora Experience now includet in KX Trainer!
+
+Before you start make sure you have the following
+
+1.Access to the LW3 Areas
+
+2.The Masteries from all Maps
+
+3.Time
+
+4.Maybe already completed the story Quest for acces to Achievments in all Areas
+
+
+What you need to Know first !
+These Coords where made with the previous in mind so they are 100% necessary
+
+
+IMPORTANT NOTE FOR ACHIEVMENTS which are not included in the  Files DOWN BELOVE IS THE INFO
+
+Some Achievments are like kill 200 enemys of these Type or that type. so for instance
+in BLoodstone Fen you must kill 200 Bloodstone-Crazed-White-Mantle-Enemys  
+these types of Achievments i didnt coords, because its obvious its way to big und not accurate to these type of ports.
+But by doing the other achievments on these maps you will get it over time by doing it step by step
+
+Also following Achievments need to be looked into because there are not ported direktly so you have to read this Info file
+
+[Jade Carving] = These Achievment is collected after you killed "in BLoodstone Fen" 10 Jade Constructs  "thats were the Meta comes in play were 4 Jade Constructs will spawn during the meta" so you
+have to redo the meta event 2-4 times depends on the statues when you arive there.  You find coords for the Meta event in the Files because you need another item from these meta event trough killing Jade Constructs so its easier 
+to get done with it.
+
+
+NOW we are finally at the good part O.O Where to start? O.O
+
+1. First you need to unlock the "Aurora Awakening Achievments"
+
+2. How do you do that? simple, you will start with the Folder named "Unlock_Aurora_Awakening"
+
+3. In that Folder you will find  all the Things you need for The Achievment´s to get the Unlocking Final Item for the Aurora Awakening Collection
+
+
+4. After you did all to unlock Awakening Collection the real fun begins
+
+
+5. Now its time for the Big Boy we are going into the Folder =  Aurora_Awakening_Achievments&Collactables
+
+6. In that Folder you will find every single Achievment under achievment etc for every Map and Every story you need in order to get "Aurora Awakening 100%"
+
+7. it is listed by the following  
+
+
+Bloodstone Fen Hero
+Ember Bay Hero	
+Bitterfrost Frontier Hero
+Lake Doric Hero
+Draconis Mons Hero
+Siren's Landing Hero
+
+in every one of these folders you will find every achievment you need to complete everything
+
+
+
+
+
+
+By Questions contact me in Discord  "Bloodmagicball" 

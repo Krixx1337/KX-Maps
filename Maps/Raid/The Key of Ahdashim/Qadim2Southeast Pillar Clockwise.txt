@@ -1,0 +1,2 @@
+1	'SoutheastPillar' 75.24 20.69 297.25
+2	'Aoe_Location' 51.73 20.69 266.23

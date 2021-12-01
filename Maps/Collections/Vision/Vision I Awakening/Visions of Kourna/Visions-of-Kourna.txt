@@ -1,0 +1,8 @@
+1	'Skyscale-Point-Vision-of-Dragons-Aurene' -699.44 81.4 367.28
+2	'Interact-with-Data-log-Vision-of-Allies-Blish' -724.83 40.54 382.14
+3	'Vision-of-Enemies-BOunty-Board' -751.58 39.59 355.43
+4	'MMarshal-spawn' 149.04 12.33 -518.96
+5	'Vision-of-Landscapes-Skyscale-Point' -753.35 170.51 222.2
+6	'Vision-of-Action-Talk-with-Tebb-then-Dance-with-Choyas' 312.68 84.38 1524.98
+7	'Dance' 272.16 61.78 1520.91
+8	'Talk-unlock-achievments-buy-stuff-fo-the-banner-stuff' -689.29 26.97 380.77

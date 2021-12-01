@@ -1,0 +1,3 @@
+1	'Event-Melandrus-Tears-port' 756.31 168.34 -694.94
+2	'Collect-Soulbinders-throughout-the-Underworld' -576.19 170.75 -442.5
+3	'Collect-Eternal-Embers-Event' -967.55 154.8 622.68

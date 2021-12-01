@@ -1,0 +1,2 @@
+In Sirens Landing there are no coords for Heart Quests, because you can do all Hearts by just killing things, the file will port you to the Hearts but thats it.
+

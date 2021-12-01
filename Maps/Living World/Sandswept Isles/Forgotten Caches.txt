@@ -1,0 +1,12 @@
+1	'ForgottenCache1' 998.688 33.9523 -598.56135
+2	'ForgottenCache2' 178.916 111.62 -15.4124
+3	'ForgottenCache3' -476.006 9.5273 -40.7715
+4	'ForgottenCache4' 339.408 60.5263 -316.647
+5	'ForgottenCache5' 638.044 26.3825 -344.563
+6	'ForgottenCache6' -601.93 0.355018 1064.04
+7	'ForgottenCache7' 815.481 -13.8125 1224.36
+8	'ForgottenCache8' 815.034 13.6804 1067.16
+9	'ForgottenCache9' 678.359 0.272026 764.069
+10	'ForgottenCache10' 806.891 -4.32522 728.421
+11	'ForgottenCache11' 455.954 -16.8678 607.754
+12	'ForgottenCache12' 127.161 -9.61014 556.541

@@ -1,0 +1,15 @@
+1	'give-her-the-new-bandolier' -42.35 6.8 696.14
+2	'get-bounty-old-stonehoof-next-port-is-location' -72.44 17.04 664.76
+3	'' 62.78 106.57 1081.24
+4	'get-ironshell-bounty' -67.85 16.9 665.55
+5	'' -650.55 0.19 1223.72
+6	'Smashed-Vase-Kill-the-Spirit-of-the-storm' 606.97 0.53 989.09
+7	'Artifical-Diamond-Spawnpoint1' -370.95 174.7 1196.65
+8	'Artifical-Diamond-Spawnpoint2' 249.87 98.5 1316.29
+9	'Artifical-Diamond-Spawnpoint3' 218.53 39.29 807.28
+10	'Artifical-Diamond-Spawnpoint4' 453.57 77.83 931.2
+11	'Luminescent-Seaweed-Only-whenyoudid-the-meta-spawnpoint-around-here1' -17.23 0.63 613.06
+12	'Luminescent-Seaweed' 199.29 0.4 583.45
+13	'Luminescent-Seaweed-Only-whenyoudid-the-meta-spawnpoint-around-here3' 75.05 -0.45 604.57
+14	'Inquest-Manual-on-Choleric-Elemental-Erngy-buy-from-him' 748.79 60.83 -848.34
+15	'tree' 817.77 2.99 874.75

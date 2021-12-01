@@ -1,0 +1,6 @@
+1	'Simple-Olmakhan-Bandolier-Play-Story-Mission-A-Bug-in-the-System-to_-get-the-item' 117.38 43.2 646.69
+2	'We-carry-her-loss-together-Give-her-the-back' -43.35 6.93 697.73
+3	'We-sing-her-story-Speak-with-him' -581.08 40.2 1135.7
+4	'Laughter-on-the-wind-Speak-with-Marlen' -326.37 2.53 960.29
+5	'The-good-we-do-in-life-Wait-until-ewyn-is-standing-here-then-speak-about-the-child' 7.83 177.91 1189.16
+6	'takeit-to-complet-it' -188.19 63.28 155.21

@@ -1,0 +1,10 @@
+1	'Now-we-go-kill-25-awakened-for-the-achivment-leggo' -694.41 26.69 368.77
+2	'kill-aroundhere' -393.42 33.28 158.87
+3	'kill' -511.02 16.1 58.29
+4	'kill' -461.74 24.05 -8.55
+5	'' -451.38 3.52 -95.76
+6	'' -343.99 29.54 -42.25
+7	'' -374.48 28.84 -6.11
+8	'' -450.93 31.06 7.09
+9	'last-spot-if-not-completed-by-now-kill-some-more' -524.39 17.98 43.52
+10	'now-we-have-the-vial-to-buy-the-stuff-here-do-that-and-craft-the-piece-and-youre-done' -690.53 26.94 381.2

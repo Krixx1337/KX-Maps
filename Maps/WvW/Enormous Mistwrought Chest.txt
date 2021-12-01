@@ -1,0 +1,7 @@
+1	'[Bottom_Half_of_the_Mistwrought_Key]' -846.25 42.968 712.843
+2	'[Top_Half_of_the_Mistwrought_Key]' -884.493 63.8597 649.181
+3	'Mistwrought_Vault' -915.552 36.0871 477.846
+4	'Enormous_Mistwrought_Chest' -926.981 40.9458 453.507
+5	'Open)Vault_Door' -933.849 36.8452 473.15
+6	'Blue_Catmander' -849.007 19.2157 494.109
+7	'WP' -745.256 4.96343 -188.619

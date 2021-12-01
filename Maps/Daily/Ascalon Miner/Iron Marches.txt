@@ -1,0 +1,2 @@
+1	'Platinum_Ebbing_Heart_Run' -1233.4 150.059 310.889
+2	'Platinum_Gladefall_Run' -459.655 145.019 1324.06
