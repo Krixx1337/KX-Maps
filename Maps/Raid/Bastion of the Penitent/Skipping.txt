@@ -1,0 +1,6 @@
+1	'GlennaFirstSpawnPosition' 601.975 130.658 -168.472
+2	'CairnStack-Position' 453.967 41.4865 67.6477
+3	'Mesmer-Portal-Skip1' 227.341 50.7353 56.2975
+4	'Mesmer-END-Portal-for-Skip1' 202.278 119.774 116.229
+5	'Mesmer-Portal-Skip2' 88.14 130.25 212.575
+6	'Mesmer-END-Portal-for-Skip2' -57.6578 118.612 232.794

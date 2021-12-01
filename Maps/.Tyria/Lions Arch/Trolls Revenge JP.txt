@@ -1,0 +1,5 @@
+1	'Troll's_Revenge_Chest_1' -203.554 46.3196 42.0846
+2	'Troll's_Revenge_Chest_2' -403.91 38.9881 90.5282
+3	'Troll's_Revenge_Chest_3' -485.398 48.257 155.799
+4	'Troll's_Revenge_Chest_4' -583.869 97.6133 454.424
+5	'Troll's_Revenge_Chest_5' -594.509 95.4117 340.838

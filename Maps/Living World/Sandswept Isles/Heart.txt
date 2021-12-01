@@ -1,0 +1,4 @@
+1	'The_Hunting_Grounds' -126.699, 99.3883, 1125.62
+2	'Inquest_Eastern_Complex' 663.975 45.3488 120.546
+3	'Atholma_Farms' 16.7978 40.7961 888.535
+4	'Magnetics_Lab' 749.16 60.8358 -848.642

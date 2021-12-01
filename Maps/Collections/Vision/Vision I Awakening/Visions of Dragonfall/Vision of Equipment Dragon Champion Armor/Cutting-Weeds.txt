@@ -1,0 +1,6 @@
+1	'Camp-Port-events' 711.26 169.23 -731.76
+2	'Rescue-Pilot-event' 1003.68 76.3 -375.39
+3	'enemy-event' 1071.1 123.4 60.04
+4	'Wisp-event' 547.32 280.94 -155.36
+5	'Storm-spawn' 487.02 354.76 -762.8
+6	'Stalker-event' 930.9 206.11 -675.51

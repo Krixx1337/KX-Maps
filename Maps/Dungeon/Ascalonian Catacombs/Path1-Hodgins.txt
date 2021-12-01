@@ -1,0 +1,14 @@
+1	'' -345.495 64.956 -266.02
+2	'Killit' -310.616 60.9547 -227.845
+3	'Selectpath-here' -206.43 73.1203 -286.654
+4	'port-here-when-you-have-the-questwindow-open' -120.197 107.571 -31.6026
+5	'Waitfor-quest-start' -101.861 67.0421 124.813
+6	'scepter1' -87.1998 84.7105 205.011
+7	'scepter2' 14.4654 82.02 146.373
+8	'scepter3' 122.947 82.0294 151.311
+9	'scepter4' 185.056 82.0215 172.309
+10	'scepter5' 126.959 82.0208 199.324
+11	'hodginslootplace' -142.417 67.4596 81.3868
+12	'porthereforfinalbossactivate' -52.8689 39.4696 -23.0094
+13	'endboss' -343.129 10.9429 274.587
+14	'enboss-safespot' -423.182 12.06 287.39

@@ -1,0 +1,3 @@
+1	'first-kill-the-machines@lava' 357.965 28.5325 793.249
+2	'secondspot-killthe-oil-mechanism-and-the-gate-beneth' 296.903 37.5662 964.072
+3	'and-now-KILLALL' 248.575 25.3349 1041.77

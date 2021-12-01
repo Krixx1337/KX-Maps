@@ -1,0 +1,16 @@
+0	'StartingNPC_InsideReconCove' 727.401 1.07712 -159.52
+1	'eyesorears_spot01' -476.706 130.899 -329.638
+2	'eyesorears_spot02' -38.603 36.199 -143.165
+3	'eyesorears_spot03' -347.075 68.07 148.681
+4	'eyesorears_spot04' 85.94 56.159 76.218
+5	'eyesorears_spot05' 689.148 102.729 -475.861
+6	'eyesorears_spot06' -19.469 42.832 282.648
+7	'eyesorears_spot07' -477.9 80.034 -152.194
+8	'eyesorears_spot08' -294.134 92.383 -201.453
+9	'eyesorears_spot09' -522.733 57.486 -44.459
+10	'eyesorears_spot10' -411.95 56.225 -216.085
+11	'eyesforears_spot11' -200.733 4.78444 -700.711
+12	'eyesorears_spot12' -449.395 67.7 -586.293
+13	'eyesorears_spot13' -614.15 68.536 -184.481
+14	'eyesorears_spot14' 1035.541 82.637 -158.982
+15	'eyesorears_spot15' 274.846 42.986 37.641

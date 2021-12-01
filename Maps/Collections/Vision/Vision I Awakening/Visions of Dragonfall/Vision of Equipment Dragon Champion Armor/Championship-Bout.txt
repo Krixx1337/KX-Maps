@@ -1,0 +1,13 @@
+1	'Ley-Infused_Branded_Air_Elemental' -180.353 242.795 -833.924
+2	'Ley-Infused_Branded_Devourer_' 598.303 151.378 422.851
+3	'Ley-Infused_Branded_Forgotten_Priest' -1050.396 210.953 -123.93
+4	'Ley-Infused_Branded_Forgotten_Priest' -1121.125 219.226 -48.278
+5	'Ley-Infused_Branded_Hydra_' 392.51 392.758 -53.41
+6	'Ley-Infused_Branded_Ogre_' -472.627 239.193 511.865
+7	'Ley-Infused_Hydra__' -1072.697 294.181 450.904
+8	'Ley-Infused_Shadow_Elemental_' -229.332 266.186 903.995
+9	'Ley-Infused_Nature_Elemental_' 803.84 157.74 94.25
+10	'Ley-Infused_Ghost_Flayer_' -968.23 80.764 -803.283
+11	'Champion_Abyssal__' -731.589 315.107 636.692
+12	'Champion_Nature_Elemental' 1139.891 142.93 185.312
+13	'Arbiter_Of_The_Dead' -1104.122 77.414 -501.696

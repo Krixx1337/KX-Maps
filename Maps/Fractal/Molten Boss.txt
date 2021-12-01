@@ -1,0 +1,5 @@
+1	'new1' -240.093 175.903 -161.556
+2	'shamane-mid-air' -224.047 185 -125.754
+3	'Champion-Molten-Effigy-mid-air-port' -111.654 197.312 -7.9804
+4	'enemy-spawn-point-kill-all' -1.55546 180.089 -100.044
+5	'last-spot-before-boss' 53.3379 184.692 -59.82

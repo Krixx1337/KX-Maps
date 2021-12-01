@@ -1,0 +1,7 @@
+@Bloodmagicball
+At the Poi 19 you have to jump up to get the PoI! Dont forget that. 
+This PoI is a little bit annoying cause of the fact.
+That area is only "open when the event is up",
+so you get ported back to the start when you are to close to
+the play area, so i made this PoI port point a little bit lower.
+so all you need to do here is Jump :)

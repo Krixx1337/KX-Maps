@@ -1,0 +1,8 @@
+1	'Now-starting-with-Visions-of-Sandswept-Isles' -117.95 7.66837 748.426
+2	'Vision-of-Allies:Rox[The-Paper-Report]' -182.269 4.94394 896.763
+3	'Buy-an-Memory-Essence-Encapsulator' -149.967 4.36961 877.568
+4	'wait-down-here-until-the-Event-is-on-for[Vision-of-Enemies:Kuda�s-Subjects]The-Area-is-blocked-you-cant-get-in-only-when-the-event-is-on' -330.833 -18.1899 -187.52
+5	'The-Vision-Vision-of-Equipment-after-youre-done-with-the-achievments-Lasting-Bonds-you-can-buy-it-here' -149.56 4.51 877.51
+6	'port-here-and-get-on-youre-skyscale[you-have-to-do-it-manualy-its-buggy]' -324.905 88.0989 723.359
+7	'Complete-the-event-starting-here-by-Teyrna-to-get-Vision-of-Action' 173.27 1.21 613.39
+8	'Get-on-skyscale-and-use-memory' -170.575 144.212 897.529

@@ -1,0 +1,15 @@
+1	'port-into-suns-refuge-and-talk-to-Laila' -1075.67 79.43 92.34
+2	'talk-with-her-then-leave-instance' -944.7 12.38 -573.29
+3	'A-Brief-History-of-Cantha' -484.86 62.51 -874.92
+4	'How-to-grow-a-Choya' -145.59 105.43 -617.54
+5	'The-Magic-Sand-Lion' 986.13 55.67 -1002.05
+6	'Lets-Hug-Koss' 840.22 40.04 -364.97
+7	'A-Choyas-Friends' 1069.53 150.8 -247.2
+8	'A-Primer-by-Archon-Iberu' 680.8 179.2 508.35
+9	'How-to-Grow-a-Choya' 803.74 166.11 -124.42
+10	'The-Grace-of-Melandru' 876.83 150.15 1023.02
+11	'The-Very-Hungry-Dolyak' 387.82 179.62 968.39
+12	'You-and-your-Springer' 332.39 159.56 631.2
+13	'Star-Chart-Basics' 117.06 210.34 445.21
+14	'Humans-of-Elona' -858.41 60.06 644.94
+15	'The-Terrible-Choya' 603.83 98.46 -74.82

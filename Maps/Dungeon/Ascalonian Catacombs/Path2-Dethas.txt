@@ -1,0 +1,3 @@
+1	'Killit' -316.553 60.9546 -224.249
+2	'questselection-Detha-path' -207.101 73.0644 -285.58
+3	'endboss-area' 137.077 82.023 190.287

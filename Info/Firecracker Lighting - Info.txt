@@ -1,0 +1,14 @@
+@labyhack
+Notes:  - The first saved point leads to the NPG who starts the Adventure.
+	- These are the locations of the 12 Firecracks for complete the Festival Adventure named "Firecracker Lightning" (1).
+	- Do not confuse it with the similar Adventur named Firecracker Lightning 2.
+	- You don't need to press "F" or any key to light those Firecrack, just have to walk near them. 
+	- For some saved Firecracks you have to move a bit.
+	- For those Firecrack that are suspended you just have to walk and fall down.
+	- The last Firecrack it's literally a mortal jump, but the fact that you just need to pass near the Firecrack it's very usefull; just move from the saved point to the 
+	  deep ground of the Central Pavillon.
+          Use Glide if you have, or a Mount, in order to avoid death. Anyway, I placed it at last spot so you can complete the adventure before to die;
+          also placed it a bit away from the real point because of a bug, so just walk till the yellow flag and fall down.
+	- After the 12th saved point there is a 13th point that can avoid to die if pressed fast after lighting the firecracker; it leads to the starting point.
+          
+	  Enjoy! :)

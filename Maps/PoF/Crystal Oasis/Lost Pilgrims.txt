@@ -1,0 +1,6 @@
+1	'Take-Crystal' 689.374 283.567 508.775
+2	'Port-here-to-get-nahtem' 744.094 352.689 461.035
+3	'Take-Crystal' 805.963 223.66 16.482
+4	'port-here-to-get-Hehmnut' 649.528 280.652 204.807
+5	'take-crystal' 983.453 102.484 313.893
+6	'port-here-to-complete' 1131.07 69.3251 348.24
