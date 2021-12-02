@@ -1,0 +1,11 @@
+1	'open' 13.83 271.35 -11.35
+2	'port' 52.11 261.2 -46.88
+3	'do-as-he-says-then-kill-mobs-untill-he-shows-up' 53.66 261.47 -51.47
+4	'attack-King-until-he--runs-away-then-port-next-platform' 57.85 261.25 -27.23
+5	'port' 37.86 256.31 -108.52
+6	'port' 73.93 212.99 -115.51
+7	'next-fight-spot' -2.46 189.39 -69.95
+8	'port-here-when-hes-running-away' 6.56 122.34 -33.1
+9	'BOSS' 23.5 105.03 -56.92
+10	'Chest' 29.8 105.59 -1.6
+11	'Door-to-leave' 19.58 270.86 -18

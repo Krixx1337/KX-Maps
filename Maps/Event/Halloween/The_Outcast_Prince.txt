@@ -1,0 +1,2 @@
+1	'Get_to_labyrinth' -208.91 345.7 211.38
+2	'Port_here_and_talk_to_the_prince__untill_you_get_the_achiev' -202.11 340.01 135.81
