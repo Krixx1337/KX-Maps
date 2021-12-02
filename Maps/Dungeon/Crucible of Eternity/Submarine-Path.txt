@@ -1,0 +1,16 @@
+1	'Talk-with-Agent-Spire' 19.98 142.44 31.74
+2	'kill-mobs-or-try-to-protect-her-because-she-can-run-through-the-mobs-when-you-port-to-the-next-coord-port-back-when-shes-almost-dead-and-heal-her' -16.35 142.28 12.28
+3	'Wait-here-while-escord-event-is-active' -233.51 148.79 -125.19
+4	'Talk-to-her' -252.1 152.62 -126.72
+5	'Select-Submarine' -252.1 152.62 -126.72
+6	'port-here' -242.47 151.81 -260.73
+7	'fast-port' -208.18 148.18 -277.37
+8	'fast-port' -133.54 148.18 -287.96
+9	'fast-port' 40.13 176.63 -130.45
+10	'fast-port-before-first-boss' 131.15 210.66 -35.26
+11	'Boss' 139.6 210.67 -44.75
+12	'port-here-to-activate-the-console' 199.72 217.46 -105.42
+13	'next-port-here' 286.4 223.39 -20.66
+14	'kill-subject-alpha-use-console-to-deal-massive-dmg-one-time-to-him' 259.81 226.75 -6.81
+15	'kill--Bjarl' 294.77 236.03 195.93
+16	'kill-ENDBOSS' 166.37 232.03 162.52
