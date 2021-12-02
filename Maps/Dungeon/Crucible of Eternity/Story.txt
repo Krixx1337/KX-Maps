@@ -1,0 +1,4 @@
+1	'talk-Zojja' 63.21 280.74 33.23
+2	'Complete-Skip-to-Golem-Rush' 14.03 162.73 -203.27
+3	'Âfter-Goilem-Rush-This-is-the-CHest-port-or-port-if-die-later' -220.89 149.03 -132.92
+4	'Next-kill-ENDBOSS' -3.42 142.29 23.89
