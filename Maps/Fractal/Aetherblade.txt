@@ -4,3 +4,9 @@
 4	'thirdconsole' -13.844 12.6164 136.909
 5	'4console' -13.9649 12.6734 130.937
 6	'lastconsole1' -9.05768 32.773 112.042
+7	'Singularity' -13.99 32.8 94.41
+8	'TP-block-go-in-it' -51.31 30.48 96.05
+9	'kill' -74.23 0.14 114.12
+10	'Singularity-Boss' -91.88 0.6 151.92
+11	'use-kiel-to-port-in-or-go-next-port' -99.89 0.29 160.25
+12	'Boss-spawn-before-using-kiel' -98.97 0.74 212.78
