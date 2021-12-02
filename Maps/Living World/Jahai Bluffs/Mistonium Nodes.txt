@@ -45,3 +45,5 @@
 45	'Possible_Mistonium_Node' -1105.91 48.2997 222.558
 46	'Possible_Mistonium_Node' -746.196 119.733 84.3252
 47	'Possible_Mistonium_Node' -542.135 114.87 507.459
+48	'' 673.82 230.38 458.2
+49	'' 1112.7 184.86 1000.65
