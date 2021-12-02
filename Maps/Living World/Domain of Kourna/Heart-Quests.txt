@@ -1,11 +1,11 @@
 1	'Allied_Encampment_Pick_Up_Supply' -894.595 43.7495 135.364
-2	'Allied_Encampment_Drop_off_Supply' -654.537, 28.4215, 484.158
+2	'drop' -652.38 28.43 482.69
 3	'Allied_Encampment_Pick_Up_Supply' -894.595 43.7495 135.364
-4	'Allied_Encampment_Drop_off_Supply' -654.537, 28.4215, 484.158
+4	'drop' -652.38 28.43 482.69
 5	'Allied_Encampment_Pick_Up_Supply' -894.595 43.7495 135.364
-6	'Allied_Encampment_Drop_off_Supply' -654.537, 28.4215, 484.158
+6	'drop' -652.38 28.43 482.69
 7	'Allied_Encampment_Pick_Up_Supply' -894.595 43.7495 135.364
-8	'Allied_Encampment_Drop_off_Supply' -654.537, 28.4215, 484.158
+8	'drop' -652.38 28.43 482.69
 9	'Allied_Encampment_Heart_Vendor' -894.449 42.752 120.92
 10	'Corsair's_Landing_Pick_Up_Supply' -1280.31 1.94261 -493.323
 11	'Corsair's_Landing_Load_Supplies_Into_Cannon' -1191.54 32.4792 -295.394
