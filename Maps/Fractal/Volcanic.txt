@@ -1,10 +1,5 @@
 1	'Mob1' 439.383 99.4996 -908.405
 2	'SkipPart1-setportalhere' 397.645 102.034 -884.173
-3	'SkipPart1-place-here-the-endportal' 283.013 66.8391 -844.707
+3	'Skip-Part1-place-here' 273.95 66.84 -824.88
 4	'SkipPart2-portal-1-here' 243.732 66.8054 -892.386
-5	'SkipPart2-END-Portal-here' 266.773 24.7904 -990.927
-6	'Veteran1' 176.324 59.6762 -913.114
-7	'Veteran2' 93.8509 39.1942 -938.066
-8	'Veteran3' 101.838 40.3666 -970.011
-9	'Veteran4' 156.533 32.6401 -1023.2
-10	'Veteran5' 218.681 26.5522 -988.488
+5	'SkipPart2-END-Portal' 233.86 27.81 -980.38
