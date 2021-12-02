@@ -1,7 +1,10 @@
 1	'first-fire-to-start' -71.5093 17.2261 69.5534
+10	'First-Singularity' -80.46 18.14 16.04
 2	'frozencore1' -85.5261 21.3083 -131.025
 3	'frozencore2' -83.4855 21.4986 -169.57
 4	'frozencore3' -118.536 21.8785 -180.592
 5	'frozencore4' -136.694 21.4578 -147.973
 6	'frozencore5' -116.649 21.2436 -122.036
-7	'ENDBOSS' 224.956 30.0224 -26.7326
+7	'Checkpoint' 165.05 52.05 45.48
+8	'Singularity-before-boss' 221.19 30.23 -26.11
+9	'Boss-Room' 231.66 27.37 -75.95
