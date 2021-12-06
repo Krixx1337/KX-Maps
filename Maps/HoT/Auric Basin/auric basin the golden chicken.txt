@@ -1,0 +1,2 @@
+1	'the_golden_chicken' -108.527 411.261 -6.164
+2	'the_golden_chicken' -202.549 271.346 -0.055
