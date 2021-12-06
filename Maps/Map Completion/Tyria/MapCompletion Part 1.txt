@@ -89,12 +89,12 @@
 89	'MetricaProvince-HP7' 197.623 5.39193 -779.653
 90	'MetricaProvince-HP8' -693.996 26.9457 -421.307
 91	'MetricaProvince-Kill_Haywire_Golem_aroundhere' -342.437 35.7081 -874.494
-92	'MetricaProvince-activategolem_jusing_always_option1' -325.885 34.4029 -898.733
+92	'MetricaProvince-activategolem_using_always_option1' -325.885 34.4029 -898.733
 93	'MetricaProvince-KillGolem_around_here' -329.37 38.5664 -941.828
 94	'MetricaProvince-activategolem' -358.19 42.505 -927.24
 95	'MetricaProvince-activategolem' -294.506 34.6784 -915.957
 96	'MetricaProvince-Kill_Golem_around_here' -281.493 35.4825 -947.854
-97	'MetricaProvince-activategolemn' -261.034 35.2504 -948.144
+97	'MetricaProvince-activategolem' -261.034 35.2504 -948.144
 98	'MetricaProvince-activategolem' -262.998 34.9734 -994.52
 99	'MetricaProvince-activategolem' -274.376 36.0508 -1056.64
 100	'MetricaProvince-activategolemagain' -264.391 35.1978 -996.183
@@ -367,7 +367,7 @@
 367	'CaledonForest-Kill_Cell' 604.857 -35.1072 1261.02
 368	'CaledonForest-Slave_Remains' 596.668 -39.8574 1267.84
 369	'CaledonForest-Slave_Remains' 609.694 -120.323 1209.28
-370	'CaledonForest-Slave_Remains_Ifnot_completedyet_kill_more_Krait' 649.846 -41.2861 1215.15
+370	'CaledonForest-Slave_Remains_Ifnot_completed_yet_kill_more_Krait' 649.846 -41.2861 1215.15
 371	'CaledonForest-Thorns' -524.432 -0.123645 1109.28
 372	'CaledonForest-Plant' -535.924 0.866293 1109.04
 373	'CaledonForest-Plant' -544.034 1.04641 1066.08
@@ -501,8 +501,8 @@
 501	'CaledonForest-Hole' 602.053 0.8320 -860.375
 502	'CaledonForest-Hole_Heart_completed' 561.22 0.12002 -841.81
 503	'CaledonForest-Talk_to_NPC_to_get_in_the_area' 593.15 1.53369 -579.969
-504	'CaledonForest-2ThornBarriers' 636.591 0.153061 -532.657
-505	'CaledonForest-Talktobothpuppies_andlovethem' 634.341 0.14265
+504	'CaledonForest2-Thorn-Barriers' 636.44 0.14 -532.5
+505	'Talk-to-both-puppys' 635.97 0.14 -527.18
 506	'CaledonForest-2Thornbarriers' 656.371 0.777852 -518.394
 507	'CaledonForest-benicetodoggies' 652.055 0.394954 -513.875
 508	'CaledonForest-2Barriers' 686.892 0.0256696 -542.313
