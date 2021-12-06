@@ -1,0 +1,10 @@
+1	'TreeTop_Retriever' -485.383 606.477 921.717
+2	'TreeTop_Retriever' -351.357 609.973 732.208
+3	'TreeTop_Retriever' -515.47 581.394 609.459
+4	'TreeTop_Retriever' -313.445 559.812 643.84
+5	'TreeTop_Retriever' -534.53 575.476 716.886
+6	'TreeTop_Retriever' -223.047 528.69 723.459
+7	'TreeTop_Retriever' -338.845 565.159 695.649
+8	'TreeTop_Retriever' -384.317 521.829 713.574
+9	'TreeTop_Retriever' -275.491 542.884 892.089
+10	'TreeTop_Retriever' -389.001 582.61 588.187
