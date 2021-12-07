@@ -1,0 +1,4 @@
+DesertHighlands	'sand_pile' 3.053 251.991 10.486
+DesertHighlands	'sand_pile' 522.742 167.228 -577.261
+DesertHighlands	'sand_pile' 715.539 158.513 -511.325
+DesertHighlands	'sand_pile' 759.93 171.914 -378.504
