@@ -1,0 +1,16 @@
+1	'JunglePlant1BloodstoneFen' -284.754 855.778 188.085
+2	'JunglePlant2BloodstoneFen' -328.421 866.644 164.166
+3	'JunglePlant3Bloodstonefen' -299.724 852.226 145.756
+4	'Jungleplant4BloodstoneFen' -43.5043 827.036 174.188
+5	'Jungleplant5BloodstoneFen' 215.736 937.921 -26.7644
+6	'Jungleplant6BloodstoneFen' 194.641 855.343 -133.39
+7	'Jungleplant7Bloodstonefen' -50.6711 866.719 -110.496
+8	'Jungleplant8Bloodstonefen' -62.5267 852.004 -105.384
+9	'Jungleplant9Bloodstonefen' -100.645 671.269 150.481
+10	'Jungleplant10Bloodstonefen' -220.256 656.908 151.231
+11	'Jungleplant11Bloodstonefen' -193.147 652.518 -16.5481
+12	'Jungleplant12Bloodstonefen' -114.78 657.537 -58.9393
+13	'JunglePlant13Bloodstonefen' -310.77 632.521 -5.34884
+14	'Jungleplant14Bloodstonefen' -219.868 657.165 152.558
+15	'JunglePlant15BloodstoneFen' -99.391 671.292 150.462
+16	'JunglePlant16Bloodstonefen' -310.243 632.712 -5.8516
