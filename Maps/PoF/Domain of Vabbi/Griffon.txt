@@ -1,0 +1,61 @@
+1	'Vabbi Remains of the Last Spearmarshal' 1759.73 189.964 -820.513
+2	'Crystal Oasis Abandoned Griffon Egg 1' 915.735 196.558 -610.586
+3	'Crystal Oasis Abandoned Griffon Egg 2' 208.712 209.93 767.913
+4	'Crystal Oasis Abandoned Griffon Egg 3' 1519.85 392.767 560.695
+5	'Crystal Oasis Abandoned Griffon Egg 4' 685.729 212.331 423.68
+6	'Crystal Oasis Abandoned Griffon Egg 5' 691.38 342.719 466.566
+7	'Crystal Oasis Icon of the Goddess' 873.936 152.712 138.82
+8	'Crystal Oasis Sunspear Tithe' -435.476 10.5713 -423.64
+9	'Crystal Oasis Legndary Facet Bounty' 1306.07 24.2783 -290.946
+10	'Crystal Oasis Legndary Facet Mob' 1450.03 229.136 489.125
+11	'Desert Highlands Abandoned Griffon Egg 1' 162.219 308.624 -442.476
+12	'Desert Highlands Abandoned Griffon Egg 2' -1221.31 288.391 -430.877
+13	'Desert Highlands Abandoned Griffon Egg 3' 43.8283 413.303 265.204
+14	'Desert Highlands Abandoned Griffon Egg 4' -737.682 418.307 153.59
+15	'Desert Highlands Abandoned Griffon Egg 5' -226.727 359.424 -157.435
+16	'Desert Highlands Enormous Supply of Bird Feed' 612.711 239.245 282.843
+17	'Desert Highlands Survival Supplies' 667.278 182.294 -760.901
+18	'Desert Highlands Second Spear Nayrim' -476.078 114.82 -346.269
+19	'Elon Riverlands Abandoned Griffon Egg 1' -475.445 114.975 -346.398
+20	'Elon Riverlands Abandoned Griffon Egg 2' 404.451 105.503 -147.672
+21	'Elon Riverlands Abandoned Griffon Egg 3' -43.8779 154.499 63.679
+22	'Elon Riverlands Relic Preservation Materials' 590.715 125.607 1121.17
+23	'Elon Riverlands Map to the Outpost' 472.709 55.3825 189.177
+24	'Elon Riverlands Champion Unbound Djinn' -1263.99 19.8274 -763.086
+25	'Elon Riverlands Warden Jabari' 628.967 9.84445 -923.138
+26	'Elon Riverlands Master Sergeant Shadi' -1027.54 122.12 1096.15
+27	'Elon Riverlands Veteran Water Djinn' -971.467 133.744 1227.34
+28	'Elon Riverlands Shadi's Helm' 1275.22 71.5565 905.737
+29	'Elon Riverlands Shadi's Gloves' -729.926 32.8285 -421.871
+30	'Elon Riverlands Veteran Chikkchak' -1212.33 51.9344 343.842
+31	'Elon Riverlands Shadi's Armor' -423.002 6.07049 216.706
+32	'Elon Riverlands Master Sergeant Shadi' -1026.12 122.163 1095.91
+33	'The Desolation Abandoned Griffon Egg 1' 280.317 516.808 -96.2193
+34	'The Desolation Abandoned Griffon Egg 2' -159.29 400.064 179.623
+35	'The Desolation Abandoned Griffon Egg 3' 405.445 481.212 222.209
+36	'The Desolation Abandoned Griffon Egg 4' 5.87762 427.707 570.984
+37	'The Desolation Redeemer Kossan' -518.356 350.171 66.4492
+38	'The Desolation Virzuk Rune of Compassion' -825.891 384.644 450.836
+39	'The Desolation Ancient Sunspear Flags' 1104.1 311.493 -243.8
+40	'The Desolation Prayer Lights' 253.313 9.13033 1635.53
+41	'Vabbi Abandoned Griffon Egg 1' 1217.19 245.761 -676.054
+42	'Vabbi Abandoned Griffon Egg 2' 1621.72 258.667 -157.638
+43	'Vabbi Abandoned Griffon Egg 3' 1252.65 163.45 -993.127
+44	'Vabbi Abandoned Griffon Egg 4' 1583.7 346.476 -637.261
+45	'Vabbi Abandoned Griffon Egg 5' 1735.75 338.575 -990.927
+46	'Vabbi First Spear Kitur' 486.227 99.3533 -652.084
+47	'Vabbi Stone-Carving Tools' -1497.3 77.2116 116.227
+48	'Vabbi Guard Bribe' 258.308 81.2544 -846.718
+49	'Vabbi Remains of the Last Spearmarshal' 1759.73 189.964 -820.513
+50	'Desert Highlands Tomb of the Primeval Kings' 1791.62 201.325 717.414
+51	'Instance Cache of Sunspear Wisdom 1' 839.156 4.43986 -101.222
+52	'Instance Cache of Sunspear Wisdom 2' 986.455 3.40302 448.9
+53	'Instance Cache of Sunspear Wisdom 3' 873.366 20.1374 415.223
+54	'Instance Cache of Sunspear Wisdom 4' 546.793 16.7475 408.07
+55	'Instance Cache of Sunspear Wisdom 5' 523.972 3.64118 248.255
+56	'Instance Cache of Sunspear Wisdom 6' 561.488 3.2322 -4.56166
+57	'Instance Cache of Sunspear Wisdom 7' 831.793 158.991 195.044
+58	'Instance Cache of Sunspear Wisdom 8' 918.845 173.638 252.677
+59	'Instance Cache of Sunspear Wisdom 9' 691.122 174.357 298.04
+60	'Instance Cache of Sunspear Wisdom 10' 513.055 181.793 239.419
+61	'Vabbi Remains of the Last Spearmarshal' 1789.73 188.81 -820.046
