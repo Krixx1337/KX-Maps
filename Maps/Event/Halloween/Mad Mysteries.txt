@@ -1,0 +1,7 @@
+1	'Talk_to_Magister_Tassi' -104.434 29.4051 191.695
+2	'Use_skill_3_and_talk_to_Serene' -116.474 29.373 171.4
+3	'Use_skill_1_and_talk_to_Samson' 479.832 1.31329 -5.00168
+4	'Use_skill_3_and_talk_to_Tynna/Next_go_to_Queensdale' -444.149 -70.8616 -104.143
+5	'Use_skill_2_and_talk_to_Prince_Ewan_Thorn/Next_go_to_Kessex_Hills' -172.4 69.6738 764.417
+6	'Use_skill_4_and_talk_to_Lady_Lyrica/Next_go_to_Gendarran_Fields' 1271.74 19.373 624.021
+7	'Use_skill_2_and_talk_to_Lord_Humphrey_Faren/Mad_Mysteries_is_completed' 65.4957 -0.31422 685.734
