@@ -1,0 +1,10 @@
+0	'DesertHighlandsTamarisk' 54.0242 413.882 308.352
+1	'HighlandstoCrystal' 671 199.4 -900
+0	'CrystalOasisGranite' 627.044 347.284 557.151
+2	'CrystalToElon' 1280 26 -715
+0	'ElonRiverlandsLily' 1253.97 21.1377 174.042
+3	'ElonToDesolation' 47.5 1 -1231
+0	'DesolationSafespot' -1096.08 298.569 709.198
+0	'chest' -1091.48 229.458 681.336
+4	'DesolationToVabbi' 1312 335 -1442
+0	'DomainofVabbiGrapes' 712.758 102.768 -1011.26
