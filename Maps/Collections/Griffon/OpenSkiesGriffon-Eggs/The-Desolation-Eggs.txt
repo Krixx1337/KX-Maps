@@ -1,0 +1,4 @@
+1	'Warmed-Canyon-Griffon-Egg' 279.81 516.83 -95.7
+2	'Dark-Canyon-Griffon-Egg' 405.33 481.24 222.25
+3	'Pale-Canyon-Griffon-Egg' 7.27 428.2 569.97
+4	'Mottled-Canyon-Griffon-Egg' -158.77 400.13 179.47
