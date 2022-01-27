@@ -1,11 +1,11 @@
-1	'Tangled Depths Tiger Den1' 995.254 348.771 -241.568
-2	'Tangled Depths Tiger Den2' 294.443 163.22 80.008
-3	'Caledon Forest Tiger Den' 400.372 59.8589 -648.262
-4	'Southsun Cove Tiger Den' -633.936 39.0333 394.947
-5	'Sparkfly Fen Tiger Den' -674.502 99.1775 507.122
-6	'Lornar's Pass Tiger Den' -141.204 143.358 -1750.6
-7	'Diessa Plateau Tiger Den' 600.165 90.926 -473.19
-8	'Fields of Ruin Tiger Den' 871.728 52.981 910.213
-9	'Plains of Ashford Tiger Den' 1040.54 42.9536 -625.028
-10	'Verdant Brink Tiger Den' 359.372 577.618 388.069
-11	'Dragon's Stand Tiger Den' 238.981 105.839 911.317
+1	'TangledDepthsTigerDen1' 995.254 348.771 -241.568
+2	'TangledDepthsTigerDen2' 294.443 163.22 80.008
+3	'CaledonForestTigerDen' 400.372 59.8589 -648.262
+4	'SouthsunCoveTigerDen' -633.936 39.0333 394.947
+5	'SparkflyFenTigerDen' -674.502 99.1775 507.122
+6	'LornarsPassTigerDen' -141.204 143.358 -1750.6
+7	'DiessaPlateauTigerDen' 600.165 90.926 -473.19
+8	'FieldsofRuinTigerDen' 871.728 52.981 910.213
+9	'PlainsofAshfordTigerDen' 1040.54 42.9536 -625.028
+10	'VerdantBrinkTigerDen' 359.372 577.618 388.069
+11	'DragonsStandTigerDen' 238.981 105.839 911.317
