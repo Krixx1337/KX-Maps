@@ -1,0 +1,5 @@
+1	'Warmed-Mountain-Griffon-Egg' -226 359.54 -158.13
+2	'Crusty-Mountain-Griffon-Egg' 161.96 308.76 -442.55
+3	'Rough-Mountain-Griffon-Egg' -736.53 418.59 153.43
+4	'Vibrant-Mountain-Griffon-Egg' 45.16 413.63 264.99
+5	'Damp-Mountain-Griffon-Egg' -1221.9 288.24 -431.39
