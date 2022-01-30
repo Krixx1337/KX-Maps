@@ -1,0 +1,4 @@
+1	'Sanctum_of_Nabkha_(Safespot_above)' 913.78 296.87 -722.46
+2	'Sanctum_of_Nabkha_Chest1' 930.21 236.64 -666.43
+3	'Sanctum_of_Nabkha_Chest2' 933.81 236.69 -678.62
+4	'Sanctum_of_Nabkha_Chest3' 930.33 236.67 -695.14
