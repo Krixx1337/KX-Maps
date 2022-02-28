@@ -1,0 +1,15 @@
+1	'Seitung_Prison' -109.09 65.47 -492.41
+2	'Fishing_Village' -232.5 25.78 -357.49
+3	'Harbor_market' -83.61 16.6 -176.65
+4	'Town_Outskirts' -220.09 74.25 -79.04
+5	'Bell_Passage' -395.85 115.87 -57.69
+6	'Aurene´s_Enclave' -540.18 14.04 -767.46
+7	'Painter´s_Platform' -640.86 59.83 -555
+8	'Obstacle_Course' -821.41 65.64 -508.54
+9	'Imperial_Overlook' -556.85 121.85 -185.78
+10	'Monastery_Temple' -1088.06 167.18 -56.14
+11	'Secured_Gate' -1236.26 120.54 -44.67
+12	'Royal_Court' -1258.44 120.68 -224.37
+13	'Combat_Arena' -803.36 57.24 -611.1
+14	'Dreary_Caves' -997.38 63.81 -643.88
+15	'Aetherblade_Flagship_Wreckage' -1144.43 24.89 -540.8
