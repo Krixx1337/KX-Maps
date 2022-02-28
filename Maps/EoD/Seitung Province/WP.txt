@@ -1,0 +1,2 @@
+1	'Village_Waypoint' -97.68 17.62 -226.15
+2	'Monastery_Waypoint' -1053.68 142.63 -144.23
