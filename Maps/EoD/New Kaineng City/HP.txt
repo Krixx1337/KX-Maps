@@ -1,0 +1,9 @@
+1	'Jade_Monument' -687.24 194.38 0.28
+2	'Ministry_of_Archives' -588.54 331.88 -561.92
+3	'Engineer_Hu' -672.53 147.83 230.46
+4	'Veteran_Purist_Necromancer' 1282.22 14.83 -1
+5	'New_Kaineng_City_Limits' 1015.18 67.86 -756.82
+6	'Old_Kaineng_Ruins' 1082.77 268.82 596.05
+7	'Lab_District_Terrace' 558.88 134.73 468.27
+8	'Garden_Scaffolding' 286.58 14.83 424.64
+9	'Sotdae_Landing_Lookout' -1049.92 171.12 -918.36
