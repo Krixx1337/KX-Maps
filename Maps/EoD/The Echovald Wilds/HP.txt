@@ -1,0 +1,7 @@
+1	'Gravestone_of_Lord_Archek' -428.43 241.93 826.28
+2	'House_zu_Heltzer' -838.37 233.62 29.99
+3	'Xunlai_Jade_Junkyard_Overlook' -121.07 247.72 -66.71
+4	'for_next_HP_get_disguise' -1073.73 219.65 -538.75
+5	'Speaker_Headquarters' -1080.65 273.21 -594.6
+6	'Submerged_Cathedral' 178.89 1.1 -852.83
+7	'Village_Overlook' 1272.5 122.71 -813.21
