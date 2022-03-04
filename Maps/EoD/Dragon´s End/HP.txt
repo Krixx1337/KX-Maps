@@ -1,0 +1,6 @@
+1	'Roaring_Waterfall' 186.16 221.08 1154.84
+2	'Quarry_Overlook' -140.94 299.91 1205.74
+3	'Quarry_Platform' 219.05 66.39 423.16
+4	'Harvest_Complex_Pavillion' 135.47 217.98 -321.27
+5	'Harvest_Temple_Main_Entrance' -13.07 302.55 -389.16
+6	'Hatchery_Play_Pond' 585.1 198.1 -136.12
