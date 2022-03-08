@@ -50,3 +50,7 @@
 50	'ElonianRiverlandsCheetah' 1290.63 -0.95124 -177.048
 51	'CrystalOasis_SandLion' -337.619 65.0713 472.248
 52	'DomainofVabbi_Jacaranda' -1535.91 291.359 -594.709
+53	'SeitungProvince_WhiteTiger' -1177.74 174.38 735.59
+54	'Dragon´sEND-SiegeTurtle' 547.7 195.25 -223.72
+55	'TheEchovaldWilds-Wallow' 1334.62 28.98 94.19
+56	'NewKainengCity-Phoenix' -860.71 321.93 -199.75
