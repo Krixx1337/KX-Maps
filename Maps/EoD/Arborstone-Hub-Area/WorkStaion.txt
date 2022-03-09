@@ -1,0 +1,9 @@
+1	'Huntsman' -925.38 116.71 795
+2	'Leatherworking' -925.8 116.74 808.33
+3	'Armorsmithing' -956.19 116.73 842.93
+4	'Weaponsmithing' -969.71 116.67 844.53
+5	'Artificing' -1004.97 116.67 813.14
+6	'Tailoring' -992.19 116.72 792.21
+7	'JadeBot_Workbench' -957.89 116.67 807.29
+8	'Cooking' -1106.25 116.76 540.37
+9	'Jeweling' -1068.84 116.8 500.49
