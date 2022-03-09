@@ -1,0 +1,4 @@
+1	'Club_Rewards_Merchant' -861.43 12.49 873.32
+2	'Daxx_Merchant' -842.44 12.84 864.66
+3	'Winn_Schwartzmeier_Merchant' -832.32 12.86 854.12
+4	'Just_a_chiar' -800.86 4.64 882.8
