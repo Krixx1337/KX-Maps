@@ -9,4 +9,4 @@
 9	'DE-Marjory_only_apper_when_Meta_success_(15-Mins)' -239.75 174.07 727.88
 10	'DE-Marjory_only_apper_when_Meta_success_(15-Mins)' 23.33 234.28 -380.33
 11	'DE-Marjory_only_apper_when_Meta_success_(15-Mins)' 508.67 199.41 -117.78
-12	'DE-Marjory_only_apper_when_Meta_success_(15-Mins)' 572.43 226.22 -1009.97
+12	'DE-Marjory_only_apper_when_Meta_success_(Note:will_left_DE_map)' 572.43 226.22 -1009.97
