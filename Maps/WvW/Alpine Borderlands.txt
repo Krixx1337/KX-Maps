@@ -8,7 +8,7 @@
 8	'Ascension_Bay' -818.06 16.3751 -229.426
 9	'Redvale_Refuge' -630.096 37.1434 -600.798
 10	'Edbriar' -299.567 77.0816 -500.887
-11	'Champions Demesne' -6.15366 10.0414 -1060.33
+11	'Champions_Demesne' -6.15366 10.0414 -1060.33
 12	'Greenlake' 378.502 47.6159 -572.396
 13	'Greenwater_Lowlands' 672.314 4.9066 -658.95
 14	'Askalion_Hills' 904.9 109.278 -164.781
