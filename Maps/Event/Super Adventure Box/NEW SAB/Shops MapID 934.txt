@@ -1,0 +1,13 @@
+1	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -432.143 256.426 -491.037
+2	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -141.566 259.665 -371.44
+3	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -158.51 294.51 -479.786
+4	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -275.929 288.442 -334.732
+5	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' 578.991 316.724 -246.835
+6	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' 472.584 308.279 -265.478
+7	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' 420.523 352.957 -63.052
+8	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' 593.522 342.932 -102.181
+9	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -5.318 99.607 75.916
+10	'type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_hiddenrooms.tw_sab_normal_hiddenrooms_hiddenroom' -5.318 99.607 75.916
+11	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -23.395 85.97 148.466
+12	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -509.333 443.413 580.378
+13	'type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop' -516.638 443.413 574.797
