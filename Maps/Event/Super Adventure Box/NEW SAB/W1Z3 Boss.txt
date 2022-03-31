@@ -1,0 +1,4 @@
+1	'W1Z3_Last_Checkpoint' -331.526 49.2313 443.198
+2	'W1Z3_Last_Boss_Anchor' -326.002 48.3508 429.051
+3	'W1Z3_Last_Boss_Safety_Rock' -311.822 30.8423 422.695
+4	'W1Z3_Last_Boss_Middle_Lily' -297.277 30.3961 408.487
