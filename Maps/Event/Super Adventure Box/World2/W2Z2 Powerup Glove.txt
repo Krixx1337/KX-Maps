@@ -1,0 +1,2 @@
+1	'glove_safe_area_before_fight' 409.63 343.42 -243.05
+2	'glove_fight' 365.52 329.55 -251.28
