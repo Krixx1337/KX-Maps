@@ -1,0 +1,11 @@
+1	'Normal_Teleport' 1335.73 110.26 647.63
+2	'By_Problems_entering_Garden_use_this_In_the_Air_port_you_will_fall_in_water_' 1381.94 270.75 451.05
+3	'Primordial_Orchid_Spot' 1217.25 10.7 656.37
+4	'Cluster_of_Light' 1285.77 129.01 609.81
+5	'Cluster_of_Waves' 1380.23 53.84 410.99
+6	'Cluster_of_Earth' 1318.08 23.94 620.55
+7	'Cluster_of_Winds' 1318 140.09 844.84
+8	'Sylvan_Chest' 1299.08 78.17 625.92
+9	'Diving_Goggles' 1276.47 126.91 612.31
+10	'Hidden_Garden' 1227.72 10.17 667.31
+11	'Freshwater_Fish_Spot' 1362.62 -1.36 460.17
