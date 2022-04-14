@@ -1,0 +1,3 @@
+1	'TimberlineFalls-to-LornarsPass' -683.48 55.79 1176
+2	'TimberlineFalls-to-Dredgehaunt' 390.88 89.41 1199.01
+3	'TimberlineFalls-to-MountMaelstrom' -423.23 12.73 -1038.78

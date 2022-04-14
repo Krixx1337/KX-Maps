@@ -1,0 +1,4 @@
+1	'Wayfarer-to-Snowden' -465.48 145.97 1327.73
+2	'Wayfarer-to-Frostgorge' 345.33 263.51 1586.05
+3	'Wayfarer-to-Diessa' 528.22 154.63 1202.36
+4	'Wayfarer-to-Hoelbrak' -383.26 154.58 -695.09

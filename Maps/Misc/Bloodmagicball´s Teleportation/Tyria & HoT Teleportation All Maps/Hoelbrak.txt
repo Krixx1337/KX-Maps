@@ -1,0 +1,4 @@
+1	'Hoelbrak-to-Wayfarer' 618.6 384.61 -235.49
+2	'Hoelbrak-to-Dredgehaunt' 360.25 409.76 -387.68
+3	'Hoelbrak-to-LionsArch' -82.89 389.44 -48.95
+

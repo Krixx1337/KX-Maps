@@ -1,0 +1,2 @@
+1	'Auric-to-Verdant' -558.94 614.76 988.49
+2	'Auric-to-TangledDepths' 642.45 268.82 -944.88

@@ -1,0 +1,2 @@
+1	'VerdantBrink-to-Silverwaste' 1188.35 512.99 80.95
+2	'Verdant-to-Auric' -972.76 466.83 -528.59

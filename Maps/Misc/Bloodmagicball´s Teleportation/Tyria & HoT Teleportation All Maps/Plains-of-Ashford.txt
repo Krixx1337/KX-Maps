@@ -1,0 +1,3 @@
+1	'PlainsofAshford-to-IronMarches' 807.33 47.92 713.62
+2	'PlainsofAshford-to-BlackCitadel' -1400.3 81.9 132.03
+3	'PlainsofAshford-to-Diessa' -315.02 80.77 698.28
