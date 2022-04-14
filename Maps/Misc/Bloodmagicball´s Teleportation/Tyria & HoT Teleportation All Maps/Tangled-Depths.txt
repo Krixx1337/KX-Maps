@@ -1,0 +1,2 @@
+1	'Tangled-to-Auric' -984.54 320.93 200.92
+2	'Tangled-to-Dragonstand' -993.08 5.39 -718.79

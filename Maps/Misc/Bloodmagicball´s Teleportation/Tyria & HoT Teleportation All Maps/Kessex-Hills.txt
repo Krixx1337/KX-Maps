@@ -1,0 +1,4 @@
+1	'Kessex-to-Queensdale' -819.17 101.33 695.16
+2	'Kessex-to-Brisban' -1429.32 93.51 379.51
+3	'Kessex-to-Gendarran' 1472.52 25.96 654.2
+4	'Kessex-to-Caledon' -224.96 59.02 -695.48

@@ -1,0 +1,4 @@
+1	'Caledon-to-Kessex' 615.74 21.18 1496.42
+2	'Caledon-to-Grove' -235.71 26.78 -1394.08
+3	'Caledon-to-Metrica' -604.63 53.35 384.69
+4	'Caledon-to-Brisban' -595.64 12.32 1395.55

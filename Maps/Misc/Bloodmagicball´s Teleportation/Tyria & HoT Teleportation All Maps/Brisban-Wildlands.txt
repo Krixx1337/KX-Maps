@@ -1,0 +1,5 @@
+1	'Brisban-to-Kessex' 1249.95 82.18 920.27
+2	'Brisban-to-Metrica' 346.71 99.21 -867.99
+3	'Brisban-to-Caledon' 1274.03 45.82 -373.49
+4	'Brisban-to-Silverwaste' -1186.25 54.7 200.53
+5	'Brisban-to-DryTop' -1133.32 58.41 -926.17

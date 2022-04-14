@@ -1,0 +1,11 @@
+1	'LionsArch-to-RataSum' 123.93 48.34 256.75
+2	'LionsArch-to-Gendarran' -198.13 40.56 543.7
+3	'LionsArch-to-Aerodrome' 157.39 44.99 -412.73
+4	'LionsArch-Fractal-Entrance' 180.78 38.76 -295.94
+5	'LionsArch-to-BloodtideCoast' 331.83 39.08 -494.46
+6	'LionsArch-to-LornarsPass' 802.16 32.42 57.07
+7	'LionsArch-to-Divinity' 158.54 48.33 329.34
+8	'LionsArch-to-SouthsunCove' 198.74 48.33 331.55
+9	'LionsArch-to-Hoelbrak' 222.1 48.34 305.21
+10	'LionsArch-to-BlackCitadel' 210.65 48.39 228.43
+11	'LionsArch-to-TheGrove' 177.58 48.39 215.3

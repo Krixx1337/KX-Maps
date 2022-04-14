@@ -1,0 +1,3 @@
+1	'Frostgorge-to-Wayfarer' 594.53 63.76 -1078.59
+2	'Frostgorge-to-Bitterfrost' -701.44 11.56 1112.58
+3	'Frostgorge-to-Fireheart' 1073.86 15.24 09.64

@@ -1,0 +1,2 @@
+1	'Fireheart-to-Frostgorge' -1109.67 109.26 85.66
+2	'Fireheart-to-IronMarches' 1188.56 9.92 -665.32

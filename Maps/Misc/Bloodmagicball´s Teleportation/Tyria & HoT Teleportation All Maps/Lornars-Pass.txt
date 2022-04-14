@@ -1,0 +1,6 @@
+1	'LornarsPass-to-LionsArch' -580.02 161.44 470.86
+2	'LornarsPass-to-Gendarran' -599.7 50.94 1609.5
+3	'LornarsPass-to-Dredgehaunt' 586.33 156.22 -633.2
+4	'LornarsPass-SnowdenDrift' 409.33 198.94 1759.93
+5	'LornarsPass-to-Bloodtide' -583.78 63.2 -193.61
+6	'LornarsPass-to-TimberlineFalls' 354.29 90.37 -1743.24

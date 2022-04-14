@@ -1,0 +1,6 @@
+1	'Gendarran-to-Queensdale' -1469.7 7.56 476.25
+2	'Gendarran-to-Harathi' -859.66 69.24 734.63
+3	'Gendarran-to-Kessex' -1442.99 11.12 -607.13
+4	'Gendarran-to-LionsArch' 294.58 5.65 -679.26
+5	'Gendarran-to-LornarsPass' 1502.13 107.3 -242.31
+6	'Gendarran-to-Snowden' 1543.03 101.92 425.59
