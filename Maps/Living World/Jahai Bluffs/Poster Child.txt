@@ -4,7 +4,7 @@
 4	'Jahai_Bluff_4' 940.3 53.95 -971.87
 5	'Jahai_Bluff_5' -766.27 58.77 675.52
 6	'Go_to_Crystal_Oasis' 0 0 0
-8	'Crystal_Oasis - 6' -1040.77 10.76 -184.12
+8	'Crystal_Oasis_6' -1040.77 10.76 -184.12
 9	'Go_to_Desert_Highlands' 0 0 0
 10	'Desert_Highlands_7' 621.28 180.84 -769.29
 11	'Go_to_Elon_Riverlands' 0 0 0
