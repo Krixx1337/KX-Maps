@@ -149,7 +149,7 @@
 149	'imperialsulfurworks' -821.883 121.459 852.702
 150	'bonecagepaddock' -497.974 81.7041 1162.08
 151	'scourgethreshold' -82.2106 339.977 835.928
-152	'chukehtoverlook' 130.685 353.937 648.043
+152	'chukehtoverlook' 132.74 334.11 639.37
 153	'clanmarshalpergola' 326.834 196.357 1184.94
 154	'sandfallsanctum' 462.145 205.974 1063.79
 155	'Sandfallsanctum-air_port' 429.39 629.07 1078.99
@@ -170,7 +170,7 @@
 170	'easternmaw' -622.064 278.936 -556.098
 171	'northernmaw' -737.489 274.023 -448.463
 172	'westernmaw' -817.609 277.896 -460.382
-173	'themouthoftorment' -740.343 224.058 -568.753
+173	'themouthoftorment' -731.63 224.06 -569.78
 174	'bleachedpillars' -1067.13 389.766 -1060.49
 175	'thevermitheater' -1001.73 279.342 -1456.14
 176	'djiinnenclave' -427.31 467.829 -1398.26
