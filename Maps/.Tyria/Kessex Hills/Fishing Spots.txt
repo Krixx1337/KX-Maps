@@ -1,0 +1,16 @@
+1	'Coastal_Fish' 1424.04 -1.3 -472.33
+2	'Polluted_Lake_Fish' 180.48 -1.3 -463.15
+3	'Polluted_Lake_Fish' 98.32 -1.3 -459.48
+4	'Polluted_Lake_Fish' 20.09 -1.38 -249.87
+5	'Polluted_Lake_Fish' 35.94 -1.38 -182.35
+6	'Polluted_Lake_Fish' 198.9 -1.3 -341.06
+7	'Polluted_Lake_Fish' -283.49 -1.3 27.52
+8	'Polluted_Lake_Fish' -565.82 -1.3 -68.65
+9	'Polluted_Lake_Fish' -656.17 -1.28 -147.43
+10	'Polluted_Lake_Fish' -796.29 -1.29 -76.33
+11	'Polluted_Lake_Fish' -732.13 -1.3 225.44
+12	'Polluted_Lake_Fish' -568.34 -1.29 100.75
+13	'Polluted_Lake_Fish' -449.37 -1.29 -159.24
+14	'Polluted_Lake_Fish' -872.87 -1.41 -622.76
+15	'Polluted_Lake_Fish' -611.02 -1.35 -402.75
+16	'Polluted_Lake_Fish' -445.75 -1.29 -459.47
