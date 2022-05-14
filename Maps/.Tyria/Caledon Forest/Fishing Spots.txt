@@ -1,0 +1,13 @@
+1	'Saltwater_Fish' 566.48 -1.39 1076.09
+2	'Saltwater_Fish' 621.22 -1.3 991.81
+3	'Saltwater_Fish' 547.02 -1.3 818.13
+4	'Saltwater Fish' 670.26 -1.32 1029.97
+5	'Saltwater_Fish' 422.79 -1.29 673.96
+6	'Saltwater_Fish' 556.48 -1.3 256.24
+7	'Saltwater_Fish' 605.9 -1.36 172.34
+8	'Saltwater_Fish' 385.44 -1.3 -47.38
+9	'Saltwater_Fish' 318.09 -1.4 -96.72
+10	'Saltwater_Fish' 263.95 -1.29 -142.93
+11	'Saltwater_Fish' -96.83 -1.29 -99.25
+12	'Saltwater_Fish' -176.83 -1.3 -154.52
+13	'Freshwater_Fish' 8.12 -1.3 1483.71
