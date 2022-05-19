@@ -546,7 +546,7 @@
 546	'talk_with_Aurene' -267.06 2.69 214.68
 547	'get_in_the_story' -147.95 2.38 17.66
 548	'Dragonstorm_start_spawn' 42.46 157.15 274.6
-549	'destroy and retake area' 5.6 120.4 76.19
+549	'destroy_and_retake_area' 5.6 120.4 76.19
 550	'take_on_the_champs' 31.63 99.41 -2.29
 551	'braham_' 1.18 99.58 -18.9
 552	'kill' -78.72 135.55 165.08
