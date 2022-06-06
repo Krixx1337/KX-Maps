@@ -1,0 +1,10 @@
+1	'Alehound_Brewers_Manual' -441.7 69.96 766.49
+2	'Asef's_Brandy' -466.48 74.98 921.82
+3	'Mehdi's_Prized_Hops' -469.31 3.26 963.03
+4	'Kiango's_Spyglass' -300.84 83.95 1084.74
+5	'Sayida's_Sharpened_Blade' -243.52 69.9 1072.05
+6	'Barud's_Spare_Gun' -175.94 40.06 971.19
+7	'Cannonball_Stash' -290.2 -80.66 968.56
+8	'Randa's_Childhood_Toy' -256.37 19.76 812.9
+9	'Communal_Lucky_Fistwraps' -176.54 29.14 781.99
+10	'Wooden_Parrot' -160.95 47.38 797.77
