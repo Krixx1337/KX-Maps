@@ -1,0 +1,9 @@
+1	'trigger_Spirit' 129.56 44.39 -263.6
+2	'1.Tattered_Letter' 104.66 58.18 -287.44
+3	'2.Delicate_Letter' 84.39 83.19 -286.3
+4	'3.Small_Note' -39.26 115.19 -154.45
+5	'4.Rushed_Note' 228.19 31.2 -233.87
+6	'5.Lenghty_Letter' -162.89 143.74 -169.35
+7	'6.Handwritten_Note' 42.91 284.42 244.91
+8	'7.Short_Letter' 52.8 243.56 -35.15
+9	'8.Simple_Note' 236.64 303.44 109.47
