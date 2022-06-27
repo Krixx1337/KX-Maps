@@ -1,0 +1,6 @@
+1	'Trigger Spirit' 132.35 44.32 -264.72
+2	'second port' -51.46 109.37 -268.5
+3	'third port' -73.97 285.65 -125.73
+4	'trigger spirit' 80.63 285.72 225.88
+5	'last port' 231.5 307.92 101.77
+6	'Mistlock_Singularity_ENDBOSS' 225.7 303.91 101.06
