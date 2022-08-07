@@ -1,0 +1,6 @@
+1	'Sparcus' 36.92 8.61 120.62
+2	'Boom_Boom_Baines' 198.91 12.34 -10.9
+3	'Justiciar_Hablion' 74.84 23.69 -163.59
+4	'Pyroxis' -77.05 13.17 -162
+5	'Kuraii_the_Cruel' -86.54 15.74 160.39
+6	'Wiggin_the_Wicked' -114.18 0.27 0.19
