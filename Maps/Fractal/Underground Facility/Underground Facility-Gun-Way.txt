@@ -1,9 +1,13 @@
 1	'First-Spot-Skip-everything' 737.28 28.95 436.93
 2	'Singularity-at-Path-selection-choose-here-which-file-you-need' 765.55 47.57 356.06
+3	'Port-here-now-for-triggering-instant-progress' 769.04 49.17 347.22
+11	'triggerpoint' 775.84 54.7 314.94
+12	'triggerpoint' 814.38 53.95 315.38
 3	'Laser-Path-point' 848.12 57.1357 292.872
 4	'Door-Point' 792.655 69.3815 203.531
 5	'Raspo-Battle' 792.641 73.9534 175.68
-6	'First-�il-Point' 998.001 115.18 268.744
-7	'Second-�il-Point' 1050.46 115.04 268.595
-8	'Third-�il-Point' 1051.19 115.176 185.597
-9	'Fourth-�il-Point' 997.923 112.721 186.296
+15	'Endboss-trigger' 938.9 103.6 224.64
+6	'First-oil-Point' 998.001 115.18 268.744
+7	'Second-oil-Point' 1050.46 115.04 268.595
+8	'Third-oil-Point' 1051.19 115.176 185.597
+9	'Fourth-oil-Point' 997.923 112.721 186.296
