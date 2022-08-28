@@ -1,10 +1,13 @@
 1	'Unlock-Console-Skip-Point' 737.16 28.7 437.12
 2	'Singularity-at-Path-Selection-open-file-you-need-next' 765.55 47.57 356.06
-3	'Port-here-now-for-triggering-instant-progress' 769.04 49.17 347.22
+3	'progress-port' 769.99 47.86 352.28
+13	'progress-port2' 767.93 54.91 315.24
+14	'progress-port3' 732.27 55.62 283.9
 4	'port-here-to-trigger-bomb-spawns-and-take-one' 702.87 57.21 290.42
 5	'port-now-here-to-put-bomb-in-place-do-this-9-times' 756.01 70.36 176.55
 6	'detonate-it-now' 741.88 69.83 157.74
 7	'Rabso' 785.13 73.97 148.07
+15	'Endboss-trigger' 938.9 103.6 224.64
 8	'First-Öil' 997.41 115.17 268.08
 9	'Second-Öil' 1050.82 115.08 268.18
 10	'Third-Öil' 1050.93 115.17 185.83
