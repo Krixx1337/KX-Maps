@@ -21,7 +21,7 @@
 21	'Golden_Lost_Badges' -337.353 19.922 -26.372
 22	'Golden_Lost_Badges' -666.055 80.677 -257.506
 23	'Golden_Lost_Badges' -709.149 216.631 -290.465
-24	'Golden_Lost_Badges' -597.007 390.838 -330.12
+24	'Golden_Lost_Badges' -617.02 407.27 -435.2
 25	'Golden_Lost_Badges' 270.586 464.465 501.764
 26	'Golden_Lost_Badges' 265.69 474.066 327.152
 27	'Golden_Lost_Badges' -28.141 517.481 569.65
