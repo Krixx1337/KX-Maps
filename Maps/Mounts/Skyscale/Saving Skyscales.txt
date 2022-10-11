@@ -2,10 +2,10 @@
 2	'SS_Life1_D.Reach' 54.8725 123.37 -575.625
 3	'SS_Blood1_Dragonfall' 917.811 131.866 814.401
 4	'SS_Ice1_Frostgorge' -677.652 52.698 -296.721
-5	'SS_Growth1_Grove(Enter-Instance)' 80.9519 83.4537 50.305 
+5	'SS_Growth1_Grove(Enter-Instance)' 80.9519 83.4537 50.305
 6	'SS_Fear1_Lornars' -12.5367 89.0643 -1571.72
 7	'SS_Courage1_S.O.Devastation' 929.463 39.9156 156.107
-8   'SS_Air1/Earth1/Fire1/Water1_Vabbi' 1683.94 111.027 -141.22
+8	'SS_Air1/Earth1/Fire1/Water1_Vabbi' 1683.94 111.027 -141.22
 9	'SS_Death1_Vabbi' -1013.8 247.077 -881.359
 10	'PART_1_COMPLETE' -1013.8 247.077 -881.359
 11	'SS_Fire2_B.Citadel' 296.615 154.753 -139.796
@@ -37,33 +37,3 @@
 37	'SS_Earth5_Vabbi' -542.565 114.456 -439.876
 38	'SS_Fire4_Vabbi' -1575.38 87.8492 -299.871
 39	'SS_Growth3_Vabbi' -1195.1 321.732 -1137.34
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
