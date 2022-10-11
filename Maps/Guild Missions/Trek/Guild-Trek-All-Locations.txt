@@ -185,4 +185,3 @@
 185	'Wildflame-Monitor-Metrica-Province' -585.79 91.82 -1050.03
 186	'Winterknell-Impasse-Cursed-Shore' 0.61 7.37 632.88
 187	'Wrelks-Salon-Gendarran-Fields' 837.15 31.31 -138.87
-

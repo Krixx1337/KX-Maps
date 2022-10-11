@@ -1,8 +1,8 @@
 1	'Interact' 558.66 228.88 -974.09
 2	'port' 509.6 59.68 -943.03
 3	'port' 452.79 52.6 -931.4
-4	'wait until dialogue is finished then interact' 449.18 53.13 -931.21
-5	'Room 1 Rose' 356.1 13.13 -933.97
+4	'wait_until_dialogue_is_finished_then_interact' 449.18 53.13 -931.21
+5	'Room_1_Rose' 356.1 13.13 -933.97
 6	'tp' 359.77 14.1 -945.71
 7	'Room2-Phoenix' 264.64 13.17 -1032.25
 8	'next' 264.5 14.07 -1012.54
@@ -17,4 +17,4 @@
 17	'Room7-Koi' 174.06 13.13 -827.56
 18	'next' 164.87 13.72 -846.72
 19	'Room8-Serpent' 92.61 13.51 -931.07
-20	'after fight here' 62.64 14.35 -930.78
+20	'after_fight_here' 62.64 14.35 -930.78
