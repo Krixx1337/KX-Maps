@@ -1,4 +1,4 @@
-1	'Start'	-765.62 221.16 -458.1
+1	'Start' -765.62 221.16 -458.1
 2	'type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin' -734.197 226.966 -486.187
 3	'type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin' -713.369 237.009 -475.946
 4	'type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin' -743.747 241.902 -504.295

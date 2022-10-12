@@ -82,7 +82,7 @@
 82	'Take' 406.817 127.105 195.378
 83	'poison' 423.589 124.535 356.772
 84	'Use-gate-again' 355.256 128.354 98.8605
-85	'Go-back-to-her[now-you-can-buy-again-2-items-for-the-Collection]First-item-is[Fort-Evennia-Infiltrator]second-item-is[Bloodstone-Savantïs-Staff]' 269.773 83.6764 33.6081
+85	'Go-back-to-her[now-you-can-buy-again-2-items-for-the-Collection]First-item-is[Fort-Evennia-Infiltrator]second-item-is[Bloodstone-Savantï¿½s-Staff]' 269.773 83.6764 33.6081
 86	'kill-white-mantle' 263.414 77.6622 -111.706
 87	'kill' 249.704 75.4959 -126.434
 88	'Take-Corn' 287.531 57.7994 -328.475
@@ -242,7 +242,7 @@
 242	'Kill-White-Mantle' -93.8703 93.8409 715.224
 243	'now-we-can-buy[Friend-of-Noran]' -214.517 126.287 778.138
 244	'For-the-Next-Collection-Item[youneed-to-buy-1-Key-to-Norans-Secret-Chest' -214.517 126.287 778.138
-245	'You-will-also-get-the-Achievment-needed[Itïs-a-Trap]By-doing-this-JP' -197.486 119.732 794.965
+245	'You-will-also-get-the-Achievment-needed[Itï¿½s-a-Trap]By-doing-this-JP' -197.486 119.732 794.965
 246	'First-port-here-and-interact' -219.711 106.054 806.24
 247	'here-next' -321.708 83.0242 789.28
 248	'next-here' -406.239 109.71 776.071
@@ -265,7 +265,7 @@
 265	'next-port' 166.728 69.9216 -6.73099
 266	'next-port' 230.316 85.2373 65.0733
 267	'last-port-for-Pristine-White-mantle' 295.604 87.7061 230.75
-268	'now-we-are-doing-the-item[Immlhoofïs-Heart]The-boss-has-2-starting-points-i-give-you-both-and-a-3-spot-if-hes-on-the-run-keep-looking-until-you-get-him-and-kill-it-for-the-item' 301.144 4.22626 231.21
+268	'now-we-are-doing-the-item[Immlhoofï¿½s-Heart]The-boss-has-2-starting-points-i-give-you-both-and-a-3-spot-if-hes-on-the-run-keep-looking-until-you-get-him-and-kill-it-for-the-item' 301.144 4.22626 231.21
 269	'First-Point-for-Immelhuf' -209.97 110.169 733.44
 270	'second-point-[he-shouls-spawn-in-the-camp-before-you' 113.374 110.774 643.243
 271	'and-the-last-spot-if-hes-already-moving-keep-looking-or-come-back-later-to-get-him-next-will-be-heart-quesst' -71.6869 71.4277 656.876
@@ -414,7 +414,7 @@
 414	'-talk-to-him-and-give-him-the-remains-you-get-the-achievment' -176.51 -40.8196 128.105
 415	'for-this-achievment[Honorary-Crew-Member]You-have-to-protect-the-SS-Pinkeens-from-1/1-looting-group' 1.4013e-45 0 4.09179e-43
 416	'For-the-next-Achievment[if-you-didnt-allready-completed-it-in-story-mission]you-have-to-do-25-thinks-to-harm-the-white-mantles-in-the-fort/like-Stealing-Battle-Plans-rescue-soldiers-and-poisoning-food-etc-next-port-will-bring-you-to-heart-vendor-to-get-disquise' 310.453 128.044 146.996
-417	'Get-Disquise[To-start-Itïs-a-Sabotage][You-will-also-get-the-Achievment[A-Fly-in-the-Ointment-when-you-not-get-caught-10-times-you-do-somthing]' 269.479 83.7639 34.533
+417	'Get-Disquise[To-start-Itï¿½s-a-Sabotage][You-will-also-get-the-Achievment[A-Fly-in-the-Ointment-when-you-not-get-caught-10-times-you-do-somthing]' 269.479 83.7639 34.533
 418	'Open-Gate' 354.549 128.556 96.3368
 419	'Rescue' 340.034 127.949 170.455
 420	'rescue&Food' 345.474 127.132 197.558
