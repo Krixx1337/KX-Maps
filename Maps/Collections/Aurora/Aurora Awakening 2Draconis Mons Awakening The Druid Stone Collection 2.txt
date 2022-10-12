@@ -61,7 +61,7 @@
 61	'Extra-Enemys&Prisoner-Heart-completed-after' 346.097 524.378 81.2812
 62	'Buy-item-Druid-Runestone-Fragment-1x-per-day' 538.443 509.272 -336.363
 63	'Buy-the-5th-Druid-Stone-shard-from-him' -449.295 6.01468 -543.328
-64	'You-have-to-kill-Wardbough-again-wait-until-he-spawned-then-kill-him' 9.38597 170.294 -1274.0465	
+64	'You-have-to-kill-Wardbough-again-wait-until-he-spawned-then-kill-him' 9.38597 170.294 -1274.0465
 65	'After-hes-dead-combine-one-Druid-Stone-with-"Elemt-of-the-Wardbough-which-you-got-fire-killing-him-and-get-the-needed-item' 8.95004 236.148 -1276.81
 66	'Next-step-is-giving-him-the-item-you-created' 704.237 148.49 -417.092
 67	'Now-for-the-Next-one-we-are-going-to-the-Brisban-Wildlands-i-see-you-there!' -466.37 4.41713 -536.313
