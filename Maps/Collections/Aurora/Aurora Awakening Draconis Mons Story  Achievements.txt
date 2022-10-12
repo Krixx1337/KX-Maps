@@ -1,4 +1,4 @@
-1	'[We-will-start-will-all-story-achievments-after-that-comes-map-achievments]Open-Story-Mission[Taimiïs-Pet-Prjocet]' 67.6144 470.805 338.263	
+1	'[We-will-start-will-all-story-achievments-after-that-comes-map-achievments]Open-Story-Mission[Taimiï¿½s-Pet-Prjocet]' 67.6144 470.805 338.263
 2	'Port-here' 466.407 48.933 358.088
 3	'port-here' 489.361 49.0309 459.082
 4	'port-Here' 522.654 19.9734 523.301
