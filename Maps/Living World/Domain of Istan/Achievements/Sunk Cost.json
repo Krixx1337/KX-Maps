@@ -1,0 +1,23 @@
+{
+  "Name": "Sunk Cost",
+  "Coordinates": [
+    {
+      "Name": "Scoundrels_Bounty_Airwalk",
+      "X": 970.79,
+      "Y": -313.68,
+      "Z": 8.33
+    },
+    {
+      "Name": "The_Marauder_airwalk",
+      "X": 1013.92,
+      "Y": -112.25,
+      "Z": 8.33
+    },
+    {
+      "Name": "The_Red_Dagger_Airwalk",
+      "X": 1000.89,
+      "Y": 21.69,
+      "Z": 14.05
+    }
+  ]
+}

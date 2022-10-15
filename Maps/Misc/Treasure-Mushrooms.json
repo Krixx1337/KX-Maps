@@ -1,0 +1,53 @@
+{
+  "Name": "Treasure-Mushrooms",
+  "Coordinates": [
+    {
+      "Name": "Verdant-Brink-SpawnArea",
+      "X": -957.5,
+      "Y": -287.87,
+      "Z": 469.28
+    },
+    {
+      "Name": "Auric-Basin-Shroom-Spawn-Area",
+      "X": 565.46,
+      "Y": -323.75,
+      "Z": 319.19
+    },
+    {
+      "Name": "Tangled-Depths-Shroom-Spawn-Area",
+      "X": -387.53,
+      "Y": 601.29,
+      "Z": 156.08
+    },
+    {
+      "Name": "Dragonstand-Shroom-around-here",
+      "X": 164.66,
+      "Y": 719.71,
+      "Z": 62.51
+    },
+    {
+      "Name": "Dragonstand-Shroom-around-here",
+      "X": 303.09,
+      "Y": 142.18,
+      "Z": 133.57
+    },
+    {
+      "Name": "Dragonstand-Shroom-around-here",
+      "X": 844.74,
+      "Y": 33.42,
+      "Z": 64.56
+    },
+    {
+      "Name": "Bloodstone-Fen-Spawn-Area",
+      "X": -117.35,
+      "Y": 96.27,
+      "Z": 640.99
+    },
+    {
+      "Name": "Draconis-Mons-Shroom",
+      "X": -129.59,
+      "Y": 74.45,
+      "Z": 444.92
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "WP",
+  "Coordinates": [
+    {
+      "Name": "Promenade_Waypoint",
+      "X": -1085.42,
+      "Y": -158.73,
+      "Z": 3.49
+    },
+    {
+      "Name": "Ministry_Ward_Waypoint",
+      "X": -183.71,
+      "Y": -42.9,
+      "Z": 3.22
+    },
+    {
+      "Name": "Garden_Heights_Waypoint",
+      "X": -730.86,
+      "Y": 560.12,
+      "Z": 255.49
+    },
+    {
+      "Name": "Lutgardis_Plaza",
+      "X": 712.22,
+      "Y": -0.66,
+      "Z": 3.06
+    }
+  ]
+}

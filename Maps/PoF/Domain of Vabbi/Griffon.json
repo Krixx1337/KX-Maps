@@ -1,0 +1,371 @@
+{
+  "Name": "Griffon",
+  "Coordinates": [
+    {
+      "Name": "Vabbi_Remains_of_the_Last_Spearmarshal",
+      "X": 1759.73,
+      "Y": -820.513,
+      "Z": 189.964
+    },
+    {
+      "Name": "CrystalOasisAbandonedGriffonEgg_1",
+      "X": 915.735,
+      "Y": -610.586,
+      "Z": 196.558
+    },
+    {
+      "Name": "CrystalOasisAbandonedGriffonEgg_2",
+      "X": 208.712,
+      "Y": 767.913,
+      "Z": 209.93
+    },
+    {
+      "Name": "CrystalOasisAbandonedGriffonEgg_3",
+      "X": 1519.85,
+      "Y": 560.695,
+      "Z": 392.767
+    },
+    {
+      "Name": "CrystalOasisAbandonedGriffonEgg_4",
+      "X": 685.729,
+      "Y": 423.68,
+      "Z": 212.331
+    },
+    {
+      "Name": "CrystalOasisAbandonedGriffonEgg_5",
+      "X": 691.38,
+      "Y": 466.566,
+      "Z": 342.719
+    },
+    {
+      "Name": "CrystalOasisIconoftheGoddess",
+      "X": 873.936,
+      "Y": 138.82,
+      "Z": 152.712
+    },
+    {
+      "Name": "CrystalOasisSunspearTithe",
+      "X": -435.476,
+      "Y": -423.64,
+      "Z": 10.5713
+    },
+    {
+      "Name": "CrystalOasisLegndaryFacetBounty",
+      "X": 1306.07,
+      "Y": -290.946,
+      "Z": 24.2783
+    },
+    {
+      "Name": "CrystalOasisLegndaryFacetMob",
+      "X": 1450.03,
+      "Y": 489.125,
+      "Z": 229.136
+    },
+    {
+      "Name": "DesertHighlandsAbandonedGriffonEgg_1",
+      "X": 162.219,
+      "Y": -442.476,
+      "Z": 308.624
+    },
+    {
+      "Name": "DesertHighlandsAbandonedGriffonEgg_2",
+      "X": -1221.31,
+      "Y": -430.877,
+      "Z": 288.391
+    },
+    {
+      "Name": "DesertHighlandsAbandonedGriffonEgg_3",
+      "X": 43.8283,
+      "Y": 265.204,
+      "Z": 413.303
+    },
+    {
+      "Name": "DesertHighlandsAbandonedGriffonEgg_4",
+      "X": -737.682,
+      "Y": 153.59,
+      "Z": 418.307
+    },
+    {
+      "Name": "DesertHighlandsAbandonedGriffonEgg_5",
+      "X": -226.727,
+      "Y": -157.435,
+      "Z": 359.424
+    },
+    {
+      "Name": "DesertHighlandsEnormousSupplyofBirdFeed",
+      "X": 612.711,
+      "Y": 282.843,
+      "Z": 239.245
+    },
+    {
+      "Name": "DesertHighlandsSurvivalSupplies",
+      "X": 667.278,
+      "Y": -760.901,
+      "Z": 182.294
+    },
+    {
+      "Name": "DesertHighlandsSecondSpearNayrim",
+      "X": -476.078,
+      "Y": -346.269,
+      "Z": 114.82
+    },
+    {
+      "Name": "ElonRiverlandsAbandonedGriffonEgg_1",
+      "X": -475.445,
+      "Y": -346.398,
+      "Z": 114.975
+    },
+    {
+      "Name": "ElonRiverlandsAbandonedGriffonEgg_2",
+      "X": 404.451,
+      "Y": -147.672,
+      "Z": 105.503
+    },
+    {
+      "Name": "ElonRiverlandsAbandonedGriffonEgg_3",
+      "X": -43.8779,
+      "Y": 63.679,
+      "Z": 154.499
+    },
+    {
+      "Name": "ElonRiverlandsRelicPreservationMaterials",
+      "X": 590.715,
+      "Y": 1121.17,
+      "Z": 125.607
+    },
+    {
+      "Name": "ElonRiverlandsMaptotheOutpost",
+      "X": 472.709,
+      "Y": 189.177,
+      "Z": 55.3825
+    },
+    {
+      "Name": "ElonRiverlandsChampionUnboundDjinn",
+      "X": -1263.99,
+      "Y": -763.086,
+      "Z": 19.8274
+    },
+    {
+      "Name": "ElonRiverlandsWardenJabari",
+      "X": 628.967,
+      "Y": -923.138,
+      "Z": 9.84445
+    },
+    {
+      "Name": "ElonRiverlandsMasterSergeantShadi",
+      "X": -1027.54,
+      "Y": 1096.15,
+      "Z": 122.12
+    },
+    {
+      "Name": "ElonRiverlandsVeteranWaterDjinn",
+      "X": -971.467,
+      "Y": 1227.34,
+      "Z": 133.744
+    },
+    {
+      "Name": "ElonRiverlandsShadisHelm",
+      "X": 1275.22,
+      "Y": 905.737,
+      "Z": 71.5565
+    },
+    {
+      "Name": "ElonRiverlandsShadisGloves",
+      "X": -729.926,
+      "Y": -421.871,
+      "Z": 32.8285
+    },
+    {
+      "Name": "ElonRiverlandsVeteranChikkchak",
+      "X": -1212.33,
+      "Y": 343.842,
+      "Z": 51.9344
+    },
+    {
+      "Name": "ElonRiverlandsShadisArmor",
+      "X": -423.002,
+      "Y": 216.706,
+      "Z": 6.07049
+    },
+    {
+      "Name": "ElonRiverlandsMasterSergeantShadi",
+      "X": -1026.12,
+      "Y": 1095.91,
+      "Z": 122.163
+    },
+    {
+      "Name": "TheDesolationAbandonedGriffonEgg_1",
+      "X": 280.317,
+      "Y": -96.2193,
+      "Z": 516.808
+    },
+    {
+      "Name": "TheDesolationAbandonedGriffonEgg_2",
+      "X": -159.29,
+      "Y": 179.623,
+      "Z": 400.064
+    },
+    {
+      "Name": "TheDesolationAbandonedGriffonEgg_3",
+      "X": 405.445,
+      "Y": 222.209,
+      "Z": 481.212
+    },
+    {
+      "Name": "TheDesolationAbandonedGriffonEgg_4",
+      "X": 5.87762,
+      "Y": 570.984,
+      "Z": 427.707
+    },
+    {
+      "Name": "TheDesolationRedeemerKossan",
+      "X": -518.356,
+      "Y": 66.4492,
+      "Z": 350.171
+    },
+    {
+      "Name": "TheDesolationVirzukRuneofCompassion",
+      "X": -825.891,
+      "Y": 450.836,
+      "Z": 384.644
+    },
+    {
+      "Name": "TheDesolationAncientSunspearFlags",
+      "X": 1104.1,
+      "Y": -243.8,
+      "Z": 311.493
+    },
+    {
+      "Name": "TheDesolationPrayerLights",
+      "X": 253.313,
+      "Y": 1635.53,
+      "Z": 9.13033
+    },
+    {
+      "Name": "VabbiAbandonedGriffonEgg_1",
+      "X": 1217.19,
+      "Y": -676.054,
+      "Z": 245.761
+    },
+    {
+      "Name": "VabbiAbandonedGriffonEgg_2",
+      "X": 1621.72,
+      "Y": -157.638,
+      "Z": 258.667
+    },
+    {
+      "Name": "VabbiAbandonedGriffonEgg_3",
+      "X": 1252.65,
+      "Y": -993.127,
+      "Z": 163.45
+    },
+    {
+      "Name": "VabbiAbandonedGriffonEgg_4",
+      "X": 1583.7,
+      "Y": -637.261,
+      "Z": 346.476
+    },
+    {
+      "Name": "VabbiAbandonedGriffonEgg_5",
+      "X": 1735.75,
+      "Y": -990.927,
+      "Z": 338.575
+    },
+    {
+      "Name": "VabbiFirstSpearKitur",
+      "X": 486.227,
+      "Y": -652.084,
+      "Z": 99.3533
+    },
+    {
+      "Name": "VabbiStone-CarvingTools",
+      "X": -1497.3,
+      "Y": 116.227,
+      "Z": 77.2116
+    },
+    {
+      "Name": "VabbiGuardBribe",
+      "X": 258.308,
+      "Y": -846.718,
+      "Z": 81.2544
+    },
+    {
+      "Name": "VabbiRemainsoftheLastSpearmarshal",
+      "X": 1759.73,
+      "Y": -820.513,
+      "Z": 189.964
+    },
+    {
+      "Name": "DesertHighlandsTombofthePrimevalKings",
+      "X": 1791.62,
+      "Y": 717.414,
+      "Z": 201.325
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_1",
+      "X": 839.156,
+      "Y": -101.222,
+      "Z": 4.43986
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_2",
+      "X": 986.455,
+      "Y": 448.9,
+      "Z": 3.40302
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_3",
+      "X": 873.366,
+      "Y": 415.223,
+      "Z": 20.1374
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_4",
+      "X": 546.793,
+      "Y": 408.07,
+      "Z": 16.7475
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_5",
+      "X": 523.972,
+      "Y": 248.255,
+      "Z": 3.64118
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_6",
+      "X": 561.488,
+      "Y": -4.56166,
+      "Z": 3.2322
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_7",
+      "X": 831.793,
+      "Y": 195.044,
+      "Z": 158.991
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_8",
+      "X": 918.845,
+      "Y": 252.677,
+      "Z": 173.638
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_9",
+      "X": 691.122,
+      "Y": 298.04,
+      "Z": 174.357
+    },
+    {
+      "Name": "InstanceCacheofSunspearWisdom_10",
+      "X": 513.055,
+      "Y": 239.419,
+      "Z": 181.793
+    },
+    {
+      "Name": "VabbiRemainsoftheLastSpearmarshal",
+      "X": 1789.73,
+      "Y": -820.046,
+      "Z": 188.81
+    }
+  ]
+}

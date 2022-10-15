@@ -1,0 +1,233 @@
+{
+  "Name": "Poi",
+  "Coordinates": [
+    {
+      "Name": "Kaineng_FIsh_Market",
+      "X": -1078.77,
+      "Y": -71.29,
+      "Z": 3.24
+    },
+    {
+      "Name": "Jade_Monument",
+      "X": -969.38,
+      "Y": -3.22,
+      "Z": 4.06
+    },
+    {
+      "Name": "Haebaragi´s_Tears",
+      "X": -611.43,
+      "Y": -0.39,
+      "Z": 187.97
+    },
+    {
+      "Name": "Central_Powerstation",
+      "X": -644.79,
+      "Y": -3.42,
+      "Z": 7.56
+    },
+    {
+      "Name": "Jade_Statuette",
+      "X": -492.35,
+      "Y": 382.52,
+      "Z": 147.84
+    },
+    {
+      "Name": "North_Substation",
+      "X": -373.59,
+      "Y": 534.09,
+      "Z": 143.77
+    },
+    {
+      "Name": "Pool_of_Tranquility",
+      "X": -837.91,
+      "Y": 210.18,
+      "Z": 321.51
+    },
+    {
+      "Name": "Garden_of_Enlightenment",
+      "X": -612.06,
+      "Y": 543.34,
+      "Z": 269.54
+    },
+    {
+      "Name": "Temple_of_Preeminence",
+      "X": -605.4,
+      "Y": 434.43,
+      "Z": 335.58
+    },
+    {
+      "Name": "Tae-Jin´s_Estate",
+      "X": -377.01,
+      "Y": 623.35,
+      "Z": 320.92
+    },
+    {
+      "Name": "Ministry_Headquarters",
+      "X": -51.99,
+      "Y": 23.75,
+      "Z": 7.7
+    },
+    {
+      "Name": "Seung-Gi´s_Legacy",
+      "X": 97.93,
+      "Y": 108.97,
+      "Z": 22.95
+    },
+    {
+      "Name": "Garden_of_the_Celestials",
+      "X": 207.78,
+      "Y": -6.13,
+      "Z": 243.63
+    },
+    {
+      "Name": "Red_Duck_Tea_house",
+      "X": -807.2,
+      "Y": -391.55,
+      "Z": 243.76
+    },
+    {
+      "Name": "Ministry_of_Security",
+      "X": -627.95,
+      "Y": -425.22,
+      "Z": 147.84
+    },
+    {
+      "Name": "Ministry_of_Archives",
+      "X": -665.62,
+      "Y": -603.32,
+      "Z": 243.64
+    },
+    {
+      "Name": "Ihn´s_Grace",
+      "X": -412.32,
+      "Y": -696.25,
+      "Z": 256.35
+    },
+    {
+      "Name": "South_Substation",
+      "X": -367.09,
+      "Y": -602.47,
+      "Z": 143.88
+    },
+    {
+      "Name": "Brume_Alley",
+      "X": -126.72,
+      "Y": -797.6,
+      "Z": 3.7
+    },
+    {
+      "Name": "Tengu_Square",
+      "X": 65.16,
+      "Y": -630.15,
+      "Z": 3.23
+    },
+    {
+      "Name": "Kappa_Underpass",
+      "X": 739.35,
+      "Y": -474.14,
+      "Z": -12.7
+    },
+    {
+      "Name": "Salvage_Yard",
+      "X": 780.91,
+      "Y": -735.3,
+      "Z": 4.7
+    },
+    {
+      "Name": "Lutgardis_Market",
+      "X": 387.26,
+      "Y": 132.62,
+      "Z": 3.23
+    },
+    {
+      "Name": "East_Precinct",
+      "X": 612.16,
+      "Y": 44.95,
+      "Z": 3.22
+    },
+    {
+      "Name": "Tranquil_Overlook",
+      "X": 709.78,
+      "Y": 94.36,
+      "Z": 110.12
+    },
+    {
+      "Name": "Soo-Won´s_Protection",
+      "X": 1100.75,
+      "Y": -132.48,
+      "Z": 22.07
+    },
+    {
+      "Name": "Sunjiang_Lab",
+      "X": 1081.48,
+      "Y": -227.47,
+      "Z": 117.46
+    },
+    {
+      "Name": "Petrified_Shipping_Docks",
+      "X": 1174.67,
+      "Y": -375.68,
+      "Z": 3.22
+    },
+    {
+      "Name": "Misa_Village",
+      "X": 1002.48,
+      "Y": -676.07,
+      "Z": 22.89
+    },
+    {
+      "Name": "Aetherblade_Camp",
+      "X": 1139.41,
+      "Y": 573.24,
+      "Z": 114.34
+    },
+    {
+      "Name": "Jade_Brotherhood_Hideout",
+      "X": 1259.62,
+      "Y": 791.91,
+      "Z": 3.23
+    },
+    {
+      "Name": "Ancient_Vault",
+      "X": 1156.2,
+      "Y": 712.99,
+      "Z": -63.16
+    },
+    {
+      "Name": "The_Old_Steamshop",
+      "X": 567.0,
+      "Y": 300.02,
+      "Z": 3.41
+    },
+    {
+      "Name": "Garden_of_Lyssa",
+      "X": 290.91,
+      "Y": 549.41,
+      "Z": 3.55
+    },
+    {
+      "Name": "Shipwreck_Graveyard",
+      "X": -1067.38,
+      "Y": -770.15,
+      "Z": 1.72
+    },
+    {
+      "Name": "Isle_of_Hanasha",
+      "X": -1274.31,
+      "Y": 651.56,
+      "Z": 19.27
+    },
+    {
+      "Name": "Reactor_Station",
+      "X": -654.48,
+      "Y": 842.05,
+      "Z": 21.43
+    },
+    {
+      "Name": "Nahpui_Lab",
+      "X": 638.72,
+      "Y": 826.84,
+      "Z": 118.35
+    }
+  ]
+}

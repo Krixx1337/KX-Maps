@@ -1,0 +1,23 @@
+{
+  "Name": "Isle of Reflection",
+  "Coordinates": [
+    {
+      "Name": "Reflection_Crystal_WP",
+      "X": -147.04,
+      "Y": -544.51,
+      "Z": 32.66
+    },
+    {
+      "Name": "Reflection_Arena_WP",
+      "X": 12.73,
+      "Y": -435.52,
+      "Z": 14.43
+    },
+    {
+      "Name": "Reflection_Dock_WP",
+      "X": -272.14,
+      "Y": -32.28,
+      "Z": 5.91
+    }
+  ]
+}

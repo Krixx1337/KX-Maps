@@ -1,0 +1,71 @@
+{
+  "Name": "Thaumanova Reactor",
+  "Coordinates": [
+    {
+      "Name": "Detonator",
+      "X": 88.23,
+      "Y": -89.62,
+      "Z": 0.86
+    },
+    {
+      "Name": "Singularity",
+      "X": 7.76,
+      "Y": 23.99,
+      "Z": 22.98
+    },
+    {
+      "Name": "Elite-mob",
+      "X": -35.29,
+      "Y": 0.45,
+      "Z": 22.97
+    },
+    {
+      "Name": "Labyrinth-End-Consols",
+      "X": -17.91,
+      "Y": -283.99,
+      "Z": 49.62
+    },
+    {
+      "Name": "port-here-once-to-activate-the-event-then-port-next",
+      "X": 154.7,
+      "Y": -21.44,
+      "Z": 26.56
+    },
+    {
+      "Name": "Heat-Room-Controls-Jump-and-activate-at-same-time",
+      "X": -277.34,
+      "Y": -41.62,
+      "Z": 26.56
+    },
+    {
+      "Name": "you-can-.activate-the-button-right-away-or-wait-and-dont-be-suspicius-up-to-you",
+      "X": 158.03,
+      "Y": 49.94,
+      "Z": 26.56
+    },
+    {
+      "Name": "kill-slime",
+      "X": 142.21,
+      "Y": 175.98,
+      "Z": 26.68
+    },
+    {
+      "Name": "activate-console-after-slime-dead",
+      "X": 142.31,
+      "Y": 137.38,
+      "Z": 26.68
+    },
+    {
+      "Name": "tp-to-boss",
+      "X": -25.47,
+      "Y": 1.83,
+      "Z": 22.99
+    },
+    {
+      "Name": "at-boss",
+      "X": 4.44,
+      "Y": -4.37,
+      "Z": 75.45
+    }
+  ]
+}

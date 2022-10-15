@@ -1,0 +1,1097 @@
+{
+  "Name": "Heart-Quests",
+  "Coordinates": [
+    {
+      "Name": "Trap&kill",
+      "X": 301.098,
+      "Y": 1131.55,
+      "Z": 32.0192
+    },
+    {
+      "Name": "Stomp&kill",
+      "X": 241.29,
+      "Y": 1144.25,
+      "Z": 57.0788
+    },
+    {
+      "Name": "Speargun&FIsh",
+      "X": 453.243,
+      "Y": -28.8411,
+      "Z": -0.0827634
+    },
+    {
+      "Name": "Mine",
+      "X": -34.6959,
+      "Y": 616.936,
+      "Z": 6.85903
+    },
+    {
+      "Name": "Mine",
+      "X": -61.455,
+      "Y": 656.048,
+      "Z": 3.01678
+    },
+    {
+      "Name": "Mine",
+      "X": -15.4639,
+      "Y": 682.997,
+      "Z": 3.57757
+    },
+    {
+      "Name": "Rubble",
+      "X": -489.037,
+      "Y": -1089.95,
+      "Z": 58.4864
+    },
+    {
+      "Name": "Rubble",
+      "X": -507.926,
+      "Y": -1084.92,
+      "Z": 57.7303
+    },
+    {
+      "Name": "Extra-Mine",
+      "X": 95.1206,
+      "Y": 584.933,
+      "Z": 33.308
+    },
+    {
+      "Name": "Extra-Mine",
+      "X": -24.4177,
+      "Y": 540.063,
+      "Z": 14.427
+    },
+    {
+      "Name": "Speargun&activate-Fish",
+      "X": 428.072,
+      "Y": -34.2388,
+      "Z": -0.0933351
+    },
+    {
+      "Name": "Brazier",
+      "X": -385.686,
+      "Y": 964.433,
+      "Z": 16.2995
+    },
+    {
+      "Name": "Brazier",
+      "X": -432.404,
+      "Y": 962.067,
+      "Z": 28.2082
+    },
+    {
+      "Name": "Mine",
+      "X": -34.9234,
+      "Y": 731.609,
+      "Z": 4.5832
+    },
+    {
+      "Name": "Mine",
+      "X": 6.45663,
+      "Y": 657.648,
+      "Z": 5.20544
+    },
+    {
+      "Name": "Weapon-Parts",
+      "X": -51.8732,
+      "Y": 583.319,
+      "Z": 5.61413
+    },
+    {
+      "Name": "Weapon-Parts",
+      "X": -43.1314,
+      "Y": 593.553,
+      "Z": 6.22988
+    },
+    {
+      "Name": "Beacon&Kill",
+      "X": 302.302,
+      "Y": 701.459,
+      "Z": 31.8328
+    },
+    {
+      "Name": "Rubble",
+      "X": -476.026,
+      "Y": -1065.71,
+      "Z": 60.6649
+    },
+    {
+      "Name": "Rubble",
+      "X": -486.074,
+      "Y": -1028.22,
+      "Z": 62.0656
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -396.52,
+      "Y": -115.78,
+      "Z": 34.76
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -373.969,
+      "Y": -47.8345,
+      "Z": 54.1827
+    },
+    {
+      "Name": "Rubble",
+      "X": -452.342,
+      "Y": -1027.31,
+      "Z": 62.2159
+    },
+    {
+      "Name": "Rubble",
+      "X": -460.169,
+      "Y": -1052.67,
+      "Z": 62.2877
+    },
+    {
+      "Name": "Rubble",
+      "X": -507.65,
+      "Y": -1033.65,
+      "Z": 59.9492
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -425.169,
+      "Y": -55.4801,
+      "Z": 42.007
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -316.894,
+      "Y": -31.7069,
+      "Z": 62.0122
+    },
+    {
+      "Name": "Trap",
+      "X": 390.563,
+      "Y": 125.037,
+      "Z": -22.4572
+    },
+    {
+      "Name": "Trap",
+      "X": 428.612,
+      "Y": 130.073,
+      "Z": -22.4198
+    },
+    {
+      "Name": "Speargun&Fish",
+      "X": 499.481,
+      "Y": -3.98504,
+      "Z": -0.063437
+    },
+    {
+      "Name": "BEacon&Kill",
+      "X": 305.723,
+      "Y": 631.256,
+      "Z": 23.6781
+    },
+    {
+      "Name": "Turret",
+      "X": -361.653,
+      "Y": 883.55,
+      "Z": 17.0859
+    },
+    {
+      "Name": "BRazier",
+      "X": -492.859,
+      "Y": 991.519,
+      "Z": 35.2588
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 157.574,
+      "Y": 1148.59,
+      "Z": 65.5601
+    },
+    {
+      "Name": "Eggs-Nest&Kill",
+      "X": 149.002,
+      "Y": 1151.85,
+      "Z": 66.7938
+    },
+    {
+      "Name": "Eggs&Nest",
+      "X": 63.5023,
+      "Y": 1219.52,
+      "Z": 70.6393
+    },
+    {
+      "Name": "Turret",
+      "X": -327.598,
+      "Y": 964.658,
+      "Z": 20.3536
+    },
+    {
+      "Name": "Brazier",
+      "X": -425.677,
+      "Y": 1066.92,
+      "Z": 20.1567
+    },
+    {
+      "Name": "Turret",
+      "X": -455.651,
+      "Y": 1031.31,
+      "Z": 21.3158
+    },
+    {
+      "Name": "Beacon&Kill",
+      "X": 304.062,
+      "Y": 538.392,
+      "Z": 17.7764
+    },
+    {
+      "Name": "Rescue",
+      "X": 324.554,
+      "Y": 482.297,
+      "Z": 17.6753
+    },
+    {
+      "Name": "Mine",
+      "X": -55.5748,
+      "Y": 503.775,
+      "Z": 10.5078
+    },
+    {
+      "Name": "Mine",
+      "X": -92.9379,
+      "Y": 462.51,
+      "Z": 14.1298
+    },
+    {
+      "Name": "Speargun/fish",
+      "X": 465.998,
+      "Y": 120.685,
+      "Z": 2.06418
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -260.864,
+      "Y": -59.3638,
+      "Z": 68.0989
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -309.401,
+      "Y": -87.1336,
+      "Z": 54.2115
+    },
+    {
+      "Name": "Trap",
+      "X": 424.018,
+      "Y": 195.447,
+      "Z": -31.1198
+    },
+    {
+      "Name": "Speargun/Fish",
+      "X": 511.329,
+      "Y": 16.8749,
+      "Z": -0.0846249
+    },
+    {
+      "Name": "Rubble",
+      "X": -531.863,
+      "Y": -1023.47,
+      "Z": 58.9301
+    },
+    {
+      "Name": "Rubble",
+      "X": -524.694,
+      "Y": -1050.73,
+      "Z": 62.8354
+    },
+    {
+      "Name": "Rubble",
+      "X": -507.035,
+      "Y": -1112.03,
+      "Z": 52.4261
+    },
+    {
+      "Name": "Round",
+      "X": -518.157,
+      "Y": -1231.66,
+      "Z": 48.0818
+    },
+    {
+      "Name": "Give-him-mortar-round",
+      "X": -471.926,
+      "Y": -1302.38,
+      "Z": 75.9717
+    },
+    {
+      "Name": "Round",
+      "X": -457.308,
+      "Y": -1286.19,
+      "Z": 62.7342
+    },
+    {
+      "Name": "Give-him-the-ROund-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -470.482,
+      "Y": -1301.18,
+      "Z": 75.9482
+    },
+    {
+      "Name": "Rubble",
+      "X": -536.193,
+      "Y": -1095.12,
+      "Z": 54.7034
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -326.172,
+      "Y": -123.471,
+      "Z": 39.1041
+    },
+    {
+      "Name": "Shrine-if-mob-spawns-kill",
+      "X": -273.887,
+      "Y": -141.842,
+      "Z": 43.5534
+    },
+    {
+      "Name": "Speargun/fish",
+      "X": 493.035,
+      "Y": 70.0467,
+      "Z": 0.471717
+    },
+    {
+      "Name": "Banner",
+      "X": -115.888,
+      "Y": 447.827,
+      "Z": 14.8397
+    },
+    {
+      "Name": "Weapon-parts",
+      "X": -126.934,
+      "Y": 555.504,
+      "Z": 6.99659
+    },
+    {
+      "Name": "BEacon&Kill",
+      "X": 441.849,
+      "Y": 507.047,
+      "Z": 9.50058
+    },
+    {
+      "Name": "Mine",
+      "X": -98.2841,
+      "Y": 523.49,
+      "Z": 7.09193
+    },
+    {
+      "Name": "Round",
+      "X": -459.291,
+      "Y": -1296.96,
+      "Z": 64.3989
+    },
+    {
+      "Name": "Give-Round-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -468.906,
+      "Y": -1300.09,
+      "Z": 75.7752
+    },
+    {
+      "Name": "Mine",
+      "X": -95.335,
+      "Y": 596.743,
+      "Z": 1.50885
+    },
+    {
+      "Name": "Eggs&Nest",
+      "X": 9.36254,
+      "Y": 1283.2,
+      "Z": 72.9784
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": -35.5548,
+      "Y": 1275.95,
+      "Z": 68.6452
+    },
+    {
+      "Name": "Supply-Cart",
+      "X": -349.59,
+      "Y": 946.491,
+      "Z": 16.5099
+    },
+    {
+      "Name": "Help-the-Spirit-and-follow-him",
+      "X": 538.76,
+      "Y": -787.415,
+      "Z": 13.3056
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 541.401,
+      "Y": -746.412,
+      "Z": 11.2378
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 580.776,
+      "Y": -804.57,
+      "Z": 4.27156
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 655.453,
+      "Y": -816.985,
+      "Z": 4.56058
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 619.979,
+      "Y": -929.534,
+      "Z": 6.14633
+    },
+    {
+      "Name": "Help-Spirit-and.follow-him-if-nothing-was-there-at-the-ports-dont-worry-the-ports-are-again-in-the-back",
+      "X": 578.883,
+      "Y": -888.822154,
+      "Z": 4.93587
+    },
+    {
+      "Name": "Ore-Vein",
+      "X": -635.392,
+      "Y": -478.155,
+      "Z": 64.2423
+    },
+    {
+      "Name": "Throw-Ore-in-fire-you-can-stay-at-the-ore-spot-you-can-throw-it-from-there-in-the-fire-and-muiltiple-times-as-well-so-next-coords-are-deleted-and-shorted-you-have-to-do-it-around-20-to-50-times-then-port-to-the-vendor-port-for-that-is-there",
+      "X": -673.029,
+      "Y": -482.333,
+      "Z": 63.2179
+    },
+    {
+      "Name": "Take-Ore",
+      "X": -636.764,
+      "Y": -476.64,
+      "Z": 66.086
+    },
+    {
+      "Name": "Throw-in-take-iron",
+      "X": -671.255,
+      "Y": -481.536,
+      "Z": 63.1036
+    },
+    {
+      "Name": "Give-him-the-iron-port-here-if-you-have-enough-iron-otherwise-go-back-and-get-the-rest-next-ports-will-be-other-stuff",
+      "X": -585.921,
+      "Y": -492.94,
+      "Z": 63.7304
+    },
+    {
+      "Name": "Eggs&Nest",
+      "X": -30.3967,
+      "Y": 1304.72,
+      "Z": 71.9808
+    },
+    {
+      "Name": "Eggs&nest-X2-Heart-completed",
+      "X": 84.0952,
+      "Y": 1347.57,
+      "Z": 10.2055
+    },
+    {
+      "Name": "Turret",
+      "X": -316.394,
+      "Y": 938.008,
+      "Z": 16.514
+    },
+    {
+      "Name": "Supply-Cart",
+      "X": -482.856,
+      "Y": 1069.11,
+      "Z": 23.8118
+    },
+    {
+      "Name": "Turret",
+      "X": -504.012,
+      "Y": 1079.11,
+      "Z": 31.2042
+    },
+    {
+      "Name": "BRazier-Heart-completed",
+      "X": -541.521,
+      "Y": 1053.75,
+      "Z": 33.6798
+    },
+    {
+      "Name": "BEacon&Kill-HEart-completed",
+      "X": 400.783,
+      "Y": 514.288,
+      "Z": 11.374
+    },
+    {
+      "Name": "Banner&Kill-spawned-mobs",
+      "X": -61.7415,
+      "Y": 497.201,
+      "Z": 11.3703
+    },
+    {
+      "Name": "Trap-HEart-completed",
+      "X": 330.095,
+      "Y": 176.382,
+      "Z": -12.3796
+    },
+    {
+      "Name": "Shrine-again",
+      "X": -375.243,
+      "Y": -47.693,
+      "Z": 54.0497
+    },
+    {
+      "Name": "Shrine-again",
+      "X": -273.273,
+      "Y": -141.213,
+      "Z": 43.8225
+    },
+    {
+      "Name": "Shrine-again",
+      "X": -324.997,
+      "Y": -126.441,
+      "Z": 38.4086
+    },
+    {
+      "Name": "Shrine-again-HEart-completed",
+      "X": -370.695,
+      "Y": -48.8578,
+      "Z": 54.297
+    },
+    {
+      "Name": "ROund",
+      "X": -454.572,
+      "Y": -1297.14,
+      "Z": 64.0145
+    },
+    {
+      "Name": "Give-Round-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -467.738,
+      "Y": -1301.01,
+      "Z": 76.1166
+    },
+    {
+      "Name": "ROund",
+      "X": -477.85,
+      "Y": -1270.97,
+      "Z": 65.855
+    },
+    {
+      "Name": "Give-Round-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -469.33,
+      "Y": -1301.24,
+      "Z": 76.0732
+    },
+    {
+      "Name": "Round",
+      "X": -477.961,
+      "Y": -1269.09,
+      "Z": 65.8055
+    },
+    {
+      "Name": "Give-.Round-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -468.142,
+      "Y": -1301.65,
+      "Z": 76.2189
+    },
+    {
+      "Name": "ROund",
+      "X": -527.753,
+      "Y": -1282.64,
+      "Z": 71.1788
+    },
+    {
+      "Name": "Give-Round-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -528.905,
+      "Y": -1239.5,
+      "Z": 67.911
+    },
+    {
+      "Name": "Round",
+      "X": -552.01,
+      "Y": -1184.81,
+      "Z": 28.2687
+    },
+    {
+      "Name": "Give-him-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -537.742,
+      "Y": -1185.19,
+      "Z": 27.7853
+    },
+    {
+      "Name": "Round",
+      "X": -519.032,
+      "Y": -1232.17,
+      "Z": 48.2031
+    },
+    {
+      "Name": "Give-ROund-if-dead-kill-the-attackers-and-rescue-after-give-him-faster-heart-this-way",
+      "X": -470.212,
+      "Y": -1300.75,
+      "Z": 75.9013
+    },
+    {
+      "Name": "ROund",
+      "X": -463.152,
+      "Y": -1352.51,
+      "Z": 78.5305
+    },
+    {
+      "Name": "Give-him-HEart-completed",
+      "X": -414.794,
+      "Y": -1353.59,
+      "Z": 71.3208
+    },
+    {
+      "Name": "Ball&canon",
+      "X": 472.027,
+      "Y": -1316.67,
+      "Z": 4.79385
+    },
+    {
+      "Name": "Ball",
+      "X": 448.353,
+      "Y": -1395.91,
+      "Z": 7.05328
+    },
+    {
+      "Name": "put-in",
+      "X": 476.424,
+      "Y": -1318.11,
+      "Z": 4.45601
+    },
+    {
+      "Name": "Egg",
+      "X": -223.179,
+      "Y": -759.92,
+      "Z": 37.823
+    },
+    {
+      "Name": "Snack",
+      "X": -267.2,
+      "Y": -769.704,
+      "Z": 33.2606
+    },
+    {
+      "Name": "Feed-the-QUeen-aroundhere&Take-Eggs",
+      "X": -236.309,
+      "Y": -743.746,
+      "Z": 37.3697
+    },
+    {
+      "Name": "Snack",
+      "X": -257.33,
+      "Y": -744.157,
+      "Z": 35.8335
+    },
+    {
+      "Name": "Feed-Queen&Take-Eggs",
+      "X": -229.514,
+      "Y": -749.762,
+      "Z": 37.6175
+    },
+    {
+      "Name": "Ball",
+      "X": 514.004,
+      "Y": -1261.71,
+      "Z": 0.284276
+    },
+    {
+      "Name": "Cannon",
+      "X": 476.758,
+      "Y": -1317.99,
+      "Z": 4.41392
+    },
+    {
+      "Name": "Ball",
+      "X": 549.437,
+      "Y": -1250.33,
+      "Z": 0.346515
+    },
+    {
+      "Name": "Cannon",
+      "X": 577.064,
+      "Y": -1214.52,
+      "Z": 3.34611
+    },
+    {
+      "Name": "Ball",
+      "X": 582.562,
+      "Y": -1220.63,
+      "Z": 1.8977
+    },
+    {
+      "Name": "Cannon",
+      "X": 576.423,
+      "Y": -1214.67,
+      "Z": 2.72096
+    },
+    {
+      "Name": "Kill1-Enemy-around-here",
+      "X": 534.358,
+      "Y": -1388.15,
+      "Z": 14.9756
+    },
+    {
+      "Name": "Snack",
+      "X": -305.475,
+      "Y": -835.663,
+      "Z": 44.2567
+    },
+    {
+      "Name": "Give-Queenfood&Take-Eggs",
+      "X": -290.151,
+      "Y": -782.103,
+      "Z": 34.1759
+    },
+    {
+      "Name": "Snack",
+      "X": -301.097,
+      "Y": -865.803,
+      "Z": 48.2711
+    },
+    {
+      "Name": "Give-Queen-Food&take-eggs",
+      "X": -244.961,
+      "Y": -915.335,
+      "Z": 39.5637
+    },
+    {
+      "Name": "Ball",
+      "X": 447.3,
+      "Y": -1396.23,
+      "Z": 6.69682
+    },
+    {
+      "Name": "Cannon",
+      "X": 476.82,
+      "Y": -1318.2,
+      "Z": 4.41987
+    },
+    {
+      "Name": "Take-Chunk-of-Wall-throw-it-in-Water-around-here",
+      "X": 517.727,
+      "Y": -1368.01,
+      "Z": 6.08063
+    },
+    {
+      "Name": "Help-the-Spirit-and-follow-him",
+      "X": 538.76,
+      "Y": -787.415,
+      "Z": 13.3056
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 541.401,
+      "Y": -746.412,
+      "Z": 11.2378
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 580.776,
+      "Y": -804.57,
+      "Z": 4.27156
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 655.453,
+      "Y": -816.985,
+      "Z": 4.56058
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 619.979,
+      "Y": -929.534,
+      "Z": 6.14633
+    },
+    {
+      "Name": "Help-Spirit-and.follow-him-if-nothing-was-there-at-the-ports-dont-worry-the-ports-are-again-in-the-back",
+      "X": 578.883,
+      "Y": -888.822154,
+      "Z": 4.93587
+    },
+    {
+      "Name": "Ball/Cannon",
+      "X": 473.416,
+      "Y": -1316.92,
+      "Z": 4.72472
+    },
+    {
+      "Name": "Chunk",
+      "X": 518.002,
+      "Y": -1366.87,
+      "Z": 6.64695
+    },
+    {
+      "Name": "Snack",
+      "X": -236.751,
+      "Y": -944.669,
+      "Z": 35.7687
+    },
+    {
+      "Name": "Give-Food&Take-Eggs",
+      "X": -238.712,
+      "Y": -913.869,
+      "Z": 37.9818
+    },
+    {
+      "Name": "Give-him-the-Eggs-Heart-completed",
+      "X": -247.235,
+      "Y": -753.144,
+      "Z": 35.6182
+    },
+    {
+      "Name": "Ball",
+      "X": 513.674,
+      "Y": -1261.55,
+      "Z": 0.362411
+    },
+    {
+      "Name": "Ball/Cannon",
+      "X": 549.699,
+      "Y": -1250.16,
+      "Z": 0.675546
+    },
+    {
+      "Name": "Chunk",
+      "X": 601.152,
+      "Y": -1300.45,
+      "Z": 2.95963
+    },
+    {
+      "Name": "If-Heart-not-completed-kill-all",
+      "X": 556.484,
+      "Y": -1342.96,
+      "Z": 14.7933
+    },
+    {
+      "Name": "Release-the-Hound",
+      "X": 231.297,
+      "Y": -864.867,
+      "Z": 38.3918
+    },
+    {
+      "Name": "Kich-tree6and_Kill",
+      "X": 215.836,
+      "Y": -916.152,
+      "Z": 41.0913
+    },
+    {
+      "Name": "Area&andkill",
+      "X": 214.977,
+      "Y": -968.33,
+      "Z": 41.8467
+    },
+    {
+      "Name": "BUsh&Killafter",
+      "X": 156.792,
+      "Y": -965.656,
+      "Z": 42.1176
+    },
+    {
+      "Name": "Release-the-Hound&Followhim",
+      "X": 238.508,
+      "Y": -853.84,
+      "Z": 37.8202
+    },
+    {
+      "Name": "Kick-Tree&Kill",
+      "X": 249.721,
+      "Y": -795.529,
+      "Z": 16.1977
+    },
+    {
+      "Name": "investigate",
+      "X": 254.035,
+      "Y": -736.047,
+      "Z": 9.5933
+    },
+    {
+      "Name": "Investigate",
+      "X": 222.416,
+      "Y": -730.604,
+      "Z": 8.38966
+    },
+    {
+      "Name": "Release-the-Hound&Follow-him",
+      "X": 228.855,
+      "Y": -864.753,
+      "Z": 38.3901
+    },
+    {
+      "Name": "Kick-Tree&Kill",
+      "X": 215.126,
+      "Y": -916.363,
+      "Z": 41.1356
+    },
+    {
+      "Name": "Investigate",
+      "X": 215.429,
+      "Y": -969.136,
+      "Z": 41.8056
+    },
+    {
+      "Name": "Bush&Kill",
+      "X": 155.787,
+      "Y": -963.649,
+      "Z": 42.2838
+    },
+    {
+      "Name": "Rubble",
+      "X": -506.536,
+      "Y": -1112.77,
+      "Z": 52.4698
+    },
+    {
+      "Name": "Rubble",
+      "X": -506.629,
+      "Y": -1084.31,
+      "Z": 57.7952
+    },
+    {
+      "Name": "Mine",
+      "X": -55.5748,
+      "Y": 503.775,
+      "Z": 10.5078
+    },
+    {
+      "Name": "Mine",
+      "X": -92.9379,
+      "Y": 462.51,
+      "Z": 14.1298
+    },
+    {
+      "Name": "Rubble",
+      "X": -490.294,
+      "Y": -1086.54,
+      "Z": 58.9344
+    },
+    {
+      "Name": "Rubble",
+      "X": -475.422,
+      "Y": -1065.42,
+      "Z": 60.7472
+    },
+    {
+      "Name": "Mine",
+      "X": -34.9234,
+      "Y": 731.609,
+      "Z": 4.5832
+    },
+    {
+      "Name": "Mine",
+      "X": 6.45663,
+      "Y": 657.648,
+      "Z": 5.20544
+    },
+    {
+      "Name": "RUbble",
+      "X": -486.044,
+      "Y": -1027.67,
+      "Z": 62.0561
+    },
+    {
+      "Name": "Rubble",
+      "X": -451.649,
+      "Y": -1026.56,
+      "Z": 62.2635
+    },
+    {
+      "Name": "Mine",
+      "X": -34.6959,
+      "Y": 616.936,
+      "Z": 6.85903
+    },
+    {
+      "Name": "Mine",
+      "X": -61.455,
+      "Y": 656.048,
+      "Z": 3.01678
+    },
+    {
+      "Name": "Mine",
+      "X": -15.4639,
+      "Y": 682.997,
+      "Z": 3.57757
+    },
+    {
+      "Name": "Rubble",
+      "X": -461.518,
+      "Y": -1053.2,
+      "Z": 62.3015
+    },
+    {
+      "Name": "Mine",
+      "X": -98.2841,
+      "Y": 523.49,
+      "Z": 7.09193
+    },
+    {
+      "Name": "Extra-Mine",
+      "X": 95.1206,
+      "Y": 584.933,
+      "Z": 33.308
+    },
+    {
+      "Name": "Extra-Mine",
+      "X": -24.4177,
+      "Y": 540.063,
+      "Z": 14.427
+    },
+    {
+      "Name": "Rubble",
+      "X": -507.6,
+      "Y": -1033.12,
+      "Z": 59.97
+    },
+    {
+      "Name": "Rubble",
+      "X": -532.41,
+      "Y": -1023.33,
+      "Z": 58.9
+    },
+    {
+      "Name": "Mine-Heart-completed",
+      "X": 94.3946,
+      "Y": 632.798,
+      "Z": 21.7336
+    },
+    {
+      "Name": "Help-the-Spirit-and-follow-him",
+      "X": 538.76,
+      "Y": -787.415,
+      "Z": 13.3056
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 541.401,
+      "Y": -746.412,
+      "Z": 11.2378
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 580.776,
+      "Y": -804.57,
+      "Z": 4.27156
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 655.453,
+      "Y": -816.985,
+      "Z": 4.56058
+    },
+    {
+      "Name": "Help-Spirit-and-follow-him",
+      "X": 619.979,
+      "Y": -929.534,
+      "Z": 6.14633
+    },
+    {
+      "Name": "Help-Spirit-and.follow-him-last-ports-for-this",
+      "X": 578.883,
+      "Y": -888.822154,
+      "Z": 4.93587
+    }
+  ]
+}

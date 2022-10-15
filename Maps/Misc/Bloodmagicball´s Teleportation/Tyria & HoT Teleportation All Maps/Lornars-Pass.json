@@ -1,0 +1,35 @@
+{
+  "Name": "Lornars-Pass",
+  "Coordinates": [
+    {
+      "Name": "LornarsPass-to-LionsArch",
+      "X": -580.02,
+      "Y": 470.86,
+      "Z": 161.44
+    },
+    {
+      "Name": "LornarsPass-to-Gendarran",
+      "X": -599.7,
+      "Y": 1609.5,
+      "Z": 50.94
+    },
+    {
+      "Name": "LornarsPass-to-Dredgehaunt",
+      "X": 586.33,
+      "Y": -633.2,
+      "Z": 156.22
+    },
+    {
+      "Name": "LornarsPass-SnowdenDrift",
+      "X": 409.33,
+      "Y": 1759.93,
+      "Z": 198.94
+    },
+    {
+      "Name": "LornarsPass-to-Bloodtide",
+      "X": -583.78,
+      "Y": -193.61,
+      "Z": 63.2
+    }
+  ]
+}

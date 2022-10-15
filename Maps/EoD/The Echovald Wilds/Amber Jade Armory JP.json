@@ -1,0 +1,23 @@
+{
+  "Name": "Amber Jade Armory JP",
+  "Coordinates": [
+    {
+      "Name": "Amber_Runestone",
+      "X": 871.78,
+      "Y": 134.6,
+      "Z": 39.77
+    },
+    {
+      "Name": "Jade_Runestone_Keymaster_Below",
+      "X": 892.17,
+      "Y": 31.85,
+      "Z": 1.77
+    },
+    {
+      "Name": "chest",
+      "X": 763.34,
+      "Y": 122.18,
+      "Z": 14.51
+    }
+  ]
+}

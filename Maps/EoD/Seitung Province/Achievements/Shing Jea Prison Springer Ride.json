@@ -1,0 +1,17 @@
+{
+  "Name": "Shing Jea Prison Springer Ride",
+  "Coordinates": [
+    {
+      "Name": "Mount_Springer_Here",
+      "X": -83.57,
+      "Y": -466.41,
+      "Z": 67.11
+    },
+    {
+      "Name": "TP_Here",
+      "X": 110.05,
+      "Y": -809.7,
+      "Z": 144.12
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "Name": "RangerPets",
+  "Coordinates": [
+    {
+      "Name": "BlackCitadel_JuvenileWhiptailDevourer",
+      "X": -383.083,
+      "Y": -84.9001,
+      "Z": 11.3587
+    },
+    {
+      "Name": "BlackCitadel_JuvenileLashtailDevourer",
+      "X": -375.508,
+      "Y": -386.185,
+      "Z": 21.7192
+    },
+    {
+      "Name": "Hoelbrak_JuvenileAlpineWolf",
+      "X": 494.322,
+      "Y": -200.838,
+      "Z": 325.647
+    },
+    {
+      "Name": "Hoelbrak_JuvenilePolarBear",
+      "X": -559.944,
+      "Y": 125.881,
+      "Z": 343.279
+    },
+    {
+      "Name": "Hoelbrak_JuvenileSnowLeopard",
+      "X": 21.237,
+      "Y": 64.0903,
+      "Z": 344.204
+    },
+    {
+      "Name": "Hoelbrak_JuvenileRaven",
+      "X": 265.623,
+      "Y": 299.554,
+      "Z": 327.097
+    },
+    {
+      "Name": "WayfarareFoothill_JuvenileArctodus",
+      "X": 613.396,
+      "Y": 231.675,
+      "Z": 92.823
+    },
+    {
+      "Name": "CaledonianForest_JuvenileFernHound",
+      "X": -457.257,
+      "Y": 455.021,
+      "Z": 55.0265
+    },
+    {
+      "Name": "CaledonianForest_JuvenileJungleSpider",
+      "X": 166.403,
+      "Y": 1204.56,
+      "Z": 8.13825
+    },
+    {
+      "Name": "CaledonianForest_JuvenilePinkMoa",
+      "X": 119.575,
+      "Y": 1.89976,
+      "Z": -0.394608
+    },
+    {
+      "Name": "CaledonianForest_JuvenileJungleStalker",
+      "X": -413.026,
+      "Y": -455.065,
+      "Z": 25.8927
+    },
+    {
+      "Name": "CaledonianForest_JuvenilePinkMoa",
+      "X": 398.57,
+      "Y": 1104.57,
+      "Z": 2.3488
+    },
+    {
+      "Name": "CaledonianForest_JuvenileMarshDrake",
+      "X": -517.785,
+      "Y": 1143.17,
+      "Z": 0.769115
+    },
+    {
+      "Name": "PlainsOfAshford_JuvenileWhiptailDevourer",
+      "X": -1258.88,
+      "Y": 723.646,
+      "Z": 19.8548
+    },
+    {
+      "Name": "DivinitysReach_JuvenilePig",
+      "X": 348.808,
+      "Y": -358.974,
+      "Z": 78.7421
+    },
+    {
+      "Name": "DivinitysReach_JuvenileDrakehound",
+      "X": -104.493,
+      "Y": -380.076,
+      "Z": 81.3974
+    },
+    {
+      "Name": "DissaPlateau_JuvenileLashtailDevourer",
+      "X": 619.941,
+      "Y": -37.5136,
+      "Z": 41.6032
+    },
+    {
+      "Name": "KessexHills_JuvenileRiverDrake",
+      "X": 1066.86,
+      "Y": 484.214,
+      "Z": -0.344857
+    },
+    {
+      "Name": "KessexHills_JuvenileEagle",
+      "X": 924.807,
+      "Y": 443.19,
+      "Z": 57.7048
+    },
+    {
+      "Name": "KessexHills_JuveileShark",
+      "X": 200.496,
+      "Y": -503.695,
+      "Z": -23.9847
+    },
+    {
+      "Name": "SnowdenDrift_JuvenileIceDrake",
+      "X": 94.7945,
+      "Y": -441.512,
+      "Z": -4.04365
+    },
+    {
+      "Name": "Snowdendrift_JuvenileLynx",
+      "X": -73.3784,
+      "Y": 98.3466,
+      "Z": 83.1152
+    },
+    {
+      "Name": "SnowdenDrift_JuvenileOwl",
+      "X": 455.137,
+      "Y": -502.292,
+      "Z": 28.0726
+    },
+    {
+      "Name": "SnowdenDrift_JuvenileWhiteMoa",
+      "X": 138.782,
+      "Y": 46.328,
+      "Z": 66.401
+    },
+    {
+      "Name": "Brisbanwildlands_Jaguar",
+      "X": -488.534,
+      "Y": -478.128,
+      "Z": 24.0992
+    },
+    {
+      "Name": "BrisbaneWildlands_Murellow",
+      "X": 14.0834,
+      "Y": 267.157,
+      "Z": 73.9696
+    },
+    {
+      "Name": "BrisbaneWildlands_Siamoth",
+      "X": 470.757,
+      "Y": -689.192,
+      "Z": 19.2591
+    },
+    {
+      "Name": "GendaranFields_Brownbear",
+      "X": -1194.35,
+      "Y": -216.69,
+      "Z": 9.88444
+    },
+    {
+      "Name": "GandaranFields_Warthog",
+      "X": 535.626,
+      "Y": 466.445,
+      "Z": 55.0556
+    },
+    {
+      "Name": "FieldsofRuin_Hyena",
+      "X": 369.891,
+      "Y": -604.334,
+      "Z": 19.4509
+    },
+    {
+      "Name": "HaratiHinterlands_CaveSpider",
+      "X": -677.564,
+      "Y": -836.865,
+      "Z": 113.181
+    },
+    {
+      "Name": "BlazeridgeSteppers_RedMoa",
+      "X": 500.678,
+      "Y": 214.049,
+      "Z": 51.8758
+    },
+    {
+      "Name": "BlazeridgeSteppers_SalamanderDrake",
+      "X": 66.4418,
+      "Y": -1487.48,
+      "Z": 18.5364
+    },
+    {
+      "Name": "BloodtideFen_BlueMoa",
+      "X": 37.8713,
+      "Y": 581.741,
+      "Z": 27.663
+    },
+    {
+      "Name": "Bloodtidecoast_RedJellyfish",
+      "X": -379.885,
+      "Y": 793.813,
+      "Z": -66.3466
+    },
+    {
+      "Name": "IronMarches_CarrionDevourer",
+      "X": -279.094,
+      "Y": -872.492,
+      "Z": 45.2224
+    },
+    {
+      "Name": "IronMarches_ForestSpider",
+      "X": 522.408,
+      "Y": -757.983,
+      "Z": 15.3594
+    },
+    {
+      "Name": "IronMarches_Hawk",
+      "X": 702.342,
+      "Y": 1225.11,
+      "Z": 6.62661
+    },
+    {
+      "Name": "Straitsofdevestation_Boar",
+      "X": 1099.63,
+      "Y": 421.548,
+      "Z": 9.80436
+    },
+    {
+      "Name": "SouthCove_ReefDrake",
+      "X": 445.087,
+      "Y": -216.685,
+      "Z": 0.859284
+    },
+    {
+      "Name": "LionsArch_BlueJellyfish",
+      "X": -417.382,
+      "Y": -135.158,
+      "Z": -24.6147
+    },
+    {
+      "Name": "Lionsarch_ArmorFish",
+      "X": -360.318,
+      "Y": -143.549,
+      "Z": -90.9578
+    },
+    {
+      "Name": "VerdantBrink_FireWyvern",
+      "X": 305.635,
+      "Y": -192.836,
+      "Z": 753.666
+    },
+    {
+      "Name": "TangledDepths_SmokeScale",
+      "X": 887.661,
+      "Y": -579.558,
+      "Z": 338.482
+    },
+    {
+      "Name": "AuraBasin_Bristleback",
+      "X": 545.648,
+      "Y": -330.844,
+      "Z": 303.477
+    },
+    {
+      "Name": "DragonStand_Tiger",
+      "X": -185.594,
+      "Y": 118.977,
+      "Z": 131.663
+    },
+    {
+      "Name": "Dragonstand_ElectricWyvern",
+      "X": 359.11,
+      "Y": 217.178,
+      "Z": 258.718
+    },
+    {
+      "Name": "DesertHillands_FangedIboga",
+      "X": -283.946,
+      "Y": 252.371,
+      "Z": 268.134
+    },
+    {
+      "Name": "Desolation_RockGazelle",
+      "X": 668.03,
+      "Y": -1087.35,
+      "Z": 388.454
+    },
+    {
+      "Name": "ElonianRiverlandsCheetah",
+      "X": 1290.63,
+      "Y": -177.048,
+      "Z": -0.95124
+    },
+    {
+      "Name": "CrystalOasis_SandLion",
+      "X": -337.619,
+      "Y": 472.248,
+      "Z": 65.0713
+    },
+    {
+      "Name": "DomainofVabbi_Jacaranda",
+      "X": -1535.91,
+      "Y": -594.709,
+      "Z": 291.359
+    },
+    {
+      "Name": "SeitungProvince_WhiteTiger",
+      "X": -1177.74,
+      "Y": 735.59,
+      "Z": 174.38
+    },
+    {
+      "Name": "Dragon´sEND-SiegeTurtle",
+      "X": 547.7,
+      "Y": -223.72,
+      "Z": 195.25
+    },
+    {
+      "Name": "TheEchovaldWilds-Wallow",
+      "X": 1334.62,
+      "Y": 94.19,
+      "Z": 28.98
+    },
+    {
+      "Name": "NewKainengCity-Phoenix",
+      "X": -860.71,
+      "Y": -199.75,
+      "Z": 321.93
+    }
+  ]
+}

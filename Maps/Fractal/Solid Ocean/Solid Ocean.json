@@ -1,0 +1,29 @@
+{
+  "Name": "Solid Ocean",
+  "Coordinates": [
+    {
+      "Name": "Singularity-before-boss",
+      "X": 923.97,
+      "Y": 900.77,
+      "Z": 736.18
+    },
+    {
+      "Name": "Boss-Platfform",
+      "X": 916.53,
+      "Y": 958.84,
+      "Z": 723.25
+    },
+    {
+      "Name": "first-Tenta",
+      "X": 906.85,
+      "Y": 1002.23,
+      "Z": 723.27
+    },
+    {
+      "Name": "second-Tenta",
+      "X": 942.7,
+      "Y": 1013.63,
+      "Z": 723.02
+    }
+  ]
+}

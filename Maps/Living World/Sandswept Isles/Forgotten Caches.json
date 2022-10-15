@@ -1,0 +1,77 @@
+{
+  "Name": "Forgotten Caches",
+  "Coordinates": [
+    {
+      "Name": "ForgottenCache1",
+      "X": 998.688,
+      "Y": -598.56135,
+      "Z": 33.9523
+    },
+    {
+      "Name": "ForgottenCache2",
+      "X": 178.916,
+      "Y": -15.4124,
+      "Z": 111.62
+    },
+    {
+      "Name": "ForgottenCache3",
+      "X": -476.006,
+      "Y": -40.7715,
+      "Z": 9.5273
+    },
+    {
+      "Name": "ForgottenCache4",
+      "X": 339.408,
+      "Y": -316.647,
+      "Z": 60.5263
+    },
+    {
+      "Name": "ForgottenCache5",
+      "X": 638.044,
+      "Y": -344.563,
+      "Z": 26.3825
+    },
+    {
+      "Name": "ForgottenCache6",
+      "X": -601.93,
+      "Y": 1064.04,
+      "Z": 0.355018
+    },
+    {
+      "Name": "ForgottenCache7",
+      "X": 815.481,
+      "Y": 1224.36,
+      "Z": -13.8125
+    },
+    {
+      "Name": "ForgottenCache8",
+      "X": 815.034,
+      "Y": 1067.16,
+      "Z": 13.6804
+    },
+    {
+      "Name": "ForgottenCache9",
+      "X": 678.359,
+      "Y": 764.069,
+      "Z": 0.272026
+    },
+    {
+      "Name": "ForgottenCache10",
+      "X": 806.891,
+      "Y": 728.421,
+      "Z": -4.32522
+    },
+    {
+      "Name": "ForgottenCache11",
+      "X": 455.954,
+      "Y": 607.754,
+      "Z": -16.8678
+    },
+    {
+      "Name": "ForgottenCache12",
+      "X": 127.161,
+      "Y": 556.541,
+      "Z": -9.61014
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Name": "Skritt chests",
+  "Coordinates": [
+    {
+      "Name": "CaffinatedSkrittChest1",
+      "X": 264.832,
+      "Y": -739.193,
+      "Z": 178.647
+    },
+    {
+      "Name": "CaffinatedSkrittChest2",
+      "X": -972.49,
+      "Y": -649.341,
+      "Z": 5.08081
+    },
+    {
+      "Name": "CaffinatedSkrittChest3",
+      "X": -1164.24,
+      "Y": -9.80198,
+      "Z": 621.748
+    },
+    {
+      "Name": "CaffinatedSkrittChest4",
+      "X": -738.41,
+      "Y": 154.758,
+      "Z": 388.207
+    },
+    {
+      "Name": "CaffinatedSkrittChest5",
+      "X": 1616.05,
+      "Y": 283.763,
+      "Z": 234.611
+    }
+  ]
+}

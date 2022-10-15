@@ -1,0 +1,17 @@
+{
+  "Name": "Derelict temple raptor ride",
+  "Coordinates": [
+    {
+      "Name": "Mount_raptor_here",
+      "X": 1177.8,
+      "Y": -105.4,
+      "Z": 90.52
+    },
+    {
+      "Name": "TP_here",
+      "X": 1184.87,
+      "Y": 873.56,
+      "Z": 26.38
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Name": "POI",
+  "Coordinates": [
+    {
+      "Name": "Danikas_Respite",
+      "X": -1288.67,
+      "Y": 835.12,
+      "Z": -1.3
+    },
+    {
+      "Name": "The_Ready_Room",
+      "X": -965.59,
+      "Y": 506.92,
+      "Z": 12.02
+    },
+    {
+      "Name": "Singer_Fountain",
+      "X": -863.15,
+      "Y": 499.68,
+      "Z": 304.22
+    },
+    {
+      "Name": "Kestrel_Archives",
+      "X": -848.51,
+      "Y": 678.28,
+      "Z": 116.67
+    },
+    {
+      "Name": "Quartermaster_Row",
+      "X": -982.28,
+      "Y": 827.87,
+      "Z": 116.75
+    },
+    {
+      "Name": "Arborstone_Inn",
+      "X": -1031.88,
+      "Y": 458.23,
+      "Z": 116.77
+    },
+    {
+      "Name": "Kaga_Hearth",
+      "X": -1099.15,
+      "Y": 552.56,
+      "Z": 116.76
+    },
+    {
+      "Name": "The_Roost",
+      "X": -1165.42,
+      "Y": 600.93,
+      "Z": 116.79
+    },
+    {
+      "Name": "Hall_of_Remembrance",
+      "X": -1182.54,
+      "Y": 716.25,
+      "Z": 118.35
+    },
+    {
+      "Name": "Sanctuary_of_the_Five",
+      "X": -1090.61,
+      "Y": 806.1,
+      "Z": 158.83
+    },
+    {
+      "Name": "Longfeather_Plaza",
+      "X": -1005.8,
+      "Y": 641.22,
+      "Z": 2.61
+    },
+    {
+      "Name": "The_Exchange",
+      "X": -882.5,
+      "Y": 614.84,
+      "Z": 11.97
+    }
+  ]
+}

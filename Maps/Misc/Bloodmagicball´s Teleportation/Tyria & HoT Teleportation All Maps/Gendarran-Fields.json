@@ -1,0 +1,41 @@
+{
+  "Name": "Gendarran-Fields",
+  "Coordinates": [
+    {
+      "Name": "Gendarran-to-Queensdale",
+      "X": -1469.7,
+      "Y": 476.25,
+      "Z": 7.56
+    },
+    {
+      "Name": "Gendarran-to-Harathi",
+      "X": -859.66,
+      "Y": 734.63,
+      "Z": 69.24
+    },
+    {
+      "Name": "Gendarran-to-Kessex",
+      "X": -1442.99,
+      "Y": -607.13,
+      "Z": 11.12
+    },
+    {
+      "Name": "Gendarran-to-LionsArch",
+      "X": 294.58,
+      "Y": -679.26,
+      "Z": 5.65
+    },
+    {
+      "Name": "Gendarran-to-LornarsPass",
+      "X": 1502.13,
+      "Y": -242.31,
+      "Z": 107.3
+    },
+    {
+      "Name": "Gendarran-to-Snowden",
+      "X": 1543.03,
+      "Y": 425.59,
+      "Z": 101.92
+    }
+  ]
+}

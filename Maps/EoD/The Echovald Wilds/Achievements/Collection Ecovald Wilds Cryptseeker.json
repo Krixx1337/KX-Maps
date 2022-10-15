@@ -1,0 +1,41 @@
+{
+  "Name": "Collection Ecovald Wilds Cryptseeker",
+  "Coordinates": [
+    {
+      "Name": "Collection_Start",
+      "X": -407.38,
+      "Y": 766.41,
+      "Z": 219.44
+    },
+    {
+      "Name": "Amber_Keystone1",
+      "X": -596.99,
+      "Y": -822.2,
+      "Z": 53.47
+    },
+    {
+      "Name": "Amber_Keystone2",
+      "X": 769.31,
+      "Y": -691.78,
+      "Z": 0.71
+    },
+    {
+      "Name": "Amber_Keystone3",
+      "X": 357.76,
+      "Y": 456.67,
+      "Z": 303.78
+    },
+    {
+      "Name": "return_to_her",
+      "X": -407.38,
+      "Y": 766.41,
+      "Z": 219.44
+    },
+    {
+      "Name": "End_of_the_Collection",
+      "X": 1233.16,
+      "Y": -239.19,
+      "Z": 53.88
+    }
+  ]
+}

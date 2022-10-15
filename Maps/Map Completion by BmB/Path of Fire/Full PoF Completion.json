@@ -1,0 +1,2099 @@
+{
+  "Name": "Full PoF Completion",
+  "Coordinates": [
+    {
+      "Name": "CrystalOasis-WP1",
+      "X": -902.164,
+      "Y": -117.301,
+      "Z": 1.29425
+    },
+    {
+      "Name": "CrystalOasis-WP2",
+      "X": 867.704,
+      "Y": 249.314,
+      "Z": 151.138
+    },
+    {
+      "Name": "CrystalOasis-WP3",
+      "X": 1329.48,
+      "Y": -452.372,
+      "Z": 24.1472
+    },
+    {
+      "Name": "CrystalOasis-PoI1",
+      "X": -839.56,
+      "Y": -196.222,
+      "Z": 3.15117
+    },
+    {
+      "Name": "CrystalOasis-PoI2",
+      "X": -1076.82,
+      "Y": -118.629,
+      "Z": 12.9586
+    },
+    {
+      "Name": "CrystalOasis-PoI3",
+      "X": -1075.94,
+      "Y": -340.966,
+      "Z": 10.0768
+    },
+    {
+      "Name": "CrystalOasis-PoI4",
+      "X": -1265.54,
+      "Y": -326.92,
+      "Z": 18.5509
+    },
+    {
+      "Name": "CrystalOasis-PoI5",
+      "X": -1241.29,
+      "Y": -122.416,
+      "Z": -1.29065
+    },
+    {
+      "Name": "CrystalOasis-PoI6",
+      "X": -1159.81,
+      "Y": -37.2407,
+      "Z": 16.0343
+    },
+    {
+      "Name": "CrystalOasis-PoI7",
+      "X": -826.322,
+      "Y": -657.545,
+      "Z": 22.7737
+    },
+    {
+      "Name": "CrystalOasis-PoI8",
+      "X": -1708.01,
+      "Y": -122.514,
+      "Z": -28.4317
+    },
+    {
+      "Name": "CrystalOasis-PoI9",
+      "X": -1649.89,
+      "Y": 318.891,
+      "Z": 4.10189
+    },
+    {
+      "Name": "CrystalOasis-PoI10",
+      "X": -1194.84,
+      "Y": 216.238,
+      "Z": 51.5638
+    },
+    {
+      "Name": "CrystalOasis-PoI11",
+      "X": -1312.08,
+      "Y": 624.364,
+      "Z": 6.7076
+    },
+    {
+      "Name": "CrystalOasis-PoI12",
+      "X": -996.974,
+      "Y": 455.442,
+      "Z": 3.74719
+    },
+    {
+      "Name": "CrystalOasis-PoI13",
+      "X": -682.096,
+      "Y": 734.905,
+      "Z": 2.03071
+    },
+    {
+      "Name": "CrystalOasis-PoI14",
+      "X": -620.413,
+      "Y": -125.674,
+      "Z": 11.213
+    },
+    {
+      "Name": "CrystalOasis-PoI15",
+      "X": -438.52,
+      "Y": -416.155,
+      "Z": 10.2667
+    },
+    {
+      "Name": "CrystalOasis-PoI16",
+      "X": -247.204,
+      "Y": 289.394,
+      "Z": 15.5366
+    },
+    {
+      "Name": "CrystalOasis-PoI17",
+      "X": 36.5928,
+      "Y": 793.455,
+      "Z": 129.909
+    },
+    {
+      "Name": "CrystalOasis-PoI18",
+      "X": 311.973,
+      "Y": 687.718,
+      "Z": 71.0452
+    },
+    {
+      "Name": "CrystalOasis-PoI19",
+      "X": 224.245,
+      "Y": 270.324,
+      "Z": 53.9473
+    },
+    {
+      "Name": "CrystalOasis-PoI20",
+      "X": 224.943,
+      "Y": -129.685,
+      "Z": 99.1604
+    },
+    {
+      "Name": "CrystalOasis-PoI21",
+      "X": 447.912,
+      "Y": -318.137,
+      "Z": 16.6567
+    },
+    {
+      "Name": "CrystalOasis-PoI22",
+      "X": 443.647,
+      "Y": -450.956,
+      "Z": -4.09856
+    },
+    {
+      "Name": "CrystalOasis-PoI23",
+      "X": 847.985,
+      "Y": 435.32,
+      "Z": 140.823
+    },
+    {
+      "Name": "CrystalOasis-PoI24",
+      "X": 858.172,
+      "Y": 165.849,
+      "Z": 152.291
+    },
+    {
+      "Name": "CrystalOasis-PoI25",
+      "X": 899.921,
+      "Y": -673.119,
+      "Z": 15.997
+    },
+    {
+      "Name": "CrystalOasis-PoI26",
+      "X": 1328.01,
+      "Y": -335.946,
+      "Z": 17.4509
+    },
+    {
+      "Name": "CrystalOasis-PoI27",
+      "X": 1702.17,
+      "Y": -273.419,
+      "Z": 96.1279
+    },
+    {
+      "Name": "CrystalOasis-PoI28",
+      "X": 1311.2,
+      "Y": 122.319,
+      "Z": 126.413
+    },
+    {
+      "Name": "CrystalOasis-PoI29",
+      "X": 1777.73,
+      "Y": -79.984,
+      "Z": 134.405
+    },
+    {
+      "Name": "CrystalOasis-PoI30",
+      "X": 1529.54,
+      "Y": 550.967,
+      "Z": 232.802
+    },
+    {
+      "Name": "CrystalOasis-Vista1",
+      "X": 1244.35,
+      "Y": 514.41,
+      "Z": 257.51
+    },
+    {
+      "Name": "CrystalOasis-Vista2",
+      "X": 1418.55,
+      "Y": -237.521,
+      "Z": 105.654
+    },
+    {
+      "Name": "CrystalOasis-Vista3",
+      "X": 662.143,
+      "Y": 320.239,
+      "Z": 111.931
+    },
+    {
+      "Name": "CrystalOasis-Vista4",
+      "X": 159.222,
+      "Y": 311.851,
+      "Z": 75.0792
+    },
+    {
+      "Name": "CrystalOasis-Vista5",
+      "X": 267.066,
+      "Y": 559.102,
+      "Z": 164.55
+    },
+    {
+      "Name": "CrystalOasis-Vista6",
+      "X": -632.454,
+      "Y": 533.411,
+      "Z": 48.1967
+    },
+    {
+      "Name": "CrystalOasis-Vista7",
+      "X": -1103.95,
+      "Y": 339.371,
+      "Z": 68.2613
+    },
+    {
+      "Name": "CrystalOasis-Vista8",
+      "X": -913.171,
+      "Y": -265.447,
+      "Z": 60.4786
+    },
+    {
+      "Name": "CrystalOasis-Vista9",
+      "X": -1370.71,
+      "Y": -236.585,
+      "Z": 19.3914
+    },
+    {
+      "Name": "CrystalOasis-Vista10",
+      "X": 88.552,
+      "Y": -167.834,
+      "Z": 69.0364
+    },
+    {
+      "Name": "CrystalOasis-HP1",
+      "X": -1084.09,
+      "Y": 809.19,
+      "Z": 44.3434
+    },
+    {
+      "Name": "CrystalOasis-HP2",
+      "X": -598.481,
+      "Y": -824.678,
+      "Z": 21.3956
+    },
+    {
+      "Name": "CrystalOasis-HP3",
+      "X": -304.717,
+      "Y": 472.974,
+      "Z": 42.1256
+    },
+    {
+      "Name": "CrystalOasis-HP4",
+      "X": 335.394,
+      "Y": 698.971,
+      "Z": 67.5796
+    },
+    {
+      "Name": "CrystalOasis-HP5",
+      "X": 1549.19,
+      "Y": 566.004,
+      "Z": 351.895
+    },
+    {
+      "Name": "TP-to_DesertHighlands",
+      "X": 675.41,
+      "Y": 880.34,
+      "Z": 124.05
+    },
+    {
+      "Name": "DesertHighlands-WP1",
+      "X": 645.401,
+      "Y": -844.011,
+      "Z": 200.0
+    },
+    {
+      "Name": "DesertHighlands-WP2",
+      "X": 586.623,
+      "Y": 428.338,
+      "Z": 256.193
+    },
+    {
+      "Name": "DesertHighlands-WP3",
+      "X": -158.327,
+      "Y": 518.295,
+      "Z": 310.915
+    },
+    {
+      "Name": "DesertHighlands-WP4",
+      "X": -1593.06,
+      "Y": 519.089,
+      "Z": 420.753
+    },
+    {
+      "Name": "DesertHighlands-WP5",
+      "X": -347.385,
+      "Y": -643.87,
+      "Z": 18.4002
+    },
+    {
+      "Name": "DesertHighlands-PoI1",
+      "X": 719.725,
+      "Y": -763.697,
+      "Z": 182.527
+    },
+    {
+      "Name": "DesertHighlands-PoI2",
+      "X": 110.749,
+      "Y": -610.62,
+      "Z": 140.126
+    },
+    {
+      "Name": "DesertHighlands-PoI3",
+      "X": 212.841,
+      "Y": -454.242,
+      "Z": 242.403
+    },
+    {
+      "Name": "DesertHighlands-PoI4",
+      "X": 539.736,
+      "Y": -411.503,
+      "Z": 190.62
+    },
+    {
+      "Name": "DesertHighlands-PoI5",
+      "X": 410.541,
+      "Y": 39.6059,
+      "Z": 290.752
+    },
+    {
+      "Name": "DesertHighlands-PoI6",
+      "X": 330.177,
+      "Y": -192.873,
+      "Z": 169.439
+    },
+    {
+      "Name": "DesertHighlands-PoI7",
+      "X": 1332.41,
+      "Y": -74.1437,
+      "Z": 267.348
+    },
+    {
+      "Name": "DesertHighlands-PoI8",
+      "X": 1518.46,
+      "Y": -540.219,
+      "Z": 90.3719
+    },
+    {
+      "Name": "DesertHighlands-PoI9",
+      "X": 1129.04,
+      "Y": 238.651,
+      "Z": 356.871
+    },
+    {
+      "Name": "DesertHighlands-PoI10",
+      "X": 559.362,
+      "Y": 518.927,
+      "Z": 270.676
+    },
+    {
+      "Name": "DesertHighlands-PoI11",
+      "X": 766.007,
+      "Y": 847.467,
+      "Z": 375.923
+    },
+    {
+      "Name": "DesertHighlands-PoI12",
+      "X": 603.139,
+      "Y": 144.119,
+      "Z": 171.059
+    },
+    {
+      "Name": "DesertHighlands-PoI13",
+      "X": -81.356,
+      "Y": 448.537,
+      "Z": 299.185
+    },
+    {
+      "Name": "DesertHighlands-PoI14",
+      "X": 79.6578,
+      "Y": 441.757,
+      "Z": 325.307
+    },
+    {
+      "Name": "DesertHighlands-PoI15",
+      "X": 51.876,
+      "Y": 675.531,
+      "Z": 402.273
+    },
+    {
+      "Name": "DesertHighlands-PoI16",
+      "X": -246.49,
+      "Y": 700.859,
+      "Z": 347.41
+    },
+    {
+      "Name": "DesertHighlands-PoI17",
+      "X": -692.937,
+      "Y": 113.474,
+      "Z": 368.979
+    },
+    {
+      "Name": "DesertHighlands-PoI18",
+      "X": -229.552,
+      "Y": -323.056,
+      "Z": 336.676
+    },
+    {
+      "Name": "DesertHighlands-PoI19",
+      "X": -557.623,
+      "Y": -337.816,
+      "Z": 84.0996
+    },
+    {
+      "Name": "DesertHighlands-PoI20",
+      "X": -898.649,
+      "Y": -328.223,
+      "Z": 163.41
+    },
+    {
+      "Name": "DesertHighlands-PoI21",
+      "X": -957.125,
+      "Y": 518.278,
+      "Z": 459.252
+    },
+    {
+      "Name": "DesertHighlands-PoI22",
+      "X": -1110.79,
+      "Y": 790.039,
+      "Z": 392.557
+    },
+    {
+      "Name": "DesertHighlands-PoI23",
+      "X": -1553.51,
+      "Y": 495.898,
+      "Z": 420.291
+    },
+    {
+      "Name": "DesertHighlands-PoI24",
+      "X": -1529.63,
+      "Y": 191.752,
+      "Z": 475.29
+    },
+    {
+      "Name": "DesertHighlands-PoI25",
+      "X": -1167.32,
+      "Y": -8.53696,
+      "Z": 621.745
+    },
+    {
+      "Name": "DesertHighlands-PoI26",
+      "X": -1249.29,
+      "Y": -279.764,
+      "Z": 412.572
+    },
+    {
+      "Name": "DesertHighlands-PoI27",
+      "X": -1491.75,
+      "Y": -227.121,
+      "Z": 368.021
+    },
+    {
+      "Name": "DesertHighlands-PoI28",
+      "X": -1507.68,
+      "Y": -426.481,
+      "Z": 238.021
+    },
+    {
+      "Name": "DesertHighlands-PoI29",
+      "X": -1545.48,
+      "Y": -641.7,
+      "Z": 64.3443
+    },
+    {
+      "Name": "DesertHighlands-PoI30",
+      "X": 1772.33,
+      "Y": 699.19,
+      "Z": 201.05
+    },
+    {
+      "Name": "DesertHighlands-PoI31",
+      "X": 734.056,
+      "Y": 760.633,
+      "Z": 198.775
+    },
+    {
+      "Name": "DesertHighlands-Vista1",
+      "X": 258.163,
+      "Y": -762.835,
+      "Z": 224.289
+    },
+    {
+      "Name": "DesertHighlands-Vista2",
+      "X": 254.389,
+      "Y": -419.989,
+      "Z": 245.308
+    },
+    {
+      "Name": "DesertHighlands-Vista3",
+      "X": 1176.61,
+      "Y": 293.357,
+      "Z": 345.386
+    },
+    {
+      "Name": "DesertHighlands-Vista4",
+      "X": 742.597,
+      "Y": 770.243,
+      "Z": 324.194
+    },
+    {
+      "Name": "DesertHighlands-Vista5",
+      "X": -305.534,
+      "Y": 513.879,
+      "Z": 383.74
+    },
+    {
+      "Name": "DesertHighlands-Vista6",
+      "X": -1560.88,
+      "Y": 171.776,
+      "Z": 427.236
+    },
+    {
+      "Name": "DesertHighlands-Vista7",
+      "X": -1397.56,
+      "Y": -409.482,
+      "Z": 367.183
+    },
+    {
+      "Name": "DesertHighlands-Vista8",
+      "X": -1160.06,
+      "Y": -356.811,
+      "Z": 683.417
+    },
+    {
+      "Name": "DesertHighlands-Vista9",
+      "X": -763.799,
+      "Y": -555.033,
+      "Z": 75.8241
+    },
+    {
+      "Name": "DesertHighlands-Vista10",
+      "X": -645.852,
+      "Y": -675.88,
+      "Z": 78.0782
+    },
+    {
+      "Name": "DesertHighlands-Vista11",
+      "X": 1420.19,
+      "Y": -345.221,
+      "Z": 286.061
+    },
+    {
+      "Name": "DesertHighlands-HP1",
+      "X": 104.953,
+      "Y": -329.04,
+      "Z": 224.913
+    },
+    {
+      "Name": "DesertHighlands-HP2",
+      "X": 1371.34,
+      "Y": -663.099,
+      "Z": 221.388
+    },
+    {
+      "Name": "DesertHighlands-HP3",
+      "X": 1403.1,
+      "Y": 61.4355,
+      "Z": 330.324
+    },
+    {
+      "Name": "DesertHighlands-HP4",
+      "X": 1640.27,
+      "Y": 288.115,
+      "Z": 314.27
+    },
+    {
+      "Name": "DesertHighlands-HP5",
+      "X": 797.476,
+      "Y": 836.467,
+      "Z": 310.555
+    },
+    {
+      "Name": "DesertHighlands-HP6",
+      "X": 474.501,
+      "Y": 268.071,
+      "Z": 291.76
+    },
+    {
+      "Name": "DesertHighlands-HP7",
+      "X": -1475.72,
+      "Y": 324.216,
+      "Z": 419.177
+    },
+    {
+      "Name": "TP_to_CrystalOasis",
+      "X": 671.67,
+      "Y": -896.95,
+      "Z": 199.37
+    },
+    {
+      "Name": "TP_to_ElonRiverlands",
+      "X": 1285.71,
+      "Y": -714.13,
+      "Z": 26.03
+    },
+    {
+      "Name": "ElonRiverlands-WP1",
+      "X": 782.258,
+      "Y": 710.253,
+      "Z": 107.762
+    },
+    {
+      "Name": "ElonRiverlands-WP2",
+      "X": 248.711,
+      "Y": 120.625,
+      "Z": 41.4083
+    },
+    {
+      "Name": "ElonRiverlands-WP3",
+      "X": -703.668,
+      "Y": -15.5894,
+      "Z": 5.86648
+    },
+    {
+      "Name": "ElonRiverlands-PoI1",
+      "X": 724.337,
+      "Y": 1075.68,
+      "Z": 114.499
+    },
+    {
+      "Name": "ElonRiverlands-PoI2",
+      "X": 872.698,
+      "Y": 909.924,
+      "Z": 119.208
+    },
+    {
+      "Name": "ElonRiverlands-PoI3",
+      "X": 348.944,
+      "Y": 917.47,
+      "Z": 117.844
+    },
+    {
+      "Name": "ElonRiverlands-PoI4",
+      "X": 466.823,
+      "Y": 605.487,
+      "Z": 95.5228
+    },
+    {
+      "Name": "ElonRiverlands-PoI5",
+      "X": 630.55,
+      "Y": 413.195,
+      "Z": 52.7319
+    },
+    {
+      "Name": "ElonRiverlands-PoI6",
+      "X": -188.845,
+      "Y": 899.023,
+      "Z": 134.288
+    },
+    {
+      "Name": "ElonRiverlands-PoI7",
+      "X": -189.723,
+      "Y": 1165.93,
+      "Z": 3.24208
+    },
+    {
+      "Name": "ElonRiverlands-PoI8",
+      "X": -464.696,
+      "Y": 1174.87,
+      "Z": 115.301
+    },
+    {
+      "Name": "ElonRiverlands-PoI9",
+      "X": -953.257,
+      "Y": 1220.3,
+      "Z": 133.646
+    },
+    {
+      "Name": "ElonRiverlands-PoI10",
+      "X": -1190.15,
+      "Y": 1224.09,
+      "Z": 102.116
+    },
+    {
+      "Name": "ElonRiverlands-PoI11",
+      "X": -215.543,
+      "Y": 464.139,
+      "Z": 89.9775
+    },
+    {
+      "Name": "ElonRiverlands-PoI12",
+      "X": -152.846,
+      "Y": -2.52997,
+      "Z": 33.2536
+    },
+    {
+      "Name": "ElonRiverlands-PoI13",
+      "X": -437.513,
+      "Y": 207.01,
+      "Z": 6.06582
+    },
+    {
+      "Name": "ElonRiverlands-PoI14",
+      "X": -866.595,
+      "Y": -287.263,
+      "Z": 119.449
+    },
+    {
+      "Name": "ElonRiverlands-PoI15",
+      "X": -559.841,
+      "Y": -653.836,
+      "Z": 3.29038
+    },
+    {
+      "Name": "ElonRiverlands-PoI16",
+      "X": -1257.86,
+      "Y": -766.713,
+      "Z": 18.4968
+    },
+    {
+      "Name": "ElonRiverlands-PoI17",
+      "X": -1120.02,
+      "Y": -1002.47,
+      "Z": 12.3601
+    },
+    {
+      "Name": "ElonRiverlands-PoI18",
+      "X": 48.9016,
+      "Y": -1212.37,
+      "Z": -0.0499493
+    },
+    {
+      "Name": "ElonRiverlands-PoI19v2",
+      "X": 423.845,
+      "Y": -1101.1,
+      "Z": 5.8481
+    },
+    {
+      "Name": "ElonRiverlands-PoI20",
+      "X": 448.774,
+      "Y": -865.413,
+      "Z": 32.5961
+    },
+    {
+      "Name": "ElonRiverlands-PoI21",
+      "X": -276.426,
+      "Y": -338.893,
+      "Z": 56.2662
+    },
+    {
+      "Name": "ElonRiverlands-PoI22",
+      "X": 241.097,
+      "Y": -307.358,
+      "Z": 6.86843
+    },
+    {
+      "Name": "ElonRiverlands-PoI23",
+      "X": 106.135,
+      "Y": 432.572,
+      "Z": 90.8648
+    },
+    {
+      "Name": "ElonRiverlands-PoI24",
+      "X": 880.399,
+      "Y": -556.739,
+      "Z": 50.3071
+    },
+    {
+      "Name": "ElonRiverlands-PoI25",
+      "X": 1050.67,
+      "Y": -989.384,
+      "Z": -0.812033
+    },
+    {
+      "Name": "ElonRiverlands-PoI26",
+      "X": 1268.07,
+      "Y": -750.012,
+      "Z": 1.38261
+    },
+    {
+      "Name": "ElonRiverlands-PoI27",
+      "X": 1061.26,
+      "Y": -130.305,
+      "Z": 6.3863
+    },
+    {
+      "Name": "ElonRiverlands-PoI28",
+      "X": 1160.37,
+      "Y": 279.284,
+      "Z": 75.5378
+    },
+    {
+      "Name": "ElonRiverlands-PoI29",
+      "X": -1185.18,
+      "Y": 290.726,
+      "Z": 73.8328
+    },
+    {
+      "Name": "ElonRiverlands-PoI30",
+      "X": -980.054,
+      "Y": 301.272,
+      "Z": 22.2928
+    },
+    {
+      "Name": "ElonRiverlands-Vista1",
+      "X": 530.757,
+      "Y": 762.267,
+      "Z": 202.926
+    },
+    {
+      "Name": "ElonRiverlands-Vista2",
+      "X": 408.931,
+      "Y": -138.372,
+      "Z": 138.075
+    },
+    {
+      "Name": "ElonRiverlands-Vista3",
+      "X": 810.658,
+      "Y": -458.669,
+      "Z": 77.3136
+    },
+    {
+      "Name": "ElonRiverlands-Vista4",
+      "X": -336.744,
+      "Y": 932.282,
+      "Z": 168.219
+    },
+    {
+      "Name": "ElonRiverlands-Vista5",
+      "X": -1068.31,
+      "Y": 989.104,
+      "Z": 163.923
+    },
+    {
+      "Name": "ElonRiverlands-Vista6",
+      "X": -1141.9,
+      "Y": 471.946,
+      "Z": 103.925
+    },
+    {
+      "Name": "ElonRiverlands-Vista7",
+      "X": 51.9541,
+      "Y": 320.314,
+      "Z": 132.943
+    },
+    {
+      "Name": "ElonRiverlands-Vista8",
+      "X": -612.159,
+      "Y": -623.618,
+      "Z": 56.3148
+    },
+    {
+      "Name": "ElonRiverlands-Vista9",
+      "X": -1007.63,
+      "Y": -945.694,
+      "Z": 85.7982
+    },
+    {
+      "Name": "ElonRiverlands-Vista10",
+      "X": 412.311,
+      "Y": -881.701,
+      "Z": 20.322
+    },
+    {
+      "Name": "ElonRiverlands-HP1",
+      "X": 911.29,
+      "Y": 908.066,
+      "Z": 120.661
+    },
+    {
+      "Name": "ElonRiverlands-HP2",
+      "X": 1306.89,
+      "Y": 1098.64,
+      "Z": 98.9307
+    },
+    {
+      "Name": "ElonRiverlands-HP3",
+      "X": -71.0958,
+      "Y": 246.017,
+      "Z": 92.8567
+    },
+    {
+      "Name": "ElonRiverlands-HP4",
+      "X": -616.283,
+      "Y": 653.675,
+      "Z": 85.0458
+    },
+    {
+      "Name": "ElonRiverlands-HP5",
+      "X": -1210.12,
+      "Y": 998.219,
+      "Z": 90.8944
+    },
+    {
+      "Name": "ElonRiverlands-HP6",
+      "X": 812.605,
+      "Y": -556.642,
+      "Z": 65.6345
+    },
+    {
+      "Name": "ElonRiverlands-HP7",
+      "X": -445.95,
+      "Y": -370.22,
+      "Z": 4.23
+    },
+    {
+      "Name": "ElonRiverlands-HP8",
+      "X": -1118.42,
+      "Y": -1045.57,
+      "Z": 12.0784
+    },
+    {
+      "Name": "TP_to_TheDesolation",
+      "X": 47.23,
+      "Y": -1234.64,
+      "Z": -0.3
+    },
+    {
+      "Name": "TheDesolation-WP1",
+      "X": 36.5638,
+      "Y": 1760.51,
+      "Z": 0.438885
+    },
+    {
+      "Name": "TheDesolation-WP2_air_at_1_to_get_to_2",
+      "X": 36.4,
+      "Y": 1760.38,
+      "Z": 627.29
+    },
+    {
+      "Name": "TheDesolation-WP2_air_and_falling_down",
+      "X": -633.61,
+      "Y": 173.09,
+      "Z": 628.87
+    },
+    {
+      "Name": "TheDesolation-WP3",
+      "X": -681.662,
+      "Y": -1487.16,
+      "Z": 293.583
+    },
+    {
+      "Name": "TheDesolation-WP4",
+      "X": 640.521,
+      "Y": -1167.49,
+      "Z": 317.886
+    },
+    {
+      "Name": "TheDesolation-WP5",
+      "X": 1043.49,
+      "Y": -291.272,
+      "Z": 322.883
+    },
+    {
+      "Name": "TheDesolation-WP6",
+      "X": 307.858,
+      "Y": 378.451,
+      "Z": 339.686
+    },
+    {
+      "Name": "TheDesolation-PoI1",
+      "X": -481.999,
+      "Y": 322.636,
+      "Z": 315.637
+    },
+    {
+      "Name": "TheDesolation-PoI2",
+      "X": -557.773,
+      "Y": 57.3765,
+      "Z": 350.131
+    },
+    {
+      "Name": "TheDesolation-PoI3",
+      "X": -757.021,
+      "Y": 443.516,
+      "Z": 351.118
+    },
+    {
+      "Name": "TheDesolation-PoI4",
+      "X": -1194.94,
+      "Y": 471.375,
+      "Z": 161.138
+    },
+    {
+      "Name": "TheDesolation-PoI5",
+      "X": -821.883,
+      "Y": 852.702,
+      "Z": 121.459
+    },
+    {
+      "Name": "TheDesolation-PoI6",
+      "X": -497.974,
+      "Y": 1162.08,
+      "Z": 81.7041
+    },
+    {
+      "Name": "TheDesolation-PoI7",
+      "X": -82.2106,
+      "Y": 835.928,
+      "Z": 339.977
+    },
+    {
+      "Name": "TheDesolation-PoI8",
+      "X": 132.74,
+      "Y": 639.37,
+      "Z": 334.11
+    },
+    {
+      "Name": "TheDesolation-PoI9",
+      "X": 326.834,
+      "Y": 1184.94,
+      "Z": 196.357
+    },
+    {
+      "Name": "TheDesolation-PoI10",
+      "X": 462.145,
+      "Y": 1063.79,
+      "Z": 205.974
+    },
+    {
+      "Name": "TheDesolation-PoI11-air",
+      "X": 429.39,
+      "Y": 1078.99,
+      "Z": 629.07
+    },
+    {
+      "Name": "TheDesolation-PoI12-air",
+      "X": -293.89,
+      "Y": 1404.01,
+      "Z": 184.99
+    },
+    {
+      "Name": "TheDesolation-PoI13-air",
+      "X": 234.01,
+      "Y": 1531.57,
+      "Z": 255.11
+    },
+    {
+      "Name": "TheDesolation-PoI14",
+      "X": 880.707,
+      "Y": 1890.38,
+      "Z": 31.4429
+    },
+    {
+      "Name": "TheDesolation-PoI15",
+      "X": 856.296,
+      "Y": 1262.77,
+      "Z": 167.709
+    },
+    {
+      "Name": "TheDesolation-PoI16",
+      "X": 1201.93,
+      "Y": 1048.16,
+      "Z": 300.957
+    },
+    {
+      "Name": "TheDesolation-PoI17",
+      "X": 967.404,
+      "Y": 711.706,
+      "Z": 354.13
+    },
+    {
+      "Name": "TheDesolation-PoI18",
+      "X": 565.76,
+      "Y": 644.066,
+      "Z": 391.996
+    },
+    {
+      "Name": "TheDesolation-PoI19",
+      "X": 430.529,
+      "Y": 220.206,
+      "Z": 383.539
+    },
+    {
+      "Name": "TheDesolation-PoI20",
+      "X": 1107.45,
+      "Y": 230.799,
+      "Z": 350.72
+    },
+    {
+      "Name": "TheDesolation-PoI21",
+      "X": 847.026,
+      "Y": -446.511,
+      "Z": 342.2
+    },
+    {
+      "Name": "TheDesolation-PoI22",
+      "X": 527.653,
+      "Y": -591.492,
+      "Z": 339.372
+    },
+    {
+      "Name": "TheDesolation-PoI23",
+      "X": 248.716,
+      "Y": -267.693,
+      "Z": 365.456
+    },
+    {
+      "Name": "TheDesolation-PoI24",
+      "X": -235.506,
+      "Y": -413.087,
+      "Z": 379.454
+    },
+    {
+      "Name": "TheDesolation-PoI25",
+      "X": -227.404,
+      "Y": -131.631,
+      "Z": 366.754
+    },
+    {
+      "Name": "TheDesolation-PoI26",
+      "X": -622.064,
+      "Y": -556.098,
+      "Z": 278.936
+    },
+    {
+      "Name": "TheDesolation-PoI27",
+      "X": -737.489,
+      "Y": -448.463,
+      "Z": 274.023
+    },
+    {
+      "Name": "TheDesolation-PoI28",
+      "X": -817.609,
+      "Y": -460.382,
+      "Z": 277.896
+    },
+    {
+      "Name": "TheDesolation-PoI29",
+      "X": -731.63,
+      "Y": -569.78,
+      "Z": 224.06
+    },
+    {
+      "Name": "TheDesolation-PoI30",
+      "X": -1067.13,
+      "Y": -1060.49,
+      "Z": 389.766
+    },
+    {
+      "Name": "TheDesolation-PoI31",
+      "X": -1001.73,
+      "Y": -1456.14,
+      "Z": 279.342
+    },
+    {
+      "Name": "TheDesolation-PoI32",
+      "X": -427.31,
+      "Y": -1398.26,
+      "Z": 467.829
+    },
+    {
+      "Name": "TheDesolation-PoI33",
+      "X": 19.4875,
+      "Y": -1392.0,
+      "Z": 394.501
+    },
+    {
+      "Name": "TheDesolation-PoI34",
+      "X": 211.666,
+      "Y": -1106.7,
+      "Z": 425.451
+    },
+    {
+      "Name": "TheDesolation-PoI35",
+      "X": 24.2238,
+      "Y": -807.334,
+      "Z": 390.041
+    },
+    {
+      "Name": "TheDesolation-PoI36",
+      "X": 760.609,
+      "Y": -725.172,
+      "Z": 370.534
+    },
+    {
+      "Name": "TheDesolation-PoI37",
+      "X": 987.807,
+      "Y": -839.77,
+      "Z": 309.284
+    },
+    {
+      "Name": "TheDesolation-PoI38",
+      "X": 1325.83,
+      "Y": -651.003,
+      "Z": 360.665
+    },
+    {
+      "Name": "TheDesolation-PoI39",
+      "X": 1184.04,
+      "Y": -877.711,
+      "Z": 338.458
+    },
+    {
+      "Name": "TheDesolation-PoI40",
+      "X": 383.682,
+      "Y": -1676.8,
+      "Z": 341.182
+    },
+    {
+      "Name": "TheDesolation-PoI41_air",
+      "X": 382.65,
+      "Y": -1559.33,
+      "Z": 570.0
+    },
+    {
+      "Name": "TheDesolation-PoI42_air",
+      "X": 367.71,
+      "Y": -1791.5,
+      "Z": 570.0
+    },
+    {
+      "Name": "TheDesolation-PoI43",
+      "X": 947.135,
+      "Y": -1860.72,
+      "Z": 340.893
+    },
+    {
+      "Name": "TheDesolation-PoI44",
+      "X": 1130.53,
+      "Y": -1549.5,
+      "Z": 289.11
+    },
+    {
+      "Name": "TheDesolation-PoI45",
+      "X": 1239.68,
+      "Y": -1232.09,
+      "Z": 320.05
+    },
+    {
+      "Name": "TheDesolation-Vista1",
+      "X": 307.733,
+      "Y": 738.132,
+      "Z": 320.354
+    },
+    {
+      "Name": "TheDesolation-Vista2",
+      "X": 242.517,
+      "Y": 1265.55,
+      "Z": 237.181
+    },
+    {
+      "Name": "TheDesolation-Vista3",
+      "X": 877.452,
+      "Y": 1483.84,
+      "Z": 137.898
+    },
+    {
+      "Name": "TheDesolation-Vista4",
+      "X": -651.196,
+      "Y": 54.1902,
+      "Z": 412.139
+    },
+    {
+      "Name": "TheDesolation-Vista5",
+      "X": -1136.47,
+      "Y": 1188.08,
+      "Z": 96.8766
+    },
+    {
+      "Name": "TheDesolation-Vista6",
+      "X": -450.487,
+      "Y": -1234.34,
+      "Z": 450.208
+    },
+    {
+      "Name": "TheDesolation-Vista7",
+      "X": -793.205,
+      "Y": -584.587,
+      "Z": 309.194
+    },
+    {
+      "Name": "TheDesolation-Vista8",
+      "X": 309.327,
+      "Y": -1186.29,
+      "Z": 415.655
+    },
+    {
+      "Name": "TheDesolation-Vista9",
+      "X": 1024.15,
+      "Y": -211.437,
+      "Z": 363.571
+    },
+    {
+      "Name": "TheDesolation-Vista10",
+      "X": -107.416,
+      "Y": 1755.06,
+      "Z": 33.3986
+    },
+    {
+      "Name": "TheDesolation-HP1",
+      "X": -1172.05,
+      "Y": 1202.35,
+      "Z": 3.01928
+    },
+    {
+      "Name": "TheDesolation-HP2",
+      "X": -924.08,
+      "Y": -1357.77,
+      "Z": 294.66
+    },
+    {
+      "Name": "TheDesolation-HP3",
+      "X": -744.464,
+      "Y": -567.907,
+      "Z": 222.837
+    },
+    {
+      "Name": "TheDesolation-HP4",
+      "X": 333.307,
+      "Y": -1577.24,
+      "Z": 361.354
+    },
+    {
+      "Name": "TheDesolation-HP5",
+      "X": 851.474,
+      "Y": -232.389,
+      "Z": 351.031
+    },
+    {
+      "Name": "TheDesolation-HP6",
+      "X": 536.96,
+      "Y": 512.761,
+      "Z": 335.539
+    },
+    {
+      "Name": "TP_to_Vaabi",
+      "X": 1315.05,
+      "Y": -1442.35,
+      "Z": 335.09
+    },
+    {
+      "Name": "Vaabi-WP1",
+      "X": -1692.21,
+      "Y": 946.566,
+      "Z": 87.2376
+    },
+    {
+      "Name": "Vaabi-WP2",
+      "X": 279.811,
+      "Y": -566.008,
+      "Z": 96.26
+    },
+    {
+      "Name": "Vaabi-WP3",
+      "X": 995.485,
+      "Y": 64.0126,
+      "Z": 175.067
+    },
+    {
+      "Name": "Vaabi-WP4",
+      "X": -387.747,
+      "Y": 406.267,
+      "Z": 132.597
+    },
+    {
+      "Name": "Vaabi-WP5",
+      "X": -1318.32,
+      "Y": 534.179,
+      "Z": 173.38
+    },
+    {
+      "Name": "Vaabi-WP6",
+      "X": -702.513,
+      "Y": -528.263,
+      "Z": 143.428
+    },
+    {
+      "Name": "Vaabi-PoI1",
+      "X": 101.182,
+      "Y": -386.391,
+      "Z": 30.6846
+    },
+    {
+      "Name": "Vaabi-PoI2",
+      "X": -201.616,
+      "Y": -888.024,
+      "Z": 3.19196
+    },
+    {
+      "Name": "Vaabi-PoI3",
+      "X": 1512.0,
+      "Y": -733.248,
+      "Z": 67.3277
+    },
+    {
+      "Name": "Vaabi-PoI4",
+      "X": 1154.82,
+      "Y": 757.891,
+      "Z": 16.6418
+    },
+    {
+      "Name": "Vaabi-PoI5",
+      "X": 596.587,
+      "Y": -18.3181,
+      "Z": 356.91
+    },
+    {
+      "Name": "Vaabi-PoI6",
+      "X": -1151.55,
+      "Y": -880.008,
+      "Z": 130.788
+    },
+    {
+      "Name": "Vaabi-PoI7",
+      "X": 516.959,
+      "Y": 1108.02,
+      "Z": 185.861
+    },
+    {
+      "Name": "Vaabi-PoI8",
+      "X": -1612.09,
+      "Y": -953.687,
+      "Z": 392.843
+    },
+    {
+      "Name": "Vaabi-PoI9",
+      "X": -1571.17,
+      "Y": -300.732,
+      "Z": 90.0729
+    },
+    {
+      "Name": "Vaabi-PoI10",
+      "X": -302.099,
+      "Y": 618.344,
+      "Z": -1.42576
+    },
+    {
+      "Name": "Vaabi-PoI11",
+      "X": -1636.53,
+      "Y": 215.679,
+      "Z": 0.208742
+    },
+    {
+      "Name": "Vaabi-PoI12",
+      "X": -1535.79,
+      "Y": 392.813,
+      "Z": 199.86
+    },
+    {
+      "Name": "Vaabi-PoI13",
+      "X": -786.233,
+      "Y": 611.056,
+      "Z": 80.5778
+    },
+    {
+      "Name": "Vaabi-PoI14",
+      "X": -989.422,
+      "Y": 1209.68,
+      "Z": 143.327
+    },
+    {
+      "Name": "Vaabi-PoI15",
+      "X": 345.817,
+      "Y": -791.944,
+      "Z": 113.763
+    },
+    {
+      "Name": "Vaabi-PoI16",
+      "X": 505.776,
+      "Y": -778.65,
+      "Z": 40.1794
+    },
+    {
+      "Name": "Vaabi-PoI17",
+      "X": 140.38,
+      "Y": 616.988,
+      "Z": 5.6514
+    },
+    {
+      "Name": "Vaabi-PoI18",
+      "X": -627.566,
+      "Y": -958.188,
+      "Z": 114.401
+    },
+    {
+      "Name": "Vaabi-PoI19",
+      "X": 78.8528,
+      "Y": -660.811,
+      "Z": 59.2011
+    },
+    {
+      "Name": "Vaabi-PoI20",
+      "X": -569.691,
+      "Y": 613.605,
+      "Z": -7.99429
+    },
+    {
+      "Name": "Vaabi-PoI21",
+      "X": -938.938,
+      "Y": 346.208,
+      "Z": 131.747
+    },
+    {
+      "Name": "Vaabi-PoI22",
+      "X": 86.5096,
+      "Y": 8.5926,
+      "Z": 162.765
+    },
+    {
+      "Name": "Vaabi-PoI23",
+      "X": -1047.33,
+      "Y": -717.6,
+      "Z": 222.231
+    },
+    {
+      "Name": "Vaabi-PoI24",
+      "X": 443.22,
+      "Y": -925.945,
+      "Z": 40.1936
+    },
+    {
+      "Name": "Vaabi-PoI25",
+      "X": 743.051,
+      "Y": -1061.55,
+      "Z": 112.758
+    },
+    {
+      "Name": "Vaabi-PoI26",
+      "X": -1170.93,
+      "Y": -227.127,
+      "Z": 207.912
+    },
+    {
+      "Name": "Vaabi-PoI27",
+      "X": -457.002,
+      "Y": -177.517,
+      "Z": 159.034
+    },
+    {
+      "Name": "Vaabi-PoI28",
+      "X": 501.595,
+      "Y": -862.883,
+      "Z": 40.2971
+    },
+    {
+      "Name": "Vaabi-PoI29",
+      "X": -386.799,
+      "Y": 810.066,
+      "Z": 74.8598
+    },
+    {
+      "Name": "Vaabi-PoI30",
+      "X": 436.759,
+      "Y": -658.461,
+      "Z": 114.182
+    },
+    {
+      "Name": "Vaabi-PoI31",
+      "X": -574.896,
+      "Y": 384.816,
+      "Z": 108.872
+    },
+    {
+      "Name": "Vaabi-PoI32",
+      "X": 1560.78,
+      "Y": -222.455,
+      "Z": 87.9816
+    },
+    {
+      "Name": "Vaabi-Vista1",
+      "X": 70.9131,
+      "Y": -660.153,
+      "Z": 224.436
+    },
+    {
+      "Name": "Vaabi-Vista2",
+      "X": -1031.29,
+      "Y": -676.038,
+      "Z": 373.294
+    },
+    {
+      "Name": "Vaabi-Vista3",
+      "X": 1633.27,
+      "Y": 215.437,
+      "Z": 239.862
+    },
+    {
+      "Name": "Vaabi-Vista4",
+      "X": -937.683,
+      "Y": 627.539,
+      "Z": 162.367
+    },
+    {
+      "Name": "Vaabi-Vista5",
+      "X": -1572.27,
+      "Y": 361.865,
+      "Z": 148.135
+    },
+    {
+      "Name": "Vaabi-Vista6",
+      "X": 1256.18,
+      "Y": 855.111,
+      "Z": 102.794
+    },
+    {
+      "Name": "Vaabi-Vista7",
+      "X": -1252.8,
+      "Y": -360.841,
+      "Z": 297.674
+    },
+    {
+      "Name": "Vaabi-Vista8",
+      "X": 1657.6,
+      "Y": -158.328,
+      "Z": 152.853
+    },
+    {
+      "Name": "Vaabi-Vista9",
+      "X": 348.364,
+      "Y": 231.179,
+      "Z": 224.274
+    },
+    {
+      "Name": "Vaabi-Vista10",
+      "X": 1556.73,
+      "Y": -720.018,
+      "Z": 195.324
+    },
+    {
+      "Name": "Vaabi-HP1",
+      "X": -994.87,
+      "Y": -864.46,
+      "Z": 247.1
+    },
+    {
+      "Name": "Vaabi-HP2",
+      "X": 1411.13,
+      "Y": 389.241,
+      "Z": 95.3157
+    },
+    {
+      "Name": "Vaabi-HP3",
+      "X": 137.51,
+      "Y": -352.41,
+      "Z": 28.6
+    },
+    {
+      "Name": "DomainOfVabbi-to-JahaiBluffs",
+      "X": 755.86,
+      "Y": -1112.21,
+      "Z": 113.03
+    },
+    {
+      "Name": "JahaiBluffs-WP1",
+      "X": 687.228,
+      "Y": 1145.37,
+      "Z": 173.485
+    },
+    {
+      "Name": "JahaiBluffs-WP2",
+      "X": -1034.98,
+      "Y": 134.226,
+      "Z": 87.5057
+    },
+    {
+      "Name": "JahaiBluffs-WP3",
+      "X": -451.813,
+      "Y": -826.913,
+      "Z": 62.6263
+    },
+    {
+      "Name": "JahaiBluffs-WP4",
+      "X": 906.195,
+      "Y": -426.751,
+      "Z": 85.2044
+    },
+    {
+      "Name": "JahaiBluffs-PoI1",
+      "X": 166.956,
+      "Y": -839.457,
+      "Z": 28.1006
+    },
+    {
+      "Name": "JahaiBluffs-PoI2",
+      "X": 881.608,
+      "Y": -173.876,
+      "Z": -0.422319
+    },
+    {
+      "Name": "JahaiBluffs-PoI3",
+      "X": -859.086,
+      "Y": 896.672,
+      "Z": 44.3726
+    },
+    {
+      "Name": "JahaiBluffs-PoI4",
+      "X": 689.846,
+      "Y": 218.75,
+      "Z": 227.235
+    },
+    {
+      "Name": "JahaiBluffs-PoI5",
+      "X": 765.472,
+      "Y": 225.04,
+      "Z": 173.985
+    },
+    {
+      "Name": "JahaiBluffs-PoI6",
+      "X": 940.552,
+      "Y": -984.31,
+      "Z": 40.4294
+    },
+    {
+      "Name": "JahaiBluffs-PoI7",
+      "X": 919.144,
+      "Y": 1043.78,
+      "Z": 149.627
+    },
+    {
+      "Name": "JahaiBluffs-PoI8",
+      "X": 750.733,
+      "Y": 1003.46,
+      "Z": 190.068
+    },
+    {
+      "Name": "JahaiBluffs-PoI9",
+      "X": 522.75,
+      "Y": 114.783,
+      "Z": 164.078
+    },
+    {
+      "Name": "JahaiBluffs-PoI10",
+      "X": 380.079,
+      "Y": 929.343,
+      "Z": 177.652
+    },
+    {
+      "Name": "JahaiBluffs-PoI11",
+      "X": 854.722,
+      "Y": -529.942,
+      "Z": 119.103
+    },
+    {
+      "Name": "JahaiBluffs-PoI12",
+      "X": 748.419,
+      "Y": -99.7393,
+      "Z": 167.641
+    },
+    {
+      "Name": "JahaiBluffs-PoI13",
+      "X": -15.4187,
+      "Y": 773.495,
+      "Z": 189.422
+    },
+    {
+      "Name": "JahaiBluffs-PoI14",
+      "X": 1430.82,
+      "Y": 838.544,
+      "Z": 150.932
+    },
+    {
+      "Name": "JahaiBluffs-PoI15",
+      "X": 1310.06,
+      "Y": -362.562,
+      "Z": 149.128
+    },
+    {
+      "Name": "JahaiBluffs-PoI16",
+      "X": 116.147,
+      "Y": -599.155,
+      "Z": 112.233
+    },
+    {
+      "Name": "JahaiBluffs-PoI17",
+      "X": 83.7276,
+      "Y": -465.552,
+      "Z": 108.493
+    },
+    {
+      "Name": "JahaiBluffs-PoI18",
+      "X": -770.995,
+      "Y": 664.786,
+      "Z": 59.4501
+    },
+    {
+      "Name": "JahaiBluffs-PoI19",
+      "X": -141.713,
+      "Y": -628.18,
+      "Z": 106.436
+    },
+    {
+      "Name": "JahaiBluffs-PoI20",
+      "X": -360.057,
+      "Y": 87.5946,
+      "Z": 69.4435
+    },
+    {
+      "Name": "JahaiBluffs-PoI21",
+      "X": 196.984,
+      "Y": 160.371,
+      "Z": 263.872
+    },
+    {
+      "Name": "JahaiBluffs-PoI22",
+      "X": 691.124,
+      "Y": 527.326,
+      "Z": 179.122
+    },
+    {
+      "Name": "JahaiBluffs-PoI23",
+      "X": -514.7,
+      "Y": -680.866,
+      "Z": 58.4817
+    },
+    {
+      "Name": "JahaiBluffs-PoI24",
+      "X": 84.2438,
+      "Y": -3.34901,
+      "Z": 68.6317
+    },
+    {
+      "Name": "JahaiBluffs-PoI25",
+      "X": -1149.39,
+      "Y": 214.711,
+      "Z": 48.2965
+    },
+    {
+      "Name": "JahaiBluffs-PoI26",
+      "X": -444.679,
+      "Y": -875.492,
+      "Z": 63.1291
+    },
+    {
+      "Name": "JahaiBluffs-PoI27",
+      "X": -1202.83,
+      "Y": 702.681,
+      "Z": 66.0707
+    },
+    {
+      "Name": "JahaiBluffs-PoI28",
+      "X": 1170.19,
+      "Y": -71.15,
+      "Z": 165.03
+    },
+    {
+      "Name": "JahaiBluffs-Vista1",
+      "X": 700.386,
+      "Y": 271.562,
+      "Z": 274.282
+    },
+    {
+      "Name": "JahaiBluffs-Vista2",
+      "X": 111.632,
+      "Y": -562.952,
+      "Z": 146.468
+    },
+    {
+      "Name": "JahaiBluffs-Vista3",
+      "X": 117.425,
+      "Y": 176.051,
+      "Z": 256.04
+    },
+    {
+      "Name": "JahaiBluffs-Vista4",
+      "X": -56.147,
+      "Y": 687.81,
+      "Z": 267.093
+    },
+    {
+      "Name": "JahaiBluffs-Vista5",
+      "X": 1091.85,
+      "Y": 969.747,
+      "Z": 221.986
+    },
+    {
+      "Name": "JahaiBluffs-Vista6",
+      "X": -1166.85,
+      "Y": 538.851,
+      "Z": 141.833
+    },
+    {
+      "Name": "JahaiBluffs-Vista7",
+      "X": 1152.53,
+      "Y": -206.982,
+      "Z": 265.99
+    },
+    {
+      "Name": "JahaiBluffs-to-DomainOfKourna",
+      "X": 120.22,
+      "Y": -1075.76,
+      "Z": 16.75
+    },
+    {
+      "Name": "DomainOfKourna-WP1",
+      "X": 257.961,
+      "Y": 539.609,
+      "Z": 61.7195
+    },
+    {
+      "Name": "DomainOfKourna-WP2",
+      "X": -680.313,
+      "Y": 318.527,
+      "Z": 23.2233
+    },
+    {
+      "Name": "DomainOfKourna-PoI1",
+      "X": -1188.45,
+      "Y": -271.165,
+      "Z": 30.6453
+    },
+    {
+      "Name": "DomainOfKourna-PoI2",
+      "X": 146.041,
+      "Y": -775.827,
+      "Z": 32.2107
+    },
+    {
+      "Name": "DomainOfKourna-PoI3",
+      "X": -846.934,
+      "Y": 1009.36,
+      "Z": 46.9663
+    },
+    {
+      "Name": "DomainOfKourna-PoI4",
+      "X": 301.625,
+      "Y": 620.163,
+      "Z": 42.141
+    },
+    {
+      "Name": "DomainOfKourna-PoI5",
+      "X": -696.536,
+      "Y": 341.315,
+      "Z": 24.6924
+    },
+    {
+      "Name": "DomainOfKourna-PoI6",
+      "X": -627.175,
+      "Y": 100.967,
+      "Z": -0.832375
+    },
+    {
+      "Name": "DomainOfKourna-PoI7",
+      "X": 362.162,
+      "Y": 845.136,
+      "Z": 3.47756
+    },
+    {
+      "Name": "DomainOfKourna-PoI8",
+      "X": -911.856,
+      "Y": -26.1052,
+      "Z": -0.841795
+    },
+    {
+      "Name": "DomainOfKourna-PoI9",
+      "X": -793.928,
+      "Y": 1226.2,
+      "Z": 79.8485
+    },
+    {
+      "Name": "DomainOfKourna-PoI10",
+      "X": -285.725,
+      "Y": -789.34,
+      "Z": 67.3398
+    },
+    {
+      "Name": "DomainOfKourna-PoI11",
+      "X": -827.515,
+      "Y": 587.653,
+      "Z": 0.606894
+    },
+    {
+      "Name": "DomainOfKourna-PoI12",
+      "X": -381.853,
+      "Y": 1323.36,
+      "Z": 28.905
+    },
+    {
+      "Name": "DomainOfKourna-PoI13",
+      "X": -782.465,
+      "Y": -359.739,
+      "Z": 23.7251
+    },
+    {
+      "Name": "DomainOfKourna-PoI14",
+      "X": -243.958,
+      "Y": -258.344,
+      "Z": 78.2403
+    },
+    {
+      "Name": "DomainOfKourna-PoI15",
+      "X": -1210.34,
+      "Y": 1083.22,
+      "Z": -478.138
+    },
+    {
+      "Name": "DomainOfKourna-PoI16",
+      "X": -1388.05,
+      "Y": 602.633,
+      "Z": 60.441
+    },
+    {
+      "Name": "DomainOfKourna-PoI17",
+      "X": -23.2905,
+      "Y": 734.118,
+      "Z": 43.3642
+    },
+    {
+      "Name": "DomainOfKourna-PoI18",
+      "X": -1224.33,
+      "Y": 820.883,
+      "Z": 51.2169
+    },
+    {
+      "Name": "DomainOfKourna-PoI19",
+      "X": -326.787,
+      "Y": 636.318,
+      "Z": 118.139
+    },
+    {
+      "Name": "DomainOfKourna-PoI20",
+      "X": -126.366,
+      "Y": 825.668,
+      "Z": 106.51
+    },
+    {
+      "Name": "DomainOfKourna-PoI21",
+      "X": -213.707,
+      "Y": 779.203,
+      "Z": 51.5133
+    },
+    {
+      "Name": "DomainOfKourna-PoI22",
+      "X": -1105.82,
+      "Y": -508.302,
+      "Z": 4.99135
+    },
+    {
+      "Name": "DomainOfKourna-PoI23",
+      "X": 261.315,
+      "Y": 1516.19,
+      "Z": 62.2399
+    },
+    {
+      "Name": "DomainOfKourna-PoI24",
+      "X": -173.929,
+      "Y": 1625.33,
+      "Z": -2.11946
+    },
+    {
+      "Name": "DomainOfKourna-PoI25",
+      "X": 478.973,
+      "Y": 1528.81,
+      "Z": 19.0084
+    },
+    {
+      "Name": "DomainOfKourna-Vista1",
+      "X": 66.6943,
+      "Y": -803.75,
+      "Z": 70.1645
+    },
+    {
+      "Name": "DomainOfKourna-Vista2",
+      "X": -229.815,
+      "Y": 363.277,
+      "Z": 171.78
+    },
+    {
+      "Name": "DomainOfKourna-Vista3",
+      "X": -76.1169,
+      "Y": 22.2512,
+      "Z": 121.521
+    },
+    {
+      "Name": "DomainOfKourna-Vista4",
+      "X": -976.72,
+      "Y": 888.141,
+      "Z": 81.1891
+    }
+  ]
+}

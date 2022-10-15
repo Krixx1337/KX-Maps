@@ -1,0 +1,461 @@
+{
+  "Name": "3.The-Dragons-Reach,Part1",
+  "Coordinates": [
+    {
+      "Name": "Rallying-Call-Starting-Instance",
+      "X": 79.94,
+      "Y": 47.46,
+      "Z": 83.53
+    },
+    {
+      "Name": "talk",
+      "X": 39.34,
+      "Y": 49.55,
+      "Z": 124.85
+    },
+    {
+      "Name": "talk",
+      "X": 37.98,
+      "Y": 53.3,
+      "Z": 124.99
+    },
+    {
+      "Name": "talk",
+      "X": 40.63,
+      "Y": 54.85,
+      "Z": 125.23
+    },
+    {
+      "Name": "talk",
+      "X": 39.62,
+      "Y": 16.94,
+      "Z": 125.25
+    },
+    {
+      "Name": "talk",
+      "X": 38.86,
+      "Y": 48.55,
+      "Z": 124.6
+    },
+    {
+      "Name": "END-of-Instance",
+      "X": 38.86,
+      "Y": 48.55,
+      "Z": 124.6
+    },
+    {
+      "Name": "Uprooting-the-Iron-Marches-starting-Point",
+      "X": -291.09,
+      "Y": -435.64,
+      "Z": 3.9
+    },
+    {
+      "Name": "talk",
+      "X": -303.78,
+      "Y": -418.15,
+      "Z": 2.63
+    },
+    {
+      "Name": "talk",
+      "X": -419.05,
+      "Y": -392.24,
+      "Z": 10.11
+    },
+    {
+      "Name": "kill-Veteran",
+      "X": -399.45,
+      "Y": -330.82,
+      "Z": 8.54
+    },
+    {
+      "Name": "talk",
+      "X": -419.26,
+      "Y": -390.09,
+      "Z": 10.08
+    },
+    {
+      "Name": "talk",
+      "X": -124.91,
+      "Y": -92.6,
+      "Z": 32.21
+    },
+    {
+      "Name": "do-event",
+      "X": -100.96,
+      "Y": -84.49,
+      "Z": 26.99
+    },
+    {
+      "Name": "give-him-collected-stuff-from-event",
+      "X": -122.22,
+      "Y": -93.84,
+      "Z": 31.18
+    },
+    {
+      "Name": "talk-and-wait-until-workers-come-then-next",
+      "X": 12.86,
+      "Y": 795.31,
+      "Z": 30.04
+    },
+    {
+      "Name": "do-event",
+      "X": 111.37,
+      "Y": 827.82,
+      "Z": 67.14
+    },
+    {
+      "Name": "talk-again",
+      "X": 13.84,
+      "Y": 794.68,
+      "Z": 30.19
+    },
+    {
+      "Name": "talk",
+      "X": -234.21,
+      "Y": -616.95,
+      "Z": 7.73
+    },
+    {
+      "Name": "kill-spawned-mob-around-these-road",
+      "X": -267.4,
+      "Y": -1121.97,
+      "Z": 16.46
+    },
+    {
+      "Name": "talk",
+      "X": -303.51,
+      "Y": -417.37,
+      "Z": 2.53
+    },
+    {
+      "Name": "Starting-Point-The-Waypoint-Conundrum",
+      "X": -555.65,
+      "Y": -837.68,
+      "Z": 43.29
+    },
+    {
+      "Name": "Taimi",
+      "X": -564.9,
+      "Y": -798.28,
+      "Z": 63.97
+    },
+    {
+      "Name": "Phlunt",
+      "X": -558.92,
+      "Y": -801.26,
+      "Z": 62.44
+    },
+    {
+      "Name": "Taimi",
+      "X": -559.89,
+      "Y": -801.78,
+      "Z": 62.37
+    },
+    {
+      "Name": "Scruffy",
+      "X": -568.16,
+      "Y": -804.14,
+      "Z": 62.63
+    },
+    {
+      "Name": "port-and-kill",
+      "X": -389.69,
+      "Y": -834.52,
+      "Z": 8.1
+    },
+    {
+      "Name": "port-here-and-then-read-next-coord-for-instructions",
+      "X": -395.02,
+      "Y": -901.1,
+      "Z": 2.78
+    },
+    {
+      "Name": "TurnoffGenerator-Deactivate-EnergyField-Open-Casing-Deactivate-The-Field-Grab-the-armature",
+      "X": -394.87,
+      "Y": -901.37,
+      "Z": 2.82
+    },
+    {
+      "Name": "Take",
+      "X": -218.12,
+      "Y": -893.31,
+      "Z": 5.08
+    },
+    {
+      "Name": "port-here-and-wait-until-talking-done",
+      "X": -565.92,
+      "Y": -798.99,
+      "Z": 63.89
+    },
+    {
+      "Name": "port-here",
+      "X": -620.2,
+      "Y": -839.7,
+      "Z": 33.99
+    },
+    {
+      "Name": "talk",
+      "X": -617.94,
+      "Y": -846.3,
+      "Z": 36.08
+    },
+    {
+      "Name": "talk",
+      "X": -615.32,
+      "Y": -842.26,
+      "Z": 35.0
+    },
+    {
+      "Name": "END-of-Instance",
+      "X": -615.32,
+      "Y": -842.26,
+      "Z": 35.0
+    },
+    {
+      "Name": "Summit-Invitations-Starting-Instance",
+      "X": 581.29,
+      "Y": -372.68,
+      "Z": 394.1
+    },
+    {
+      "Name": "port-here-wait",
+      "X": 479.92,
+      "Y": -454.97,
+      "Z": 413.7
+    },
+    {
+      "Name": "talk",
+      "X": 490.89,
+      "Y": -456.44,
+      "Z": 413.8
+    },
+    {
+      "Name": "talk",
+      "X": 486.67,
+      "Y": -457.86,
+      "Z": 413.81
+    },
+    {
+      "Name": "END-of-Instance",
+      "X": 486.46,
+      "Y": -454.21,
+      "Z": 413.67
+    },
+    {
+      "Name": "Talk-Kaolin",
+      "X": 775.25,
+      "Y": -858.69,
+      "Z": 11.37
+    },
+    {
+      "Name": "port-here-and-do-event",
+      "X": 383.69,
+      "Y": -793.92,
+      "Z": 147.61
+    },
+    {
+      "Name": "you-have-to-do-the-defend-event-and-then-the-dolyak-escord",
+      "X": 386.58,
+      "Y": -796.8,
+      "Z": 146.75
+    },
+    {
+      "Name": "after-all-events-destroy-this-then-the-mission-instance-spawns",
+      "X": 53.65,
+      "Y": -978.74,
+      "Z": 79.04
+    },
+    {
+      "Name": "Story-Instance-Summit-Invitations2",
+      "X": 66.47,
+      "Y": -985.45,
+      "Z": 78.2
+    },
+    {
+      "Name": "wait-here",
+      "X": 47.92,
+      "Y": -964.59,
+      "Z": 77.5
+    },
+    {
+      "Name": "talk-Eir",
+      "X": 45.04,
+      "Y": -965.62,
+      "Z": 77.21
+    },
+    {
+      "Name": "Talk-Brahambolus",
+      "X": 48.97,
+      "Y": -963.43,
+      "Z": 77.27
+    },
+    {
+      "Name": "End-of-Instance",
+      "X": 48.97,
+      "Y": -963.43,
+      "Z": 77.27
+    },
+    {
+      "Name": "Plan-of-Attack-Story-Instance",
+      "X": -893.35,
+      "Y": -75.72,
+      "Z": 36.74
+    },
+    {
+      "Name": "talk-Rox",
+      "X": -869.26,
+      "Y": -72.52,
+      "Z": 34.82
+    },
+    {
+      "Name": "talk",
+      "X": -824.5,
+      "Y": -77.16,
+      "Z": 34.31
+    },
+    {
+      "Name": "End-of-Instance",
+      "X": -824.5,
+      "Y": -77.16,
+      "Z": 34.31
+    },
+    {
+      "Name": "port-here-and-start-the-event-then-next-port",
+      "X": -938.54,
+      "Y": -506.66,
+      "Z": 44.49
+    },
+    {
+      "Name": "first-point-to-defend",
+      "X": -981.52,
+      "Y": -365.97,
+      "Z": 51.1
+    },
+    {
+      "Name": "second-spot",
+      "X": -981.14,
+      "Y": -282.3,
+      "Z": 52.95
+    },
+    {
+      "Name": "get-the-fragment-now",
+      "X": -985.73,
+      "Y": -320.14,
+      "Z": 56.49
+    },
+    {
+      "Name": "port-here",
+      "X": -209.93,
+      "Y": -66.79,
+      "Z": 15.56
+    },
+    {
+      "Name": "take-fragment-if-event-is-done-or-do-the-event",
+      "X": -378.07,
+      "Y": -14.69,
+      "Z": 25.03
+    },
+    {
+      "Name": "port-here",
+      "X": 624.3,
+      "Y": -826.55,
+      "Z": 5.53
+    },
+    {
+      "Name": "if-the-event-is-not-done-with-the-witch-then-do-it-and-port-next-then-to-get",
+      "X": 624.0,
+      "Y": -832.68,
+      "Z": 5.21
+    },
+    {
+      "Name": "get-it",
+      "X": 627.01,
+      "Y": -865.23,
+      "Z": 6.59
+    },
+    {
+      "Name": "Plan-of-Attack-second-Instance",
+      "X": -893.18,
+      "Y": -75.95,
+      "Z": 36.73
+    },
+    {
+      "Name": "port-here-and-wait",
+      "X": -846.54,
+      "Y": -85.62,
+      "Z": 33.71
+    },
+    {
+      "Name": "talk",
+      "X": -846.07,
+      "Y": -81.86,
+      "Z": 33.39
+    },
+    {
+      "Name": "talk",
+      "X": -844.14,
+      "Y": -85.91,
+      "Z": 33.76
+    },
+    {
+      "Name": "talk",
+      "X": -846.4,
+      "Y": -88.99,
+      "Z": 34.06
+    },
+    {
+      "Name": "kill",
+      "X": -831.61,
+      "Y": 77.22,
+      "Z": 0.41
+    },
+    {
+      "Name": "kill",
+      "X": -797.08,
+      "Y": 37.11,
+      "Z": 1.03
+    },
+    {
+      "Name": "kill",
+      "X": -767.32,
+      "Y": 76.86,
+      "Z": 0.29
+    },
+    {
+      "Name": "talk",
+      "X": -755.07,
+      "Y": 76.66,
+      "Z": 0.31
+    },
+    {
+      "Name": "port",
+      "X": -712.18,
+      "Y": 75.04,
+      "Z": 0.57
+    },
+    {
+      "Name": "boss",
+      "X": -662.77,
+      "Y": 73.51,
+      "Z": 2.8
+    },
+    {
+      "Name": "talk",
+      "X": -704.19,
+      "Y": 79.76,
+      "Z": 0.5
+    },
+    {
+      "Name": "talk",
+      "X": -702.57,
+      "Y": 84.33,
+      "Z": 0.52
+    },
+    {
+      "Name": "END-of-CHAPTER3",
+      "X": -702.57,
+      "Y": 84.33,
+      "Z": 0.52
+    }
+  ]
+}

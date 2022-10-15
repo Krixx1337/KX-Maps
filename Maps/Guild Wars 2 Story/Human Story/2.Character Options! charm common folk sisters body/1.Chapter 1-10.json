@@ -1,0 +1,359 @@
+{
+  "Name": "1.Chapter 1-10",
+  "Coordinates": [
+    {
+      "Name": "Defense-of-shaemoor-start",
+      "X": -470.03,
+      "Y": 726.8,
+      "Z": 89.37
+    },
+    {
+      "Name": "talk",
+      "X": -479.91,
+      "Y": 717.02,
+      "Z": 86.49
+    },
+    {
+      "Name": "port-and-wait-until-fight-done-instance-done",
+      "X": -182.29,
+      "Y": 199.66,
+      "Z": 39.26
+    },
+    {
+      "Name": "after-instance-get-lvl-10-first-or-use-next-ports-when-allready-over-lvl10",
+      "X": -535.83,
+      "Y": 540.27,
+      "Z": 41.09
+    },
+    {
+      "Name": "next-stop-divinity-map-transit-next-port",
+      "X": -486.4,
+      "Y": 671.48,
+      "Z": 76.1
+    },
+    {
+      "Name": "map-transit-Divinity",
+      "X": -467.56,
+      "Y": 761.44,
+      "Z": 95.94
+    },
+    {
+      "Name": "instance-start-On-the-Mend",
+      "X": 247.41,
+      "Y": 178.23,
+      "Z": 98.28
+    },
+    {
+      "Name": "port",
+      "X": 331.4,
+      "Y": 291.75,
+      "Z": 86.15
+    },
+    {
+      "Name": "talk",
+      "X": 336.18,
+      "Y": 316.53,
+      "Z": 84.98
+    },
+    {
+      "Name": "kill",
+      "X": 331.64,
+      "Y": 307.63,
+      "Z": 84.98
+    },
+    {
+      "Name": "kill",
+      "X": 344.98,
+      "Y": 306.39,
+      "Z": 92.71
+    },
+    {
+      "Name": "kill",
+      "X": 341.96,
+      "Y": 325.68,
+      "Z": 95.05
+    },
+    {
+      "Name": "kill",
+      "X": 335.19,
+      "Y": 319.47,
+      "Z": 105.12
+    },
+    {
+      "Name": "cutscene",
+      "X": 337.29,
+      "Y": 309.06,
+      "Z": 105.13
+    },
+    {
+      "Name": "cutscene",
+      "X": 339.32,
+      "Y": 304.64,
+      "Z": 87.8
+    },
+    {
+      "Name": "done",
+      "X": 334.37,
+      "Y": 301.54,
+      "Z": 84.98
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "talk",
+      "X": -842.06,
+      "Y": 486.39,
+      "Z": 29.35
+    },
+    {
+      "Name": "instance-start-Desperate-Medicine",
+      "X": -1179.92,
+      "Y": 313.67,
+      "Z": 31.83
+    },
+    {
+      "Name": "cutscene",
+      "X": -1179.78,
+      "Y": 309.08,
+      "Z": 31.48
+    },
+    {
+      "Name": "port&kill",
+      "X": -1065.55,
+      "Y": 71.66,
+      "Z": 35.73
+    },
+    {
+      "Name": "kill",
+      "X": -1041.03,
+      "Y": 39.08,
+      "Z": 35.82
+    },
+    {
+      "Name": "get-medicine",
+      "X": -1029.16,
+      "Y": 49.49,
+      "Z": 35.73
+    },
+    {
+      "Name": "done",
+      "X": -1027.32,
+      "Y": 43.93,
+      "Z": 35.73
+    },
+    {
+      "Name": "return-to-Francis",
+      "X": -841.07,
+      "Y": 486.3,
+      "Z": 29.43
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "instance-Desperate-Medicine",
+      "X": 247.32,
+      "Y": 178.74,
+      "Z": 98.24
+    },
+    {
+      "Name": "port",
+      "X": 334.03,
+      "Y": 300.79,
+      "Z": 84.98
+    },
+    {
+      "Name": "speak-with-Andrew",
+      "X": 325.07,
+      "Y": 315.84,
+      "Z": 95.06
+    },
+    {
+      "Name": "talk",
+      "X": 327.86,
+      "Y": 298.9,
+      "Z": 85.99
+    },
+    {
+      "Name": "done",
+      "X": 333.11,
+      "Y": 299.77,
+      "Z": 84.98
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "instance-start-Infiltration",
+      "X": -90.02,
+      "Y": 733.36,
+      "Z": 72.7
+    },
+    {
+      "Name": "kill",
+      "X": -33.62,
+      "Y": 771.86,
+      "Z": 62.82
+    },
+    {
+      "Name": "get-outfit",
+      "X": -28.72,
+      "Y": 770.27,
+      "Z": 62.4
+    },
+    {
+      "Name": "enter",
+      "X": -32.73,
+      "Y": 825.88,
+      "Z": 36.95
+    },
+    {
+      "Name": "get-infos",
+      "X": 49.36,
+      "Y": 868.52,
+      "Z": 0.89
+    },
+    {
+      "Name": "kill",
+      "X": 28.06,
+      "Y": 788.12,
+      "Z": 2.78
+    },
+    {
+      "Name": "take-fuses",
+      "X": 26.53,
+      "Y": 786.52,
+      "Z": 3.21
+    },
+    {
+      "Name": "talk",
+      "X": 16.15,
+      "Y": 862.98,
+      "Z": 1.25
+    },
+    {
+      "Name": "give-fuses",
+      "X": 36.25,
+      "Y": 866.37,
+      "Z": 0.53
+    },
+    {
+      "Name": "done",
+      "X": 36.25,
+      "Y": 866.37,
+      "Z": 0.53
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "instance-start-Infiltration",
+      "X": 122.49,
+      "Y": -5.67,
+      "Z": 166.08
+    },
+    {
+      "Name": "talk-help-the-hospital",
+      "X": 161.29,
+      "Y": 27.46,
+      "Z": 167.14
+    },
+    {
+      "Name": "done",
+      "X": 122.49,
+      "Y": -5.67,
+      "Z": 166.09
+    },
+    {
+      "Name": "Instance-start-The-Hospital-in-Jeopardy",
+      "X": 247.36,
+      "Y": 179.87,
+      "Z": 98.17
+    },
+    {
+      "Name": "port/break-door",
+      "X": 326.98,
+      "Y": 389.28,
+      "Z": 86.38
+    },
+    {
+      "Name": "defeat",
+      "X": 337.9,
+      "Y": 418.61,
+      "Z": 88.27
+    },
+    {
+      "Name": "get-outside",
+      "X": 326.69,
+      "Y": 385.75,
+      "Z": 86.26
+    },
+    {
+      "Name": "get-to-francis",
+      "X": 275.78,
+      "Y": 209.87,
+      "Z": 92.68
+    },
+    {
+      "Name": "done",
+      "X": 266.14,
+      "Y": 213.47,
+      "Z": 92.67
+    },
+    {
+      "Name": "instance-start-The-Commander",
+      "X": 122.2,
+      "Y": -5.74,
+      "Z": 166.08
+    },
+    {
+      "Name": "talk",
+      "X": 154.81,
+      "Y": 27.77,
+      "Z": 165.98
+    },
+    {
+      "Name": "ask",
+      "X": 158.43,
+      "Y": 25.11,
+      "Z": 165.98
+    },
+    {
+      "Name": "hide",
+      "X": 172.12,
+      "Y": 30.41,
+      "Z": 148.14
+    },
+    {
+      "Name": "kill",
+      "X": 148.22,
+      "Y": 17.45,
+      "Z": 145.58
+    },
+    {
+      "Name": "done",
+      "X": 146.25,
+      "Y": 14.95,
+      "Z": 145.59
+    },
+    {
+      "Name": "Chapter-done",
+      "X": 122.2,
+      "Y": -5.74,
+      "Z": 166.09
+    }
+  ]
+}

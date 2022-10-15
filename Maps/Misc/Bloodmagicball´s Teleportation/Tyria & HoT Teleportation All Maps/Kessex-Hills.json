@@ -1,0 +1,29 @@
+{
+  "Name": "Kessex-Hills",
+  "Coordinates": [
+    {
+      "Name": "Kessex-to-Queensdale",
+      "X": -819.17,
+      "Y": 695.16,
+      "Z": 101.33
+    },
+    {
+      "Name": "Kessex-to-Brisban",
+      "X": -1429.32,
+      "Y": 379.51,
+      "Z": 93.51
+    },
+    {
+      "Name": "Kessex-to-Gendarran",
+      "X": 1472.52,
+      "Y": 654.2,
+      "Z": 25.96
+    },
+    {
+      "Name": "Kessex-to-Caledon",
+      "X": -224.96,
+      "Y": -695.48,
+      "Z": 59.02
+    }
+  ]
+}

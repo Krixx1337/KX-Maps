@@ -1,0 +1,65 @@
+{
+  "Name": "SunkenTreasureHunter MasterDiver",
+  "Coordinates": [
+    {
+      "Name": "Gendarran_Fields_Sunken_Chest",
+      "X": -8.84792,
+      "Y": 46.7875,
+      "Z": -51.2919
+    },
+    {
+      "Name": "Harathi_Hinterlands_Sunken_Chest",
+      "X": 872.493,
+      "Y": -898.225,
+      "Z": -106.789
+    },
+    {
+      "Name": "Bloodtide_Coast_Sunken_Chest",
+      "X": 324.792,
+      "Y": 481.279,
+      "Z": -66.5498
+    },
+    {
+      "Name": "Kessex_Hills_Sunken_Chest",
+      "X": 140.106,
+      "Y": -420.544,
+      "Z": -67.4469
+    },
+    {
+      "Name": "Iron_Marches_Sunken_Chest",
+      "X": 399.903,
+      "Y": 194.321,
+      "Z": -42.3647
+    },
+    {
+      "Name": "Snowden_Drifts_Sunken_Chest",
+      "X": 138.404,
+      "Y": -534.682,
+      "Z": -32.4636
+    },
+    {
+      "Name": "Frostgorge_Sound_Sunken_Chest",
+      "X": -41.6931,
+      "Y": 191.988,
+      "Z": -21.1164
+    },
+    {
+      "Name": "Lornars_Pass_Sunken_Chest",
+      "X": -299.936,
+      "Y": -1158.95,
+      "Z": -51.0188
+    },
+    {
+      "Name": "Timberline_Falls_Sunken_Chest",
+      "X": 632.226,
+      "Y": 203.775,
+      "Z": -41.882
+    },
+    {
+      "Name": "Mount_Maelstrom_Sunken_Chest",
+      "X": 1225.18,
+      "Y": -403.391,
+      "Z": -123.745
+    }
+  ]
+}

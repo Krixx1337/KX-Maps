@@ -1,0 +1,23 @@
+{
+  "Name": "Skipping",
+  "Coordinates": [
+    {
+      "Name": "PortalSkip1",
+      "X": -76.9965,
+      "Y": -1.15619,
+      "Z": 116.998
+    },
+    {
+      "Name": "PortalSkip1-END-PORTAL-HERE",
+      "X": -133.89,
+      "Y": 87.3676,
+      "Z": 132.359
+    },
+    {
+      "Name": "Mortar-Positions-in-Raid",
+      "X": 65.41,
+      "Y": -350.046,
+      "Z": -0.704782
+    }
+  ]
+}

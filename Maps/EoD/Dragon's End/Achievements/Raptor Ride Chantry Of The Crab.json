@@ -1,0 +1,17 @@
+{
+  "Name": "Raptor Ride Chantry Of The Crab",
+  "Coordinates": [
+    {
+      "Name": "Mount_Raptor_here",
+      "X": 632.13,
+      "Y": 190.69,
+      "Z": 134.07
+    },
+    {
+      "Name": "TP_Here",
+      "X": 411.41,
+      "Y": 758.91,
+      "Z": 129.27
+    }
+  ]
+}

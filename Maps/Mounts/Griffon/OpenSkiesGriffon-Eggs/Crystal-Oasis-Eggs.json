@@ -1,0 +1,35 @@
+{
+  "Name": "Crystal-Oasis-Eggs",
+  "Coordinates": [
+    {
+      "Name": "Warmed-Coastal-Griffon-Egg",
+      "X": 690.13,
+      "Y": 464.78,
+      "Z": 342.55
+    },
+    {
+      "Name": "Browned-Coastal-Griffon-Egg",
+      "X": 208.62,
+      "Y": 766.95,
+      "Z": 210.07
+    },
+    {
+      "Name": "Lustrous-Coastal-Griffon-Egg",
+      "X": 1521.4,
+      "Y": 560.06,
+      "Z": 392.12
+    },
+    {
+      "Name": "Dusty-Coastal-Griffon-Egg",
+      "X": 916.29,
+      "Y": -609.99,
+      "Z": 196.71
+    },
+    {
+      "Name": "Ridged-Coastal-Griffon-Egg",
+      "X": 685.97,
+      "Y": 421.51,
+      "Z": 212.32
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "Club",
+  "Coordinates": [
+    {
+      "Name": "Club_Rewards_Merchant",
+      "X": -861.43,
+      "Y": 873.32,
+      "Z": 12.49
+    },
+    {
+      "Name": "Daxx_Merchant",
+      "X": -842.44,
+      "Y": 864.66,
+      "Z": 12.84
+    },
+    {
+      "Name": "Winn_Schwartzmeier_Merchant",
+      "X": -832.32,
+      "Y": 854.12,
+      "Z": 12.86
+    },
+    {
+      "Name": "Just_a_chiar",
+      "X": -800.86,
+      "Y": 882.8,
+      "Z": 4.64
+    }
+  ]
+}

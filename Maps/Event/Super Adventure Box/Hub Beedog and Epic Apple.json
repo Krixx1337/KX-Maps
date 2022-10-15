@@ -1,0 +1,17 @@
+{
+  "Name": "Hub Beedog and Epic Apple",
+  "Coordinates": [
+    {
+      "Name": "Beedog_Transform",
+      "X": -123.88,
+      "Y": -50.15,
+      "Z": 318.94
+    },
+    {
+      "Name": "Epic_Apple",
+      "X": -7.89,
+      "Y": 42.66,
+      "Z": 264.65
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Putting-out-Fires",
+  "Coordinates": [
+    {
+      "Name": "Camp-Events-Port",
+      "X": -927.88,
+      "Y": 626.14,
+      "Z": 154.8
+    },
+    {
+      "Name": "Shadow-event-spawn",
+      "X": -804.37,
+      "Y": 918.06,
+      "Z": 72.5
+    },
+    {
+      "Name": "shadow2-spawn",
+      "X": -655.39,
+      "Y": 463.61,
+      "Z": 214.54
+    },
+    {
+      "Name": "storm-elemental",
+      "X": -437.21,
+      "Y": 673.88,
+      "Z": 237.13
+    },
+    {
+      "Name": "Champ-Abyssal-Event",
+      "X": -726.04,
+      "Y": 646.86,
+      "Z": 316.52
+    },
+    {
+      "Name": "Shadow3",
+      "X": 3.96,
+      "Y": 806.99,
+      "Z": 255.47
+    }
+  ]
+}

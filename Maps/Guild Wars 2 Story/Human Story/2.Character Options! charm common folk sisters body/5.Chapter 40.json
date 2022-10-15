@@ -1,0 +1,431 @@
+{
+  "Name": "5.Chapter 40",
+  "Coordinates": [
+    {
+      "Name": "travelling-now-to-Lions-Arch",
+      "X": 154.92,
+      "Y": -141.18,
+      "Z": 254.84
+    },
+    {
+      "Name": "Divinity-to-LionsArch",
+      "X": 154.58,
+      "Y": -191.53,
+      "Z": 178.54
+    },
+    {
+      "Name": "instance-start-Setting-the-Stage",
+      "X": -123.75,
+      "Y": 377.17,
+      "Z": 28.52
+    },
+    {
+      "Name": "talk",
+      "X": -20.99,
+      "Y": 158.61,
+      "Z": 26.45
+    },
+    {
+      "Name": "watch",
+      "X": -19.29,
+      "Y": 179.87,
+      "Z": 26.24
+    },
+    {
+      "Name": "talk",
+      "X": -24.02,
+      "Y": 170.38,
+      "Z": 26.45
+    },
+    {
+      "Name": "leave",
+      "X": -24.02,
+      "Y": 170.38,
+      "Z": 26.45
+    },
+    {
+      "Name": "check-your-mail",
+      "X": -123.75,
+      "Y": 377.17,
+      "Z": 28.52
+    },
+    {
+      "Name": "port",
+      "X": -172.8,
+      "Y": 502.21,
+      "Z": 28.8
+    },
+    {
+      "Name": "instance-start-Stealing-Secrets",
+      "X": -120.39,
+      "Y": 374.15,
+      "Z": 28.52
+    },
+    {
+      "Name": "talk",
+      "X": -26.49,
+      "Y": 392.35,
+      "Z": 11.49
+    },
+    {
+      "Name": "talk",
+      "X": -21.96,
+      "Y": 386.77,
+      "Z": 11.49
+    },
+    {
+      "Name": "leave",
+      "X": -21.96,
+      "Y": 386.77,
+      "Z": 11.49
+    },
+    {
+      "Name": "LionsArch-to-Gendarran",
+      "X": -198.13,
+      "Y": 543.7,
+      "Z": 40.56
+    },
+    {
+      "Name": "continue-Stealing-Secrets",
+      "X": 274.76,
+      "Y": -508.32,
+      "Z": 2.59
+    },
+    {
+      "Name": "talk",
+      "X": 321.86,
+      "Y": -501.82,
+      "Z": 4.23
+    },
+    {
+      "Name": "talk",
+      "X": 377.75,
+      "Y": -443.52,
+      "Z": 17.5
+    },
+    {
+      "Name": "talk-select-fine-clothes",
+      "X": 394.92,
+      "Y": -348.85,
+      "Z": 6.38
+    },
+    {
+      "Name": "talk-select-shes-from-the-city",
+      "X": 417.81,
+      "Y": -247.07,
+      "Z": 14.0
+    },
+    {
+      "Name": "talk-select-first-option",
+      "X": 455.64,
+      "Y": -205.85,
+      "Z": 13.93
+    },
+    {
+      "Name": "talk",
+      "X": 435.07,
+      "Y": -356.35,
+      "Z": 8.85
+    },
+    {
+      "Name": "talk",
+      "X": 435.35,
+      "Y": -374.75,
+      "Z": 8.85
+    },
+    {
+      "Name": "talk-select-option-2",
+      "X": 445.36,
+      "Y": -349.59,
+      "Z": 8.84
+    },
+    {
+      "Name": "talk",
+      "X": 428.6,
+      "Y": -369.32,
+      "Z": 8.85
+    },
+    {
+      "Name": "talk",
+      "X": 444.95,
+      "Y": -374.18,
+      "Z": 18.91
+    },
+    {
+      "Name": "kick-them-in-the-ass",
+      "X": 412.62,
+      "Y": -379.14,
+      "Z": 8.9
+    },
+    {
+      "Name": "open",
+      "X": 445.56,
+      "Y": -374.85,
+      "Z": 18.91
+    },
+    {
+      "Name": "examine",
+      "X": 433.33,
+      "Y": -367.89,
+      "Z": 28.98
+    },
+    {
+      "Name": "kill",
+      "X": 434.25,
+      "Y": -366.39,
+      "Z": 29.01
+    },
+    {
+      "Name": "instance-done",
+      "X": 434.52,
+      "Y": -367.0,
+      "Z": 29.01
+    },
+    {
+      "Name": "Instance-start-Down-the-Hatch",
+      "X": 303.59,
+      "Y": 330.74,
+      "Z": 1.0
+    },
+    {
+      "Name": "talk",
+      "X": 314.2,
+      "Y": 298.48,
+      "Z": 0.49
+    },
+    {
+      "Name": "talk",
+      "X": 281.7,
+      "Y": 132.49,
+      "Z": 5.06
+    },
+    {
+      "Name": "win-the-beer-drinking",
+      "X": 281.7,
+      "Y": 132.49,
+      "Z": 5.06
+    },
+    {
+      "Name": "after-contest-just-walk-with-tybalt",
+      "X": 299.24,
+      "Y": 139.24,
+      "Z": 4.56
+    },
+    {
+      "Name": "after-reaching-destination-use-this-port",
+      "X": 304.83,
+      "Y": 491.7,
+      "Z": 14.18
+    },
+    {
+      "Name": "kill-rest-of-pirates",
+      "X": 297.26,
+      "Y": 522.35,
+      "Z": 0.5
+    },
+    {
+      "Name": "instance-done",
+      "X": 348.22,
+      "Y": 430.86,
+      "Z": 0.89
+    },
+    {
+      "Name": "Gendarran-to-LionsArch",
+      "X": 294.58,
+      "Y": -679.26,
+      "Z": 5.65
+    },
+    {
+      "Name": "talk",
+      "X": -419.0,
+      "Y": 347.65,
+      "Z": 9.51
+    },
+    {
+      "Name": "port",
+      "X": -273.95,
+      "Y": 242.21,
+      "Z": 20.72
+    },
+    {
+      "Name": "portback-to-start-Instance-Down-the-Hatch",
+      "X": -416.12,
+      "Y": 347.43,
+      "Z": 9.52
+    },
+    {
+      "Name": "talk",
+      "X": 146.56,
+      "Y": 364.94,
+      "Z": 50.8
+    },
+    {
+      "Name": "talk-charm-option",
+      "X": 164.24,
+      "Y": 367.19,
+      "Z": 50.8
+    },
+    {
+      "Name": "talk-choose-damper-spell",
+      "X": 164.41,
+      "Y": 379.44,
+      "Z": 50.8
+    },
+    {
+      "Name": "talk",
+      "X": 149.53,
+      "Y": 383.12,
+      "Z": 50.8
+    },
+    {
+      "Name": "port-here-instance-done",
+      "X": 138.63,
+      "Y": 342.86,
+      "Z": 63.19
+    },
+    {
+      "Name": "instance-start-They-Went-Thataway",
+      "X": 94.18,
+      "Y": 316.86,
+      "Z": 34.88
+    },
+    {
+      "Name": "talk",
+      "X": 101.04,
+      "Y": 336.09,
+      "Z": 78.18
+    },
+    {
+      "Name": "knock-out",
+      "X": 83.19,
+      "Y": 395.72,
+      "Z": 65.06
+    },
+    {
+      "Name": "knock-out",
+      "X": 70.66,
+      "Y": 381.24,
+      "Z": 50.71
+    },
+    {
+      "Name": "knock-out",
+      "X": 57.87,
+      "Y": 395.51,
+      "Z": 33.68
+    },
+    {
+      "Name": "knock-out",
+      "X": 72.68,
+      "Y": 310.74,
+      "Z": 33.45
+    },
+    {
+      "Name": "knock-out",
+      "X": 88.17,
+      "Y": 297.85,
+      "Z": 33.54
+    },
+    {
+      "Name": "knock-out",
+      "X": 46.99,
+      "Y": 251.3,
+      "Z": 55.48
+    },
+    {
+      "Name": "kill",
+      "X": 19.68,
+      "Y": 196.29,
+      "Z": 26.42
+    },
+    {
+      "Name": "port-wait-for-cutscene",
+      "X": 40.81,
+      "Y": 67.81,
+      "Z": 34.7
+    },
+    {
+      "Name": "instance-done",
+      "X": 40.81,
+      "Y": 67.81,
+      "Z": 34.7
+    },
+    {
+      "Name": "LionsArch-to-BloodtideCoast",
+      "X": 331.83,
+      "Y": -494.46,
+      "Z": 39.08
+    },
+    {
+      "Name": "Instance-start-An-Apple-a-Day",
+      "X": 216.5,
+      "Y": 920.77,
+      "Z": -0.4
+    },
+    {
+      "Name": "talk",
+      "X": 306.01,
+      "Y": 860.7,
+      "Z": 1.4
+    },
+    {
+      "Name": "talk",
+      "X": 301.87,
+      "Y": 878.44,
+      "Z": 0.35
+    },
+    {
+      "Name": "talk",
+      "X": 323.19,
+      "Y": 907.86,
+      "Z": 0.18
+    },
+    {
+      "Name": "get-ready",
+      "X": 313.59,
+      "Y": 887.58,
+      "Z": 0.11
+    },
+    {
+      "Name": "instance-done",
+      "X": 301.88,
+      "Y": 869.72,
+      "Z": 0.39
+    },
+    {
+      "Name": "-continue-instance",
+      "X": 245.29,
+      "Y": 688.6,
+      "Z": -1.29
+    },
+    {
+      "Name": "port",
+      "X": -80.22,
+      "Y": -214.11,
+      "Z": 8.45
+    },
+    {
+      "Name": "port",
+      "X": -149.49,
+      "Y": 1.47,
+      "Z": 36.55
+    },
+    {
+      "Name": "talk-choose-skritt",
+      "X": -144.79,
+      "Y": 20.84,
+      "Z": 36.52
+    },
+    {
+      "Name": "instance-done",
+      "X": -144.79,
+      "Y": 20.84,
+      "Z": 36.52
+    },
+    {
+      "Name": "chapter-done-FIN",
+      "X": -144.79,
+      "Y": 20.84,
+      "Z": 36.52
+    }
+  ]
+}

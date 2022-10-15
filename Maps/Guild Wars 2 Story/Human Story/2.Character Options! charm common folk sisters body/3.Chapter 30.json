@@ -1,0 +1,443 @@
+{
+  "Name": "3.Chapter 30",
+  "Coordinates": [
+    {
+      "Name": "Starting-where-we-left-off-first-transit-ports-to-divinity-skip-if-you-are-already-in-divinity",
+      "X": 1322.16,
+      "Y": 68.99,
+      "Z": 40.61
+    },
+    {
+      "Name": "Kessex-to-Queensdale",
+      "X": -819.17,
+      "Y": 695.16,
+      "Z": 101.33
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "Continue-The-Orders-of-Tyria",
+      "X": 82.35,
+      "Y": 6.77,
+      "Z": 167.76
+    },
+    {
+      "Name": "cutscene",
+      "X": 83.35,
+      "Y": 62.39,
+      "Z": 169.13
+    },
+    {
+      "Name": "leave",
+      "X": 83.35,
+      "Y": 62.39,
+      "Z": 169.13
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "Queensdale-to-Kessex",
+      "X": -885.73,
+      "Y": -747.69,
+      "Z": 42.74
+    },
+    {
+      "Name": "Continue-Ortders-Mission",
+      "X": -396.28,
+      "Y": -616.28,
+      "Z": 28.5
+    },
+    {
+      "Name": "cutscene",
+      "X": -428.0,
+      "Y": -524.95,
+      "Z": 10.08
+    },
+    {
+      "Name": "talk",
+      "X": -430.68,
+      "Y": -517.75,
+      "Z": 10.08
+    },
+    {
+      "Name": "go-with-the-Vigills-Plan!",
+      "X": -430.68,
+      "Y": -517.75,
+      "Z": 10.08
+    },
+    {
+      "Name": "leave-instance",
+      "X": -430.68,
+      "Y": -517.75,
+      "Z": 10.08
+    },
+    {
+      "Name": "start-instance-Brute-Force",
+      "X": -1069.4,
+      "Y": -623.26,
+      "Z": 1.03
+    },
+    {
+      "Name": "talk",
+      "X": -1111.25,
+      "Y": -608.1,
+      "Z": 0.64
+    },
+    {
+      "Name": "talk",
+      "X": -1255.66,
+      "Y": -622.06,
+      "Z": 0.56
+    },
+    {
+      "Name": "talk&defend",
+      "X": -1389.93,
+      "Y": -638.48,
+      "Z": 5.49
+    },
+    {
+      "Name": "safe-children",
+      "X": -1080.79,
+      "Y": -629.37,
+      "Z": 1.7
+    },
+    {
+      "Name": "Kessex-to-Queensdale",
+      "X": -819.17,
+      "Y": 695.16,
+      "Z": 101.33
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "continue-Brute-Force",
+      "X": 247.17,
+      "Y": 178.56,
+      "Z": 98.26
+    },
+    {
+      "Name": "talk",
+      "X": 295.11,
+      "Y": 333.92,
+      "Z": 85.51
+    },
+    {
+      "Name": "talk-and-select-his-path!",
+      "X": 290.9,
+      "Y": 333.02,
+      "Z": 85.44
+    },
+    {
+      "Name": "instance-done",
+      "X": 290.9,
+      "Y": 333.02,
+      "Z": 85.44
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "Queensdale-to-Kessex",
+      "X": -885.73,
+      "Y": -747.69,
+      "Z": 42.74
+    },
+    {
+      "Name": "talk",
+      "X": 449.99,
+      "Y": -443.49,
+      "Z": 90.42
+    },
+    {
+      "Name": "instance-start-Track-the-Seraph",
+      "X": 1221.83,
+      "Y": 511.98,
+      "Z": 25.91
+    },
+    {
+      "Name": "cutscene",
+      "X": 1211.33,
+      "Y": 508.27,
+      "Z": 29.42
+    },
+    {
+      "Name": "kill",
+      "X": 1173.74,
+      "Y": 467.08,
+      "Z": 47.79
+    },
+    {
+      "Name": "kill",
+      "X": 1173.57,
+      "Y": 395.47,
+      "Z": 69.33
+    },
+    {
+      "Name": "talk-to-williams",
+      "X": 1171.04,
+      "Y": 418.78,
+      "Z": 54.77
+    },
+    {
+      "Name": "leave-instance",
+      "X": 1171.04,
+      "Y": 418.78,
+      "Z": 54.77
+    },
+    {
+      "Name": "Kessex-to-Queensdale",
+      "X": -819.17,
+      "Y": 695.16,
+      "Z": 101.33
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "continue-story",
+      "X": 247.19,
+      "Y": 178.75,
+      "Z": 98.25
+    },
+    {
+      "Name": "meet",
+      "X": 294.34,
+      "Y": 333.48,
+      "Z": 85.5
+    },
+    {
+      "Name": "story-path-point-now-we-will-go-in-this-file-with-Agent-Ihan",
+      "X": 292.65,
+      "Y": 331.16,
+      "Z": 85.49
+    },
+    {
+      "Name": "leave-instance",
+      "X": 292.65,
+      "Y": 331.16,
+      "Z": 85.49
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "Queensdale-to-Gendarran",
+      "X": 1255.33,
+      "Y": 240.93,
+      "Z": 37.63
+    },
+    {
+      "Name": "Instance-start-The-Sad-Tale-of-the-Ravenous",
+      "X": -602.36,
+      "Y": -323.82,
+      "Z": 0.29
+    },
+    {
+      "Name": "talk",
+      "X": -583.67,
+      "Y": -341.72,
+      "Z": 0.82
+    },
+    {
+      "Name": "get-item",
+      "X": -583.67,
+      "Y": -341.72,
+      "Z": 0.82
+    },
+    {
+      "Name": "torch",
+      "X": -544.02,
+      "Y": -366.62,
+      "Z": 3.11
+    },
+    {
+      "Name": "torch",
+      "X": -514.85,
+      "Y": -373.76,
+      "Z": 2.63
+    },
+    {
+      "Name": "torch",
+      "X": -484.66,
+      "Y": -392.17,
+      "Z": 5.47
+    },
+    {
+      "Name": "talk",
+      "X": -541.26,
+      "Y": -438.64,
+      "Z": 0.54
+    },
+    {
+      "Name": "defend",
+      "X": -539.26,
+      "Y": -404.07,
+      "Z": 0.23
+    },
+    {
+      "Name": "defend",
+      "X": -487.61,
+      "Y": -397.95,
+      "Z": 5.7
+    },
+    {
+      "Name": "defend",
+      "X": -498.91,
+      "Y": -375.42,
+      "Z": 4.33
+    },
+    {
+      "Name": "talk",
+      "X": -540.35,
+      "Y": -437.78,
+      "Z": 0.6
+    },
+    {
+      "Name": "curse",
+      "X": -544.57,
+      "Y": -437.83,
+      "Z": 0.52
+    },
+    {
+      "Name": "talk",
+      "X": -541.05,
+      "Y": -438.58,
+      "Z": 0.55
+    },
+    {
+      "Name": "talk",
+      "X": -583.18,
+      "Y": -343.56,
+      "Z": 0.94
+    },
+    {
+      "Name": "leave",
+      "X": -583.18,
+      "Y": -343.56,
+      "Z": 0.94
+    },
+    {
+      "Name": "Gendarran-to-Queensdale",
+      "X": -1469.7,
+      "Y": 476.25,
+      "Z": 7.56
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "Continue-story",
+      "X": 247.1,
+      "Y": 178.75,
+      "Z": 98.25
+    },
+    {
+      "Name": "meet",
+      "X": 292.41,
+      "Y": 331.67,
+      "Z": 85.49
+    },
+    {
+      "Name": "talk",
+      "X": 300.43,
+      "Y": 338.31,
+      "Z": 85.55
+    },
+    {
+      "Name": "this-.is-the-final-decision-if.you-wanna-do-another-story-use-a-different-file-this-part-is-going-for-the-Agent-Ihan-and-Orders-of-Whispers-quest-line",
+      "X": 291.88,
+      "Y": 331.63,
+      "Z": 85.48
+    },
+    {
+      "Name": "leave-instance",
+      "X": 291.88,
+      "Y": 331.63,
+      "Z": 85.48
+    },
+    {
+      "Name": "Instance-The-Trap",
+      "X": 83.3,
+      "Y": 8.11,
+      "Z": 167.75
+    },
+    {
+      "Name": "talk",
+      "X": 80.57,
+      "Y": 75.48,
+      "Z": 171.32
+    },
+    {
+      "Name": "arm",
+      "X": 110.76,
+      "Y": 71.57,
+      "Z": 167.84
+    },
+    {
+      "Name": "arm",
+      "X": 101.41,
+      "Y": 50.36,
+      "Z": 167.85
+    },
+    {
+      "Name": "arm",
+      "X": 84.33,
+      "Y": 44.51,
+      "Z": 167.84
+    },
+    {
+      "Name": "arm",
+      "X": 66.54,
+      "Y": 48.37,
+      "Z": 167.84
+    },
+    {
+      "Name": "arm",
+      "X": 53.8,
+      "Y": 72.75,
+      "Z": 167.84
+    },
+    {
+      "Name": "fight",
+      "X": 83.12,
+      "Y": 52.35,
+      "Z": 167.84
+    },
+    {
+      "Name": "instance-done",
+      "X": 83.92,
+      "Y": 49.7,
+      "Z": 167.84
+    },
+    {
+      "Name": "chapter-done",
+      "X": 83.6,
+      "Y": -71.97,
+      "Z": 286.41
+    }
+  ]
+}

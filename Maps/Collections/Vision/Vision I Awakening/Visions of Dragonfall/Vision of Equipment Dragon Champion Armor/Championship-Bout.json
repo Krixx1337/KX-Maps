@@ -1,0 +1,83 @@
+{
+  "Name": "Championship-Bout",
+  "Coordinates": [
+    {
+      "Name": "Ley-Infused_Branded_Air_Elemental",
+      "X": -180.353,
+      "Y": -833.924,
+      "Z": 242.795
+    },
+    {
+      "Name": "Ley-Infused_Branded_Devourer_",
+      "X": 598.303,
+      "Y": 422.851,
+      "Z": 151.378
+    },
+    {
+      "Name": "Ley-Infused_Branded_Forgotten_Priest",
+      "X": -1050.396,
+      "Y": -123.93,
+      "Z": 210.953
+    },
+    {
+      "Name": "Ley-Infused_Branded_Forgotten_Priest",
+      "X": -1121.125,
+      "Y": -48.278,
+      "Z": 219.226
+    },
+    {
+      "Name": "Ley-Infused_Branded_Hydra_",
+      "X": 392.51,
+      "Y": -53.41,
+      "Z": 392.758
+    },
+    {
+      "Name": "Ley-Infused_Branded_Ogre_",
+      "X": -472.627,
+      "Y": 511.865,
+      "Z": 239.193
+    },
+    {
+      "Name": "Ley-Infused_Hydra__",
+      "X": -1072.697,
+      "Y": 450.904,
+      "Z": 294.181
+    },
+    {
+      "Name": "Ley-Infused_Shadow_Elemental_",
+      "X": -229.332,
+      "Y": 903.995,
+      "Z": 266.186
+    },
+    {
+      "Name": "Ley-Infused_Nature_Elemental_",
+      "X": 803.84,
+      "Y": 94.25,
+      "Z": 157.74
+    },
+    {
+      "Name": "Ley-Infused_Ghost_Flayer_",
+      "X": -968.23,
+      "Y": -803.283,
+      "Z": 80.764
+    },
+    {
+      "Name": "Champion_Abyssal__",
+      "X": -731.589,
+      "Y": 636.692,
+      "Z": 315.107
+    },
+    {
+      "Name": "Champion_Nature_Elemental",
+      "X": 1139.891,
+      "Y": 185.312,
+      "Z": 142.93
+    },
+    {
+      "Name": "Arbiter_Of_The_Dead",
+      "X": -1104.122,
+      "Y": -501.696,
+      "Z": 77.414
+    }
+  ]
+}

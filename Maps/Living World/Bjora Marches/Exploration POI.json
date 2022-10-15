@@ -1,0 +1,179 @@
+{
+  "Name": "Exploration POI",
+  "Coordinates": [
+    {
+      "Name": "pointsofinterest01",
+      "X": 909.133,
+      "Y": -349.935,
+      "Z": 161.915
+    },
+    {
+      "Name": "pointsofinterest02",
+      "X": 1340.861,
+      "Y": 445.273,
+      "Z": 163.923
+    },
+    {
+      "Name": "pointsofinterest03",
+      "X": 669.442,
+      "Y": -172.879,
+      "Z": 157.99
+    },
+    {
+      "Name": "pointsofinterest04",
+      "X": 995.563,
+      "Y": -28.989,
+      "Z": 130.207
+    },
+    {
+      "Name": "pointsofinterest05",
+      "X": 932.049,
+      "Y": 596.736,
+      "Z": 157.635
+    },
+    {
+      "Name": "pointsofinterest06",
+      "X": 528.355,
+      "Y": 397.315,
+      "Z": 204.44
+    },
+    {
+      "Name": "pointsofinterest07",
+      "X": 1438.635,
+      "Y": -112.363,
+      "Z": 58.8
+    },
+    {
+      "Name": "pointsofinterest08",
+      "X": 1154.829,
+      "Y": 440.482,
+      "Z": 148.727
+    },
+    {
+      "Name": "pointsofinterest09",
+      "X": 844.352,
+      "Y": 377.251,
+      "Z": 158.375
+    },
+    {
+      "Name": "pointsofinterest10",
+      "X": 209.017,
+      "Y": 4.46,
+      "Z": 219.428
+    },
+    {
+      "Name": "pointsofinterest11",
+      "X": 524.551,
+      "Y": 128.209,
+      "Z": 194.604
+    },
+    {
+      "Name": "pointsofinterest12",
+      "X": 431.979,
+      "Y": -397.216,
+      "Z": 172.723
+    },
+    {
+      "Name": "pointsofinterest13",
+      "X": 1089.188,
+      "Y": 205.758,
+      "Z": 137.706
+    },
+    {
+      "Name": "pointsofinterest14",
+      "X": 802.669,
+      "Y": 114.265,
+      "Z": 182.258
+    },
+    {
+      "Name": "pointsofinterest15",
+      "X": 1376.298,
+      "Y": -160.037,
+      "Z": 58.607
+    },
+    {
+      "Name": "pointsofinterest16",
+      "X": -956.159,
+      "Y": -391.902,
+      "Z": 114.321
+    },
+    {
+      "Name": "pointsofinterest17",
+      "X": -1081.026,
+      "Y": -413.171,
+      "Z": 23.705
+    },
+    {
+      "Name": "pointsofinterest17",
+      "X": -1221.492,
+      "Y": -239.7,
+      "Z": 122.96
+    },
+    {
+      "Name": "pointsofinterest18",
+      "X": -383.028,
+      "Y": 0.46,
+      "Z": 136.315
+    },
+    {
+      "Name": "pointsofinterest19",
+      "X": -484.572,
+      "Y": 103.875,
+      "Z": 185.189
+    },
+    {
+      "Name": "pointsofinterest20",
+      "X": -478.598,
+      "Y": -330.841,
+      "Z": 313.338
+    },
+    {
+      "Name": "pointsofinterest21",
+      "X": -102.499,
+      "Y": -740.638,
+      "Z": 112.581
+    },
+    {
+      "Name": "pointsofinterest22",
+      "X": -710.747,
+      "Y": 759.456,
+      "Z": 203.239
+    },
+    {
+      "Name": "pointsofinterest23",
+      "X": -175.605,
+      "Y": 605.321,
+      "Z": 272.063
+    },
+    {
+      "Name": "pointsofinterest24",
+      "X": -842.535,
+      "Y": 498.984,
+      "Z": 268.194
+    },
+    {
+      "Name": "pointsofinterest25",
+      "X": -290.93,
+      "Y": -562.36,
+      "Z": 310.702
+    },
+    {
+      "Name": "pointsofinterest26",
+      "X": -1132.336,
+      "Y": 156.972,
+      "Z": 32.474
+    },
+    {
+      "Name": "pointsofinterest27",
+      "X": -374.664,
+      "Y": 223.161,
+      "Z": 213.829
+    },
+    {
+      "Name": "pointsofinterest28",
+      "X": -567.708,
+      "Y": -601.276,
+      "Z": 220.49
+    }
+  ]
+}

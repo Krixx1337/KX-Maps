@@ -1,0 +1,59 @@
+{
+  "Name": "Sunqua Peak - Another Side Another Story",
+  "Coordinates": [
+    {
+      "Name": "trigger_Spirit",
+      "X": 129.56,
+      "Y": -263.6,
+      "Z": 44.39
+    },
+    {
+      "Name": "1.Tattered_Letter",
+      "X": 104.66,
+      "Y": -287.44,
+      "Z": 58.18
+    },
+    {
+      "Name": "2.Delicate_Letter",
+      "X": 84.39,
+      "Y": -286.3,
+      "Z": 83.19
+    },
+    {
+      "Name": "3.Small_Note",
+      "X": -39.26,
+      "Y": -154.45,
+      "Z": 115.19
+    },
+    {
+      "Name": "4.Rushed_Note",
+      "X": 228.19,
+      "Y": -233.87,
+      "Z": 31.2
+    },
+    {
+      "Name": "5.Lenghty_Letter",
+      "X": -162.89,
+      "Y": -169.35,
+      "Z": 143.74
+    },
+    {
+      "Name": "6.Handwritten_Note",
+      "X": 42.91,
+      "Y": 244.91,
+      "Z": 284.42
+    },
+    {
+      "Name": "7.Short_Letter",
+      "X": 52.8,
+      "Y": -35.15,
+      "Z": 243.56
+    },
+    {
+      "Name": "8.Simple_Note",
+      "X": 236.64,
+      "Y": 109.47,
+      "Z": 303.44
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Diessa-Plateau",
+  "Coordinates": [
+    {
+      "Name": "Diessa-to-BlackCitadel",
+      "X": -940.88,
+      "Y": -789.62,
+      "Z": 56.13
+    },
+    {
+      "Name": "Diessa-to-PlainsofAshford",
+      "X": 1129.88,
+      "Y": -817.07,
+      "Z": 16.52
+    },
+    {
+      "Name": "Diessa-to-Wayfarer",
+      "X": -1249.91,
+      "Y": 315.59,
+      "Z": 155.63
+    }
+  ]
+}

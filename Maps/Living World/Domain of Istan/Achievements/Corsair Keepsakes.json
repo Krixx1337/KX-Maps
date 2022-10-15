@@ -1,0 +1,65 @@
+{
+  "Name": "Corsair Keepsakes",
+  "Coordinates": [
+    {
+      "Name": "Alehound_Brewers_Manual",
+      "X": -441.7,
+      "Y": 766.49,
+      "Z": 69.96
+    },
+    {
+      "Name": "Asefs_Brandy",
+      "X": -466.48,
+      "Y": 921.82,
+      "Z": 74.98
+    },
+    {
+      "Name": "Mehdis_Prized_Hops",
+      "X": -469.31,
+      "Y": 963.03,
+      "Z": 3.26
+    },
+    {
+      "Name": "Kiangos_Spyglass",
+      "X": -300.84,
+      "Y": 1084.74,
+      "Z": 83.95
+    },
+    {
+      "Name": "Sayidas_Sharpened_Blade",
+      "X": -243.52,
+      "Y": 1072.05,
+      "Z": 69.9
+    },
+    {
+      "Name": "Baruds_Spare_Gun",
+      "X": -175.94,
+      "Y": 971.19,
+      "Z": 40.06
+    },
+    {
+      "Name": "Cannonball_Stash",
+      "X": -290.2,
+      "Y": 968.56,
+      "Z": -80.66
+    },
+    {
+      "Name": "Randas_Childhood_Toy",
+      "X": -256.37,
+      "Y": 812.9,
+      "Z": 19.76
+    },
+    {
+      "Name": "Communal_Lucky_Fistwraps",
+      "X": -176.54,
+      "Y": 781.99,
+      "Z": 29.14
+    },
+    {
+      "Name": "Wooden_Parrot",
+      "X": -160.95,
+      "Y": 797.77,
+      "Z": 47.38
+    }
+  ]
+}

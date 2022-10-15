@@ -1,0 +1,149 @@
+{
+  "Name": "6.Chapter 50",
+  "Coordinates": [
+    {
+      "Name": "BloodtideCoast-to-LionsArch",
+      "X": 287.25,
+      "Y": 1209.5,
+      "Z": 25.89
+    },
+    {
+      "Name": "LionsArch-to-Gendarran",
+      "X": -198.13,
+      "Y": 543.7,
+      "Z": 40.56
+    },
+    {
+      "Name": "Gendarran-to-Harathi",
+      "X": -859.66,
+      "Y": 734.63,
+      "Z": 69.24
+    },
+    {
+      "Name": "instance-start-Rat-Tastrophe",
+      "X": -957.85,
+      "Y": 833.67,
+      "Z": 48.7
+    },
+    {
+      "Name": "talk",
+      "X": -1017.11,
+      "Y": 853.37,
+      "Z": 58.73
+    },
+    {
+      "Name": "port",
+      "X": -1077.2,
+      "Y": 921.73,
+      "Z": 30.27
+    },
+    {
+      "Name": "kill-all",
+      "X": -1067.17,
+      "Y": 929.31,
+      "Z": 29.36
+    },
+    {
+      "Name": "talk-choose-ill-find-the-friends",
+      "X": -1065.12,
+      "Y": 930.3,
+      "Z": 29.34
+    },
+    {
+      "Name": "instance-done",
+      "X": -1065.12,
+      "Y": 930.3,
+      "Z": 29.34
+    },
+    {
+      "Name": "instance-start-The-Hatchery",
+      "X": 612.67,
+      "Y": 468.61,
+      "Z": 81.29
+    },
+    {
+      "Name": "port",
+      "X": 1034.83,
+      "Y": 69.49,
+      "Z": 98.14
+    },
+    {
+      "Name": "talk",
+      "X": 1110.7,
+      "Y": 150.19,
+      "Z": 78.04
+    },
+    {
+      "Name": "rescue",
+      "X": 1065.67,
+      "Y": 230.86,
+      "Z": 75.2
+    },
+    {
+      "Name": "talk",
+      "X": 1077.19,
+      "Y": 305.83,
+      "Z": 90.04
+    },
+    {
+      "Name": "port&kill",
+      "X": 979.62,
+      "Y": 262.45,
+      "Z": 95.99
+    },
+    {
+      "Name": "instance-done",
+      "X": 980.59,
+      "Y": 262.19,
+      "Z": 95.67
+    },
+    {
+      "Name": "instance-start-Set-to-Blow",
+      "X": -957.93,
+      "Y": 833.46,
+      "Z": 48.72
+    },
+    {
+      "Name": "port",
+      "X": -987.81,
+      "Y": 835.61,
+      "Z": 55.0
+    },
+    {
+      "Name": "port",
+      "X": -1008.52,
+      "Y": 845.04,
+      "Z": 57.97
+    },
+    {
+      "Name": "talk",
+      "X": -1079.72,
+      "Y": 927.65,
+      "Z": 29.18
+    },
+    {
+      "Name": "defend",
+      "X": -1072.54,
+      "Y": 927.44,
+      "Z": 29.32
+    },
+    {
+      "Name": "retreat-after-queen",
+      "X": -1083.24,
+      "Y": 865.6,
+      "Z": 55.22
+    },
+    {
+      "Name": "talk-point",
+      "X": -989.66,
+      "Y": 832.37,
+      "Z": 55.51
+    },
+    {
+      "Name": "instance-done-chapter-done",
+      "X": -989.66,
+      "Y": 832.37,
+      "Z": 55.51
+    }
+  ]
+}

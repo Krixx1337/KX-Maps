@@ -1,0 +1,59 @@
+{
+  "Name": "Astral Purification",
+  "Coordinates": [
+    {
+      "Name": "When_you_have_all_Materials_port_here_to_craft_all_Mirrors",
+      "X": -1039.09,
+      "Y": 718.9,
+      "Z": 37.72
+    },
+    {
+      "Name": "now_we_go_to_locations_to_complete_the_Achievment",
+      "X": -1036.5,
+      "Y": 719.63,
+      "Z": 37.72
+    },
+    {
+      "Name": "Molten_Mirror",
+      "X": -968.0,
+      "Y": 192.59,
+      "Z": 198.92
+    },
+    {
+      "Name": "Crystal_Mirror",
+      "X": -843.33,
+      "Y": -221.37,
+      "Z": 144.62
+    },
+    {
+      "Name": "Charged_Mirror",
+      "X": -629.68,
+      "Y": -501.07,
+      "Z": 174.5
+    },
+    {
+      "Name": "Destroyer_Mirror",
+      "X": -216.15,
+      "Y": -296.18,
+      "Z": 266.84
+    },
+    {
+      "Name": "Corrupted_Mirror",
+      "X": 80.94,
+      "Y": -62.8,
+      "Z": 308.15
+    },
+    {
+      "Name": "Onyx_Mirror",
+      "X": -246.37,
+      "Y": 483.94,
+      "Z": 193.97
+    },
+    {
+      "Name": "Glacial_Mirror",
+      "X": 38.42,
+      "Y": 819.09,
+      "Z": 310.46
+    }
+  ]
+}

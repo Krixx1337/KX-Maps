@@ -1,0 +1,47 @@
+{
+  "Name": "15.The Cycle Reborn",
+  "Coordinates": [
+    {
+      "Name": "EW-Interance",
+      "X": -790.14,
+      "Y": 427.69,
+      "Z": 195.57
+    },
+    {
+      "Name": "tele_here_diag",
+      "X": -1002.53,
+      "Y": 637.04,
+      "Z": 2.61
+    },
+    {
+      "Name": "speak_with_Aurene_and_done",
+      "X": -1003.4,
+      "Y": 637.71,
+      "Z": 2.61
+    },
+    {
+      "Name": "after_all_diag,_exit",
+      "X": -916.71,
+      "Y": 552.11,
+      "Z": 11.83
+    },
+    {
+      "Name": "tele_here_to_DR",
+      "X": -968.21,
+      "Y": 602.49,
+      "Z": 2.41
+    },
+    {
+      "Name": "tele_here_instance",
+      "X": 332.72,
+      "Y": -508.78,
+      "Z": 70.06
+    },
+    {
+      "Name": "tele",
+      "X": 344.83,
+      "Y": -529.41,
+      "Z": 71.94
+    }
+  ]
+}

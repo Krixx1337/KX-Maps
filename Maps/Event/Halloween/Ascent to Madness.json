@@ -1,0 +1,71 @@
+{
+  "Name": "Ascent to Madness",
+  "Coordinates": [
+    {
+      "Name": "open",
+      "X": 13.83,
+      "Y": -11.35,
+      "Z": 271.35
+    },
+    {
+      "Name": "port",
+      "X": 52.11,
+      "Y": -46.88,
+      "Z": 261.2
+    },
+    {
+      "Name": "do-as-he-says-then-kill-mobs-untill-he-shows-up",
+      "X": 53.66,
+      "Y": -51.47,
+      "Z": 261.47
+    },
+    {
+      "Name": "attack-King-until-he--runs-away-then-port-next-platform",
+      "X": 57.85,
+      "Y": -27.23,
+      "Z": 261.25
+    },
+    {
+      "Name": "port",
+      "X": 37.86,
+      "Y": -108.52,
+      "Z": 256.31
+    },
+    {
+      "Name": "port",
+      "X": 73.93,
+      "Y": -115.51,
+      "Z": 212.99
+    },
+    {
+      "Name": "next-fight-spot",
+      "X": -2.46,
+      "Y": -69.95,
+      "Z": 189.39
+    },
+    {
+      "Name": "port-here-when-hes-running-away",
+      "X": 6.56,
+      "Y": -33.1,
+      "Z": 122.34
+    },
+    {
+      "Name": "BOSS",
+      "X": 23.5,
+      "Y": -56.92,
+      "Z": 105.03
+    },
+    {
+      "Name": "Chest",
+      "X": 29.8,
+      "Y": -1.6,
+      "Z": 105.59
+    },
+    {
+      "Name": "Door-to-leave",
+      "X": 19.58,
+      "Y": -18.0,
+      "Z": 270.86
+    }
+  ]
+}

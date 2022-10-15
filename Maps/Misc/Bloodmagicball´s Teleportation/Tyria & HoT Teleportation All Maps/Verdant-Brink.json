@@ -1,0 +1,17 @@
+{
+  "Name": "Verdant-Brink",
+  "Coordinates": [
+    {
+      "Name": "VerdantBrink-to-Silverwaste",
+      "X": 1188.35,
+      "Y": 80.95,
+      "Z": 512.99
+    },
+    {
+      "Name": "Verdant-to-Auric",
+      "X": -972.76,
+      "Y": -528.59,
+      "Z": 466.83
+    }
+  ]
+}

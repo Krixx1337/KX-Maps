@@ -1,0 +1,233 @@
+{
+  "Name": "Dive Master Core Tyria",
+  "Coordinates": [
+    {
+      "Name": "PlainsOfAshford1",
+      "X": -424.67,
+      "Y": -474.56,
+      "Z": 25.59
+    },
+    {
+      "Name": "PlainsOfAshford2",
+      "X": 752.3,
+      "Y": -473.54,
+      "Z": 60.65
+    },
+    {
+      "Name": "Diessa_Plateau_2",
+      "X": 1090.42,
+      "Y": -522.82,
+      "Z": 33.45
+    },
+    {
+      "Name": "Diessa_Plateau_1",
+      "X": 153.62,
+      "Y": 412.32,
+      "Z": 30.82
+    },
+    {
+      "Name": "Fields_of_Ruin_2",
+      "X": -673.16,
+      "Y": 878.33,
+      "Z": 17.68
+    },
+    {
+      "Name": "Fields_of_Ruin_1",
+      "X": -53.2,
+      "Y": 94.34,
+      "Z": 44.57
+    },
+    {
+      "Name": "Iron_Marches_1",
+      "X": -619.95,
+      "Y": -1184.58,
+      "Z": 67.82
+    },
+    {
+      "Name": "Iron_Marches_2",
+      "X": 162.16,
+      "Y": -957.83,
+      "Z": 42.78
+    },
+    {
+      "Name": "Fireheart_Rise",
+      "X": 389.51,
+      "Y": -720.16,
+      "Z": 69.51
+    },
+    {
+      "Name": "Kessex_Hills",
+      "X": 1318.41,
+      "Y": -598.33,
+      "Z": 108.3
+    },
+    {
+      "Name": "Lions_Arch",
+      "X": -386.09,
+      "Y": -462.52,
+      "Z": 196.86
+    },
+    {
+      "Name": "Gendarran_Fields_1",
+      "X": 148.8,
+      "Y": 200.71,
+      "Z": 35.95
+    },
+    {
+      "Name": "Gendarran_Fields_2",
+      "X": 737.68,
+      "Y": 654.86,
+      "Z": 85.05
+    },
+    {
+      "Name": "Harathi_Hinterlands_1",
+      "X": 818.9,
+      "Y": -882.06,
+      "Z": 36.48
+    },
+    {
+      "Name": "Harathi_Hinterlands_2",
+      "X": -451.82,
+      "Y": 782.83,
+      "Z": 41.57
+    },
+    {
+      "Name": "Bloodtide_Coast",
+      "X": 432.4,
+      "Y": 639.26,
+      "Z": 66.31
+    },
+    {
+      "Name": "Gendarran_Fields_3",
+      "X": -373.08,
+      "Y": -654.38,
+      "Z": 182.7
+    },
+    {
+      "Name": "Rata_Sum",
+      "X": -5.6,
+      "Y": -430.29,
+      "Z": 133.9
+    },
+    {
+      "Name": "The_Grove",
+      "X": 70.09,
+      "Y": -21.95,
+      "Z": 91.9
+    },
+    {
+      "Name": "Metrica_Province_1",
+      "X": -31.66,
+      "Y": -697.42,
+      "Z": 31.71
+    },
+    {
+      "Name": "Metrica_Province_2",
+      "X": 410.87,
+      "Y": 1095.67,
+      "Z": 22.86
+    },
+    {
+      "Name": "Caledon_Forest",
+      "X": 563.7,
+      "Y": 299.58,
+      "Z": 27.64
+    },
+    {
+      "Name": "Brisban_Wildlands_1",
+      "X": 628.69,
+      "Y": 203.76,
+      "Z": 64.17
+    },
+    {
+      "Name": "Brisban_Wildlands_2",
+      "X": 188.49,
+      "Y": 68.7,
+      "Z": 44.89
+    },
+    {
+      "Name": "Mount_Maelstrom_1",
+      "X": 1275.89,
+      "Y": 613.1,
+      "Z": 126.92
+    },
+    {
+      "Name": "Mount_Maelstrom_2",
+      "X": 1327.07,
+      "Y": 824.1,
+      "Z": 138.18
+    },
+    {
+      "Name": "Straits_of_Devastation_1",
+      "X": 605.54,
+      "Y": 120.1,
+      "Z": 44.91
+    },
+    {
+      "Name": "Straits_of_Devastation_2",
+      "X": 205.76,
+      "Y": -472.45,
+      "Z": 46.75
+    },
+    {
+      "Name": "Malchors_Leap",
+      "X": -495.43,
+      "Y": 162.53,
+      "Z": 188.87
+    },
+    {
+      "Name": "Cursed_Shore_1",
+      "X": -19.77,
+      "Y": -1071.28,
+      "Z": 44.96
+    },
+    {
+      "Name": "Cursed_Shore_2",
+      "X": 125.74,
+      "Y": 457.46,
+      "Z": 30.44
+    },
+    {
+      "Name": "Wayfarer_Foothills_1",
+      "X": 176.53,
+      "Y": -63.26,
+      "Z": 50.67
+    },
+    {
+      "Name": "Wayfarer_Foothills_2",
+      "X": 349.14,
+      "Y": -883.34,
+      "Z": 50.76
+    },
+    {
+      "Name": "Frostgorge_Sound",
+      "X": -145.97,
+      "Y": 467.21,
+      "Z": 61.22
+    },
+    {
+      "Name": "Lornars_Pass_1",
+      "X": -303.87,
+      "Y": -798.86,
+      "Z": 32.76
+    },
+    {
+      "Name": "Lornars_Pass_2",
+      "X": -528.93,
+      "Y": -1529.1,
+      "Z": 64.59
+    },
+    {
+      "Name": "Timberline_Falls_1",
+      "X": -205.89,
+      "Y": 1092.75,
+      "Z": 35.83
+    },
+    {
+      "Name": "Timberline_Falls_2",
+      "X": 317.37,
+      "Y": -656.42,
+      "Z": 109.74
+    }
+  ]
+}

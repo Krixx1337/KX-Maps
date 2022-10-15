@@ -1,0 +1,101 @@
+{
+  "Name": "Submarine-Path",
+  "Coordinates": [
+    {
+      "Name": "Talk-with-Agent-Spire",
+      "X": 19.98,
+      "Y": 31.74,
+      "Z": 142.44
+    },
+    {
+      "Name": "kill-mobs-or-try-to-protect-her-because-she-can-run-through-the-mobs-when-you-port-to-the-next-coord-port-back-when-shes-almost-dead-and-heal-her",
+      "X": -16.35,
+      "Y": 12.28,
+      "Z": 142.28
+    },
+    {
+      "Name": "Wait-here-while-escord-event-is-active",
+      "X": -233.51,
+      "Y": -125.19,
+      "Z": 148.79
+    },
+    {
+      "Name": "Talk-to-her",
+      "X": -252.1,
+      "Y": -126.72,
+      "Z": 152.62
+    },
+    {
+      "Name": "Select-Submarine",
+      "X": -252.1,
+      "Y": -126.72,
+      "Z": 152.62
+    },
+    {
+      "Name": "port-here",
+      "X": -242.47,
+      "Y": -260.73,
+      "Z": 151.81
+    },
+    {
+      "Name": "fast-port",
+      "X": -208.18,
+      "Y": -277.37,
+      "Z": 148.18
+    },
+    {
+      "Name": "fast-port",
+      "X": -133.54,
+      "Y": -287.96,
+      "Z": 148.18
+    },
+    {
+      "Name": "fast-port",
+      "X": 40.13,
+      "Y": -130.45,
+      "Z": 176.63
+    },
+    {
+      "Name": "fast-port-before-first-boss",
+      "X": 131.15,
+      "Y": -35.26,
+      "Z": 210.66
+    },
+    {
+      "Name": "Boss",
+      "X": 139.6,
+      "Y": -44.75,
+      "Z": 210.67
+    },
+    {
+      "Name": "port-here-to-activate-the-console",
+      "X": 199.72,
+      "Y": -105.42,
+      "Z": 217.46
+    },
+    {
+      "Name": "next-port-here",
+      "X": 286.4,
+      "Y": -20.66,
+      "Z": 223.39
+    },
+    {
+      "Name": "kill-subject-alpha-use-console-to-deal-massive-dmg-one-time-to-him",
+      "X": 259.81,
+      "Y": -6.81,
+      "Z": 226.75
+    },
+    {
+      "Name": "kill--Bjarl",
+      "X": 294.77,
+      "Y": 195.93,
+      "Z": 236.03
+    },
+    {
+      "Name": "kill-ENDBOSS",
+      "X": 166.37,
+      "Y": 162.52,
+      "Z": 232.03
+    }
+  ]
+}

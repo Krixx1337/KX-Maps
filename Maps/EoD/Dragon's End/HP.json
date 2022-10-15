@@ -1,0 +1,41 @@
+{
+  "Name": "HP",
+  "Coordinates": [
+    {
+      "Name": "Roaring_Waterfall",
+      "X": 186.16,
+      "Y": 1154.84,
+      "Z": 221.08
+    },
+    {
+      "Name": "Quarry_Overlook",
+      "X": -140.94,
+      "Y": 1205.74,
+      "Z": 299.91
+    },
+    {
+      "Name": "Quarry_Platform",
+      "X": 219.05,
+      "Y": 423.16,
+      "Z": 66.39
+    },
+    {
+      "Name": "Harvest_Complex_Pavillion",
+      "X": 135.47,
+      "Y": -321.27,
+      "Z": 217.98
+    },
+    {
+      "Name": "Harvest_Temple_Main_Entrance",
+      "X": -13.07,
+      "Y": -389.16,
+      "Z": 302.55
+    },
+    {
+      "Name": "Hatchery_Play_Pond",
+      "X": 585.1,
+      "Y": -136.12,
+      "Z": 198.1
+    }
+  ]
+}

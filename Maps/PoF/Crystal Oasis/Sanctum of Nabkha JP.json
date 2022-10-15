@@ -1,0 +1,29 @@
+{
+  "Name": "Sanctum of Nabkha JP",
+  "Coordinates": [
+    {
+      "Name": "Sanctum_of_Nabkha_(Safespot_above)",
+      "X": 913.78,
+      "Y": -722.46,
+      "Z": 296.87
+    },
+    {
+      "Name": "Sanctum_of_Nabkha_Chest1",
+      "X": 930.21,
+      "Y": -666.43,
+      "Z": 236.64
+    },
+    {
+      "Name": "Sanctum_of_Nabkha_Chest2",
+      "X": 933.81,
+      "Y": -678.62,
+      "Z": 236.69
+    },
+    {
+      "Name": "Sanctum_of_Nabkha_Chest3",
+      "X": 930.33,
+      "Y": -695.14,
+      "Z": 236.67
+    }
+  ]
+}

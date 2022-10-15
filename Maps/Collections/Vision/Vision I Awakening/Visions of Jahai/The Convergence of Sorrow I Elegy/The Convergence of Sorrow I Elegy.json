@@ -1,0 +1,215 @@
+{
+  "Name": "The Convergence of Sorrow I Elegy",
+  "Coordinates": [
+    {
+      "Name": "Talk_to_Eladaar",
+      "X": -1098.33,
+      "Y": 189.16,
+      "Z": 88.42
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1072.83,
+      "Y": 97.64,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_To_Amira",
+      "X": -1296.55,
+      "Y": -542.27,
+      "Z": 28.22
+    },
+    {
+      "Name": "Talk_to_Second_Spear_Riyid",
+      "X": 1423.02,
+      "Y": 839.86,
+      "Z": 149.96
+    },
+    {
+      "Name": "Talk_to_Left_Sunspear",
+      "X": 1430.31,
+      "Y": 849.62,
+      "Z": 151.33
+    },
+    {
+      "Name": "Talk_to_Sunspear_Behind",
+      "X": 1430.26,
+      "Y": 845.11,
+      "Z": 151.01
+    },
+    {
+      "Name": "Examine_Toy_Roller_Bettle",
+      "X": -1174.44,
+      "Y": 541.27,
+      "Z": 130.19
+    },
+    {
+      "Name": "Examine_Faded_Portrait",
+      "X": -1196.89,
+      "Y": 539.1,
+      "Z": 87.48
+    },
+    {
+      "Name": "Talk_to_Eladaar",
+      "X": -1179.05,
+      "Y": 235.33,
+      "Z": 49.78
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1073.04,
+      "Y": 97.47,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_To_Amira",
+      "X": -1296.31,
+      "Y": -542.68,
+      "Z": 28.16
+    },
+    {
+      "Name": "Examine_Awakend_Memorial",
+      "X": 85.6,
+      "Y": -879.49,
+      "Z": 37.2
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1072.71,
+      "Y": 97.65,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_to_Amira_&_Buy",
+      "X": -1296.67,
+      "Y": -542.78,
+      "Z": 28.15
+    },
+    {
+      "Name": "Examine",
+      "X": 707.38,
+      "Y": -281.77,
+      "Z": 60.63
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1072.83,
+      "Y": 97.64,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_to_Amira_&_Buy",
+      "X": -1296.31,
+      "Y": -542.68,
+      "Z": 28.16
+    },
+    {
+      "Name": "Examine",
+      "X": 388.47,
+      "Y": 440.88,
+      "Z": 152.52
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1072.89,
+      "Y": 97.52,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_to_Amira_&_Buy",
+      "X": -1295.85,
+      "Y": -542.96,
+      "Z": 28.04
+    },
+    {
+      "Name": "Examine",
+      "X": 1052.48,
+      "Y": 975.35,
+      "Z": 150.25
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1072.89,
+      "Y": 97.52,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_to_Amira_&_Buy",
+      "X": -1296.11,
+      "Y": -542.99,
+      "Z": 28.07
+    },
+    {
+      "Name": "Examine",
+      "X": -610.59,
+      "Y": 653.13,
+      "Z": 84.26
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1072.75,
+      "Y": 97.53,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_to_Amira_&_Buy",
+      "X": -1296.44,
+      "Y": -543.09,
+      "Z": 28.14
+    },
+    {
+      "Name": "Examin",
+      "X": 89.01,
+      "Y": -59.71,
+      "Z": 66.25
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1072.89,
+      "Y": 97.52,
+      "Z": 79.44
+    },
+    {
+      "Name": "Talk_to_Amira_&_Buy",
+      "X": -1296.06,
+      "Y": -542.96,
+      "Z": 28.06
+    },
+    {
+      "Name": "Examine",
+      "X": -1098.37,
+      "Y": 189.24,
+      "Z": 88.42
+    },
+    {
+      "Name": "Talk_to_Eladaar",
+      "X": -431.39,
+      "Y": -777.22,
+      "Z": 62.63
+    },
+    {
+      "Name": "Nothing_Just_Port_to_Get",
+      "X": -1097.32,
+      "Y": 188.29,
+      "Z": 88.49
+    },
+    {
+      "Name": "Talk_to_Amira_after_all_conversation",
+      "X": -1100.39,
+      "Y": 185.88,
+      "Z": 88.59
+    },
+    {
+      "Name": "Enter_Suns_Refuge",
+      "X": -1074.84,
+      "Y": 94.59,
+      "Z": 79.42
+    },
+    {
+      "Name": "Talk_to_Amira",
+      "X": -1297.23,
+      "Y": -543.44,
+      "Z": 27.75
+    }
+  ]
+}

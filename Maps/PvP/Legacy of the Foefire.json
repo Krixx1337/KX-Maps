@@ -1,0 +1,23 @@
+{
+  "Name": "Legacy of the Foefire",
+  "Coordinates": [
+    {
+      "Name": "Quarry",
+      "X": 166.954,
+      "Y": -73.5011,
+      "Z": 20.829
+    },
+    {
+      "Name": "Waterfall",
+      "X": 23.9083,
+      "Y": 172.358,
+      "Z": 20.7256
+    },
+    {
+      "Name": "Cemetery",
+      "X": 95.9772,
+      "Y": 51.4941,
+      "Z": 14.0108
+    }
+  ]
+}

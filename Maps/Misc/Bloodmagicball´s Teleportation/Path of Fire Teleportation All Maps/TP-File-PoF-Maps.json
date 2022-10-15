@@ -1,0 +1,53 @@
+{
+  "Name": "TP-File-PoF-Maps",
+  "Coordinates": [
+    {
+      "Name": "CrystalOasis-to-DesertHighlands",
+      "X": 671.94,
+      "Y": 881.29,
+      "Z": 119.04
+    },
+    {
+      "Name": "DesertHighlands-to-CrystalOasis",
+      "X": 673.92,
+      "Y": -897.0,
+      "Z": 199.36
+    },
+    {
+      "Name": "CrystalOasis-to-ElonRiverlands",
+      "X": 1286.44,
+      "Y": -714.2,
+      "Z": 26.09
+    },
+    {
+      "Name": "ElonRiverlands-to-CrystalOasis",
+      "X": 746.09,
+      "Y": 1189.06,
+      "Z": 125.18
+    },
+    {
+      "Name": "ElonRiverlands-to-TheDesolation",
+      "X": 48.21,
+      "Y": -1231.24,
+      "Z": -0.31
+    },
+    {
+      "Name": "TheDesolation-to-ElonRiverlands",
+      "X": 49.61,
+      "Y": 1909.48,
+      "Z": -0.5
+    },
+    {
+      "Name": "TheDesolation-to-Vaabi",
+      "X": 1316.86,
+      "Y": -1444.04,
+      "Z": 331.08
+    },
+    {
+      "Name": "Vaabi-to-TheDesolation",
+      "X": -1738.73,
+      "Y": 1006.29,
+      "Z": 105.57
+    }
+  ]
+}
