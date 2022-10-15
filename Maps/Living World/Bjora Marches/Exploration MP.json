@@ -1,0 +1,41 @@
+{
+  "Name": "Exploration MP",
+  "Coordinates": [
+    {
+      "Name": "masterypoint",
+      "X": 1066.348,
+      "Y": -485.603,
+      "Z": 154.09
+    },
+    {
+      "Name": "masterypoint",
+      "X": 541.266,
+      "Y": -539.688,
+      "Z": 216.694
+    },
+    {
+      "Name": "masterypoint",
+      "X": 1424.01,
+      "Y": 234.75,
+      "Z": 146.585
+    },
+    {
+      "Name": "masterypoint",
+      "X": 403.546,
+      "Y": 661.549,
+      "Z": 260.119
+    },
+    {
+      "Name": "masterypoint",
+      "X": -314.77,
+      "Y": 796.646,
+      "Z": 484.923
+    },
+    {
+      "Name": "masterypoint",
+      "X": -1223.513,
+      "Y": -427.325,
+      "Z": 29.286
+    }
+  ]
+}

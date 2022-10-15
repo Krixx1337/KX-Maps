@@ -1,0 +1,695 @@
+{
+  "Name": "TP-File-All-Tyria-HoT-Maps",
+  "Coordinates": [
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "Queensdale-to-Kessex",
+      "X": -885.73,
+      "Y": -747.69,
+      "Z": 42.74
+    },
+    {
+      "Name": "Kessex-to-Queensdale",
+      "X": -819.17,
+      "Y": 695.16,
+      "Z": 101.33
+    },
+    {
+      "Name": "Queensdale-to-Gendarran",
+      "X": 1255.33,
+      "Y": 240.93,
+      "Z": 37.63
+    },
+    {
+      "Name": "Gendarran-to-Queensdale",
+      "X": -1469.7,
+      "Y": 476.25,
+      "Z": 7.56
+    },
+    {
+      "Name": "Gendarran-to-Harathi",
+      "X": -859.66,
+      "Y": 734.63,
+      "Z": 69.24
+    },
+    {
+      "Name": "Harathi-to-Gendarran",
+      "X": -478.21,
+      "Y": -948.24,
+      "Z": 120.03
+    },
+    {
+      "Name": "Kessex-to-Brisban",
+      "X": -1429.32,
+      "Y": 379.51,
+      "Z": 93.51
+    },
+    {
+      "Name": "Brisban-to-Kessex",
+      "X": 1249.95,
+      "Y": 920.27,
+      "Z": 82.18
+    },
+    {
+      "Name": "Kessex-to-Gendarran",
+      "X": 1472.52,
+      "Y": 654.2,
+      "Z": 25.96
+    },
+    {
+      "Name": "Gendarran-to-Kessex",
+      "X": -1442.99,
+      "Y": -607.13,
+      "Z": 11.12
+    },
+    {
+      "Name": "Kessex-to-Caledon",
+      "X": -224.96,
+      "Y": -695.48,
+      "Z": 59.02
+    },
+    {
+      "Name": "Caledon-to-Kessex",
+      "X": 615.74,
+      "Y": 1496.42,
+      "Z": 21.18
+    },
+    {
+      "Name": "Caledon-to-Grove",
+      "X": -235.71,
+      "Y": -1394.08,
+      "Z": 26.78
+    },
+    {
+      "Name": "Grove-to-Caledon",
+      "X": -100.95,
+      "Y": 366.65,
+      "Z": 94.04
+    },
+    {
+      "Name": "Caledon-to-Metrica",
+      "X": -604.63,
+      "Y": 384.69,
+      "Z": 53.35
+    },
+    {
+      "Name": "Metrica-to-Caledon",
+      "X": 700.87,
+      "Y": 875.15,
+      "Z": 40.68
+    },
+    {
+      "Name": "Brisban-to-Metrica",
+      "X": 346.71,
+      "Y": -867.99,
+      "Z": 99.21
+    },
+    {
+      "Name": "Metric-to-Brisban",
+      "X": -85.61,
+      "Y": 1161.65,
+      "Z": 38.99
+    },
+    {
+      "Name": "Brisban-to-Caledon",
+      "X": 1274.03,
+      "Y": -373.49,
+      "Z": 45.82
+    },
+    {
+      "Name": "Caledon-to-Brisban",
+      "X": -595.64,
+      "Y": 1395.55,
+      "Z": 12.32
+    },
+    {
+      "Name": "Metrica-to-RataSum",
+      "X": -680.19,
+      "Y": -924.71,
+      "Z": 65.27
+    },
+    {
+      "Name": "RataSum-to-Metrica",
+      "X": 169.93,
+      "Y": 116.23,
+      "Z": 471.32
+    },
+    {
+      "Name": "RataSum-to-LionsArch",
+      "X": 86.39,
+      "Y": 345.84,
+      "Z": 471.44
+    },
+    {
+      "Name": "LionsArch-to-RataSum",
+      "X": 123.93,
+      "Y": 256.75,
+      "Z": 48.34
+    },
+    {
+      "Name": "Brisban-to-Silverwaste",
+      "X": -1186.25,
+      "Y": 200.53,
+      "Z": 54.7
+    },
+    {
+      "Name": "Silverwaste-to-Brisban",
+      "X": 753.02,
+      "Y": -233.33,
+      "Z": 510.34
+    },
+    {
+      "Name": "Brisban-to-DryTop",
+      "X": -1133.32,
+      "Y": -926.17,
+      "Z": 58.41
+    },
+    {
+      "Name": "DryTop-to-Brisban",
+      "X": 524.15,
+      "Y": -655.75,
+      "Z": 36.35
+    },
+    {
+      "Name": "Silverwaste-to-VerdantBrink",
+      "X": -529.96,
+      "Y": -389.35,
+      "Z": 523.5
+    },
+    {
+      "Name": "VerdantBrink-to-Silverwaste",
+      "X": 1188.35,
+      "Y": 80.95,
+      "Z": 512.99
+    },
+    {
+      "Name": "Verdant-to-Auric",
+      "X": -972.76,
+      "Y": -528.59,
+      "Z": 466.83
+    },
+    {
+      "Name": "Auric-to-Verdant",
+      "X": -558.94,
+      "Y": 988.49,
+      "Z": 614.76
+    },
+    {
+      "Name": "Auric-to-TangledDepths",
+      "X": 642.45,
+      "Y": -944.88,
+      "Z": 268.82
+    },
+    {
+      "Name": "Tangled-to-Auric",
+      "X": -984.54,
+      "Y": 200.92,
+      "Z": 320.93
+    },
+    {
+      "Name": "Tangled-to-Dragonstand",
+      "X": -993.08,
+      "Y": -718.79,
+      "Z": 5.39
+    },
+    {
+      "Name": "Dragonstand-to-Tangled",
+      "X": 715.49,
+      "Y": 1009.4,
+      "Z": 98.43
+    },
+    {
+      "Name": "Gendarran-to-LionsArch",
+      "X": 294.58,
+      "Y": -679.26,
+      "Z": 5.65
+    },
+    {
+      "Name": "LionsArch-to-Gendarran",
+      "X": -198.13,
+      "Y": 543.7,
+      "Z": 40.56
+    },
+    {
+      "Name": "LionsArch-to-Aerodrome",
+      "X": 157.39,
+      "Y": -412.73,
+      "Z": 44.99
+    },
+    {
+      "Name": "Aerodrome-to-LionsArch",
+      "X": 161.94,
+      "Y": -360.81,
+      "Z": 42.07
+    },
+    {
+      "Name": "LionsArch-Fractal-Entrance",
+      "X": 180.78,
+      "Y": -295.94,
+      "Z": 38.76
+    },
+    {
+      "Name": "LionsArch-to-BloodtideCoast",
+      "X": 331.83,
+      "Y": -494.46,
+      "Z": 39.08
+    },
+    {
+      "Name": "BloodtideCoast-to-LionsArch",
+      "X": 287.25,
+      "Y": 1209.5,
+      "Z": 25.89
+    },
+    {
+      "Name": "LionsArch-to-LornarsPass",
+      "X": 802.16,
+      "Y": 57.07,
+      "Z": 32.42
+    },
+    {
+      "Name": "LornarsPass-to-LionsArch",
+      "X": -580.02,
+      "Y": 470.86,
+      "Z": 161.44
+    },
+    {
+      "Name": "LornarsPass-to-Gendarran",
+      "X": -599.7,
+      "Y": 1609.5,
+      "Z": 50.94
+    },
+    {
+      "Name": "Gendarran-to-LornarsPass",
+      "X": 1502.13,
+      "Y": -242.31,
+      "Z": 107.3
+    },
+    {
+      "Name": "LornarsPass-to-Dredgehaunt",
+      "X": 586.33,
+      "Y": -633.2,
+      "Z": 156.22
+    },
+    {
+      "Name": "Dredgehaunt-to-LornarsPass",
+      "X": -742.96,
+      "Y": 190.0,
+      "Z": 71.37
+    },
+    {
+      "Name": "LornarsPass-SnowdenDrift",
+      "X": 409.33,
+      "Y": 1759.93,
+      "Z": 198.94
+    },
+    {
+      "Name": "Snowden-to-LornarsPass",
+      "X": -400.0,
+      "Y": -677.11,
+      "Z": 64.17
+    },
+    {
+      "Name": "LornarsPass-to-TimberlineFalls",
+      "X": 354.29,
+      "Y": -1743.24,
+      "Z": 90.37
+    },
+    {
+      "Name": "TimberlineFalls-to-LornarsPass",
+      "X": -683.48,
+      "Y": 1176.0,
+      "Z": 55.79
+    },
+    {
+      "Name": "Snowden-to-Gendarran",
+      "X": -1448.9,
+      "Y": -349.61,
+      "Z": 43.88
+    },
+    {
+      "Name": "Gendarran-to-Snowden",
+      "X": 1543.03,
+      "Y": 425.59,
+      "Z": 101.92
+    },
+    {
+      "Name": "Snowden-to-Wayfarer",
+      "X": 1450.47,
+      "Y": 533.82,
+      "Z": 75.26
+    },
+    {
+      "Name": "Wayfarer-to-Snowden",
+      "X": -465.48,
+      "Y": 1327.73,
+      "Z": 145.97
+    },
+    {
+      "Name": "Wayfarer-to-Frostgorge",
+      "X": 345.33,
+      "Y": 1586.05,
+      "Z": 263.51
+    },
+    {
+      "Name": "Frostgorge-to-Wayfarer",
+      "X": 594.53,
+      "Y": -1078.59,
+      "Z": 63.76
+    },
+    {
+      "Name": "Frostgorge-to-Bitterfrost",
+      "X": -701.44,
+      "Y": 1112.58,
+      "Z": 11.56
+    },
+    {
+      "Name": "Bitterfrost-to-Frostgorge",
+      "X": -672.21,
+      "Y": -468.48,
+      "Z": 0.15
+    },
+    {
+      "Name": "Frostgorge-to-Fireheart",
+      "X": 1073.86,
+      "Y": 9.64,
+      "Z": 15.24
+    },
+    {
+      "Name": "Fireheart-to-Frostgorge",
+      "X": -1109.67,
+      "Y": 85.66,
+      "Z": 109.26
+    },
+    {
+      "Name": "Fireheart-to-IronMarches",
+      "X": 1188.56,
+      "Y": -665.32,
+      "Z": 9.92
+    },
+    {
+      "Name": "IronMarches-to-Fireheart",
+      "X": -699.25,
+      "Y": 575.51,
+      "Z": 34.74
+    },
+    {
+      "Name": "IronMarches-to-PlainsofAshford",
+      "X": 27.68,
+      "Y": -1480.3,
+      "Z": 35.22
+    },
+    {
+      "Name": "PlainsofAshford-to-IronMarches",
+      "X": 807.33,
+      "Y": 713.62,
+      "Z": 47.92
+    },
+    {
+      "Name": "IronMarches-to-Blazeridge",
+      "X": 709.59,
+      "Y": -700.43,
+      "Z": 15.04
+    },
+    {
+      "Name": "Blazeridge-to-IronMarches",
+      "X": -670.26,
+      "Y": 1187.25,
+      "Z": 22.79
+    },
+    {
+      "Name": "Blazeridge-to-FieldsofRuin",
+      "X": 540.93,
+      "Y": -1479.07,
+      "Z": 54.29
+    },
+    {
+      "Name": "FieldsofRuin-to-Blazeridge",
+      "X": 543.01,
+      "Y": 1023.01,
+      "Z": 2.3
+    },
+    {
+      "Name": "FieldsofRuin-to-Divinity",
+      "X": -856.88,
+      "Y": -470.17,
+      "Z": 89.03
+    },
+    {
+      "Name": "Divinity-to-FieldsofRuin",
+      "X": 600.08,
+      "Y": -164.17,
+      "Z": 84.02
+    },
+    {
+      "Name": "PlainsofAshford-to-BlackCitadel",
+      "X": -1400.3,
+      "Y": 132.03,
+      "Z": 81.9
+    },
+    {
+      "Name": "BlackCitadel-to-PlainsofAshford",
+      "X": 548.61,
+      "Y": 278.4,
+      "Z": 160.7
+    },
+    {
+      "Name": "BlackCitadel-to-Diessa",
+      "X": -13.79,
+      "Y": 679.65,
+      "Z": 171.67
+    },
+    {
+      "Name": "Diessa-to-BlackCitadel",
+      "X": -940.88,
+      "Y": -789.62,
+      "Z": 56.13
+    },
+    {
+      "Name": "Diessa-to-PlainsofAshford",
+      "X": 1129.88,
+      "Y": -817.07,
+      "Z": 16.52
+    },
+    {
+      "Name": "PlainsofAshford-to-Diessa",
+      "X": -315.02,
+      "Y": 698.28,
+      "Z": 80.77
+    },
+    {
+      "Name": "Diessa-to-Wayfarer",
+      "X": -1249.91,
+      "Y": 315.59,
+      "Z": 155.63
+    },
+    {
+      "Name": "Wayfarer-to-Diessa",
+      "X": 528.22,
+      "Y": 1202.36,
+      "Z": 154.63
+    },
+    {
+      "Name": "Wayfarer-to-Hoelbrak",
+      "X": -383.26,
+      "Y": -695.09,
+      "Z": 154.58
+    },
+    {
+      "Name": "Hoelbrak-to-Wayfarer",
+      "X": 618.6,
+      "Y": -235.49,
+      "Z": 384.61
+    },
+    {
+      "Name": "Hoelbrak-to-Dredgehaunt",
+      "X": 360.25,
+      "Y": -387.68,
+      "Z": 409.76
+    },
+    {
+      "Name": "Dredgehaunt-to-Hoelbrak",
+      "X": 253.98,
+      "Y": 1144.82,
+      "Z": 124.77
+    },
+    {
+      "Name": "Dredgehaunt-to-TimberlineFalls",
+      "X": 43.79,
+      "Y": -999.67,
+      "Z": 57.34
+    },
+    {
+      "Name": "TimberlineFalls-to-Dredgehaunt",
+      "X": 390.88,
+      "Y": 1199.01,
+      "Z": 89.41
+    },
+    {
+      "Name": "TimberlineFalls-to-MountMaelstrom",
+      "X": -423.23,
+      "Y": -1038.78,
+      "Z": 12.73
+    },
+    {
+      "Name": "MountMaelstrom-to-TimberlineFalls",
+      "X": -96.52,
+      "Y": 919.73,
+      "Z": 31.73
+    },
+    {
+      "Name": "MountMaelstrom-to-SparkflyFen",
+      "X": -1373.05,
+      "Y": 683.76,
+      "Z": 46.56
+    },
+    {
+      "Name": "SparkflyFen-to-MountMaelstrom",
+      "X": 849.61,
+      "Y": -788.26,
+      "Z": 52.76
+    },
+    {
+      "Name": "MountMaelstrom-to-StraitsofDevastation",
+      "X": -1381.41,
+      "Y": -606.85,
+      "Z": 20.31
+    },
+    {
+      "Name": "StraitsofDevastation-to-MountMaelstrom",
+      "X": 1166.31,
+      "Y": 203.5,
+      "Z": 34.09
+    },
+    {
+      "Name": "Bloodtide-to-LornarsPass",
+      "X": 873.58,
+      "Y": 1092.85,
+      "Z": 47.41
+    },
+    {
+      "Name": "LornarsPass-to-Bloodtide",
+      "X": -583.78,
+      "Y": -193.61,
+      "Z": 63.2
+    },
+    {
+      "Name": "Bloodtide-to-SparkflyFen",
+      "X": 654.8,
+      "Y": -1037.13,
+      "Z": 10.97
+    },
+    {
+      "Name": "SparkflyFen-to-Bloodtide",
+      "X": 630.09,
+      "Y": 1142.4,
+      "Z": 0.29
+    },
+    {
+      "Name": "SparkflyFen-to-StraitsofDevastation",
+      "X": 350.61,
+      "Y": -1114.77,
+      "Z": 69.45
+    },
+    {
+      "Name": "StraitsofDevastation-to-SparkflyFen",
+      "X": 638.63,
+      "Y": 945.84,
+      "Z": 94.48
+    },
+    {
+      "Name": "StraitsofDevastation-to-MalchorsLeap",
+      "X": -1164.63,
+      "Y": -549.52,
+      "Z": 65.74
+    },
+    {
+      "Name": "MalchorsLeap-to-StraitsofDevastation",
+      "X": 1452.36,
+      "Y": -305.08,
+      "Z": 66.25
+    },
+    {
+      "Name": "MalchorsLeap-to-CursedShore",
+      "X": -369.6,
+      "Y": -706.18,
+      "Z": 75.6
+    },
+    {
+      "Name": "CursedShore-to-MalchorsLeap",
+      "X": 448.26,
+      "Y": 1439.98,
+      "Z": 119.04
+    },
+    {
+      "Name": "LionsArch-to-Divinity",
+      "X": 158.54,
+      "Y": 329.34,
+      "Z": 48.33
+    },
+    {
+      "Name": "Divinity-to-LionsArch",
+      "X": 154.58,
+      "Y": -191.53,
+      "Z": 178.54
+    },
+    {
+      "Name": "LionsArch-to-SouthsunCove",
+      "X": 198.74,
+      "Y": 331.55,
+      "Z": 48.33
+    },
+    {
+      "Name": "SouthsunCove-to-LionsArch",
+      "X": 807.21,
+      "Y": -369.12,
+      "Z": 41.62
+    },
+    {
+      "Name": "LionsArch-to-Hoelbrak",
+      "X": 222.1,
+      "Y": 305.21,
+      "Z": 48.34
+    },
+    {
+      "Name": "Hoelbrak-to-LionsArch",
+      "X": -82.89,
+      "Y": -48.95,
+      "Z": 389.44
+    },
+    {
+      "Name": "LionsArch-to-BlackCitadel",
+      "X": 210.65,
+      "Y": 228.43,
+      "Z": 48.39
+    },
+    {
+      "Name": "BlackCitadel-to-LionsArch",
+      "X": -202.82,
+      "Y": 400.3,
+      "Z": 215.75
+    },
+    {
+      "Name": "LionsArch-to-TheGrove",
+      "X": 177.58,
+      "Y": 215.3,
+      "Z": 48.39
+    },
+    {
+      "Name": "TheGrove-to-LionsArch",
+      "X": 60.93,
+      "Y": 156.11,
+      "Z": 90.83
+    }
+  ]
+}

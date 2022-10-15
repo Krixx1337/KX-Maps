@@ -1,0 +1,47 @@
+{
+  "Name": "Story LW3 Ember Bay Mursaat Disguise",
+  "Coordinates": [
+    {
+      "Name": "[Start]_Talk_to_Grumby",
+      "X": -1054.29,
+      "Y": -39.26,
+      "Z": 31.88
+    },
+    {
+      "Name": "Boots",
+      "X": -1104.71,
+      "Y": -15.77,
+      "Z": 39.99
+    },
+    {
+      "Name": "Breastplate",
+      "X": -984.95,
+      "Y": 162.13,
+      "Z": 73.28
+    },
+    {
+      "Name": "Gloves",
+      "X": -960.25,
+      "Y": -32.19,
+      "Z": 64.74
+    },
+    {
+      "Name": "Helm",
+      "X": -800.54,
+      "Y": -35.36,
+      "Z": 110.97
+    },
+    {
+      "Name": "Talk_to_Grumby",
+      "X": -1054.29,
+      "Y": -39.26,
+      "Z": 31.88
+    },
+    {
+      "Name": "[End]_Enter_the_Temple",
+      "X": -807.26,
+      "Y": -52.48,
+      "Z": 171.35
+    }
+  ]
+}

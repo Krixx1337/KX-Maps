@@ -1,6 +1,0 @@
-1	'Chest1_Tomb_of_the_Primeval_Kings' 1531.51 227.873 588.584
-2	'Chest2_Tomb_of_the_Primeval_Kings' 1583.01 224.152 541.583
-3	'Chest3_Tomb_of_the_Primeval_Kings' 1623.47 227.37 455.853
-4	'Chest4_Tomb_of_the_Primeval_Kings' 1651.36 197.772 585.853
-5	'Chest5_Tomb_of_the_Primeval_Kings' 1761.64 201.133 629.884
-6	'chest6_Tomb_of_the_Primeval_Kings' 1761.38 203.982 701.491

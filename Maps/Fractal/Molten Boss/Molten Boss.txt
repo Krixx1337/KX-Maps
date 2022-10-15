@@ -1,8 +1,0 @@
-1	'Singularity-at-start' -233.55 257.36 -216.8
-2	'port-point-to-skip-walk-part' -237.25 172.06 -151.85
-3	'shamane' -208.26 164.94 -91.94
-4	'Singularity' -168.57 164.94 -42.07
-5	'enemy-spawn' -23.93 172.27 -95.92
-6	'Boss-Singularity' 61.83 173.46 -104.93
-7	'kill-enemys-to-sunlock-ENDBOSS' 55.1 167.7 -145.25
-8	'ENDBOSS' 133.67 151.81 -143.9

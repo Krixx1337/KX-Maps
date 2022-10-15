@@ -1,0 +1,23 @@
+{
+  "Name": "Metrica-Province",
+  "Coordinates": [
+    {
+      "Name": "Metrica-to-Caledon",
+      "X": 700.87,
+      "Y": 875.15,
+      "Z": 40.68
+    },
+    {
+      "Name": "Metric-to-Brisban",
+      "X": -85.61,
+      "Y": 1161.65,
+      "Z": 38.99
+    },
+    {
+      "Name": "Metrica-to-RataSum",
+      "X": -680.19,
+      "Y": -924.71,
+      "Z": 65.27
+    }
+  ]
+}

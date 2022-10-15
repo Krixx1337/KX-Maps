@@ -1,0 +1,467 @@
+{
+  "Name": "Heart-Quests",
+  "Coordinates": [
+    {
+      "Name": "Allied_Encampment_Pick_Up_Supply",
+      "X": -894.595,
+      "Y": 135.364,
+      "Z": 43.7495
+    },
+    {
+      "Name": "drop",
+      "X": -652.38,
+      "Y": 482.69,
+      "Z": 28.43
+    },
+    {
+      "Name": "Allied_Encampment_Pick_Up_Supply",
+      "X": -894.595,
+      "Y": 135.364,
+      "Z": 43.7495
+    },
+    {
+      "Name": "drop",
+      "X": -652.38,
+      "Y": 482.69,
+      "Z": 28.43
+    },
+    {
+      "Name": "Allied_Encampment_Pick_Up_Supply",
+      "X": -894.595,
+      "Y": 135.364,
+      "Z": 43.7495
+    },
+    {
+      "Name": "drop",
+      "X": -652.38,
+      "Y": 482.69,
+      "Z": 28.43
+    },
+    {
+      "Name": "Allied_Encampment_Pick_Up_Supply",
+      "X": -894.595,
+      "Y": 135.364,
+      "Z": 43.7495
+    },
+    {
+      "Name": "drop",
+      "X": -652.38,
+      "Y": 482.69,
+      "Z": 28.43
+    },
+    {
+      "Name": "Allied_Encampment_Heart_Vendor",
+      "X": -894.449,
+      "Y": 120.92,
+      "Z": 42.752
+    },
+    {
+      "Name": "Corsairs_Landing_Pick_Up_Supply",
+      "X": -1280.31,
+      "Y": -493.323,
+      "Z": 1.94261
+    },
+    {
+      "Name": "Corsairs_Landing_Load_Supplies_Into_Cannon",
+      "X": -1191.54,
+      "Y": -295.394,
+      "Z": 32.4792
+    },
+    {
+      "Name": "Corsairs_Landing_Pick_Up_Supply",
+      "X": -1280.31,
+      "Y": -493.323,
+      "Z": 1.94261
+    },
+    {
+      "Name": "Corsairs_Landing_Load_Supplies_Into_Cannon",
+      "X": -1191.54,
+      "Y": -295.394,
+      "Z": 32.4792
+    },
+    {
+      "Name": "Corsairs_Landing_Pick_Up_Supply",
+      "X": -1280.31,
+      "Y": -493.323,
+      "Z": 1.94261
+    },
+    {
+      "Name": "Corsairs_Landing_Load_Supplies_Into_Cannon",
+      "X": -1191.54,
+      "Y": -295.394,
+      "Z": 32.4792
+    },
+    {
+      "Name": "Corsairs_Landing_Pick_Up_Supply",
+      "X": -1280.31,
+      "Y": -493.323,
+      "Z": 1.94261
+    },
+    {
+      "Name": "Corsairs_Landing_Load_Supplies_Into_Cannon",
+      "X": -1191.54,
+      "Y": -295.394,
+      "Z": 32.4792
+    },
+    {
+      "Name": "Corsairs_Landing_Pick_Up_Supply",
+      "X": -1280.31,
+      "Y": -493.323,
+      "Z": 1.94261
+    },
+    {
+      "Name": "Corsairs_Landing_Load_Supplies_Into_Cannon",
+      "X": -1191.54,
+      "Y": -295.394,
+      "Z": 32.4792
+    },
+    {
+      "Name": "Corsairs_Landing_Pick_Up_Supply",
+      "X": -1280.31,
+      "Y": -493.323,
+      "Z": 1.94261
+    },
+    {
+      "Name": "Corsairs_Landing_Load_Supplies_Into_Cannon",
+      "X": -1191.54,
+      "Y": -295.394,
+      "Z": 32.4792
+    },
+    {
+      "Name": "Corsairs_Landing_Pick_Up_Supply",
+      "X": -1280.31,
+      "Y": -493.323,
+      "Z": 1.94261
+    },
+    {
+      "Name": "Corsairs_Landing_Load_Supplies_Into_Cannon",
+      "X": -1191.54,
+      "Y": -295.394,
+      "Z": 32.4792
+    },
+    {
+      "Name": "Corsairs_Landing_Heart_Vendor",
+      "X": -1276.89,
+      "Y": -499.057,
+      "Z": 2.74529
+    },
+    {
+      "Name": "Front_Lines_Re-Murder_All_Awakened_Forces_Point_A",
+      "X": -458.487,
+      "Y": 8.67301,
+      "Z": 33.6117
+    },
+    {
+      "Name": "Front_Lines_Re-Murder_All_Awakened_Forces_Point_B",
+      "X": -371.086,
+      "Y": -15.9839,
+      "Z": 29.0213
+    },
+    {
+      "Name": "Front_Lines_Re-Murder_All_Awakened_Forces_Point_C",
+      "X": -444.068,
+      "Y": -88.2742,
+      "Z": 4.27559
+    },
+    {
+      "Name": "Front_Lines_Re-Murder_All_Awakened_Forces_Point_D",
+      "X": -140.294,
+      "Y": -121.589,
+      "Z": 64.1163
+    },
+    {
+      "Name": "Front_Lines_Destroy_Awakened_Trebuchets",
+      "X": -302.407,
+      "Y": -126.882,
+      "Z": 7.69241
+    },
+    {
+      "Name": "Front_Lines_Heart_Vendor",
+      "X": -108.082,
+      "Y": 10.8003,
+      "Z": 105.201
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 191.921,
+      "Y": 597.818,
+      "Z": 38.7189
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 202.62,
+      "Y": 517.356,
+      "Z": 15.7978
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 242.814,
+      "Y": 501.918,
+      "Z": 4.1482
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 258.137,
+      "Y": 619.813,
+      "Z": 45.3844
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 307.401,
+      "Y": 568.194,
+      "Z": 40.013
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 390.766,
+      "Y": 669.457,
+      "Z": 30.3213
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 383.927,
+      "Y": 653.635,
+      "Z": 32.7919
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 262.249,
+      "Y": 746.407,
+      "Z": 34.2512
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 201.868,
+      "Y": 801.013,
+      "Z": 45.9857
+    },
+    {
+      "Name": "Apizimic_Grounds_Heket_Territory_Marker",
+      "X": 116.038,
+      "Y": 630.892,
+      "Z": 50.6485
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -84.882,
+      "Y": 605.078,
+      "Z": 38.131
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -93.2746,
+      "Y": 654.428,
+      "Z": 41.9466
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -66.5806,
+      "Y": 690.59,
+      "Z": 39.5986
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -44.427,
+      "Y": 773.146,
+      "Z": 39.0266
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -123.535,
+      "Y": 628.496,
+      "Z": 42.4576
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -84.882,
+      "Y": 605.078,
+      "Z": 38.131
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -93.2746,
+      "Y": 654.428,
+      "Z": 41.9466
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -66.5806,
+      "Y": 690.59,
+      "Z": 39.5986
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -44.427,
+      "Y": 773.146,
+      "Z": 39.0266
+    },
+    {
+      "Name": "Apizimic_Grounds_Kill_Awakened_Inquest",
+      "X": -123.535,
+      "Y": 628.496,
+      "Z": 42.4576
+    },
+    {
+      "Name": "Apizimic_Grounds_Heart_Vendor",
+      "X": 237.957,
+      "Y": 563.551,
+      "Z": 57.5681
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -1036.88,
+      "Y": 964.127,
+      "Z": 57.2171
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -983.588,
+      "Y": 1024.39,
+      "Z": 54.5723
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -939.382,
+      "Y": 1005.9,
+      "Z": 55.0743
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -892.923,
+      "Y": 978.704,
+      "Z": 36.1116
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -893.432,
+      "Y": 1007.98,
+      "Z": 41.5926
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -870.793,
+      "Y": 1052.69,
+      "Z": 54.6708
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -940.471,
+      "Y": 1057.68,
+      "Z": 55.6383
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -830.507,
+      "Y": 1071.38,
+      "Z": 59.808
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -864.558,
+      "Y": 1100.67,
+      "Z": 66.3353
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -913.016,
+      "Y": 1118.16,
+      "Z": 69.2373
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -746.394,
+      "Y": 1015.09,
+      "Z": 54.1802
+    },
+    {
+      "Name": "Arkjok_Farmlands_Kill_Rat",
+      "X": -793.489,
+      "Y": 1094.09,
+      "Z": 61.9406
+    },
+    {
+      "Name": "Arkjok_Farmlands_Camp_Fire",
+      "X": -852.407,
+      "Y": 836.403,
+      "Z": 31.2616
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -861.121,
+      "Y": 853.836,
+      "Z": 29.5552
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -843.294,
+      "Y": 860.09,
+      "Z": 29.5552
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -872.112,
+      "Y": 862.985,
+      "Z": 29.5557
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -849.364,
+      "Y": 872.42,
+      "Z": 29.5552
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -849.866,
+      "Y": 877.949,
+      "Z": 29.5552
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -849.903,
+      "Y": 883.911,
+      "Z": 29.5553
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -867.355,
+      "Y": 883.402,
+      "Z": 29.5552
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -849.491,
+      "Y": 904.065,
+      "Z": 29.5647
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -855.071,
+      "Y": 909.711,
+      "Z": 29.5643
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -868.098,
+      "Y": 908.825,
+      "Z": 29.5632
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -867.815,
+      "Y": 926.771,
+      "Z": 29.559
+    },
+    {
+      "Name": "Arkjok_Farmlands_Infected_Crop",
+      "X": -855.732,
+      "Y": 926.536,
+      "Z": 29.5563
+    },
+    {
+      "Name": "Arkjok_Farmlands_Heart_Vendor",
+      "X": -1021.66,
+      "Y": 977.071,
+      "Z": 57.2163
+    }
+  ]
+}

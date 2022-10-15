@@ -1,0 +1,251 @@
+{
+  "Name": "Poi",
+  "Coordinates": [
+    {
+      "Name": "Seitung_Prison",
+      "X": -109.09,
+      "Y": -492.41,
+      "Z": 65.47
+    },
+    {
+      "Name": "Fishing_Village",
+      "X": -232.5,
+      "Y": -357.49,
+      "Z": 25.78
+    },
+    {
+      "Name": "Harbor_market",
+      "X": -83.61,
+      "Y": -176.65,
+      "Z": 16.6
+    },
+    {
+      "Name": "Town_Outskirts",
+      "X": -220.09,
+      "Y": -79.04,
+      "Z": 74.25
+    },
+    {
+      "Name": "Bell_Passage",
+      "X": -395.85,
+      "Y": -57.69,
+      "Z": 115.87
+    },
+    {
+      "Name": "Aurene´s_Enclave",
+      "X": -540.18,
+      "Y": -767.46,
+      "Z": 14.04
+    },
+    {
+      "Name": "Painter´s_Platform",
+      "X": -640.86,
+      "Y": -555.0,
+      "Z": 59.83
+    },
+    {
+      "Name": "Obstacle_Course",
+      "X": -821.41,
+      "Y": -508.54,
+      "Z": 65.64
+    },
+    {
+      "Name": "Imperial_Overlook",
+      "X": -556.85,
+      "Y": -185.78,
+      "Z": 121.85
+    },
+    {
+      "Name": "Monastery_Temple",
+      "X": -1088.06,
+      "Y": -56.14,
+      "Z": 167.18
+    },
+    {
+      "Name": "Secured_Gate",
+      "X": -1236.26,
+      "Y": -44.67,
+      "Z": 120.54
+    },
+    {
+      "Name": "Royal_Court",
+      "X": -1258.44,
+      "Y": -224.37,
+      "Z": 120.68
+    },
+    {
+      "Name": "Combat_Arena",
+      "X": -803.36,
+      "Y": -611.1,
+      "Z": 57.24
+    },
+    {
+      "Name": "Dreary_Caves",
+      "X": -997.38,
+      "Y": -643.88,
+      "Z": 63.81
+    },
+    {
+      "Name": "Aetherblade_Flagship_Wreckage",
+      "X": -1144.43,
+      "Y": -540.8,
+      "Z": 24.89
+    },
+    {
+      "Name": "Serene_pool",
+      "X": 601.14,
+      "Y": -37.9,
+      "Z": 28.93
+    },
+    {
+      "Name": "Joons_Mansion",
+      "X": 402.71,
+      "Y": -52.54,
+      "Z": 277.58
+    },
+    {
+      "Name": "Valor_Shrine",
+      "X": 174.26,
+      "Y": -65.07,
+      "Z": 92.91
+    },
+    {
+      "Name": "Jade_Memorial",
+      "X": -47.85,
+      "Y": 231.33,
+      "Z": 170.45
+    },
+    {
+      "Name": "Ministry_of_Transit",
+      "X": 144.38,
+      "Y": 246.0,
+      "Z": 150.31
+    },
+    {
+      "Name": "Xunlai_Jade_Junkyard",
+      "X": 553.59,
+      "Y": 277.94,
+      "Z": 0.32
+    },
+    {
+      "Name": "Cat-Island",
+      "X": 83.92,
+      "Y": -811.98,
+      "Z": 62.95
+    },
+    {
+      "Name": "Zen_Daijun_Temple",
+      "X": 257.05,
+      "Y": -442.05,
+      "Z": 99.31
+    },
+    {
+      "Name": "Spirit_Vestibule",
+      "X": 394.3,
+      "Y": -349.63,
+      "Z": 72.15
+    },
+    {
+      "Name": "Hollow_Caves",
+      "X": 501.66,
+      "Y": -503.52,
+      "Z": 93.66
+    },
+    {
+      "Name": "Fishing_Hamlet",
+      "X": 1070.08,
+      "Y": -458.89,
+      "Z": 5.64
+    },
+    {
+      "Name": "Naga_Domain",
+      "X": 1158.33,
+      "Y": -739.91,
+      "Z": 0.79
+    },
+    {
+      "Name": "Derelict_Temple",
+      "X": 1132.13,
+      "Y": -69.67,
+      "Z": 83.6
+    },
+    {
+      "Name": "Provisional_MinSec_Camp",
+      "X": 1107.38,
+      "Y": 270.94,
+      "Z": 22.97
+    },
+    {
+      "Name": "Emperor´s_Watchtower",
+      "X": 1096.32,
+      "Y": 550.84,
+      "Z": 31.51
+    },
+    {
+      "Name": "Abandoned_Lighthouse",
+      "X": 1185.0,
+      "Y": 873.7,
+      "Z": 26.35
+    },
+    {
+      "Name": "Eastern_Aetherblade_Crash_Site",
+      "X": 766.59,
+      "Y": 798.06,
+      "Z": 2.26
+    },
+    {
+      "Name": "Northern_Aetherblade_Crash_Site",
+      "X": 106.7,
+      "Y": 621.53,
+      "Z": 72.3
+    },
+    {
+      "Name": "Aetherblade_Refuge",
+      "X": 83.62,
+      "Y": 763.79,
+      "Z": 101.83
+    },
+    {
+      "Name": "Fish_Hatchery",
+      "X": -202.89,
+      "Y": 909.97,
+      "Z": 0.94
+    },
+    {
+      "Name": "Western_Aetherblade_Crash_Site",
+      "X": -451.98,
+      "Y": 660.78,
+      "Z": 48.83
+    },
+    {
+      "Name": "Sizhou_Hall",
+      "X": -758.88,
+      "Y": 726.2,
+      "Z": 48.12
+    },
+    {
+      "Name": "Shrine_of_Reverence",
+      "X": -557.81,
+      "Y": 148.09,
+      "Z": 177.62
+    },
+    {
+      "Name": "Drizzle_Cove",
+      "X": -210.89,
+      "Y": 211.57,
+      "Z": -2.08
+    },
+    {
+      "Name": "Tengu_Alpine_Camp",
+      "X": -1121.01,
+      "Y": 839.89,
+      "Z": 148.49
+    },
+    {
+      "Name": "Sensali_Shrine",
+      "X": -1196.47,
+      "Y": 495.77,
+      "Z": 166.25
+    }
+  ]
+}

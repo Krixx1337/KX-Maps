@@ -1,0 +1,41 @@
+{
+  "Name": "WP",
+  "Coordinates": [
+    {
+      "Name": "Junkyard_Waypoint",
+      "X": -156.71,
+      "Y": 873.48,
+      "Z": 200.33
+    },
+    {
+      "Name": "Waypoint_zu_Heltzer",
+      "X": -813.11,
+      "Y": 95.49,
+      "Z": 205.04
+    },
+    {
+      "Name": "Jade_Gate_Waypoint",
+      "X": 1247.77,
+      "Y": 47.78,
+      "Z": 109.29
+    },
+    {
+      "Name": "Kropa_Waypoint",
+      "X": -594.28,
+      "Y": -407.14,
+      "Z": 201.81
+    },
+    {
+      "Name": "Mori_Village_Waypoint",
+      "X": 1303.27,
+      "Y": -644.95,
+      "Z": 9.64
+    },
+    {
+      "Name": "Qinkai_Waypoint",
+      "X": 1177.8,
+      "Y": 635.32,
+      "Z": 84.68
+    }
+  ]
+}

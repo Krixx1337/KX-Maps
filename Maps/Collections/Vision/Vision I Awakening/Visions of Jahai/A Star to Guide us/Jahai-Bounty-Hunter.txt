@@ -1,6 +1,0 @@
-1	'Angry-Pet-Rock-Bounty' 948.85 55.32 -941.8
-2	'Angry-Pet-Rock-Spawn' 740.58 163.04 634.08
-3	'Zommoross-Weapons-bounty' 948.86 55.75 -939.31
-4	'zommoross-bounty-spawn' -283.62 58.89 -477.38
-5	'Wyvern-spawn-area' -23.03 189.18 727.37
-6	'Ettin' 444.04 141.19 241.24

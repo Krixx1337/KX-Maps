@@ -1,0 +1,71 @@
+{
+  "Name": "Hidden Garden",
+  "Coordinates": [
+    {
+      "Name": "Normal_Teleport",
+      "X": 1335.73,
+      "Y": 647.63,
+      "Z": 110.26
+    },
+    {
+      "Name": "By_Problems_entering_Garden_use_this_In_the_Air_port_you_will_fall_in_water_",
+      "X": 1381.94,
+      "Y": 451.05,
+      "Z": 270.75
+    },
+    {
+      "Name": "Primordial_Orchid_Spot",
+      "X": 1217.25,
+      "Y": 656.37,
+      "Z": 10.7
+    },
+    {
+      "Name": "Cluster_of_Light",
+      "X": 1285.77,
+      "Y": 609.81,
+      "Z": 129.01
+    },
+    {
+      "Name": "Cluster_of_Waves",
+      "X": 1380.23,
+      "Y": 410.99,
+      "Z": 53.84
+    },
+    {
+      "Name": "Cluster_of_Earth",
+      "X": 1318.08,
+      "Y": 620.55,
+      "Z": 23.94
+    },
+    {
+      "Name": "Cluster_of_Winds",
+      "X": 1318.0,
+      "Y": 844.84,
+      "Z": 140.09
+    },
+    {
+      "Name": "Sylvan_Chest",
+      "X": 1299.08,
+      "Y": 625.92,
+      "Z": 78.17
+    },
+    {
+      "Name": "Diving_Goggles",
+      "X": 1276.47,
+      "Y": 612.31,
+      "Z": 126.91
+    },
+    {
+      "Name": "Hidden_Garden",
+      "X": 1227.72,
+      "Y": 667.31,
+      "Z": 10.17
+    },
+    {
+      "Name": "Freshwater_Fish_Spot",
+      "X": 1362.62,
+      "Y": 460.17,
+      "Z": -1.36
+    }
+  ]
+}

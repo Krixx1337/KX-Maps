@@ -1,0 +1,29 @@
+{
+  "Name": "14.The Only One",
+  "Coordinates": [
+    {
+      "Name": "interance",
+      "X": 342.95,
+      "Y": -525.01,
+      "Z": 336.33
+    },
+    {
+      "Name": "tele_here",
+      "X": 303.4,
+      "Y": -592.79,
+      "Z": 378.04
+    },
+    {
+      "Name": "drain_su-wan_active_connon",
+      "X": 306.54,
+      "Y": -573.85,
+      "Z": 378.33
+    },
+    {
+      "Name": "its_ez_u_dont_need_more_tele_just_kill_it",
+      "X": 121.72,
+      "Y": -729.82,
+      "Z": 391.79
+    }
+  ]
+}

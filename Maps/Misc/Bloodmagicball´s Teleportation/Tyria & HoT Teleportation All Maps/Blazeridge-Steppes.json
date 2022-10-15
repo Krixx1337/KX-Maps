@@ -1,0 +1,17 @@
+{
+  "Name": "Blazeridge-Steppes",
+  "Coordinates": [
+    {
+      "Name": "Blazeridge-to-IronMarches",
+      "X": -670.26,
+      "Y": 1187.25,
+      "Z": 22.79
+    },
+    {
+      "Name": "Blazeridge-to-FieldsofRuin",
+      "X": 540.93,
+      "Y": -1479.07,
+      "Z": 54.29
+    }
+  ]
+}

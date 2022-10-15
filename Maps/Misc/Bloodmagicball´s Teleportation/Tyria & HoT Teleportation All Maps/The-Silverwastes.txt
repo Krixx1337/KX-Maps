@@ -1,2 +1,0 @@
-1	'Silverwaste-to-Brisban' 753.02 510.34 -233.33
-2	'Silverwaste-to-VerdantBrink' -529.96 523.5 -389.35

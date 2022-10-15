@@ -1,0 +1,23 @@
+{
+  "Name": "Sparkfly-Fen",
+  "Coordinates": [
+    {
+      "Name": "SparkflyFen-to-MountMaelstrom",
+      "X": 849.61,
+      "Y": -788.26,
+      "Z": 52.76
+    },
+    {
+      "Name": "SparkflyFen-to-Bloodtide",
+      "X": 630.09,
+      "Y": 1142.4,
+      "Z": 0.29
+    },
+    {
+      "Name": "SparkflyFen-to-StraitsofDevastation",
+      "X": 350.61,
+      "Y": -1114.77,
+      "Z": 69.45
+    }
+  ]
+}

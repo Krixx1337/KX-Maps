@@ -1,0 +1,209 @@
+{
+  "Name": "Labyrinth Pumpkinfarming",
+  "Coordinates": [
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -61.2351,
+      "Y": -58.0701,
+      "Z": 238.423
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 13.1612,
+      "Y": 39.1458,
+      "Z": 252.419
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 224.55,
+      "Y": 172.812,
+      "Z": 214.506
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 160.62,
+      "Y": 25.2793,
+      "Z": 220.332
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 241.123,
+      "Y": 37.6998,
+      "Z": 226.588
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -37.8008,
+      "Y": 249.91,
+      "Z": 217.007
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 86.5033,
+      "Y": 248.14,
+      "Z": 216.301
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 83.5886,
+      "Y": 226.963,
+      "Z": 216.481
+    },
+    {
+      "Name": "LabyPumpkincarver_OnBranch",
+      "X": 260.039,
+      "Y": -59.1413,
+      "Z": 228.308
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 139.07,
+      "Y": -26.0099,
+      "Z": 219.63
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 193.052,
+      "Y": -208.056,
+      "Z": 222.868
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 120.218,
+      "Y": -259.31,
+      "Z": 210.815
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 58.6786,
+      "Y": -142.762,
+      "Z": 220.283
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 94.0877,
+      "Y": -165.981,
+      "Z": 221.459
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 18.8887,
+      "Y": -128.029,
+      "Z": 220.4
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -38.5247,
+      "Y": -200.048,
+      "Z": 216.236
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -67.6934,
+      "Y": -233.259,
+      "Z": 209.641
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -88.8624,
+      "Y": -206.046,
+      "Z": 215.316
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -179.719,
+      "Y": -201.446,
+      "Z": 218.885
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -213.551,
+      "Y": -213.553,
+      "Z": 209.683
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -188.069,
+      "Y": -166.268,
+      "Z": 220.808
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -222.056,
+      "Y": -61.3962,
+      "Z": 216.713
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -193.143,
+      "Y": -40.8589,
+      "Z": 217.681
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -184.394,
+      "Y": -8.50651,
+      "Z": 216.298
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -208.008,
+      "Y": 22.0141,
+      "Z": 215.433
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -191.595,
+      "Y": 36.006,
+      "Z": 214.991
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -225.905,
+      "Y": 48.0695,
+      "Z": 217.147
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -171.893,
+      "Y": 89.9603,
+      "Z": 217.116
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": -170.834,
+      "Y": 243.781,
+      "Z": 222.991
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 17.5614,
+      "Y": 64.0853,
+      "Z": 237.929
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 61.0046,
+      "Y": 58.118,
+      "Z": 241.201
+    },
+    {
+      "Name": "LabyPumpkincarver",
+      "X": 57.7334,
+      "Y": -77.7418,
+      "Z": 238.812
+    },
+    {
+      "Name": "safespottostop",
+      "X": 2.82813,
+      "Y": 7.80021,
+      "Z": 278.858
+    },
+    {
+      "Name": "",
+      "X": 172.87,
+      "Y": -161.12,
+      "Z": 216.86
+    }
+  ]
+}

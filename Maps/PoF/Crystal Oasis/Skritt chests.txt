@@ -1,5 +1,0 @@
-1	'CaffinatedSkrittChest1' -1290.48 69.5568 232.241
-2	'CaffinatedSkrittChest2' 65.7415 65.3984 560.354
-3	'CaffinatedSkrittChest3' 369.74 60.8204 -33.2303
-4	'CaffinatedSkrittChest4' 1519.42 236.681 601.431
-5	'CaffinatedSkrittChest5' 1476.83 101.426 -333.57

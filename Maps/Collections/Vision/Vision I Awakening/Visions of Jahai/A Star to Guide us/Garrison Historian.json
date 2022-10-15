@@ -1,0 +1,35 @@
+{
+  "Name": "Garrison Historian",
+  "Coordinates": [
+    {
+      "Name": "first-wait-until-event-drops-here-and-you-can-get-Abandoned-Supplies-bring-them-then-to-Bigil-Sergeant-Eshid",
+      "X": -162.32,
+      "Y": -551.37,
+      "Z": 107.12
+    },
+    {
+      "Name": "Next-you-wanna-Escord-Eshid-back-safe-otherwise-it-doesntcount-",
+      "X": -162.32,
+      "Y": -551.37,
+      "Z": 107.12
+    },
+    {
+      "Name": "Step-3-Talk-to-Priory-Historian-Sivvi-after-you-collected-16-Supplies-you-can-get-every-dialogue-and-you-get-achievment",
+      "X": -162.32,
+      "Y": -551.37,
+      "Z": 107.12
+    },
+    {
+      "Name": "Escord-Eshid-if-event-is-not-active",
+      "X": -508.86,
+      "Y": -743.87,
+      "Z": 57.17
+    },
+    {
+      "Name": "Deliver-point",
+      "X": 90.57,
+      "Y": -573.38,
+      "Z": 67.57
+    }
+  ]
+}

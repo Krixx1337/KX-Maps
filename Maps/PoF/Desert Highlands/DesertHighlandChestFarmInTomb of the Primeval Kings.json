@@ -1,0 +1,41 @@
+{
+  "Name": "DesertHighlandChestFarmInTomb of the Primeval Kings",
+  "Coordinates": [
+    {
+      "Name": "Chest1_Tomb_of_the_Primeval_Kings",
+      "X": 1531.51,
+      "Y": 588.584,
+      "Z": 227.873
+    },
+    {
+      "Name": "Chest2_Tomb_of_the_Primeval_Kings",
+      "X": 1583.01,
+      "Y": 541.583,
+      "Z": 224.152
+    },
+    {
+      "Name": "Chest3_Tomb_of_the_Primeval_Kings",
+      "X": 1623.47,
+      "Y": 455.853,
+      "Z": 227.37
+    },
+    {
+      "Name": "Chest4_Tomb_of_the_Primeval_Kings",
+      "X": 1651.36,
+      "Y": 585.853,
+      "Z": 197.772
+    },
+    {
+      "Name": "Chest5_Tomb_of_the_Primeval_Kings",
+      "X": 1761.64,
+      "Y": 629.884,
+      "Z": 201.133
+    },
+    {
+      "Name": "chest6_Tomb_of_the_Primeval_Kings",
+      "X": 1761.38,
+      "Y": 701.491,
+      "Z": 203.982
+    }
+  ]
+}

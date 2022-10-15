@@ -1,0 +1,347 @@
+{
+  "Name": "Gathering Nodes",
+  "Coordinates": [
+    {
+      "Name": "hatchedchilipepperbush_1",
+      "X": 1100.952,
+      "Y": 619.073,
+      "Z": 61.722
+    },
+    {
+      "Name": "hatchedchilipepperbush_2",
+      "X": 483.363,
+      "Y": -770.422,
+      "Z": 21.406
+    },
+    {
+      "Name": "hatchedchilipepperbush_3",
+      "X": 324.859,
+      "Y": -785.84,
+      "Z": 69.196
+    },
+    {
+      "Name": "hatchedchilipepperbush_4",
+      "X": -209.99,
+      "Y": -811.273,
+      "Z": 28.652
+    },
+    {
+      "Name": "hatchedchilipepperbush_5",
+      "X": -572.667,
+      "Y": -585.189,
+      "Z": 102.775
+    },
+    {
+      "Name": "hatchedchilipepperbush_6",
+      "X": 27.538,
+      "Y": -477.621,
+      "Z": 60.082
+    },
+    {
+      "Name": "hatchedchilipepperbush_7",
+      "X": 53.608,
+      "Y": -270.51,
+      "Z": 37.982
+    },
+    {
+      "Name": "hatchedchilipepperbush_8",
+      "X": -587.467,
+      "Y": 137.012,
+      "Z": 38.822
+    },
+    {
+      "Name": "hatchedchilipepperbush_9",
+      "X": -158.737,
+      "Y": 324.718,
+      "Z": 29.529
+    },
+    {
+      "Name": "hatchedchilipepperbush_10",
+      "X": 248.037,
+      "Y": 389.39,
+      "Z": 90.881
+    },
+    {
+      "Name": "hatchedchilipepperbush_11",
+      "X": 384.841,
+      "Y": 453.477,
+      "Z": 94.977
+    },
+    {
+      "Name": "hatchedchilipepperbush_12",
+      "X": 347.595,
+      "Y": 232.117,
+      "Z": 99.086
+    },
+    {
+      "Name": "hatchedchilipepperbush_13",
+      "X": 291.128,
+      "Y": 181.967,
+      "Z": 68.808
+    },
+    {
+      "Name": "hatchedchilipepperbush_14",
+      "X": 323.83,
+      "Y": 164.889,
+      "Z": 58.049
+    },
+    {
+      "Name": "hatchedchilipepperbush_15",
+      "X": 292.093,
+      "Y": 219.138,
+      "Z": 65.653
+    },
+    {
+      "Name": "hatchedchilipepperbush_16",
+      "X": 379.213,
+      "Y": 55.78,
+      "Z": 27.677
+    },
+    {
+      "Name": "hatchedchilipepperbush_17",
+      "X": 448.969,
+      "Y": -24.083,
+      "Z": 31.775
+    },
+    {
+      "Name": "hatchedchilipepperbush_18",
+      "X": 363.688,
+      "Y": -365.529,
+      "Z": 60.894
+    },
+    {
+      "Name": "hatchedchilipepperbush_19",
+      "X": 305.942,
+      "Y": -243.683,
+      "Z": 63.825
+    },
+    {
+      "Name": "hatchedchilipepperbush_20",
+      "X": 333.06,
+      "Y": 427.573,
+      "Z": 86.002
+    },
+    {
+      "Name": "hatchedchilipepperbush_21",
+      "X": 848.943,
+      "Y": 320.828,
+      "Z": 56.527
+    },
+    {
+      "Name": "hatchedchilipepperbush_22",
+      "X": -203.066,
+      "Y": 314.975,
+      "Z": 8.104
+    },
+    {
+      "Name": "hatchedchilipepperbush_23",
+      "X": -263.742,
+      "Y": 125.144,
+      "Z": 45.644
+    },
+    {
+      "Name": "hatchedchilipepperbush_24",
+      "X": 23.28,
+      "Y": 640.92,
+      "Z": 153.239
+    },
+    {
+      "Name": "hatchedchilipepperbush_25",
+      "X": -191.691,
+      "Y": -583.558,
+      "Z": 10.982
+    },
+    {
+      "Name": "hatchedchilipepperbush_26",
+      "X": -427.467,
+      "Y": -487.82,
+      "Z": 36.037
+    },
+    {
+      "Name": "hatchedchilipepperbush_27",
+      "X": -644.485,
+      "Y": 237.753,
+      "Z": 49.778
+    },
+    {
+      "Name": "hatchedchilipepperbush_28",
+      "X": 159.384,
+      "Y": -105.408,
+      "Z": 70.508
+    },
+    {
+      "Name": "hatchedchilipepperbush_29",
+      "X": 235.631,
+      "Y": 17.596,
+      "Z": 57.103
+    },
+    {
+      "Name": "hatchedchilipepperbush_30",
+      "X": 454.812,
+      "Y": 329.037,
+      "Z": 73.487
+    },
+    {
+      "Name": "hatchedchilipepperbush_31",
+      "X": 276.546,
+      "Y": 376.352,
+      "Z": 83.301
+    },
+    {
+      "Name": "hatchedchilipepperbush_32",
+      "X": -19.204,
+      "Y": -833.94,
+      "Z": 77.346
+    },
+    {
+      "Name": "hatchedchilipepperbush_33",
+      "X": 120.516,
+      "Y": -367.935,
+      "Z": 16.946
+    },
+    {
+      "Name": "hatchedchilipepperbush_34",
+      "X": 398.242,
+      "Y": -432.556,
+      "Z": 57.652
+    },
+    {
+      "Name": "hatchedchilipepperbush_35",
+      "X": 301.541,
+      "Y": -552.873,
+      "Z": 63.893
+    },
+    {
+      "Name": "hatchedchilipepperbush_36",
+      "X": 350.048,
+      "Y": -823.298,
+      "Z": 76.432
+    },
+    {
+      "Name": "hatchedchilipepperbush_37",
+      "X": -647.105,
+      "Y": 430.989,
+      "Z": 51.81
+    },
+    {
+      "Name": "hatchedchilipepperbush_38",
+      "X": -15.992,
+      "Y": 82.816,
+      "Z": 35.286
+    },
+    {
+      "Name": "hatchedchilipepperbush_39",
+      "X": 566.267,
+      "Y": -335.736,
+      "Z": 32.11
+    },
+    {
+      "Name": "hatchedchilipepperbush_40",
+      "X": 261.389,
+      "Y": 555.817,
+      "Z": 134.764
+    },
+    {
+      "Name": "hatchedchilipepperbush_41",
+      "X": -174.347,
+      "Y": -288.481,
+      "Z": 31.962
+    },
+    {
+      "Name": "hatchedchilipepperbush_42",
+      "X": -51.599,
+      "Y": -407.125,
+      "Z": 49.753
+    },
+    {
+      "Name": "hatchedchilipepperbush_43",
+      "X": 984.28,
+      "Y": 210.021,
+      "Z": 12.748
+    },
+    {
+      "Name": "hatchedchilipepperbush_44",
+      "X": 749.034,
+      "Y": 414.472,
+      "Z": 39.899
+    },
+    {
+      "Name": "hatchedchilipepperbush_45",
+      "X": -438.065,
+      "Y": 322.747,
+      "Z": 10.099
+    },
+    {
+      "Name": "hatchedchilipepperbush_46",
+      "X": 549.552,
+      "Y": 652.678,
+      "Z": 25.296
+    },
+    {
+      "Name": "hatchedchilipepperbush_47",
+      "X": -323.424,
+      "Y": 549.684,
+      "Z": 54.837
+    },
+    {
+      "Name": "hatchedchilipepperbush_48",
+      "X": -372.058,
+      "Y": -827.535,
+      "Z": 73.514
+    },
+    {
+      "Name": "hatchedchilipepperbush_49",
+      "X": -65.93,
+      "Y": -756.685,
+      "Z": 67.665
+    },
+    {
+      "Name": "hatchedchilipepperbush_50",
+      "X": 120.197,
+      "Y": 417.839,
+      "Z": 78.356
+    },
+    {
+      "Name": "hatchedchilipepperbush_51",
+      "X": -97.407,
+      "Y": 476.244,
+      "Z": 60.459
+    },
+    {
+      "Name": "hatchedchilipepperbush_52",
+      "X": 255.828,
+      "Y": 141.497,
+      "Z": 93.483
+    },
+    {
+      "Name": "hatchedchilipepperbush_53",
+      "X": -665.886,
+      "Y": 390.165,
+      "Z": 51.405
+    },
+    {
+      "Name": "hatchedchilipepperbush_54",
+      "X": 709.05,
+      "Y": 447.52,
+      "Z": 9.671
+    },
+    {
+      "Name": "hatchedchilipepperbush_55",
+      "X": 21.911,
+      "Y": -342.937,
+      "Z": 42.137
+    },
+    {
+      "Name": "hatchedchilipepperbush_56",
+      "X": 646.272,
+      "Y": -493.577,
+      "Z": 100.689
+    },
+    {
+      "Name": "hatchedchilipepperbush_57",
+      "X": 29.553,
+      "Y": 846.261,
+      "Z": 5.927
+    }
+  ]
+}

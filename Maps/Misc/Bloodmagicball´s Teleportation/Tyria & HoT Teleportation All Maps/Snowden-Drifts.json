@@ -1,0 +1,23 @@
+{
+  "Name": "Snowden-Drifts",
+  "Coordinates": [
+    {
+      "Name": "Snowden-to-LornarsPass",
+      "X": -400.0,
+      "Y": -677.11,
+      "Z": 64.17
+    },
+    {
+      "Name": "Snowden-to-Gendarran",
+      "X": -1448.9,
+      "Y": -349.61,
+      "Z": 43.88
+    },
+    {
+      "Name": "Snowden-to-Wayfarer",
+      "X": 1450.47,
+      "Y": 533.82,
+      "Z": 75.26
+    }
+  ]
+}

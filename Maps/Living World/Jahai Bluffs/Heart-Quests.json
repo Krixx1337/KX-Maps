@@ -1,0 +1,305 @@
+{
+  "Name": "Heart-Quests",
+  "Coordinates": [
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 811.858,
+      "Y": 1101.13,
+      "Z": 163.162
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 824.506,
+      "Y": 1115.73,
+      "Z": 163.335
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 866.611,
+      "Y": 1100.51,
+      "Z": 160.827
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 901.493,
+      "Y": 1073.07,
+      "Z": 155.583
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 873.311,
+      "Y": 957.92,
+      "Z": 171.651
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 796.492,
+      "Y": 937.186,
+      "Z": 182.244
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 776.582,
+      "Y": 962.536,
+      "Z": 186.403
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 724.96,
+      "Y": 965.43,
+      "Z": 191.869
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 792.048,
+      "Y": 983.851,
+      "Z": 206.241
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 819.154,
+      "Y": 1013.01,
+      "Z": 216.365
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 1025.28,
+      "Y": 992.681,
+      "Z": 151.082
+    },
+    {
+      "Name": "Reclaimed_Chantry_Broken_Turret",
+      "X": 1074.16,
+      "Y": 950.183,
+      "Z": 148.985
+    },
+    {
+      "Name": "Sunspear_Representatives",
+      "X": 893.417,
+      "Y": 1090.28,
+      "Z": 159.493
+    },
+    {
+      "Name": "Order_of_Shadow_Representative",
+      "X": 887.701,
+      "Y": 1031.25,
+      "Z": 149.62
+    },
+    {
+      "Name": "Awakened_Representative",
+      "X": 915.32,
+      "Y": 1008.75,
+      "Z": 154.905
+    },
+    {
+      "Name": "Mordant_Crescent_Representative",
+      "X": 966.533,
+      "Y": 1046.02,
+      "Z": 155.037
+    },
+    {
+      "Name": "Reclaimed_Chantry_Heart_Vendor",
+      "X": 899.866,
+      "Y": 1054.47,
+      "Z": 149.894
+    },
+    {
+      "Name": "Pact_Vanguard_Branded_Shard",
+      "X": -515.866,
+      "Y": -855.416,
+      "Z": 60.7372
+    },
+    {
+      "Name": "Pact_Vanguard_Heart_Vendor",
+      "X": -526.899,
+      "Y": -768.296,
+      "Z": 60.779
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1019.62,
+      "Y": -265.586,
+      "Z": 44.2682
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1064.56,
+      "Y": -351.198,
+      "Z": 53.1162
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1096.29,
+      "Y": -289.107,
+      "Z": 95.9368
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1135.53,
+      "Y": -380.702,
+      "Z": 133.595
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1145.65,
+      "Y": -328.987,
+      "Z": 178.736
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1140.24,
+      "Y": -248.267,
+      "Z": 194.858
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1135.2,
+      "Y": -199.322,
+      "Z": 221.443
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1081.8,
+      "Y": -169.212,
+      "Z": 149.98
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1052.67,
+      "Y": -249.539,
+      "Z": 150.799
+    },
+    {
+      "Name": "Yatendi_Village_Farming_Supplies",
+      "X": 1115.92,
+      "Y": -303.691,
+      "Z": 146.472
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1091.82,
+      "Y": -330.949,
+      "Z": 100.019
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1087.44,
+      "Y": -332.021,
+      "Z": 100.019
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1094.13,
+      "Y": -341.328,
+      "Z": 100.019
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1089.97,
+      "Y": -343.045,
+      "Z": 100.019
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1095.75,
+      "Y": -346.482,
+      "Z": 100.015
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1093.25,
+      "Y": -347.512,
+      "Z": 100.015
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1106.65,
+      "Y": -376.127,
+      "Z": 76.6215
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1111.32,
+      "Y": -375.448,
+      "Z": 76.6215
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1108.89,
+      "Y": -381.456,
+      "Z": 76.5727
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1110.17,
+      "Y": -386.005,
+      "Z": 76.5727
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1054.85,
+      "Y": -319.75,
+      "Z": 63.5034
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1058.95,
+      "Y": -318.223,
+      "Z": 63.5034
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1023.8,
+      "Y": -276.315,
+      "Z": 58.3482
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1028.02,
+      "Y": -275.631,
+      "Z": 58.3482
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1018.83,
+      "Y": -269.735,
+      "Z": 58.3482
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1022.38,
+      "Y": -269.158,
+      "Z": 58.3482
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1018.84,
+      "Y": -263.063,
+      "Z": 58.3482
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 1022.84,
+      "Y": -262.414,
+      "Z": 58.3482
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 996.672,
+      "Y": -251.146,
+      "Z": 43.8671
+    },
+    {
+      "Name": "Planter_Soil",
+      "X": 996.984,
+      "Y": -254.055,
+      "Z": 43.8671
+    },
+    {
+      "Name": "Yatendi_Village_Heart_Vendor",
+      "X": 1012.52,
+      "Y": -281.992,
+      "Z": 46.9433
+    }
+  ]
+}

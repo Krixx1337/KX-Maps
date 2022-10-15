@@ -1,0 +1,83 @@
+{
+  "Name": "Cliffside",
+  "Coordinates": [
+    {
+      "Name": "First-Spot",
+      "X": 47.9761,
+      "Y": -12.0704,
+      "Z": 694.455
+    },
+    {
+      "Name": "Second-Spot",
+      "X": 39.6964,
+      "Y": -28.0593,
+      "Z": 730.36
+    },
+    {
+      "Name": "port-point1",
+      "X": 79.8834,
+      "Y": 118.831,
+      "Z": 729.613
+    },
+    {
+      "Name": "port-point2",
+      "X": 77.214,
+      "Y": 118.357,
+      "Z": 780.34
+    },
+    {
+      "Name": "port-point3",
+      "X": 76.3634,
+      "Y": 39.0975,
+      "Z": 780.947
+    },
+    {
+      "Name": "port-point4",
+      "X": 96.6314,
+      "Y": 32.1567,
+      "Z": 819.604
+    },
+    {
+      "Name": "Seal",
+      "X": 75.05,
+      "Y": -2.24,
+      "Z": 822.35
+    },
+    {
+      "Name": "next-point-avoiding-downstate",
+      "X": 54.98,
+      "Y": -96.17,
+      "Z": 824.9
+    },
+    {
+      "Name": "next-point-avoiding-downstate-again",
+      "X": 70.01,
+      "Y": -66.4,
+      "Z": 848.33
+    },
+    {
+      "Name": "right-sigill",
+      "X": 96.6092,
+      "Y": -53.784,
+      "Z": 847.384
+    },
+    {
+      "Name": "left-sigill",
+      "X": 94.1805,
+      "Y": 28.7739,
+      "Z": 848.647
+    },
+    {
+      "Name": "portal-here-to-skip",
+      "X": 131.65,
+      "Y": -13.82,
+      "Z": 846.78
+    },
+    {
+      "Name": "ENDBOSS",
+      "X": 124.35,
+      "Y": -12.1,
+      "Z": 877.68
+    }
+  ]
+}

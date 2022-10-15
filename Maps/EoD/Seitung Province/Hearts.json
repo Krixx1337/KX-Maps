@@ -1,0 +1,23 @@
+{
+  "Name": "Hearts",
+  "Coordinates": [
+    {
+      "Name": "Grand_Master_Kyren",
+      "X": -694.35,
+      "Y": -540.73,
+      "Z": 46.62
+    },
+    {
+      "Name": "Hall_Director_Soohee",
+      "X": -702.68,
+      "Y": 679.25,
+      "Z": 1.4
+    },
+    {
+      "Name": "Fishermen_Benyo",
+      "X": 977.62,
+      "Y": -276.77,
+      "Z": 0.5
+    }
+  ]
+}

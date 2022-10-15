@@ -1,0 +1,47 @@
+{
+  "Name": "3.Your Kind of People",
+  "Coordinates": [
+    {
+      "Name": "starting_first_instance",
+      "X": -489.94,
+      "Y": -785.58,
+      "Z": 0.57
+    },
+    {
+      "Name": "talk",
+      "X": -509.13,
+      "Y": -796.46,
+      "Z": 0.22
+    },
+    {
+      "Name": "follow_them",
+      "X": -525.05,
+      "Y": -789.27,
+      "Z": 3.55
+    },
+    {
+      "Name": "talk_to_caithe",
+      "X": -583.21,
+      "Y": -737.71,
+      "Z": 88.58
+    },
+    {
+      "Name": "talk_with_Joon",
+      "X": -568.6,
+      "Y": -732.19,
+      "Z": 17.99
+    },
+    {
+      "Name": "instance_done",
+      "X": -568.6,
+      "Y": -732.19,
+      "Z": 17.99
+    },
+    {
+      "Name": "Chapterdone",
+      "X": -489.93,
+      "Y": -785.59,
+      "Z": 0.57
+    }
+  ]
+}

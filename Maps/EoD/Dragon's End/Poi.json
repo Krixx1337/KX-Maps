@@ -1,0 +1,293 @@
+{
+  "Name": "Poi",
+  "Coordinates": [
+    {
+      "Name": "Frozen_Sea_Monastery",
+      "X": -20.18,
+      "Y": -1238.52,
+      "Z": 308.86
+    },
+    {
+      "Name": "Archemorus_Solitude_(underground_cavern)",
+      "X": -107.11,
+      "Y": -913.52,
+      "Z": 7.81
+    },
+    {
+      "Name": "Shrine_of_the_Serpent",
+      "X": 468.24,
+      "Y": 1243.51,
+      "Z": 113.52
+    },
+    {
+      "Name": "Saltspray_Roost",
+      "X": -196.86,
+      "Y": 183.6,
+      "Z": 420.8
+    },
+    {
+      "Name": "Emerald_Bluff",
+      "X": 352.26,
+      "Y": -1050.98,
+      "Z": 189.48
+    },
+    {
+      "Name": "Sanctuary_of_Ione",
+      "X": 571.66,
+      "Y": -974.95,
+      "Z": 228.94
+    },
+    {
+      "Name": "The_Void_Expanse",
+      "X": 739.45,
+      "Y": -1214.55,
+      "Z": 186.77
+    },
+    {
+      "Name": "Risens_Havoc",
+      "X": 420.41,
+      "Y": -777.35,
+      "Z": 182.82
+    },
+    {
+      "Name": "Speakers_Outpost",
+      "X": 663.1,
+      "Y": -656.81,
+      "Z": 187.96
+    },
+    {
+      "Name": "Harvest_Temple",
+      "X": 19.01,
+      "Y": -636.48,
+      "Z": 482.02
+    },
+    {
+      "Name": "Jade_Wind_Respite",
+      "X": -458.41,
+      "Y": -967.5,
+      "Z": 226.24
+    },
+    {
+      "Name": "Mordrem_Blight",
+      "X": -333.17,
+      "Y": -790.2,
+      "Z": 184.71
+    },
+    {
+      "Name": "Jade_Brotherhood_Outpost",
+      "X": -553.18,
+      "Y": -630.43,
+      "Z": 230.14
+    },
+    {
+      "Name": "Wasteland_of_the_Destroyer",
+      "X": -567.29,
+      "Y": -299.69,
+      "Z": 212.23
+    },
+    {
+      "Name": "Guardians_Perch",
+      "X": -580.49,
+      "Y": -122.15,
+      "Z": 225.4
+    },
+    {
+      "Name": "Temple_of_the_Fallen",
+      "X": -524.83,
+      "Y": -22.62,
+      "Z": 211.3
+    },
+    {
+      "Name": "Branded_Rise",
+      "X": 20.46,
+      "Y": -252.33,
+      "Z": 213.33
+    },
+    {
+      "Name": "Kuan_Jun_Pavilion",
+      "X": 139.66,
+      "Y": -135.65,
+      "Z": 199.12
+    },
+    {
+      "Name": "Harvest_Temple_Observatory",
+      "X": 29.81,
+      "Y": -59.48,
+      "Z": 209.34
+    },
+    {
+      "Name": "Juno_Hatchery",
+      "X": 530.06,
+      "Y": -136.17,
+      "Z": 198.1
+    },
+    {
+      "Name": "Eloras_Beach",
+      "X": 705.17,
+      "Y": -252.08,
+      "Z": 179.61
+    },
+    {
+      "Name": "Chantry_of_the_Crab",
+      "X": 622.36,
+      "Y": 190.99,
+      "Z": 133.52
+    },
+    {
+      "Name": "The_Great_Jade_Wall",
+      "X": 731.19,
+      "Y": 401.37,
+      "Z": 134.75
+    },
+    {
+      "Name": "Mine_Site_JS_36",
+      "X": 591.13,
+      "Y": 410.85,
+      "Z": 12.67
+    },
+    {
+      "Name": "Temple_of_the_Turtle",
+      "X": 256.16,
+      "Y": 208.36,
+      "Z": 151.63
+    },
+    {
+      "Name": "Miners_Folly",
+      "X": 141.92,
+      "Y": 405.09,
+      "Z": 11.63
+    },
+    {
+      "Name": "Seaguards_Crossing",
+      "X": -36.4,
+      "Y": 474.0,
+      "Z": 56.21
+    },
+    {
+      "Name": "Mine_Site_JS_02",
+      "X": -300.21,
+      "Y": 443.89,
+      "Z": -221.54
+    },
+    {
+      "Name": "Argo_Crawler",
+      "X": -378.01,
+      "Y": 458.97,
+      "Z": 131.83
+    },
+    {
+      "Name": "Rheas_Landing",
+      "X": -430.99,
+      "Y": 240.22,
+      "Z": 145.38
+    },
+    {
+      "Name": "Brotherhoods_Watch",
+      "X": -442.25,
+      "Y": 677.68,
+      "Z": 192.75
+    },
+    {
+      "Name": "Warehouse_District",
+      "X": -538.38,
+      "Y": 842.87,
+      "Z": 192.94
+    },
+    {
+      "Name": "Logistics_District",
+      "X": -448.31,
+      "Y": 1167.97,
+      "Z": 252.01
+    },
+    {
+      "Name": "Residential_District",
+      "X": -166.72,
+      "Y": 1174.7,
+      "Z": 251.11
+    },
+    {
+      "Name": "Xiko_Refugee_Camp",
+      "X": 82.01,
+      "Y": 972.49,
+      "Z": 139.12
+    },
+    {
+      "Name": "The_Green_Grotto",
+      "X": 182.14,
+      "Y": 1137.94,
+      "Z": 6.73
+    },
+    {
+      "Name": "Alua_Falls",
+      "X": 633.41,
+      "Y": 1201.77,
+      "Z": 5.73
+    },
+    {
+      "Name": "Speakers_Encampment",
+      "X": 650.38,
+      "Y": 911.82,
+      "Z": 102.69
+    },
+    {
+      "Name": "Shrine_to_Hanuku",
+      "X": 655.87,
+      "Y": 722.28,
+      "Z": 100.3
+    },
+    {
+      "Name": "Kaolai_Tower",
+      "X": 395.85,
+      "Y": 716.16,
+      "Z": 81.22
+    },
+    {
+      "Name": "Tanasen_Pier",
+      "X": 211.27,
+      "Y": 726.74,
+      "Z": 1.16
+    },
+    {
+      "Name": "Quarry_Passage",
+      "X": -11.28,
+      "Y": 663.06,
+      "Z": 41.53
+    },
+    {
+      "Name": "Xinraes_Wharf",
+      "X": 40.95,
+      "Y": -971.66,
+      "Z": 183.65
+    },
+    {
+      "Name": "The_Green_Melt(underground)",
+      "X": -183.76,
+      "Y": -407.21,
+      "Z": 2.35
+    },
+    {
+      "Name": "Xunlai_Jade_Museum",
+      "X": 283.65,
+      "Y": -529.36,
+      "Z": 313.91
+    },
+    {
+      "Name": "Icebroods_Desolation",
+      "X": 589.69,
+      "Y": -394.66,
+      "Z": 196.68
+    },
+    {
+      "Name": "Harvest_Bridge",
+      "X": 22.68,
+      "Y": -380.94,
+      "Z": 234.28
+    },
+    {
+      "Name": "Font_of_Elders",
+      "X": 211.44,
+      "Y": -1030.6,
+      "Z": 238.82
+    }
+  ]
+}

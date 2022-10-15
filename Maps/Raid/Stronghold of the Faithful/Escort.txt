@@ -1,9 +1,0 @@
-1	'Escord-Cave-Skip' 72.8248 125.388 629.231
-2	'Tower1-Portal' 53.914 134.661 640.665
-3	'Tower2-Portal' 0.496573 141.955 648.796
-4	'Tower3-Portal' -71.4048 154.753 646.457
-5	'Tower4-Portal' -47.4207 168.603 563.357
-6	'Tower5-Portal' -141.504 190.369 561.476
-7	'Backwarg-Beginning' 141.635 104.226 653.221
-8	'Backwarg-Middle' -29.9504 116.838 700.707
-9	'Backwarg-END' -31.5303 138.411 556.79

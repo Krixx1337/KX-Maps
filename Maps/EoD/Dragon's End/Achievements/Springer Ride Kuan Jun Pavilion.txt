@@ -1,2 +1,0 @@
-1	'tele_here_and_mount_springer' 139.75 199.12 -135.95
-2	'end_here' 300.27 379.64 -541.41

@@ -1,0 +1,29 @@
+{
+  "Name": "Wayfarer-Foothills",
+  "Coordinates": [
+    {
+      "Name": "Wayfarer-to-Snowden",
+      "X": -465.48,
+      "Y": 1327.73,
+      "Z": 145.97
+    },
+    {
+      "Name": "Wayfarer-to-Frostgorge",
+      "X": 345.33,
+      "Y": 1586.05,
+      "Z": 263.51
+    },
+    {
+      "Name": "Wayfarer-to-Diessa",
+      "X": 528.22,
+      "Y": 1202.36,
+      "Z": 154.63
+    },
+    {
+      "Name": "Wayfarer-to-Hoelbrak",
+      "X": -383.26,
+      "Y": -695.09,
+      "Z": 154.58
+    }
+  ]
+}

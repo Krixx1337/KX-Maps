@@ -1,0 +1,41 @@
+{
+  "Name": "Skip to endboss",
+  "Coordinates": [
+    {
+      "Name": "Trigger_Spirit",
+      "X": 132.35,
+      "Y": -264.72,
+      "Z": 44.32
+    },
+    {
+      "Name": "second_port",
+      "X": -51.46,
+      "Y": -268.5,
+      "Z": 109.37
+    },
+    {
+      "Name": "third_port",
+      "X": -73.97,
+      "Y": -125.73,
+      "Z": 285.65
+    },
+    {
+      "Name": "trigger_spirit",
+      "X": 80.63,
+      "Y": 225.88,
+      "Z": 285.72
+    },
+    {
+      "Name": "last_port",
+      "X": 231.5,
+      "Y": 101.77,
+      "Z": 307.92
+    },
+    {
+      "Name": "Mistlock_Singularity_ENDBOSS",
+      "X": 225.7,
+      "Y": 101.06,
+      "Z": 303.91
+    }
+  ]
+}

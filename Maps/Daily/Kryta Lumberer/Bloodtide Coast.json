@@ -1,0 +1,17 @@
+{
+  "Name": "Bloodtide Coast",
+  "Coordinates": [
+    {
+      "Name": "SeasonedWoodLogs_Archen_Foreland",
+      "X": 73.6578,
+      "Y": 1088.45,
+      "Z": 20.662
+    },
+    {
+      "Name": "HardWoodLogs_Mistarion_Beach",
+      "X": 565.135,
+      "Y": -723.183,
+      "Z": 32.6656
+    }
+  ]
+}

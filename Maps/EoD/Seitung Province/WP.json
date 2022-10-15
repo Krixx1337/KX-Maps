@@ -1,0 +1,29 @@
+{
+  "Name": "WP",
+  "Coordinates": [
+    {
+      "Name": "Village_Waypoint",
+      "X": -97.2,
+      "Y": -226.15,
+      "Z": 17.63
+    },
+    {
+      "Name": "Monastery_Waypoint",
+      "X": -1054.72,
+      "Y": -144.61,
+      "Z": 142.63
+    },
+    {
+      "Name": "Daigo_Ward_Waypoint",
+      "X": 84.19,
+      "Y": 309.48,
+      "Z": 140.33
+    },
+    {
+      "Name": "Haiju_Docks_Waypoint",
+      "X": 419.43,
+      "Y": 853.22,
+      "Z": 0.69
+    }
+  ]
+}

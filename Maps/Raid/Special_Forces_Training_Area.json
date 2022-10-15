@@ -1,0 +1,23 @@
+{
+  "Name": "Special_Forces_Training_Area",
+  "Coordinates": [
+    {
+      "Name": "Arena_Console",
+      "X": 667.28,
+      "Y": -372.74,
+      "Z": 3.79
+    },
+    {
+      "Name": "Golem_Spawner",
+      "X": 654.7,
+      "Y": -365.6,
+      "Z": 3.43
+    },
+    {
+      "Name": "ATTACK",
+      "X": 624.83,
+      "Y": -392.5,
+      "Z": 3.07
+    }
+  ]
+}

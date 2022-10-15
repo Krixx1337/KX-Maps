@@ -1,7 +1,0 @@
-1	'Jade_Waves' 17.92 213.29 161.57
-2	'Brotherhood_Rooftop' -481.83 306.07 -630.78
-3	'Shrine_Rooftop' -223.84 272.95 -62.01
-4	'Quarry_Crane' -24.25 252.41 1068.46
-5	'Charr_Scout' 235.25 178.25 1200.4
-6	'for-Char-Scout-port-here-get-water-port-back' 167.39 8.83 1141.1
-7	'Warehouse' -564.06 194.93 755.3

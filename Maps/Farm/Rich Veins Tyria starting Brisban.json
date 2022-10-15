@@ -1,0 +1,179 @@
+{
+  "Name": "Rich Veins Tyria starting Brisban",
+  "Coordinates": [
+    {
+      "Name": "Brisban_Iron",
+      "X": -916.87,
+      "Y": 622.08,
+      "Z": 43.08
+    },
+    {
+      "Name": "Brisban_Silver",
+      "X": -452.07,
+      "Y": 853.19,
+      "Z": 32.5
+    },
+    {
+      "Name": "Kessex_Iron",
+      "X": -1356.62,
+      "Y": 28.29,
+      "Z": 52.15
+    },
+    {
+      "Name": "Kessex_Iron_2",
+      "X": 935.41,
+      "Y": -354.71,
+      "Z": 25.22
+    },
+    {
+      "Name": "Kessex_Silver",
+      "X": 977.63,
+      "Y": -638.16,
+      "Z": 42.35
+    },
+    {
+      "Name": "Harathi_Iron",
+      "X": -1071.37,
+      "Y": -174.03,
+      "Z": 160.31
+    },
+    {
+      "Name": "Harathi_Gold",
+      "X": 1167.01,
+      "Y": 727.11,
+      "Z": 226.89
+    },
+    {
+      "Name": "Gendarran_Iron",
+      "X": 1087.67,
+      "Y": -529.7,
+      "Z": 78.55
+    },
+    {
+      "Name": "Gendarran_Silver",
+      "X": 1438.6,
+      "Y": -618.47,
+      "Z": 94.79
+    },
+    {
+      "Name": "Bloodtide_Plat",
+      "X": 35.01,
+      "Y": -497.51,
+      "Z": 90.58
+    },
+    {
+      "Name": "Sparkfly_Plat",
+      "X": 584.85,
+      "Y": 282.16,
+      "Z": 85.98
+    },
+    {
+      "Name": "Sparkfly_Plat_2",
+      "X": -664.46,
+      "Y": 356.12,
+      "Z": 62.34
+    },
+    {
+      "Name": "Maelstrom_Plat",
+      "X": -1322.85,
+      "Y": 374.85,
+      "Z": 67.74
+    },
+    {
+      "Name": "Maelstrom_Plat_2",
+      "X": 916.64,
+      "Y": 113.14,
+      "Z": -50.16
+    },
+    {
+      "Name": "Dredgehaunt_Gold",
+      "X": -405.44,
+      "Y": -427.44,
+      "Z": 143.77
+    },
+    {
+      "Name": "Dredgehaunt_Iron",
+      "X": -183.7,
+      "Y": 676.29,
+      "Z": 48.87
+    },
+    {
+      "Name": "Lornar_Iron",
+      "X": -157.81,
+      "Y": 1725.67,
+      "Z": 154.37
+    },
+    {
+      "Name": "Lornar_Silver",
+      "X": -638.09,
+      "Y": 788.94,
+      "Z": 101.02
+    },
+    {
+      "Name": "Lornar_Gold",
+      "X": -486.48,
+      "Y": -1677.32,
+      "Z": 72.35
+    },
+    {
+      "Name": "Snowden_Silver",
+      "X": -77.69,
+      "Y": -332.04,
+      "Z": 19.17
+    },
+    {
+      "Name": "Snowden_Iron",
+      "X": 902.02,
+      "Y": -120.59,
+      "Z": 46.2
+    },
+    {
+      "Name": "Fireheart_Plat",
+      "X": -595.01,
+      "Y": 385.54,
+      "Z": 73.0
+    },
+    {
+      "Name": "Fireheart_Plat_2",
+      "X": 1095.41,
+      "Y": 5.04,
+      "Z": 52.92
+    },
+    {
+      "Name": "IronMarches_Plat",
+      "X": -307.55,
+      "Y": 1384.11,
+      "Z": 24.92
+    },
+    {
+      "Name": "IronMarches_Plat_2",
+      "X": 691.99,
+      "Y": 1433.49,
+      "Z": -0.17
+    },
+    {
+      "Name": "Steppes_Gold",
+      "X": 687.65,
+      "Y": 1442.99,
+      "Z": 59.13
+    },
+    {
+      "Name": "Steppes_Iron",
+      "X": 712.04,
+      "Y": -602.52,
+      "Z": 10.29
+    },
+    {
+      "Name": "FoR_Silver",
+      "X": 668.9,
+      "Y": 1009.57,
+      "Z": 6.5
+    },
+    {
+      "Name": "FoR_Gold",
+      "X": 1084.44,
+      "Y": 332.05,
+      "Z": 20.67
+    }
+  ]
+}

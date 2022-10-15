@@ -1,5 +1,0 @@
-1	'Warmed-Vabian-Griffon-Egg' 1734.78 338.69 -991.17
-2	'Cracked-Vabian-Griffon-Egg' 1584.69 346.24 -637.21
-3	'Polished-Vabian-Griffon-Egg' 1620.68 258.35 -159.55
-4	'Rubby-Vabian-Griffon-Egg' 1219.12 246.04 -676.72
-5	'Charged-Vabian-Griffon-Egg' 1253.49 163.98 -993.05

@@ -1,0 +1,41 @@
+{
+  "Name": "Jahai-Bounty-Hunter",
+  "Coordinates": [
+    {
+      "Name": "Angry-Pet-Rock-Bounty",
+      "X": 948.85,
+      "Y": -941.8,
+      "Z": 55.32
+    },
+    {
+      "Name": "Angry-Pet-Rock-Spawn",
+      "X": 740.58,
+      "Y": 634.08,
+      "Z": 163.04
+    },
+    {
+      "Name": "Zommoross-Weapons-bounty",
+      "X": 948.86,
+      "Y": -939.31,
+      "Z": 55.75
+    },
+    {
+      "Name": "zommoross-bounty-spawn",
+      "X": -283.62,
+      "Y": -477.38,
+      "Z": 58.89
+    },
+    {
+      "Name": "Wyvern-spawn-area",
+      "X": -23.03,
+      "Y": 727.37,
+      "Z": 189.18
+    },
+    {
+      "Name": "Ettin",
+      "X": 444.04,
+      "Y": 241.24,
+      "Z": 141.19
+    }
+  ]
+}

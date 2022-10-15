@@ -1,0 +1,23 @@
+{
+  "Name": "Hoelbrak",
+  "Coordinates": [
+    {
+      "Name": "Hoelbrak-to-Wayfarer",
+      "X": 618.6,
+      "Y": -235.49,
+      "Z": 384.61
+    },
+    {
+      "Name": "Hoelbrak-to-Dredgehaunt",
+      "X": 360.25,
+      "Y": -387.68,
+      "Z": 409.76
+    },
+    {
+      "Name": "Hoelbrak-to-LionsArch",
+      "X": -82.89,
+      "Y": -48.95,
+      "Z": 389.44
+    }
+  ]
+}

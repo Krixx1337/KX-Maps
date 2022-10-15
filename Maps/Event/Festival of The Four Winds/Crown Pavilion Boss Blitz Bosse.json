@@ -1,0 +1,41 @@
+{
+  "Name": "Crown Pavilion Boss Blitz Bosse",
+  "Coordinates": [
+    {
+      "Name": "Sparcus",
+      "X": 36.92,
+      "Y": 120.62,
+      "Z": 8.61
+    },
+    {
+      "Name": "Boom_Boom_Baines",
+      "X": 198.91,
+      "Y": -10.9,
+      "Z": 12.34
+    },
+    {
+      "Name": "Justiciar_Hablion",
+      "X": 74.84,
+      "Y": -163.59,
+      "Z": 23.69
+    },
+    {
+      "Name": "Pyroxis",
+      "X": -77.05,
+      "Y": -162.0,
+      "Z": 13.17
+    },
+    {
+      "Name": "Kuraii_the_Cruel",
+      "X": -86.54,
+      "Y": 160.39,
+      "Z": 15.74
+    },
+    {
+      "Name": "Wiggin_the_Wicked",
+      "X": -114.18,
+      "Y": 0.19,
+      "Z": 0.27
+    }
+  ]
+}

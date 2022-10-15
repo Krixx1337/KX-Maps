@@ -1,0 +1,287 @@
+{
+  "Name": "Divinitys-Reach-Home-Ini",
+  "Coordinates": [
+    {
+      "Name": "Bauble",
+      "X": 263.85,
+      "Y": 206.04,
+      "Z": 92.68
+    },
+    {
+      "Name": "Ancient-Sapling",
+      "X": 266.9,
+      "Y": 199.22,
+      "Z": 92.67
+    },
+    {
+      "Name": "Red-Oak-Sapling",
+      "X": 263.46,
+      "Y": 225.83,
+      "Z": 92.55
+    },
+    {
+      "Name": "Sprocket-Generator",
+      "X": 285.43,
+      "Y": 208.91,
+      "Z": 92.68
+    },
+    {
+      "Name": "Quartz-Crystal-Formation",
+      "X": 287.27,
+      "Y": 222.0,
+      "Z": 92.68
+    },
+    {
+      "Name": "Copper-ore",
+      "X": 186.48,
+      "Y": 212.38,
+      "Z": 101.29
+    },
+    {
+      "Name": "Silver-Ore",
+      "X": 183.08,
+      "Y": 213.87,
+      "Z": 101.28
+    },
+    {
+      "Name": "Gold-Ore",
+      "X": 180.41,
+      "Y": 215.58,
+      "Z": 101.29
+    },
+    {
+      "Name": "Aurilium",
+      "X": 174.91,
+      "Y": 218.24,
+      "Z": 101.37
+    },
+    {
+      "Name": "Bloodstone-Crystals",
+      "X": 225.61,
+      "Y": 298.72,
+      "Z": 88.22
+    },
+    {
+      "Name": "Winterberry-Bush",
+      "X": 232.82,
+      "Y": 337.14,
+      "Z": 88.19
+    },
+    {
+      "Name": "Hatched-Chili-Pepper-Bush",
+      "X": 271.82,
+      "Y": 278.54,
+      "Z": 85.78
+    },
+    {
+      "Name": "Petrified-Stump+Root-Plants-+Vegetable-Plants",
+      "X": 278.59,
+      "Y": 278.52,
+      "Z": 85.68
+    },
+    {
+      "Name": "Eternal-Ice",
+      "X": 291.01,
+      "Y": 276.28,
+      "Z": 85.58
+    },
+    {
+      "Name": "Tukawa-Sapling",
+      "X": 296.96,
+      "Y": 279.88,
+      "Z": 86.1
+    },
+    {
+      "Name": "Aspen-Sapling",
+      "X": 293.08,
+      "Y": 286.57,
+      "Z": 85.59
+    },
+    {
+      "Name": "Primordal-Orchid",
+      "X": 299.56,
+      "Y": 291.07,
+      "Z": 86.09
+    },
+    {
+      "Name": "Basic-Leather-Rack",
+      "X": 292.62,
+      "Y": 297.83,
+      "Z": 85.55
+    },
+    {
+      "Name": "Gummo-Sapling",
+      "X": 295.48,
+      "Y": 303.19,
+      "Z": 85.9
+    },
+    {
+      "Name": "Airship-Cargo",
+      "X": 313.6,
+      "Y": 315.35,
+      "Z": 85.13
+    },
+    {
+      "Name": "Exalted-Chest",
+      "X": 316.0,
+      "Y": 312.07,
+      "Z": 85.12
+    },
+    {
+      "Name": "Crystallized-Supply-Cache",
+      "X": 318.56,
+      "Y": 307.87,
+      "Z": 85.28
+    },
+    {
+      "Name": "Jade-Fragments",
+      "X": 331.63,
+      "Y": 230.56,
+      "Z": 82.81
+    },
+    {
+      "Name": "Prismaticite",
+      "X": 322.59,
+      "Y": 242.59,
+      "Z": 84.73
+    },
+    {
+      "Name": "Mistborn-Mote",
+      "X": 356.16,
+      "Y": 339.97,
+      "Z": 78.57
+    },
+    {
+      "Name": "Inglewood-Sapling",
+      "X": 264.08,
+      "Y": 209.66,
+      "Z": 92.68
+    },
+    {
+      "Name": "King-Sized-Candy-Corn",
+      "X": 274.78,
+      "Y": 223.59,
+      "Z": 92.62
+    },
+    {
+      "Name": "Pinata",
+      "X": 269.17,
+      "Y": 201.44,
+      "Z": 92.67
+    },
+    {
+      "Name": "Difluorite",
+      "X": 221.86,
+      "Y": 230.82,
+      "Z": 83.72
+    },
+    {
+      "Name": "Iron",
+      "X": 177.91,
+      "Y": 219.17,
+      "Z": 101.37
+    },
+    {
+      "Name": "Platinum&Mithril",
+      "X": 171.27,
+      "Y": 221.92,
+      "Z": 101.42
+    },
+    {
+      "Name": "Orichalcum",
+      "X": 168.91,
+      "Y": 224.83,
+      "Z": 101.42
+    },
+    {
+      "Name": "Snow-Truffle",
+      "X": 156.92,
+      "Y": 255.4,
+      "Z": 101.47
+    },
+    {
+      "Name": "Lotus",
+      "X": 157.11,
+      "Y": 251.13,
+      "Z": 101.57
+    },
+    {
+      "Name": "Omnombeeries",
+      "X": 163.35,
+      "Y": 246.97,
+      "Z": 102.28
+    },
+    {
+      "Name": "Flax&Orrian-Truffle",
+      "X": 158.86,
+      "Y": 243.67,
+      "Z": 101.61
+    },
+    {
+      "Name": "Ghost-Pepper",
+      "X": 153.43,
+      "Y": 243.66,
+      "Z": 102.2
+    },
+    {
+      "Name": "Winterday-tree-og-Generosity",
+      "X": 243.43,
+      "Y": 316.58,
+      "Z": 86.13
+    },
+    {
+      "Name": "Supply-Cache",
+      "X": 297.77,
+      "Y": 257.17,
+      "Z": 85.5
+    },
+    {
+      "Name": "Advanced-Cloth",
+      "X": 338.6,
+      "Y": 267.84,
+      "Z": 85.19
+    },
+    {
+      "Name": "Aadvanced-Leather",
+      "X": 341.07,
+      "Y": 262.9,
+      "Z": 85.2
+    },
+    {
+      "Name": "Salvage-Pile",
+      "X": 363.49,
+      "Y": 285.88,
+      "Z": 74.86
+    },
+    {
+      "Name": "Brandstone",
+      "X": 357.09,
+      "Y": 312.2,
+      "Z": 76.91
+    },
+    {
+      "Name": "Mistonium",
+      "X": 368.71,
+      "Y": 324.01,
+      "Z": 77.95
+    },
+    {
+      "Name": "Dragon-Crystal",
+      "X": 365.97,
+      "Y": 330.16,
+      "Z": 77.68
+    },
+    {
+      "Name": "Basic-Cloth",
+      "X": 289.56,
+      "Y": 289.59,
+      "Z": 85.53
+    },
+    {
+      "Name": "Orrian-Oyster",
+      "X": 257.45,
+      "Y": 300.75,
+      "Z": 85.11
+    }
+  ]
+}

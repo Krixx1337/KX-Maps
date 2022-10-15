@@ -1,0 +1,23 @@
+{
+  "Name": "Vision-of-Equipment-Elegy-Armor",
+  "Coordinates": [
+    {
+      "Name": "Info-before-starting-first-do-the-needed-achievment-then-come-back-here-next-port-is-for-entering-the-area",
+      "X": -1034.19,
+      "Y": 134.8,
+      "Z": 87.51
+    },
+    {
+      "Name": "enter-area",
+      "X": -1074.97,
+      "Y": 94.88,
+      "Z": 79.42
+    },
+    {
+      "Name": "speak-with-Amira-and-get-Vision-of-Equipment-Elegy-Armor",
+      "X": -1299.04,
+      "Y": -547.05,
+      "Z": 27.37
+    }
+  ]
+}

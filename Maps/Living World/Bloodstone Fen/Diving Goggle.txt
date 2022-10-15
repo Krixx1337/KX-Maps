@@ -1,2 +1,0 @@
-1	'Diving-Googles-[Achievment]-Before-you-jump-nextport-will-bring-you-over-the-place-you-have-to-land-only-port-to-next-coord-when-you-are-falling-otherwise-it-wont-work-good-luck' 156.102 1038.17 103.806
-2	'Port-here-and-they-see-you-flyiiiing-they-hattttinnnn-Achievment-done-btw' 125.844 385.042 95.061

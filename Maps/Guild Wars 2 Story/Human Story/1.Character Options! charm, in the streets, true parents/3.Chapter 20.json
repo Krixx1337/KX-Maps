@@ -1,0 +1,227 @@
+{
+  "Name": "3.Chapter 20",
+  "Coordinates": [
+    {
+      "Name": "start-of-Voices-from-the-past-read-your-mail-then-next-port",
+      "X": 241.88,
+      "Y": 168.01,
+      "Z": 97.99
+    },
+    {
+      "Name": "instance-Voices-from-the-past",
+      "X": 80.63,
+      "Y": -105.78,
+      "Z": 173.86
+    },
+    {
+      "Name": "talk",
+      "X": 85.03,
+      "Y": -150.61,
+      "Z": 170.59
+    },
+    {
+      "Name": "talk",
+      "X": 77.2,
+      "Y": -132.49,
+      "Z": 171.05
+    },
+    {
+      "Name": "instance-done",
+      "X": 77.2,
+      "Y": -132.49,
+      "Z": 171.05
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "instance-Rending-the-Mantle",
+      "X": 596.97,
+      "Y": 514.94,
+      "Z": 45.91
+    },
+    {
+      "Name": "talk",
+      "X": 608.07,
+      "Y": 521.45,
+      "Z": 48.0
+    },
+    {
+      "Name": "port",
+      "X": 651.89,
+      "Y": 562.4,
+      "Z": 46.93
+    },
+    {
+      "Name": "port",
+      "X": 661.13,
+      "Y": 562.5,
+      "Z": 46.49
+    },
+    {
+      "Name": "port",
+      "X": 674.41,
+      "Y": 566.52,
+      "Z": 56.56
+    },
+    {
+      "Name": "kill",
+      "X": 680.85,
+      "Y": 581.16,
+      "Z": 66.63
+    },
+    {
+      "Name": "port-option-one",
+      "X": 672.93,
+      "Y": 567.56,
+      "Z": 66.63
+    },
+    {
+      "Name": "kill",
+      "X": 672.45,
+      "Y": 568.67,
+      "Z": 56.56
+    },
+    {
+      "Name": "kill",
+      "X": 679.63,
+      "Y": 581.06,
+      "Z": 46.49
+    },
+    {
+      "Name": "kick-door",
+      "X": 685.13,
+      "Y": 578.55,
+      "Z": 46.49
+    },
+    {
+      "Name": "kill",
+      "X": 668.19,
+      "Y": 561.53,
+      "Z": 36.41
+    },
+    {
+      "Name": "search-and-cutscene",
+      "X": 664.37,
+      "Y": 558.29,
+      "Z": 37.92
+    },
+    {
+      "Name": "instance-done",
+      "X": 672.86,
+      "Y": 567.71,
+      "Z": 36.43
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "instance-Rending-the-Mantle",
+      "X": 121.49,
+      "Y": -6.52,
+      "Z": 166.08
+    },
+    {
+      "Name": "talk",
+      "X": 161.03,
+      "Y": 29.03,
+      "Z": 165.98
+    },
+    {
+      "Name": "choose-plan-into-a-trap",
+      "X": 161.03,
+      "Y": 29.03,
+      "Z": 165.98
+    },
+    {
+      "Name": "instance-done",
+      "X": 161.03,
+      "Y": 29.03,
+      "Z": 165.98
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "Queensdale-to-Kessex",
+      "X": -885.73,
+      "Y": -747.69,
+      "Z": 42.74
+    },
+    {
+      "Name": "Instance-start-The-Sting",
+      "X": 1120.48,
+      "Y": 596.77,
+      "Z": 9.46
+    },
+    {
+      "Name": "talk",
+      "X": 1194.71,
+      "Y": 616.72,
+      "Z": 1.81
+    },
+    {
+      "Name": "hide",
+      "X": 1268.65,
+      "Y": 623.8,
+      "Z": 19.52
+    },
+    {
+      "Name": "kill",
+      "X": 1287.92,
+      "Y": 572.85,
+      "Z": -0.21
+    },
+    {
+      "Name": "after-fight-instance-done",
+      "X": 1295.16,
+      "Y": 571.55,
+      "Z": -0.19
+    },
+    {
+      "Name": "Instance-Ashes-of-the-Past",
+      "X": 1322.14,
+      "Y": 68.95,
+      "Z": 40.61
+    },
+    {
+      "Name": "talk",
+      "X": 1339.94,
+      "Y": 48.25,
+      "Z": 41.59
+    },
+    {
+      "Name": "kill",
+      "X": 1518.78,
+      "Y": -95.48,
+      "Z": 56.22
+    },
+    {
+      "Name": "inspect",
+      "X": 1527.58,
+      "Y": -76.42,
+      "Z": 56.2
+    },
+    {
+      "Name": "Chapter-20-done-next-one-is-30-",
+      "X": 1527.58,
+      "Y": -76.42,
+      "Z": 56.2
+    },
+    {
+      "Name": "Surprise?---------------------no",
+      "X": 1435.6,
+      "Y": -102.97,
+      "Z": 169.94
+    }
+  ]
+}

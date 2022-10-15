@@ -1,0 +1,77 @@
+{
+  "Name": "Aetherblade",
+  "Coordinates": [
+    {
+      "Name": "FirstPoint",
+      "X": 12.397,
+      "Y": 87.0154,
+      "Z": -0.00625646
+    },
+    {
+      "Name": "firstconsole",
+      "X": -22.0143,
+      "Y": 130.238,
+      "Z": 12.7718
+    },
+    {
+      "Name": "secondconsole",
+      "X": -17.7484,
+      "Y": 133.369,
+      "Z": 12.695
+    },
+    {
+      "Name": "thirdconsole",
+      "X": -13.844,
+      "Y": 136.909,
+      "Z": 12.6164
+    },
+    {
+      "Name": "4console",
+      "X": -13.9649,
+      "Y": 130.937,
+      "Z": 12.6734
+    },
+    {
+      "Name": "lastconsole1",
+      "X": -9.05768,
+      "Y": 112.042,
+      "Z": 32.773
+    },
+    {
+      "Name": "Singularity",
+      "X": -13.99,
+      "Y": 94.41,
+      "Z": 32.8
+    },
+    {
+      "Name": "TP-block-go-in-it",
+      "X": -51.31,
+      "Y": 96.05,
+      "Z": 30.48
+    },
+    {
+      "Name": "kill",
+      "X": -74.23,
+      "Y": 114.12,
+      "Z": 0.14
+    },
+    {
+      "Name": "Singularity-Boss",
+      "X": -91.88,
+      "Y": 151.92,
+      "Z": 0.6
+    },
+    {
+      "Name": "use-kiel-to-port-in-or-go-next-port",
+      "X": -99.89,
+      "Y": 160.25,
+      "Z": 0.29
+    },
+    {
+      "Name": "Boss-spawn-before-using-kiel",
+      "X": -98.97,
+      "Y": 212.78,
+      "Z": 0.74
+    }
+  ]
+}

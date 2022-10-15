@@ -1,0 +1,323 @@
+{
+  "Name": "2.Chapter-1to10-The-Beginning",
+  "Coordinates": [
+    {
+      "Name": "Defense-of-shaemoor-start",
+      "X": -470.03,
+      "Y": 726.8,
+      "Z": 89.37
+    },
+    {
+      "Name": "talk",
+      "X": -479.91,
+      "Y": 717.02,
+      "Z": 86.49
+    },
+    {
+      "Name": "port-and-wait-until-fight-done-instance-done",
+      "X": -182.29,
+      "Y": 199.66,
+      "Z": 39.26
+    },
+    {
+      "Name": "after-instance-get-lvl-10-first-or-use-next-ports-when-allready-over-lvl10",
+      "X": -535.83,
+      "Y": 540.27,
+      "Z": 41.09
+    },
+    {
+      "Name": "next-stop-divinity-map-transit-next-port",
+      "X": -486.4,
+      "Y": 671.48,
+      "Z": 76.1
+    },
+    {
+      "Name": "map-transit-Divinity",
+      "X": -467.56,
+      "Y": 761.44,
+      "Z": 95.94
+    },
+    {
+      "Name": "now-starting-The-Perils-of-Friendship",
+      "X": 246.16,
+      "Y": 177.89,
+      "Z": 98.34
+    },
+    {
+      "Name": "meet",
+      "X": 365.3,
+      "Y": 262.47,
+      "Z": 75.06
+    },
+    {
+      "Name": "next-widowmaker-hideout",
+      "X": 304.0,
+      "Y": 265.44,
+      "Z": 85.33
+    },
+    {
+      "Name": "just-use-first-option",
+      "X": 305.96,
+      "Y": 255.43,
+      "Z": 86.54
+    },
+    {
+      "Name": "next-beat.them-up",
+      "X": 267.42,
+      "Y": 359.16,
+      "Z": 79.3
+    },
+    {
+      "Name": "use-codeword",
+      "X": 305.71,
+      "Y": 255.38,
+      "Z": 86.54
+    },
+    {
+      "Name": "rescue",
+      "X": 310.76,
+      "Y": 250.99,
+      "Z": 92.87
+    },
+    {
+      "Name": "return",
+      "X": 367.16,
+      "Y": 264.55,
+      "Z": 74.76
+    },
+    {
+      "Name": "talk",
+      "X": 335.75,
+      "Y": 316.48,
+      "Z": 84.98
+    },
+    {
+      "Name": "leave-instance",
+      "X": 247.77,
+      "Y": 244.18,
+      "Z": 91.37
+    },
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "instance-start-The-Apothecary",
+      "X": -341.66,
+      "Y": 637.67,
+      "Z": 73.83
+    },
+    {
+      "Name": "port",
+      "X": -342.89,
+      "Y": 637.74,
+      "Z": 73.85
+    },
+    {
+      "Name": "check",
+      "X": -335.35,
+      "Y": 629.19,
+      "Z": 75.3
+    },
+    {
+      "Name": "speak",
+      "X": -344.13,
+      "Y": 644.45,
+      "Z": 73.72
+    },
+    {
+      "Name": "instance-done",
+      "X": -344.13,
+      "Y": 644.45,
+      "Z": 73.72
+    },
+    {
+      "Name": "talk",
+      "X": -222.61,
+      "Y": 577.03,
+      "Z": 18.54
+    },
+    {
+      "Name": "Instance-start-Going-undercover",
+      "X": 64.5,
+      "Y": 736.41,
+      "Z": 2.07
+    },
+    {
+      "Name": "open",
+      "X": 49.35,
+      "Y": 765.81,
+      "Z": 2.96
+    },
+    {
+      "Name": "cutscene",
+      "X": 45.02,
+      "Y": 776.84,
+      "Z": 2.29
+    },
+    {
+      "Name": "talk",
+      "X": 35.97,
+      "Y": 784.18,
+      "Z": 2.31
+    },
+    {
+      "Name": "kill-all-drakes",
+      "X": 33.73,
+      "Y": 817.06,
+      "Z": 3.92
+    },
+    {
+      "Name": "talk",
+      "X": 35.85,
+      "Y": 784.87,
+      "Z": 2.22
+    },
+    {
+      "Name": "place",
+      "X": 101.85,
+      "Y": 706.34,
+      "Z": 0.43
+    },
+    {
+      "Name": "talk",
+      "X": 36.4,
+      "Y": 784.5,
+      "Z": 2.25
+    },
+    {
+      "Name": "talk",
+      "X": 6.5,
+      "Y": 856.73,
+      "Z": 10.66
+    },
+    {
+      "Name": "examine",
+      "X": -104.06,
+      "Y": 698.56,
+      "Z": 70.99
+    },
+    {
+      "Name": "examine",
+      "X": -155.65,
+      "Y": 752.76,
+      "Z": 70.65
+    },
+    {
+      "Name": "examine",
+      "X": -150.28,
+      "Y": 728.0,
+      "Z": 69.83
+    },
+    {
+      "Name": "talk",
+      "X": 5.67,
+      "Y": 857.75,
+      "Z": 10.66
+    },
+    {
+      "Name": "talk",
+      "X": 51.26,
+      "Y": 868.26,
+      "Z": 0.89
+    },
+    {
+      "Name": "leave-instance",
+      "X": 43.6,
+      "Y": 865.03,
+      "Z": 0.89
+    },
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "next-instance",
+      "X": 121.51,
+      "Y": -5.95,
+      "Z": 166.08
+    },
+    {
+      "Name": "Talk",
+      "X": 157.52,
+      "Y": 26.91,
+      "Z": 165.98
+    },
+    {
+      "Name": "help-the-ppl-ports-are-for-that-option",
+      "X": 157.52,
+      "Y": 26.91,
+      "Z": 165.98
+    },
+    {
+      "Name": "leave",
+      "X": 157.52,
+      "Y": 26.91,
+      "Z": 165.98
+    },
+    {
+      "Name": "instance-start-the-greater-good",
+      "X": 79.96,
+      "Y": 217.01,
+      "Z": 97.98
+    },
+    {
+      "Name": "defeat",
+      "X": 70.13,
+      "Y": 393.61,
+      "Z": 141.26
+    },
+    {
+      "Name": "defeat",
+      "X": 72.62,
+      "Y": 426.97,
+      "Z": 127.91
+    },
+    {
+      "Name": "defeat",
+      "X": 59.2,
+      "Y": 475.0,
+      "Z": 124.54
+    },
+    {
+      "Name": "instance-done",
+      "X": 75.62,
+      "Y": 392.46,
+      "Z": 141.46
+    },
+    {
+      "Name": "instance-start-Breaking-the-Blade",
+      "X": 246.29,
+      "Y": 178.07,
+      "Z": 98.32
+    },
+    {
+      "Name": "talk",
+      "X": 337.25,
+      "Y": 315.85,
+      "Z": 84.98
+    },
+    {
+      "Name": "port",
+      "X": 328.18,
+      "Y": 313.57,
+      "Z": 84.98
+    },
+    {
+      "Name": "after-fighting-instance-done-and-lvl10-chapters-done-next-select-chapter-20-file",
+      "X": 330.07,
+      "Y": 313.28,
+      "Z": 84.98
+    },
+    {
+      "Name": "and-now-fuck-off",
+      "X": 266.73,
+      "Y": 305.53,
+      "Z": 198.13
+    }
+  ]
+}

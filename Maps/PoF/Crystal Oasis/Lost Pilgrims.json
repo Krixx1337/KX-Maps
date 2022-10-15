@@ -1,0 +1,41 @@
+{
+  "Name": "Lost Pilgrims",
+  "Coordinates": [
+    {
+      "Name": "Take-Crystal",
+      "X": 689.374,
+      "Y": 508.775,
+      "Z": 283.567
+    },
+    {
+      "Name": "Port-here-to-get-nahtem",
+      "X": 744.094,
+      "Y": 461.035,
+      "Z": 352.689
+    },
+    {
+      "Name": "Take-Crystal",
+      "X": 805.963,
+      "Y": 16.482,
+      "Z": 223.66
+    },
+    {
+      "Name": "port-here-to-get-Hehmnut",
+      "X": 649.528,
+      "Y": 204.807,
+      "Z": 280.652
+    },
+    {
+      "Name": "take-crystal",
+      "X": 983.453,
+      "Y": 313.893,
+      "Z": 102.484
+    },
+    {
+      "Name": "port-here-to-complete",
+      "X": 1131.07,
+      "Y": 348.24,
+      "Z": 69.3251
+    }
+  ]
+}

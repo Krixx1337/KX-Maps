@@ -1,0 +1,59 @@
+{
+  "Name": "Skipping",
+  "Coordinates": [
+    {
+      "Name": "Desminaspawn",
+      "X": -331.182,
+      "Y": 24.4663,
+      "Z": 25.5444
+    },
+    {
+      "Name": "River-firstenforcer",
+      "X": -189.123,
+      "Y": 26.9662,
+      "Z": 45.3794
+    },
+    {
+      "Name": "River-secondenforcer",
+      "X": -100.796,
+      "Y": 39.909,
+      "Z": 64.1044
+    },
+    {
+      "Name": "River-ofSoulsEND",
+      "X": 253.038,
+      "Y": 51.7755,
+      "Z": 180.4
+    },
+    {
+      "Name": "Statues-Mouth",
+      "X": 116.106,
+      "Y": -203.353,
+      "Z": 122.978
+    },
+    {
+      "Name": "Statues-King",
+      "X": 181.414,
+      "Y": 234.391,
+      "Z": 137.982
+    },
+    {
+      "Name": "Eye-leftgroup-start",
+      "X": 501.515,
+      "Y": 87.3669,
+      "Z": 97.9352
+    },
+    {
+      "Name": "Eye-rightgroup-start",
+      "X": 493.422,
+      "Y": -27.6443,
+      "Z": 99.3744
+    },
+    {
+      "Name": "Dhuum",
+      "X": 491.584,
+      "Y": 63.976,
+      "Z": 194.221
+    }
+  ]
+}

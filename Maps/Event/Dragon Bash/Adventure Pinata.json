@@ -1,0 +1,179 @@
+{
+  "Name": "Adventure Pinata",
+  "Coordinates": [
+    {
+      "Name": "Pinata_Adventure1",
+      "X": 244.035,
+      "Y": -10.7107,
+      "Z": 285.021
+    },
+    {
+      "Name": "Pinata_Adventure2",
+      "X": 172.516,
+      "Y": -139.675,
+      "Z": 411.5
+    },
+    {
+      "Name": "Pinata_Adventure3",
+      "X": 100.874,
+      "Y": -124.325,
+      "Z": 412.664
+    },
+    {
+      "Name": "Pinata_Adventure4",
+      "X": 70.0588,
+      "Y": -143.232,
+      "Z": 412.719
+    },
+    {
+      "Name": "Pinata_Adventure5",
+      "X": 48.6364,
+      "Y": -126.337,
+      "Z": 412.706
+    },
+    {
+      "Name": "Pinata_Adventure6",
+      "X": 227.872,
+      "Y": -189.184,
+      "Z": 412.663
+    },
+    {
+      "Name": "Pinata_Adventure7",
+      "X": 218.072,
+      "Y": -239.26,
+      "Z": 412.746
+    },
+    {
+      "Name": "Pinata_Adventure8",
+      "X": 252.624,
+      "Y": -224.373,
+      "Z": 412.684
+    },
+    {
+      "Name": "Pinata_Adventure9",
+      "X": -94.1858,
+      "Y": 26.9153,
+      "Z": 378.397
+    },
+    {
+      "Name": "Pinata_Adventure10",
+      "X": 382.715,
+      "Y": -320.222,
+      "Z": 399.366
+    },
+    {
+      "Name": "Pinata_Adventure11",
+      "X": 462.29,
+      "Y": -207.832,
+      "Z": 366.357
+    },
+    {
+      "Name": "Pinata_Adventure12",
+      "X": 362.089,
+      "Y": -42.2879,
+      "Z": 280.29
+    },
+    {
+      "Name": "Pinata_Adventure13",
+      "X": 478.905,
+      "Y": -88.484,
+      "Z": 309.394
+    },
+    {
+      "Name": "Pinata_Adventure14",
+      "X": 510.276,
+      "Y": -119.443,
+      "Z": 309.37
+    },
+    {
+      "Name": "Pinata_Adventure15",
+      "X": 532.986,
+      "Y": -99.6764,
+      "Z": 312.613
+    },
+    {
+      "Name": "Pinata_Adventure16",
+      "X": 452.224,
+      "Y": 81.8764,
+      "Z": 277.878
+    },
+    {
+      "Name": "Pinata_Adventure17",
+      "X": 547.474,
+      "Y": 201.284,
+      "Z": 268.432
+    },
+    {
+      "Name": "Pinata_Adventure18",
+      "X": 563.08,
+      "Y": 235.724,
+      "Z": 268.791
+    },
+    {
+      "Name": "Pinata_Adventure19",
+      "X": 592.76,
+      "Y": 225.459,
+      "Z": 268.791
+    },
+    {
+      "Name": "Pinata_Adventure20",
+      "X": 390.621,
+      "Y": 208.914,
+      "Z": 288.019
+    },
+    {
+      "Name": "Pinata_Adventure21",
+      "X": 288.637,
+      "Y": 307.634,
+      "Z": 325.923
+    },
+    {
+      "Name": "Pinata_Adventure22",
+      "X": 316.993,
+      "Y": 340.335,
+      "Z": 327.166
+    },
+    {
+      "Name": "Pinata_Adventure23",
+      "X": 288.634,
+      "Y": 341.662,
+      "Z": 327.167
+    },
+    {
+      "Name": "Pinata_Adventure24",
+      "X": 214.882,
+      "Y": 218.666,
+      "Z": 290.437
+    },
+    {
+      "Name": "Pinata_Adventure25",
+      "X": 149.525,
+      "Y": 51.3926,
+      "Z": 287.177
+    },
+    {
+      "Name": "Pinata_Adventure26",
+      "X": 66.142,
+      "Y": 178.658,
+      "Z": 307.121
+    },
+    {
+      "Name": "Pinata_Adventure27",
+      "X": 39.7439,
+      "Y": 157.848,
+      "Z": 307.037
+    },
+    {
+      "Name": "Pinata_Adventure28",
+      "X": 35.4662,
+      "Y": 187.539,
+      "Z": 307.037
+    },
+    {
+      "Name": "Pinata_Adventure29",
+      "X": 51.8545,
+      "Y": 75.5802,
+      "Z": 329.669
+    }
+  ]
+}

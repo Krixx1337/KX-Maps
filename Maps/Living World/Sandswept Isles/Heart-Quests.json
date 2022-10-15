@@ -1,0 +1,311 @@
+{
+  "Name": "Heart-Quests",
+  "Coordinates": [
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -191.052,
+      "Y": 1186.09,
+      "Z": 68.9965
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -229.052,
+      "Y": 1136.12,
+      "Z": 69.046
+    },
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -283.764,
+      "Y": 1189.99,
+      "Z": 104.176
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -188.425,
+      "Y": 1134.67,
+      "Z": 50.3159
+    },
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -306.811,
+      "Y": 1236.67,
+      "Z": 111.808
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -160.756,
+      "Y": 1085.17,
+      "Z": 62.5979
+    },
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -360.891,
+      "Y": 1265.63,
+      "Z": 119.996
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -144.813,
+      "Y": 1250.06,
+      "Z": 93.1347
+    },
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -191.052,
+      "Y": 1186.09,
+      "Z": 68.9965
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -229.052,
+      "Y": 1136.12,
+      "Z": 69.046
+    },
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -283.764,
+      "Y": 1189.99,
+      "Z": 104.176
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -188.425,
+      "Y": 1134.67,
+      "Z": 50.3159
+    },
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -306.811,
+      "Y": 1236.67,
+      "Z": 111.808
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -160.756,
+      "Y": 1085.17,
+      "Z": 62.5979
+    },
+    {
+      "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
+      "X": -360.891,
+      "Y": 1265.63,
+      "Z": 119.996
+    },
+    {
+      "Name": "The_Hunting_Grounds-Suspicious_Bush",
+      "X": -144.813,
+      "Y": 1250.06,
+      "Z": 93.1347
+    },
+    {
+      "Name": "The_Hunting_Grounds-Heart_Vendor",
+      "X": -126.699,
+      "Y": 1125.62,
+      "Z": 99.3883
+    },
+    {
+      "Name": "Altholma_Farms-Beetle_Burrow",
+      "X": 48.2057,
+      "Y": 757.646,
+      "Z": 37.1741
+    },
+    {
+      "Name": "Altholma_Farms-Beetle_Burrow",
+      "X": 15.7961,
+      "Y": 768.922,
+      "Z": 37.3618
+    },
+    {
+      "Name": "Altholma_Farms-Beetle_Burrow",
+      "X": 26.2818,
+      "Y": 731.45,
+      "Z": 39.6536
+    },
+    {
+      "Name": "Altholma_Farms-Beetle_Burrow",
+      "X": 0.493699,
+      "Y": 737.889,
+      "Z": 40.0556
+    },
+    {
+      "Name": "Altholma_Farms-Beetle_Burrow",
+      "X": -15.108,
+      "Y": 711.239,
+      "Z": 41.6183
+    },
+    {
+      "Name": "Altholma_Farms-Beetle_Burrow",
+      "X": 19.5583,
+      "Y": 703.311,
+      "Z": 42.6302
+    },
+    {
+      "Name": "Altholma_Farms-Beetle_Burrow",
+      "X": 90.7816,
+      "Y": 730.342,
+      "Z": 38.7681
+    },
+    {
+      "Name": "Altholma_Farms-Bird_Nest",
+      "X": 147.008,
+      "Y": 766.662,
+      "Z": 47.7843
+    },
+    {
+      "Name": "Altholma_Farms-Egg_Basket",
+      "X": 89.6038,
+      "Y": 832.624,
+      "Z": 40.942
+    },
+    {
+      "Name": "Altholma_Farms-Bird_Nest",
+      "X": 125.95,
+      "Y": 850.224,
+      "Z": 59.1563
+    },
+    {
+      "Name": "Altholma_Farms-Egg_Basket",
+      "X": 89.6038,
+      "Y": 832.624,
+      "Z": 40.942
+    },
+    {
+      "Name": "Altholma_Farms-Bird_Nest",
+      "X": 117.636,
+      "Y": 888.587,
+      "Z": 64.2404
+    },
+    {
+      "Name": "Altholma_Farms-Egg_Basket",
+      "X": 89.6038,
+      "Y": 832.624,
+      "Z": 40.942
+    },
+    {
+      "Name": "Altholma_Farms-Bird_Nest",
+      "X": 120.29,
+      "Y": 876.236,
+      "Z": 60.4048
+    },
+    {
+      "Name": "Altholma_Farms-Egg_Basket",
+      "X": 89.6038,
+      "Y": 832.624,
+      "Z": 40.942
+    },
+    {
+      "Name": "Altholma_Farms-Heart_Vendor",
+      "X": 16.3532,
+      "Y": 884.979,
+      "Z": 40.9108
+    },
+    {
+      "Name": "Eastern_Complex-Pickup_Golem_Core",
+      "X": 644.315,
+      "Y": 39.6294,
+      "Z": 38.9492
+    },
+    {
+      "Name": "Eastern_Complex-Insert_Golem_Core",
+      "X": 683.136,
+      "Y": -15.4999,
+      "Z": 40.6682
+    },
+    {
+      "Name": "Eastern_Complex-Pickup_Golem_Core",
+      "X": 564.93,
+      "Y": 36.0359,
+      "Z": 19.7546
+    },
+    {
+      "Name": "Eastern_Complex-Insert_Golem_Core",
+      "X": 608.925,
+      "Y": 117.042,
+      "Z": 23.3521
+    },
+    {
+      "Name": "Eastern_Complex-Pickup_Golem_Core",
+      "X": 447.117,
+      "Y": 5.95839,
+      "Z": 16.113
+    },
+    {
+      "Name": "Eastern_Complex-Insert_Golem_Core_&_Kill_Inquest",
+      "X": 486.263,
+      "Y": 18.2486,
+      "Z": 15.7966
+    },
+    {
+      "Name": "Eastern_Complex-Pickup_Golem_Core",
+      "X": 447.117,
+      "Y": 5.95839,
+      "Z": 16.113
+    },
+    {
+      "Name": "Eastern_Complex-Insert_Golem_Core_&_Kill_Inquest",
+      "X": 486.263,
+      "Y": 18.2486,
+      "Z": 15.7966
+    },
+    {
+      "Name": "Eastern_Complex-Pickup_Golem_Core",
+      "X": 644.315,
+      "Y": 39.6294,
+      "Z": 38.9492
+    },
+    {
+      "Name": "Eastern_Complex-Insert_Golem_Core_&_Kill_Inquest",
+      "X": 616.696,
+      "Y": 88.3628,
+      "Z": 32.3036
+    },
+    {
+      "Name": "Eastern_Complex-Pickup_Golem_Core",
+      "X": 564.93,
+      "Y": 36.0359,
+      "Z": 19.7546
+    },
+    {
+      "Name": "Eastern_Complex-Insert_Golem_Core_&_Kill_Inquest",
+      "X": 651.519,
+      "Y": -81.6554,
+      "Z": 43.0915
+    },
+    {
+      "Name": "Eastern_Complex-Pickup_Golem_Core",
+      "X": 447.117,
+      "Y": 5.95839,
+      "Z": 16.113
+    },
+    {
+      "Name": "Eastern_Complex-Insert_Golem_Core_&_Kill_Inquest",
+      "X": 604.277,
+      "Y": -90.7604,
+      "Z": 47.8346
+    },
+    {
+      "Name": "Eastern_Complex-Heart_Vendor",
+      "X": 666.469,
+      "Y": 116.237,
+      "Z": 45.8137
+    },
+    {
+      "Name": "Magnetics_Lab-Reset_Console",
+      "X": 833.79,
+      "Y": -859.856,
+      "Z": 80.1255
+    },
+    {
+      "Name": "Magnetics_Lab-Magneton_Hammer",
+      "X": 824.993,
+      "Y": -825.165,
+      "Z": 80.2624
+    },
+    {
+      "Name": "Magnetics_Lab-Heart_Vendor",
+      "X": 749.984,
+      "Y": -849.662,
+      "Z": 60.8459
+    }
+  ]
+}

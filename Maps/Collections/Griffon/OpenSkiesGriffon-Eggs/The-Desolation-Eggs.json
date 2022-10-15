@@ -1,0 +1,29 @@
+{
+  "Name": "The-Desolation-Eggs",
+  "Coordinates": [
+    {
+      "Name": "Warmed-Canyon-Griffon-Egg",
+      "X": 279.81,
+      "Y": -95.7,
+      "Z": 516.83
+    },
+    {
+      "Name": "Dark-Canyon-Griffon-Egg",
+      "X": 405.33,
+      "Y": 222.25,
+      "Z": 481.24
+    },
+    {
+      "Name": "Pale-Canyon-Griffon-Egg",
+      "X": 7.27,
+      "Y": 569.97,
+      "Z": 428.2
+    },
+    {
+      "Name": "Mottled-Canyon-Griffon-Egg",
+      "X": -158.77,
+      "Y": 179.47,
+      "Z": 400.13
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Name": "Obsidian Sanctum",
+  "Coordinates": [
+    {
+      "Name": "Obsidian_Sanctum_Waypoint",
+      "X": 766.48,
+      "Y": 619.359,
+      "Z": 13.3375
+    },
+    {
+      "Name": "Mystic_Fountain",
+      "X": 1083.1,
+      "Y": 316.945,
+      "Z": 78.6651
+    },
+    {
+      "Name": "Orichalcum1",
+      "X": 1020.8,
+      "Y": 380.388,
+      "Z": 56.1255
+    },
+    {
+      "Name": "Orichalcum2",
+      "X": 957.664,
+      "Y": 717.538,
+      "Z": 63.3366
+    },
+    {
+      "Name": "Obsidian_Sanctum_Chest",
+      "X": 1101.62,
+      "Y": 427.22,
+      "Z": 125.043
+    }
+  ]
+}

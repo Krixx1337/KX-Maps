@@ -1,7 +1,0 @@
-1	'starting_first_instance' -489.94 0.57 -785.58
-2	'talk' -509.13 0.22 -796.46
-3	'follow_them' -525.05 3.55 -789.27
-4	'talk_to_caithe' -583.21 88.58 -737.71
-5	'talk_with_Joon' -568.6 17.99 -732.19
-6	'instance_done' -568.6 17.99 -732.19
-7	'Chapterdone' -489.93 0.57 -785.59

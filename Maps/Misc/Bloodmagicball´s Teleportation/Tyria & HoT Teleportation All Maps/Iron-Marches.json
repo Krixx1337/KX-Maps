@@ -1,0 +1,23 @@
+{
+  "Name": "Iron-Marches",
+  "Coordinates": [
+    {
+      "Name": "IronMarches-to-Fireheart",
+      "X": -699.25,
+      "Y": 575.51,
+      "Z": 34.74
+    },
+    {
+      "Name": "IronMarches-to-PlainsofAshford",
+      "X": 27.68,
+      "Y": -1480.3,
+      "Z": 35.22
+    },
+    {
+      "Name": "IronMarches-to-Blazeridge",
+      "X": 709.59,
+      "Y": -700.43,
+      "Z": 15.04
+    }
+  ]
+}

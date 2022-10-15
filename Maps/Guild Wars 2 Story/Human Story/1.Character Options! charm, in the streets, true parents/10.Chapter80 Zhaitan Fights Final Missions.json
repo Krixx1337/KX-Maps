@@ -1,0 +1,305 @@
+{
+  "Name": "10.Chapter80 Zhaitan Fights Final Missions",
+  "Coordinates": [
+    {
+      "Name": "CursedShore-to-MalchorsLeap",
+      "X": 448.26,
+      "Y": 1439.98,
+      "Z": 119.04
+    },
+    {
+      "Name": "MalchorsLeap-to-CursedShore",
+      "X": -369.6,
+      "Y": -706.18,
+      "Z": 75.6
+    },
+    {
+      "Name": "instance-start-Victory-or-Death",
+      "X": 672.0,
+      "Y": -310.62,
+      "Z": 109.42
+    },
+    {
+      "Name": "talk-caithe-kill-mobs-when-she-runs-away",
+      "X": -947.32,
+      "Y": 785.98,
+      "Z": 6.01
+    },
+    {
+      "Name": "now-open-the-door-below-next-ports-are-for-door",
+      "X": -969.22,
+      "Y": 920.43,
+      "Z": 32.64
+    },
+    {
+      "Name": "plate1",
+      "X": -976.9,
+      "Y": 911.86,
+      "Z": 6.42
+    },
+    {
+      "Name": "plate2",
+      "X": -974.17,
+      "Y": 935.01,
+      "Z": 5.2
+    },
+    {
+      "Name": "port",
+      "X": -1112.69,
+      "Y": 945.96,
+      "Z": 3.07
+    },
+    {
+      "Name": "defeat",
+      "X": -1146.9,
+      "Y": 974.85,
+      "Z": 3.02
+    },
+    {
+      "Name": "power-core1",
+      "X": -1159.51,
+      "Y": 972.79,
+      "Z": 5.89
+    },
+    {
+      "Name": "destroy-obelisk",
+      "X": -999.4,
+      "Y": 680.27,
+      "Z": 1.77
+    },
+    {
+      "Name": "obelisk1",
+      "X": -1041.21,
+      "Y": 668.66,
+      "Z": 13.62
+    },
+    {
+      "Name": "obelisk2",
+      "X": -1042.93,
+      "Y": 683.27,
+      "Z": 13.94
+    },
+    {
+      "Name": "Defeat-Creeper",
+      "X": -1135.52,
+      "Y": 704.25,
+      "Z": 4.25
+    },
+    {
+      "Name": "Creeper",
+      "X": -1183.43,
+      "Y": 693.07,
+      "Z": 2.67
+    },
+    {
+      "Name": "Power-Core2",
+      "X": -1183.11,
+      "Y": 700.75,
+      "Z": 6.57
+    },
+    {
+      "Name": "port",
+      "X": -790.89,
+      "Y": 824.04,
+      "Z": -0.37
+    },
+    {
+      "Name": "port",
+      "X": -802.26,
+      "Y": 925.41,
+      "Z": -0.15
+    },
+    {
+      "Name": "Defeat",
+      "X": -843.97,
+      "Y": 909.79,
+      "Z": -0.26
+    },
+    {
+      "Name": "Power-Core3",
+      "X": -866.08,
+      "Y": 920.57,
+      "Z": 0.57
+    },
+    {
+      "Name": "Return",
+      "X": -953.09,
+      "Y": 790.65,
+      "Z": 6.06
+    },
+    {
+      "Name": "on-aiship-not-many-ports-cause-its-mobile-so-next-ports-will-be-small-until-reached-the-isle",
+      "X": -919.51,
+      "Y": 457.67,
+      "Z": 201.5
+    },
+    {
+      "Name": "Use-Helicopter",
+      "X": -821.84,
+      "Y": -328.74,
+      "Z": 71.16
+    },
+    {
+      "Name": "On-Island-Destroy-3-Towers",
+      "X": -279.07,
+      "Y": -738.5,
+      "Z": 184.87
+    },
+    {
+      "Name": "1",
+      "X": -372.88,
+      "Y": -708.54,
+      "Z": 180.19
+    },
+    {
+      "Name": "2",
+      "X": -311.29,
+      "Y": -833.92,
+      "Z": 181.24
+    },
+    {
+      "Name": "3",
+      "X": -180.44,
+      "Y": -702.88,
+      "Z": 182.07
+    },
+    {
+      "Name": "Defeat-Mouth-after-that-back-on-airship-no-ports-until-it-is-stationary",
+      "X": -253.47,
+      "Y": -748.15,
+      "Z": 184.21
+    },
+    {
+      "Name": "once-you-located-Zhaitan-after-cutscene-ship-stands-still-use-this-port",
+      "X": -513.66,
+      "Y": 158.41,
+      "Z": 747.43
+    },
+    {
+      "Name": "Defend",
+      "X": -510.98,
+      "Y": 110.47,
+      "Z": 747.49
+    },
+    {
+      "Name": "ship-found-zhaitan-again-next-ports",
+      "X": 253.08,
+      "Y": 431.91,
+      "Z": 329.55
+    },
+    {
+      "Name": "use-cannons-to-finish-him",
+      "X": 290.33,
+      "Y": 450.8,
+      "Z": 329.64
+    },
+    {
+      "Name": "done",
+      "X": 277.65,
+      "Y": 444.49,
+      "Z": 329.65
+    },
+    {
+      "Name": "CursedShore-to-MalchorsLeap",
+      "X": 448.26,
+      "Y": 1439.98,
+      "Z": 119.04
+    },
+    {
+      "Name": "MalchorsLeap-to-StraitsofDevastation",
+      "X": 1452.36,
+      "Y": -305.08,
+      "Z": 66.25
+    },
+    {
+      "Name": "Continue-Instance-Victory-or-Death",
+      "X": 1091.15,
+      "Y": 176.74,
+      "Z": 26.8
+    },
+    {
+      "Name": "port",
+      "X": 1076.49,
+      "Y": 140.5,
+      "Z": 28.16
+    },
+    {
+      "Name": "port",
+      "X": 950.08,
+      "Y": 63.34,
+      "Z": 33.07
+    },
+    {
+      "Name": "port/cutscene",
+      "X": 900.88,
+      "Y": 106.44,
+      "Z": 24.15
+    },
+    {
+      "Name": "port",
+      "X": 703.79,
+      "Y": 125.3,
+      "Z": 26.15
+    },
+    {
+      "Name": "Talk",
+      "X": 624.41,
+      "Y": 88.96,
+      "Z": 44.21
+    },
+    {
+      "Name": "Talk",
+      "X": 624.41,
+      "Y": 88.96,
+      "Z": 44.21
+    },
+    {
+      "Name": "port",
+      "X": 669.76,
+      "Y": 74.86,
+      "Z": 34.94
+    },
+    {
+      "Name": "port",
+      "X": 675.59,
+      "Y": 115.69,
+      "Z": 25.67
+    },
+    {
+      "Name": "port",
+      "X": 721.39,
+      "Y": 125.29,
+      "Z": 25.71
+    },
+    {
+      "Name": "port",
+      "X": 758.02,
+      "Y": 125.97,
+      "Z": 32.81
+    },
+    {
+      "Name": "cutscene",
+      "X": 766.03,
+      "Y": 125.55,
+      "Z": 34.12
+    },
+    {
+      "Name": "END",
+      "X": 764.83,
+      "Y": 125.69,
+      "Z": 34.11
+    },
+    {
+      "Name": "thank-you-for-using-Bloodmagicball-Ports",
+      "X": 813.7,
+      "Y": 112.83,
+      "Z": 49.7
+    },
+    {
+      "Name": "Have-Fun-exploring-Tyria-and-with-the-next-Story",
+      "X": 838.76,
+      "Y": 167.59,
+      "Z": 125.65
+    }
+  ]
+}

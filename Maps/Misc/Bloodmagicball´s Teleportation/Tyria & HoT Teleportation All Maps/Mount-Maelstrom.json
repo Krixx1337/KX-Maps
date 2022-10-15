@@ -1,0 +1,23 @@
+{
+  "Name": "Mount-Maelstrom",
+  "Coordinates": [
+    {
+      "Name": "MountMaelstrom-to-TimberlineFalls",
+      "X": -96.52,
+      "Y": 919.73,
+      "Z": 31.73
+    },
+    {
+      "Name": "MountMaelstrom-to-SparkflyFen",
+      "X": -1373.05,
+      "Y": 683.76,
+      "Z": 46.56
+    },
+    {
+      "Name": "MountMaelstrom-to-StraitsofDevastation",
+      "X": -1381.41,
+      "Y": -606.85,
+      "Z": 20.31
+    }
+  ]
+}

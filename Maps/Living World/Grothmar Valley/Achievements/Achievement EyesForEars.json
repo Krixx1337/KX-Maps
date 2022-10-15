@@ -1,0 +1,101 @@
+{
+  "Name": "Achievement EyesForEars",
+  "Coordinates": [
+    {
+      "Name": "StartingNPC_InsideReconCove",
+      "X": 727.401,
+      "Y": -159.52,
+      "Z": 1.07712
+    },
+    {
+      "Name": "eyesorears_spot01",
+      "X": -476.706,
+      "Y": -329.638,
+      "Z": 130.899
+    },
+    {
+      "Name": "eyesorears_spot02",
+      "X": -38.603,
+      "Y": -143.165,
+      "Z": 36.199
+    },
+    {
+      "Name": "eyesorears_spot03",
+      "X": -347.075,
+      "Y": 148.681,
+      "Z": 68.07
+    },
+    {
+      "Name": "eyesorears_spot04",
+      "X": 85.94,
+      "Y": 76.218,
+      "Z": 56.159
+    },
+    {
+      "Name": "eyesorears_spot05",
+      "X": 689.148,
+      "Y": -475.861,
+      "Z": 102.729
+    },
+    {
+      "Name": "eyesorears_spot06",
+      "X": -19.469,
+      "Y": 282.648,
+      "Z": 42.832
+    },
+    {
+      "Name": "eyesorears_spot07",
+      "X": -477.9,
+      "Y": -152.194,
+      "Z": 80.034
+    },
+    {
+      "Name": "eyesorears_spot08",
+      "X": -294.134,
+      "Y": -201.453,
+      "Z": 92.383
+    },
+    {
+      "Name": "eyesorears_spot09",
+      "X": -522.733,
+      "Y": -44.459,
+      "Z": 57.486
+    },
+    {
+      "Name": "eyesorears_spot10",
+      "X": -411.95,
+      "Y": -216.085,
+      "Z": 56.225
+    },
+    {
+      "Name": "eyesforears_spot11",
+      "X": -200.733,
+      "Y": -700.711,
+      "Z": 4.78444
+    },
+    {
+      "Name": "eyesorears_spot12",
+      "X": -449.395,
+      "Y": -586.293,
+      "Z": 67.7
+    },
+    {
+      "Name": "eyesorears_spot13",
+      "X": -614.15,
+      "Y": -184.481,
+      "Z": 68.536
+    },
+    {
+      "Name": "eyesorears_spot14",
+      "X": 1035.541,
+      "Y": -158.982,
+      "Z": 82.637
+    },
+    {
+      "Name": "eyesorears_spot15",
+      "X": 274.846,
+      "Y": 37.641,
+      "Z": 42.986
+    }
+  ]
+}

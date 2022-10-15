@@ -1,3 +1,0 @@
-1	'JunglePlant1Emberbay' -725.383 61.8157 -932.958
-2	'Jungleplant2Emberbay' -819.929 56.2584 -884.055
-3	'Jungleplant3EmberBay' -668.199 14.5418 -931.76

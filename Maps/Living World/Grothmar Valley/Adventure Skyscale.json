@@ -1,0 +1,107 @@
+{
+  "Name": "Adventure Skyscale",
+  "Coordinates": [
+    {
+      "Name": "skyscaletrial_startsign",
+      "X": 1014.47,
+      "Y": -234.021,
+      "Z": 69.013
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1006.975,
+      "Y": -265.635,
+      "Z": 84.67
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1010.443,
+      "Y": -276.362,
+      "Z": 50.545
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 994.405,
+      "Y": -342.588,
+      "Z": 31.913
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1070.066,
+      "Y": -350.712,
+      "Z": 9.719
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 999.986,
+      "Y": -414.293,
+      "Z": 24.989
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 943.308,
+      "Y": -214.728,
+      "Z": 113.627
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 927.993,
+      "Y": -324.365,
+      "Z": 99.725
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 861.633,
+      "Y": -357.101,
+      "Z": 42.002
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1121.339,
+      "Y": -312.918,
+      "Z": 81.419
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1130.166,
+      "Y": -354.023,
+      "Z": 96.3
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1039.204,
+      "Y": -360.026,
+      "Z": 83.909
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1026.797,
+      "Y": -417.562,
+      "Z": 97.18
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 975.352,
+      "Y": -457.431,
+      "Z": 114.353
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 974.568,
+      "Y": -394.924,
+      "Z": 105.326
+    },
+    {
+      "Name": "skyscaletrial_orb",
+      "X": 1005.432,
+      "Y": -418.348,
+      "Z": 64.262
+    },
+    {
+      "Name": "skyscaletrial_finish",
+      "X": 1069.692,
+      "Y": -350.695,
+      "Z": 11.009
+    }
+  ]
+}

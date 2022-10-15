@@ -1,0 +1,53 @@
+{
+  "Name": "Twilight Oasis",
+  "Coordinates": [
+    {
+      "Name": "start-point",
+      "X": 53.16,
+      "Y": 287.34,
+      "Z": 34.12
+    },
+    {
+      "Name": "Singularity1",
+      "X": 40.47,
+      "Y": 264.93,
+      "Z": 30.61
+    },
+    {
+      "Name": "kill",
+      "X": 22.76,
+      "Y": 37.86,
+      "Z": 13.04
+    },
+    {
+      "Name": "First-Time-Amala",
+      "X": 147.9,
+      "Y": 62.02,
+      "Z": 2.8
+    },
+    {
+      "Name": "Elite-Sandbinder1",
+      "X": 179.87,
+      "Y": 104.18,
+      "Z": 56.41
+    },
+    {
+      "Name": "Elite-Sandbinder2",
+      "X": 46.64,
+      "Y": 69.87,
+      "Z": 51.63
+    },
+    {
+      "Name": "Singularity-before-boss",
+      "X": 205.89,
+      "Y": 16.58,
+      "Z": 4.35
+    },
+    {
+      "Name": "ENDBOSS",
+      "X": 230.95,
+      "Y": -36.42,
+      "Z": 15.53
+    }
+  ]
+}
