@@ -1,4 +1,11 @@
 {
   "Name": "Shards of a Thorn",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "",
+      "X": -587.533,
+      "Y": -316.186,
+      "Z": 133.809
+    }
+  ]
 }

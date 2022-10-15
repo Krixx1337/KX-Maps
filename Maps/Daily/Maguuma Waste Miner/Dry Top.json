@@ -1,4 +1,11 @@
 {
   "Name": "Dry Top",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Mithril-Town_of_Prosperity",
+      "X": 310.542,
+      "Y": -200.373,
+      "Z": 3.05663
+    }
+  ]
 }

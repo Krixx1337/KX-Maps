@@ -1,4 +1,11 @@
 {
   "Name": "Fields of Ruin",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Iron_Dragonrot_Domains",
+      "X": -935.427,
+      "Y": 323.773,
+      "Z": 53.6723
+    }
+  ]
 }
