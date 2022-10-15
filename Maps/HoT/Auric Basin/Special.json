@@ -1,4 +1,11 @@
 {
   "Name": "Special",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "JP-END-CHEST",
+      "X": 252.413,
+      "Y": -283.439,
+      "Z": 262.468
+    }
+  ]
 }
