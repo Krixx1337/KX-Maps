@@ -1,4 +1,11 @@
 {
   "Name": "Dreams of a Thorn",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "",
+      "X": -1306.66,
+      "Y": -764.574,
+      "Z": 83.769
+    }
+  ]
 }

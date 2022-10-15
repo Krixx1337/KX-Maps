@@ -1,4 +1,11 @@
 {
   "Name": "Tiger Den",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "",
+      "X": 357.759,
+      "Y": 389.049,
+      "Z": 577.712
+    }
+  ]
 }

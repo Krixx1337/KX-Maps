@@ -1,4 +1,11 @@
 {
   "Name": "Sum Viewer",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "",
+      "X": 1077.77777778,
+      "Y": 374.074074074,
+      "Z": 96.2962962963
+    }
+  ]
 }

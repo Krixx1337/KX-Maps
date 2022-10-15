@@ -12960,6 +12960,12 @@
       "X": 37.5966,
       "Y": 934.636,
       "Z": 42.5018
+    },
+    {
+      "Name": "Transition-PortalBladeridgeToIronMarches",
+      "X": -670.0,
+      "Y": 1194.2,
+      "Z": 24.0
     }
   ]
 }

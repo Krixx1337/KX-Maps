@@ -1,4 +1,11 @@
 {
   "Name": "dragons stand wallowing whiz",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Go",
+      "X": 999.417,
+      "Y": 256.31,
+      "Z": 15.376
+    }
+  ]
 }

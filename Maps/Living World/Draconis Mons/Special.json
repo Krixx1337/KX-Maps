@@ -1,4 +1,11 @@
 {
   "Name": "Special",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "DraconisMonsJP",
+      "X": -541.124,
+      "Y": -665.35,
+      "Z": 895.943
+    }
+  ]
 }

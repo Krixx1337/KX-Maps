@@ -1,4 +1,11 @@
 {
   "Name": "Lions-Arch-Aerodrome-Raid-Area",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Aerodrome-to-LionsArch",
+      "X": 161.94,
+      "Y": -360.81,
+      "Z": 42.07
+    }
+  ]
 }

@@ -1,4 +1,11 @@
 {
   "Name": "Harathi-Hinterlands",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Harathi-to-Gendarran",
+      "X": -478.21,
+      "Y": -948.24,
+      "Z": 120.03
+    }
+  ]
 }
