@@ -1,0 +1,23 @@
+{
+  "Name": "Straits-of-Devastation",
+  "Coordinates": [
+    {
+      "Name": "StraitsofDevastation-to-MountMaelstrom",
+      "X": 1166.31,
+      "Y": 203.5,
+      "Z": 34.09
+    },
+    {
+      "Name": "StraitsofDevastation-to-SparkflyFen",
+      "X": 638.63,
+      "Y": 945.84,
+      "Z": 94.48
+    },
+    {
+      "Name": "StraitsofDevastation-to-MalchorsLeap",
+      "X": -1164.63,
+      "Y": -549.52,
+      "Z": 65.74
+    }
+  ]
+}

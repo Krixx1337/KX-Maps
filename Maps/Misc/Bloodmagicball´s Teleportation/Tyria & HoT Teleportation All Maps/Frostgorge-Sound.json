@@ -1,0 +1,23 @@
+{
+  "Name": "Frostgorge-Sound",
+  "Coordinates": [
+    {
+      "Name": "Frostgorge-to-Wayfarer",
+      "X": 594.53,
+      "Y": -1078.59,
+      "Z": 63.76
+    },
+    {
+      "Name": "Frostgorge-to-Bitterfrost",
+      "X": -701.44,
+      "Y": 1112.58,
+      "Z": 11.56
+    },
+    {
+      "Name": "Frostgorge-to-Fireheart",
+      "X": 1073.86,
+      "Y": 9.64,
+      "Z": 15.24
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "DivinitysReach",
+  "Coordinates": [
+    {
+      "Name": "Divinity-to-Queensdale",
+      "X": 79.3,
+      "Y": -646.2,
+      "Z": 128.36
+    },
+    {
+      "Name": "Divinity-to-FieldsofRuin",
+      "X": 600.08,
+      "Y": -164.17,
+      "Z": 84.02
+    },
+    {
+      "Name": "Divinity-to-LionsArch",
+      "X": 154.58,
+      "Y": -191.53,
+      "Z": 178.54
+    }
+  ]
+}

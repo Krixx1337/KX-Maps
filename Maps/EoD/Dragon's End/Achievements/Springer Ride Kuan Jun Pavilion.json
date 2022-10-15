@@ -1,0 +1,17 @@
+{
+  "Name": "Springer Ride Kuan Jun Pavilion",
+  "Coordinates": [
+    {
+      "Name": "tele_here_and_mount_springer",
+      "X": 139.75,
+      "Y": -135.95,
+      "Z": 199.12
+    },
+    {
+      "Name": "end_here",
+      "X": 300.27,
+      "Y": -541.41,
+      "Z": 379.64
+    }
+  ]
+}

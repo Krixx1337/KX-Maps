@@ -1,0 +1,71 @@
+{
+  "Name": "Spirit Of The Tiger",
+  "Coordinates": [
+    {
+      "Name": "TangledDepthsTigerDen1",
+      "X": 995.254,
+      "Y": -241.568,
+      "Z": 348.771
+    },
+    {
+      "Name": "TangledDepthsTigerDen2",
+      "X": 294.443,
+      "Y": 80.008,
+      "Z": 163.22
+    },
+    {
+      "Name": "CaledonForestTigerDen",
+      "X": 400.372,
+      "Y": -648.262,
+      "Z": 59.8589
+    },
+    {
+      "Name": "SouthsunCoveTigerDen",
+      "X": -633.936,
+      "Y": 394.947,
+      "Z": 39.0333
+    },
+    {
+      "Name": "SparkflyFenTigerDen",
+      "X": -674.502,
+      "Y": 507.122,
+      "Z": 99.1775
+    },
+    {
+      "Name": "LornarsPassTigerDen",
+      "X": -141.204,
+      "Y": -1750.6,
+      "Z": 143.358
+    },
+    {
+      "Name": "DiessaPlateauTigerDen",
+      "X": 600.165,
+      "Y": -473.19,
+      "Z": 90.926
+    },
+    {
+      "Name": "FieldsofRuinTigerDen",
+      "X": 871.728,
+      "Y": 910.213,
+      "Z": 52.981
+    },
+    {
+      "Name": "PlainsofAshfordTigerDen",
+      "X": 1040.54,
+      "Y": -625.028,
+      "Z": 42.9536
+    },
+    {
+      "Name": "VerdantBrinkTigerDen",
+      "X": 359.372,
+      "Y": 388.069,
+      "Z": 577.618
+    },
+    {
+      "Name": "DragonsStandTigerDen",
+      "X": 238.981,
+      "Y": 911.317,
+      "Z": 105.839
+    }
+  ]
+}

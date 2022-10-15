@@ -1,0 +1,41 @@
+{
+  "Name": "Skipping",
+  "Coordinates": [
+    {
+      "Name": "GlennaFirstSpawnPosition",
+      "X": 601.975,
+      "Y": -168.472,
+      "Z": 130.658
+    },
+    {
+      "Name": "CairnStack-Position",
+      "X": 453.967,
+      "Y": 67.6477,
+      "Z": 41.4865
+    },
+    {
+      "Name": "Mesmer-Portal-Skip1",
+      "X": 227.341,
+      "Y": 56.2975,
+      "Z": 50.7353
+    },
+    {
+      "Name": "Mesmer-END-Portal-for-Skip1",
+      "X": 202.278,
+      "Y": 116.229,
+      "Z": 119.774
+    },
+    {
+      "Name": "Mesmer-Portal-Skip2",
+      "X": 88.14,
+      "Y": 212.575,
+      "Z": 130.25
+    },
+    {
+      "Name": "Mesmer-END-Portal-for-Skip2",
+      "X": -57.6578,
+      "Y": 232.794,
+      "Z": 118.612
+    }
+  ]
+}

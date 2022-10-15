@@ -1,0 +1,41 @@
+{
+  "Name": "Cutting-Weeds",
+  "Coordinates": [
+    {
+      "Name": "Camp-Port-events",
+      "X": 711.26,
+      "Y": -731.76,
+      "Z": 169.23
+    },
+    {
+      "Name": "Rescue-Pilot-event",
+      "X": 1003.68,
+      "Y": -375.39,
+      "Z": 76.3
+    },
+    {
+      "Name": "enemy-event",
+      "X": 1071.1,
+      "Y": 60.04,
+      "Z": 123.4
+    },
+    {
+      "Name": "Wisp-event",
+      "X": 547.32,
+      "Y": -155.36,
+      "Z": 280.94
+    },
+    {
+      "Name": "Storm-spawn",
+      "X": 487.02,
+      "Y": -762.8,
+      "Z": 354.76
+    },
+    {
+      "Name": "Stalker-event",
+      "X": 930.9,
+      "Y": -675.51,
+      "Z": 206.11
+    }
+  ]
+}

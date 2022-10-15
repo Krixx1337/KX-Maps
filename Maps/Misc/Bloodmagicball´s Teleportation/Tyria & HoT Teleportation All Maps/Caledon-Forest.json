@@ -1,0 +1,29 @@
+{
+  "Name": "Caledon-Forest",
+  "Coordinates": [
+    {
+      "Name": "Caledon-to-Kessex",
+      "X": 615.74,
+      "Y": 1496.42,
+      "Z": 21.18
+    },
+    {
+      "Name": "Caledon-to-Grove",
+      "X": -235.71,
+      "Y": -1394.08,
+      "Z": 26.78
+    },
+    {
+      "Name": "Caledon-to-Metrica",
+      "X": -604.63,
+      "Y": 384.69,
+      "Z": 53.35
+    },
+    {
+      "Name": "Caledon-to-Brisban",
+      "X": -595.64,
+      "Y": 1395.55,
+      "Z": 12.32
+    }
+  ]
+}

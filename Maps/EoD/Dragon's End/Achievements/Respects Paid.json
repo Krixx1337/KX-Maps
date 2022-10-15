@@ -1,0 +1,59 @@
+{
+  "Name": "Respects Paid",
+  "Coordinates": [
+    {
+      "Name": "Shrine_of_the_Serpent_kneel",
+      "X": 472.73,
+      "Y": 1242.39,
+      "Z": 113.52
+    },
+    {
+      "Name": "Shrine_to_Hanuku",
+      "X": 655.09,
+      "Y": 721.03,
+      "Z": 100.3
+    },
+    {
+      "Name": "Chantry_of_the_Crab",
+      "X": 629.38,
+      "Y": 186.57,
+      "Z": 133.99
+    },
+    {
+      "Name": "Guardians_Perch",
+      "X": -577.55,
+      "Y": -122.33,
+      "Z": 225.4
+    },
+    {
+      "Name": "Temple_of_the_Turtle",
+      "X": 256.31,
+      "Y": 210.29,
+      "Z": 151.63
+    },
+    {
+      "Name": "Speakers_Encampment",
+      "X": 681.3,
+      "Y": 910.04,
+      "Z": 101.58
+    },
+    {
+      "Name": "Shrine_to_Hanuku2",
+      "X": 605.83,
+      "Y": 686.38,
+      "Z": 98.64
+    },
+    {
+      "Name": "Emerald_Bluff",
+      "X": 211.71,
+      "Y": -1032.72,
+      "Z": 238.75
+    },
+    {
+      "Name": "Jade_Winds_Respite",
+      "X": -320.75,
+      "Y": -1275.98,
+      "Z": 2.66
+    }
+  ]
+}

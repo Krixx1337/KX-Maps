@@ -1,0 +1,59 @@
+{
+  "Name": "auric basin treetop retriever",
+  "Coordinates": [
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -485.383,
+      "Y": 921.717,
+      "Z": 606.477
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -351.357,
+      "Y": 732.208,
+      "Z": 609.973
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -515.47,
+      "Y": 609.459,
+      "Z": 581.394
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -313.445,
+      "Y": 643.84,
+      "Z": 559.812
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -534.53,
+      "Y": 716.886,
+      "Z": 575.476
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -223.047,
+      "Y": 723.459,
+      "Z": 528.69
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -338.845,
+      "Y": 695.649,
+      "Z": 565.159
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -384.317,
+      "Y": 713.574,
+      "Z": 521.829
+    },
+    {
+      "Name": "TreeTop_Retriever",
+      "X": -275.491,
+      "Y": 892.089,
+      "Z": 542.884
+    }
+  ]
+}

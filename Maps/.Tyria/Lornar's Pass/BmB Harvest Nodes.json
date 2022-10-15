@@ -1,0 +1,1049 @@
+{
+  "Name": "BmB Harvest Nodes",
+  "Coordinates": [
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushroom",
+      "X": -347.738,
+      "Y": 1591.943,
+      "Z": 51.252
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushroom",
+      "X": -65.927,
+      "Y": 1624.391,
+      "Z": 116.021
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushroom",
+      "X": -120.328,
+      "Y": 1785.4,
+      "Z": 148.567
+    },
+    {
+      "Name": "type=tgmp.ore.rich.iron",
+      "X": -158.182,
+      "Y": 1722.645,
+      "Z": 154.549
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -172.14,
+      "Y": 1680.148,
+      "Z": 128.603
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -265.434,
+      "Y": 1762.571,
+      "Z": 117.812
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -358.52,
+      "Y": 1148.895,
+      "Z": 136.882
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -344.932,
+      "Y": 1025.185,
+      "Z": 115.593
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -384.598,
+      "Y": 1013.948,
+      "Z": 180.973
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -375.086,
+      "Y": 970.536,
+      "Z": 106.546
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -270.407,
+      "Y": 933.234,
+      "Z": 42.165
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": -188.459,
+      "Y": 830.311,
+      "Z": 61.069
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -144.823,
+      "Y": 869.972,
+      "Z": 83.347
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.youngherbs",
+      "X": -272.348,
+      "Y": 742.018,
+      "Z": 91.554
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -284.588,
+      "Y": 731.288,
+      "Z": 88.361
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -272.839,
+      "Y": 614.957,
+      "Z": 47.564
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -289.994,
+      "Y": 511.408,
+      "Z": 45.17
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -393.352,
+      "Y": 448.984,
+      "Z": 83.178
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -456.005,
+      "Y": 341.625,
+      "Z": 92.765
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -349.209,
+      "Y": 297.102,
+      "Z": 64.307
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 33.234,
+      "Y": 290.972,
+      "Z": 158.432
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -51.911,
+      "Y": 74.564,
+      "Z": 120.323
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.youngherbs",
+      "X": -155.027,
+      "Y": -250.664,
+      "Z": 111.895
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -302.739,
+      "Y": -153.972,
+      "Z": 102.655
+    },
+    {
+      "Name": "type=tgmp.plant.copper.onions",
+      "X": -322.408,
+      "Y": -400.61,
+      "Z": 64.077
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -274.18,
+      "Y": -474.803,
+      "Z": 49.083
+    },
+    {
+      "Name": "type=tgmp.plant.zucchini",
+      "X": -247.647,
+      "Y": -522.647,
+      "Z": 53.921
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -393.303,
+      "Y": -519.117,
+      "Z": 38.851
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": -373.159,
+      "Y": -921.697,
+      "Z": 52.696
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": -430.389,
+      "Y": -991.379,
+      "Z": 45.741
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": -520.572,
+      "Y": -1052.034,
+      "Z": 40.282
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -511.76,
+      "Y": -1060.588,
+      "Z": 38.345
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -569.012,
+      "Y": -1240.123,
+      "Z": 44.843
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -580.512,
+      "Y": -1227.225,
+      "Z": 46.957
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -592.016,
+      "Y": -1227.475,
+      "Z": 49.708
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -592.271,
+      "Y": -1213.739,
+      "Z": 48.098
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -576.319,
+      "Y": -1212.948,
+      "Z": 43.406
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -569.319,
+      "Y": -1193.968,
+      "Z": 39.905
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -600.569,
+      "Y": -1226.431,
+      "Z": 51.892
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -535.24,
+      "Y": -1260.369,
+      "Z": 38.138
+    },
+    {
+      "Name": "type=tgmp.plant.grapes",
+      "X": -529.277,
+      "Y": -1285.375,
+      "Z": 34.488
+    },
+    {
+      "Name": "type=tgmp.plant.iron.taproots",
+      "X": -491.614,
+      "Y": -1363.37,
+      "Z": 21.49
+    },
+    {
+      "Name": "type=tgmp.ore.rich.gold",
+      "X": -488.167,
+      "Y": -1678.918,
+      "Z": 72.313
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushroom",
+      "X": -339.081,
+      "Y": -1681.046,
+      "Z": 91.73
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -347.849,
+      "Y": -1731.734,
+      "Z": 97.652
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushroom",
+      "X": -73.722,
+      "Y": -1650.271,
+      "Z": 126.498
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -124.766,
+      "Y": -1477.589,
+      "Z": 40.381
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": -187.031,
+      "Y": -1372.239,
+      "Z": 17.482
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": -280.141,
+      "Y": -1377.663,
+      "Z": 31.849
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -48.521,
+      "Y": -1376.519,
+      "Z": 69.464
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 55.016,
+      "Y": -1389.582,
+      "Z": 90.22
+    },
+    {
+      "Name": "type=tgmp.plant.zucchini",
+      "X": 175.03,
+      "Y": -1537.528,
+      "Z": 95.606
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": 283.149,
+      "Y": -1555.24,
+      "Z": 104.561
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 479.871,
+      "Y": -1590.209,
+      "Z": 108.694
+    },
+    {
+      "Name": "type=tgmp.plant.zucchini",
+      "X": 397.219,
+      "Y": -1336.568,
+      "Z": 110.529
+    },
+    {
+      "Name": "type=tgmp.ore.normal.gold",
+      "X": 314.232,
+      "Y": -1324.945,
+      "Z": 130.985
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 237.368,
+      "Y": -1192.375,
+      "Z": 99.329
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 130.483,
+      "Y": -1346.052,
+      "Z": 115.273
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": -11.925,
+      "Y": -1302.005,
+      "Z": 82.773
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 316.574,
+      "Y": -1108.785,
+      "Z": 138.782
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 241.782,
+      "Y": -1079.957,
+      "Z": 102.577
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": 337.951,
+      "Y": -859.375,
+      "Z": 118.664
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 114.924,
+      "Y": -814.344,
+      "Z": 78.422
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 158.109,
+      "Y": -764.199,
+      "Z": 90.187
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": 150.295,
+      "Y": -723.803,
+      "Z": 111.025
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 151.236,
+      "Y": -712.784,
+      "Z": 113.076
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 186.506,
+      "Y": -699.668,
+      "Z": 112.18
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 246.492,
+      "Y": -625.704,
+      "Z": 104.845
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 357.609,
+      "Y": -637.835,
+      "Z": 112.217
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": 402.439,
+      "Y": -627.956,
+      "Z": 120.152
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.youngherbs",
+      "X": 456.32,
+      "Y": -738.859,
+      "Z": 121.47
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.rootvegetables",
+      "X": 189.793,
+      "Y": -103.843,
+      "Z": 119.615
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.rootvegetables",
+      "X": 99.746,
+      "Y": -50.512,
+      "Z": 132.937
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -16.713,
+      "Y": -419.557,
+      "Z": 102.31
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": 180.584,
+      "Y": -34.993,
+      "Z": 116.396
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -60.926,
+      "Y": 530.496,
+      "Z": 161.761
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 52.564,
+      "Y": 553.985,
+      "Z": 145.759
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.rootvegetables",
+      "X": 172.534,
+      "Y": 580.504,
+      "Z": 144.678
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": 146.985,
+      "Y": 747.578,
+      "Z": 159.51
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 41.449,
+      "Y": 803.258,
+      "Z": 168.074
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -59.364,
+      "Y": 899.988,
+      "Z": 185.255
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 216.267,
+      "Y": 1005.611,
+      "Z": 194.79
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 258.926,
+      "Y": 1092.092,
+      "Z": 214.619
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": 331.228,
+      "Y": 987.887,
+      "Z": 223.137
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": 527.829,
+      "Y": 1259.68,
+      "Z": 244.679
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": 533.431,
+      "Y": 1044.76,
+      "Z": 229.223
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": 571.494,
+      "Y": 1448.253,
+      "Z": 266.82
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 558.248,
+      "Y": 1478.29,
+      "Z": 260.231
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": 462.36,
+      "Y": 1639.385,
+      "Z": 206.234
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 514.26,
+      "Y": 1647.675,
+      "Z": 202.496
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 564.042,
+      "Y": 1707.577,
+      "Z": 195.141
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": 292.245,
+      "Y": 1646.347,
+      "Z": 175.593
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 230.681,
+      "Y": 1656.002,
+      "Z": 122.257
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": -50.485,
+      "Y": 1300.197,
+      "Z": 148.086
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -99.806,
+      "Y": 1320.738,
+      "Z": 118.025
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -111.365,
+      "Y": 1195.63,
+      "Z": 64.893
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushroom",
+      "X": -115.451,
+      "Y": 1188.784,
+      "Z": 84.789
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -589.205,
+      "Y": 1313.358,
+      "Z": 175.554
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -542.303,
+      "Y": 1107.419,
+      "Z": 173.51
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushroom",
+      "X": -472.738,
+      "Y": 1069.996,
+      "Z": 143.111
+    },
+    {
+      "Name": "type=tgmp.ore.rich.iron",
+      "X": -88.702,
+      "Y": -566.686,
+      "Z": 68.106
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 43.051,
+      "Y": -657.073,
+      "Z": 106.033
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": 82.752,
+      "Y": -591.256,
+      "Z": 83.588
+    },
+    {
+      "Name": "type=tgmp.ore.rich.iron",
+      "X": 515.59,
+      "Y": -1648.647,
+      "Z": 154.054
+    },
+    {
+      "Name": "type=tgmp.ore.normal.gold",
+      "X": 580.349,
+      "Y": -1436.507,
+      "Z": 172.768
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 506.141,
+      "Y": 1743.518,
+      "Z": 190.197
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": 520.063,
+      "Y": 1659.803,
+      "Z": 199.252
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": 400.169,
+      "Y": 1610.984,
+      "Z": 188.996
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 307.337,
+      "Y": 1484.6,
+      "Z": 171.389
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 238.942,
+      "Y": 1404.871,
+      "Z": 176.522
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": -424.557,
+      "Y": 1431.046,
+      "Z": 92.43
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": -527.506,
+      "Y": 1457.269,
+      "Z": 138.996
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": -578.107,
+      "Y": 1335.892,
+      "Z": 170.872
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -607.631,
+      "Y": 1248.647,
+      "Z": 178.791
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": -602.475,
+      "Y": 899.956,
+      "Z": 120.69
+    },
+    {
+      "Name": "type=tgmp.ore.rich.silver",
+      "X": -638.237,
+      "Y": 790.177,
+      "Z": 101.538
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -644.0,
+      "Y": 706.942,
+      "Z": 101.73
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -552.333,
+      "Y": 444.476,
+      "Z": 157.626
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": -187.508,
+      "Y": 125.825,
+      "Z": 79.038
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -105.594,
+      "Y": 111.685,
+      "Z": 109.291
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.rootvegetables",
+      "X": -92.637,
+      "Y": 99.836,
+      "Z": 112.554
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -31.837,
+      "Y": 184.133,
+      "Z": 130.264
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.youngherbs",
+      "X": -23.734,
+      "Y": 220.84,
+      "Z": 130.732
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 64.805,
+      "Y": 24.671,
+      "Z": 142.137
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": 91.959,
+      "Y": 47.812,
+      "Z": 139.411
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": 159.983,
+      "Y": 203.514,
+      "Z": 175.807
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 324.787,
+      "Y": 406.647,
+      "Z": 145.859
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 405.116,
+      "Y": 418.412,
+      "Z": 186.151
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.youngherbs",
+      "X": 470.517,
+      "Y": 369.068,
+      "Z": 171.533
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": 622.165,
+      "Y": 530.16,
+      "Z": 219.534
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 587.213,
+      "Y": 593.94,
+      "Z": 199.017
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": 577.004,
+      "Y": 595.218,
+      "Z": 196.847
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 538.069,
+      "Y": 558.916,
+      "Z": 186.411
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 351.351,
+      "Y": 789.032,
+      "Z": 147.309
+    },
+    {
+      "Name": "type=tgmp.ore.rich.iron",
+      "X": 530.208,
+      "Y": 843.058,
+      "Z": 144.451
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": 437.011,
+      "Y": 864.729,
+      "Z": 203.867
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 177.043,
+      "Y": 716.563,
+      "Z": 151.97
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 161.908,
+      "Y": 694.25,
+      "Z": 148.738
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 253.482,
+      "Y": 33.314,
+      "Z": 102.611
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 191.54,
+      "Y": -121.521,
+      "Z": 118.5
+    },
+    {
+      "Name": "type=tgmp.plant.copper.onions",
+      "X": 194.656,
+      "Y": -149.812,
+      "Z": 118.368
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 229.556,
+      "Y": -199.073,
+      "Z": 128.673
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 253.67,
+      "Y": -518.411,
+      "Z": 115.515
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpmushrooms.variedmushrooms",
+      "X": 159.679,
+      "Y": -571.33,
+      "Z": 106.592
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": 167.697,
+      "Y": -988.399,
+      "Z": 92.331
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": 40.639,
+      "Y": -942.435,
+      "Z": 51.812
+    },
+    {
+      "Name": "type=tgmp.ore.normal.gold",
+      "X": -140.796,
+      "Y": -1145.565,
+      "Z": 6.248
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": -175.556,
+      "Y": -1357.503,
+      "Z": 18.48
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -288.713,
+      "Y": -1333.383,
+      "Z": 32.584
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": -360.636,
+      "Y": -1408.376,
+      "Z": 29.596
+    },
+    {
+      "Name": "type=tgmp.ore.normal.gold",
+      "X": 72.028,
+      "Y": -1306.458,
+      "Z": 117.089
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": 217.043,
+      "Y": -1273.948,
+      "Z": 109.968
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": 334.947,
+      "Y": -1358.758,
+      "Z": 124.433
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 304.948,
+      "Y": -1373.567,
+      "Z": 123.075
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 133.218,
+      "Y": -1490.861,
+      "Z": 77.73
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": -33.494,
+      "Y": -1442.3,
+      "Z": 45.676
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -419.186,
+      "Y": -1478.266,
+      "Z": -7.943
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -319.795,
+      "Y": -1494.49,
+      "Z": 69.54
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": -355.106,
+      "Y": -1606.753,
+      "Z": 70.211
+    },
+    {
+      "Name": "type=tgmp.wood.seasoned",
+      "X": 417.529,
+      "Y": -1539.68,
+      "Z": 113.922
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 431.178,
+      "Y": -1590.271,
+      "Z": 108.005
+    },
+    {
+      "Name": "type=tgmp.plant.tgmpherbs.herbsprouts",
+      "X": 466.49,
+      "Y": -1637.97,
+      "Z": 111.299
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 531.587,
+      "Y": -1562.03,
+      "Z": 160.902
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": 493.734,
+      "Y": -1493.456,
+      "Z": 139.042
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": 540.185,
+      "Y": -1130.148,
+      "Z": 143.097
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": 490.098,
+      "Y": -1067.716,
+      "Z": 141.486
+    },
+    {
+      "Name": "type=tgmp.plant.zucchini",
+      "X": -415.299,
+      "Y": -555.364,
+      "Z": 48.794
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -484.653,
+      "Y": -213.692,
+      "Z": 61.112
+    },
+    {
+      "Name": "type=tgmp.ore.normal.silver",
+      "X": -568.156,
+      "Y": -14.839,
+      "Z": 102.197
+    },
+    {
+      "Name": "type=tgmp.wood.soft",
+      "X": -195.37,
+      "Y": 713.311,
+      "Z": 62.826
+    },
+    {
+      "Name": "type=tgmp.plant.onions",
+      "X": -241.469,
+      "Y": 914.535,
+      "Z": 38.326
+    },
+    {
+      "Name": "type=tgmp.plant.tgmprootvegetables.taproots",
+      "X": -239.891,
+      "Y": 990.261,
+      "Z": 45.055
+    },
+    {
+      "Name": "type=tgmp.ore.rich.silver",
+      "X": -107.865,
+      "Y": 1138.135,
+      "Z": 110.436
+    },
+    {
+      "Name": "type=tgmp.ore.normal.iron",
+      "X": -369.963,
+      "Y": 1169.151,
+      "Z": 143.604
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "Name": "Underground Facility-Gun-Way",
+  "Coordinates": [
+    {
+      "Name": "First-Spot-Skip-everything",
+      "X": 737.28,
+      "Y": 436.93,
+      "Z": 28.95
+    },
+    {
+      "Name": "Singularity-at-Path-selection-choose-here-which-file-you-need",
+      "X": 765.55,
+      "Y": 356.06,
+      "Z": 47.57
+    },
+    {
+      "Name": "Port-here-now-for-triggering-instant-progress",
+      "X": 769.04,
+      "Y": 347.22,
+      "Z": 49.17
+    },
+    {
+      "Name": "triggerpoint",
+      "X": 775.84,
+      "Y": 314.94,
+      "Z": 54.7
+    },
+    {
+      "Name": "triggerpoint",
+      "X": 814.38,
+      "Y": 315.38,
+      "Z": 53.95
+    },
+    {
+      "Name": "Laser-Path-point",
+      "X": 848.12,
+      "Y": 292.872,
+      "Z": 57.1357
+    },
+    {
+      "Name": "Door-Point",
+      "X": 792.655,
+      "Y": 203.531,
+      "Z": 69.3815
+    },
+    {
+      "Name": "Raspo-Battle",
+      "X": 792.641,
+      "Y": 175.68,
+      "Z": 73.9534
+    },
+    {
+      "Name": "Endboss-trigger",
+      "X": 938.9,
+      "Y": 224.64,
+      "Z": 103.6
+    },
+    {
+      "Name": "First-oil-Point",
+      "X": 998.001,
+      "Y": 268.744,
+      "Z": 115.18
+    },
+    {
+      "Name": "Second-oil-Point",
+      "X": 1050.46,
+      "Y": 268.595,
+      "Z": 115.04
+    },
+    {
+      "Name": "Third-oil-Point",
+      "X": 1051.19,
+      "Y": 185.597,
+      "Z": 115.176
+    },
+    {
+      "Name": "Fourth-oil-Point",
+      "X": 997.923,
+      "Y": 186.296,
+      "Z": 112.721
+    }
+  ]
+}

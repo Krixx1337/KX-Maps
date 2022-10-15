@@ -1,0 +1,347 @@
+{
+  "Name": "2.Shadow in the Ice",
+  "Coordinates": [
+    {
+      "Name": "starting-Chasing-Ghosts",
+      "X": 1365.64,
+      "Y": -136.68,
+      "Z": 83.82
+    },
+    {
+      "Name": "port",
+      "X": 1014.39,
+      "Y": -122.94,
+      "Z": 109.48
+    },
+    {
+      "Name": "port",
+      "X": 904.79,
+      "Y": -45.03,
+      "Z": 131.53
+    },
+    {
+      "Name": "port",
+      "X": 583.04,
+      "Y": 75.69,
+      "Z": 183.26
+    },
+    {
+      "Name": "port",
+      "X": 474.01,
+      "Y": -29.24,
+      "Z": 188.73
+    },
+    {
+      "Name": "port",
+      "X": 294.29,
+      "Y": -20.14,
+      "Z": 224.91
+    },
+    {
+      "Name": "instance-start-Chasing-Ghosts",
+      "X": 158.68,
+      "Y": -16.45,
+      "Z": 220.48
+    },
+    {
+      "Name": "help",
+      "X": 90.5,
+      "Y": -36.81,
+      "Z": 237.69
+    },
+    {
+      "Name": "follow-him-ports-after",
+      "X": 69.8,
+      "Y": -31.61,
+      "Z": 248.52
+    },
+    {
+      "Name": "first-stop",
+      "X": -41.35,
+      "Y": 10.96,
+      "Z": 260.36
+    },
+    {
+      "Name": "next-stop",
+      "X": -58.28,
+      "Y": 51.86,
+      "Z": 264.12
+    },
+    {
+      "Name": "next-stop",
+      "X": -39.91,
+      "Y": 106.0,
+      "Z": 278.36
+    },
+    {
+      "Name": "next",
+      "X": -77.3,
+      "Y": 176.56,
+      "Z": 286.0
+    },
+    {
+      "Name": "after-fight-talk",
+      "X": -82.21,
+      "Y": 176.88,
+      "Z": 286.31
+    },
+    {
+      "Name": "after-.braham-starts-walking-port-here-and.wait-until-it-opens",
+      "X": -347.06,
+      "Y": 165.85,
+      "Z": 216.64
+    },
+    {
+      "Name": "port",
+      "X": -330.05,
+      "Y": 264.71,
+      "Z": 209.89
+    },
+    {
+      "Name": "talk-with-bear",
+      "X": -269.44,
+      "Y": 248.04,
+      "Z": 202.72
+    },
+    {
+      "Name": "interact",
+      "X": -328.29,
+      "Y": 265.11,
+      "Z": 209.9
+    },
+    {
+      "Name": "instance-done",
+      "X": -331.95,
+      "Y": 257.01,
+      "Z": 209.13
+    },
+    {
+      "Name": "start-the-event-to-clear-the-forest-then-do-it",
+      "X": -435.57,
+      "Y": 480.37,
+      "Z": 221.6
+    },
+    {
+      "Name": "clear-shard",
+      "X": -579.2,
+      "Y": 182.21,
+      "Z": 160.56
+    },
+    {
+      "Name": "help-the-koda",
+      "X": -692.79,
+      "Y": -388.72,
+      "Z": 177.7
+    },
+    {
+      "Name": "clear-shard",
+      "X": -596.73,
+      "Y": -122.31,
+      "Z": 198.23
+    },
+    {
+      "Name": "clear-the-forest-event",
+      "X": -139.51,
+      "Y": 234.16,
+      "Z": 303.31
+    },
+    {
+      "Name": "safety-spot-and-wait-for-next-part-to-start-after-talking",
+      "X": -127.68,
+      "Y": 282.07,
+      "Z": 366.09
+    },
+    {
+      "Name": "port",
+      "X": -1227.0,
+      "Y": 147.21,
+      "Z": 23.57
+    },
+    {
+      "Name": "do-this-event-ports-will-help-you",
+      "X": -868.23,
+      "Y": 332.03,
+      "Z": 272.44
+    },
+    {
+      "Name": "take",
+      "X": -872.42,
+      "Y": 340.66,
+      "Z": 272.99
+    },
+    {
+      "Name": "port",
+      "X": -852.71,
+      "Y": 434.28,
+      "Z": 269.53
+    },
+    {
+      "Name": "use-the-2-ports-until-event-done-then-go-next-event",
+      "X": -873.46,
+      "Y": 335.92,
+      "Z": 273.99
+    },
+    {
+      "Name": "next-event-here",
+      "X": -235.71,
+      "Y": -389.73,
+      "Z": 311.28
+    },
+    {
+      "Name": "for-this-event-kill-a-mob-then-use-the-next-cord-called-port-to-deliver-the-offering-repeat-until-done",
+      "X": -235.71,
+      "Y": -389.73,
+      "Z": 311.28
+    },
+    {
+      "Name": "port",
+      "X": -244.72,
+      "Y": -491.87,
+      "Z": 314.34
+    },
+    {
+      "Name": "now-do-this-event",
+      "X": -194.21,
+      "Y": 658.16,
+      "Z": 270.93
+    },
+    {
+      "Name": "talk-to-her-to-be-able-to-transform-",
+      "X": -162.33,
+      "Y": 576.57,
+      "Z": 283.35
+    },
+    {
+      "Name": "transform-and-go-to-the-boxes-then-use-nexts-port-to-easy-finish",
+      "X": -229.35,
+      "Y": 614.41,
+      "Z": 271.65
+    },
+    {
+      "Name": "port",
+      "X": -191.35,
+      "Y": 661.48,
+      "Z": 271.03
+    },
+    {
+      "Name": "listen-to-conversation",
+      "X": -187.34,
+      "Y": 656.55,
+      "Z": 270.68
+    },
+    {
+      "Name": "talk-braham",
+      "X": -153.48,
+      "Y": 579.28,
+      "Z": 283.4
+    },
+    {
+      "Name": "listen-to-the-dialoge-again-then-next-port-until-story-goes-on",
+      "X": -150.86,
+      "Y": 582.18,
+      "Z": 282.91
+    },
+    {
+      "Name": "talk",
+      "X": -267.89,
+      "Y": 246.84,
+      "Z": 202.72
+    },
+    {
+      "Name": "do-event",
+      "X": -18.26,
+      "Y": -123.21,
+      "Z": 265.69
+    },
+    {
+      "Name": "do-event",
+      "X": 1088.47,
+      "Y": 115.22,
+      "Z": 144.99
+    },
+    {
+      "Name": "do-event",
+      "X": 444.03,
+      "Y": -203.01,
+      "Z": 170.05
+    },
+    {
+      "Name": "instance-start-Voice-in-the-Deep",
+      "X": -773.24,
+      "Y": -548.03,
+      "Z": 181.26
+    },
+    {
+      "Name": "talk",
+      "X": 187.63,
+      "Y": 99.78,
+      "Z": 105.19
+    },
+    {
+      "Name": "kill",
+      "X": 132.99,
+      "Y": 76.56,
+      "Z": 104.05
+    },
+    {
+      "Name": "kill",
+      "X": 102.42,
+      "Y": 24.47,
+      "Z": 91.85
+    },
+    {
+      "Name": "kill",
+      "X": 70.92,
+      "Y": -28.72,
+      "Z": 71.78
+    },
+    {
+      "Name": "kill",
+      "X": 25.63,
+      "Y": -60.12,
+      "Z": 58.49
+    },
+    {
+      "Name": "kill",
+      "X": -40.97,
+      "Y": -37.65,
+      "Z": 36.51
+    },
+    {
+      "Name": "talk",
+      "X": -69.04,
+      "Y": -8.88,
+      "Z": 32.25
+    },
+    {
+      "Name": "kill",
+      "X": -71.09,
+      "Y": -12.43,
+      "Z": 31.58
+    },
+    {
+      "Name": "go-deeper-and-kill",
+      "X": -203.36,
+      "Y": 102.06,
+      "Z": 4.09
+    },
+    {
+      "Name": "after-boss-cutscene-etc-at-aurene-port",
+      "X": -222.15,
+      "Y": 161.13,
+      "Z": 6.3
+    },
+    {
+      "Name": "talk",
+      "X": -270.79,
+      "Y": 218.71,
+      "Z": 2.64
+    },
+    {
+      "Name": "Chapter-done",
+      "X": -270.79,
+      "Y": 218.71,
+      "Z": 2.64
+    }
+  ]
+}

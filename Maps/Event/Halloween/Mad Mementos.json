@@ -1,0 +1,35 @@
+{
+  "Name": "Mad Mementos",
+  "Coordinates": [
+    {
+      "Name": "Use_skill_4_and_talk_to_Cashel/Next_go_to_Harathi_Hinterlands",
+      "X": -414.537,
+      "Y": 162.896,
+      "Z": 64.1173
+    },
+    {
+      "Name": "Use_skill_3_and_talk_to_Fenn",
+      "X": -1080.0,
+      "Y": -167.506,
+      "Z": 160.961
+    },
+    {
+      "Name": "Use_skill_2_and_complete_event_and_talk_to_Portia",
+      "X": -513.96,
+      "Y": 564.412,
+      "Z": 3.0536
+    },
+    {
+      "Name": "Use_skill_4_and_talk_to_Rufus/Next_go_to_Bloodtie_Coast",
+      "X": -906.626,
+      "Y": 355.845,
+      "Z": 34.4919
+    },
+    {
+      "Name": "Use_skill_1_and_complete_door_event_and_talk_to_Seamarshal_Bennu/Next_go_to_Sparkly_Fen",
+      "X": -578.158,
+      "Y": 725.312,
+      "Z": 42.2424
+    }
+  ]
+}

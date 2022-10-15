@@ -1,0 +1,17 @@
+{
+  "Name": "Rest in Peace",
+  "Coordinates": [
+    {
+      "Name": "Graveyard_Port",
+      "X": -585.04,
+      "Y": -483.33,
+      "Z": 115.16
+    },
+    {
+      "Name": "Graveyard_Location",
+      "X": -555.19,
+      "Y": -561.23,
+      "Z": 102.19
+    }
+  ]
+}

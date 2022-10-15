@@ -1,0 +1,353 @@
+{
+  "Name": "Heart-Quests",
+  "Coordinates": [
+    {
+      "Name": "The_Astralarium_Misaligned_Telescope",
+      "X": -1115.27,
+      "Y": 874.509,
+      "Z": 136.877
+    },
+    {
+      "Name": "The_Astralarium_Misaligned_Telescope",
+      "X": -1014.94,
+      "Y": 919.036,
+      "Z": 136.874
+    },
+    {
+      "Name": "The_Astralarium_Misaligned_Telescope",
+      "X": -914.165,
+      "Y": 877.11,
+      "Z": 136.875
+    },
+    {
+      "Name": "The_Astralarium_Misaligned_Telescope",
+      "X": -868.767,
+      "Y": 779.926,
+      "Z": 137.437
+    },
+    {
+      "Name": "The_Astralarium_Misaligned_Telescope",
+      "X": -1011.29,
+      "Y": 632.241,
+      "Z": 136.876
+    },
+    {
+      "Name": "The_Astralarium_Misaligned_Telescope",
+      "X": -1114.72,
+      "Y": 675.448,
+      "Z": 136.874
+    },
+    {
+      "Name": "The_Astralarium_Misaligned_Telescope",
+      "X": -1157.11,
+      "Y": 776.16,
+      "Z": 136.877
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -1066.51,
+      "Y": 829.468,
+      "Z": 182.205
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -1012.53,
+      "Y": 852.393,
+      "Z": 182.204
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -959.132,
+      "Y": 831.068,
+      "Z": 182.3
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -936.711,
+      "Y": 777.019,
+      "Z": 182.584
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -958.007,
+      "Y": 723.911,
+      "Z": 182.526
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -1012.27,
+      "Y": 700.552,
+      "Z": 182.598
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -1065.88,
+      "Y": 722.312,
+      "Z": 182.528
+    },
+    {
+      "Name": "The_Astralarium_Telescopic_Mirror",
+      "X": -1088.73,
+      "Y": 776.928,
+      "Z": 182.325
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -1012.14,
+      "Y": 832.216,
+      "Z": 200.846
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -973.506,
+      "Y": 815.986,
+      "Z": 200.846
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -957.011,
+      "Y": 777.297,
+      "Z": 200.846
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -972.422,
+      "Y": 737.825,
+      "Z": 200.847
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -1012.28,
+      "Y": 720.971,
+      "Z": 200.857
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -1050.79,
+      "Y": 736.405,
+      "Z": 200.846
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -1068.54,
+      "Y": 777.058,
+      "Z": 200.848
+    },
+    {
+      "Name": "The_Astralarium_Obelisk_Engraving",
+      "X": -1051.63,
+      "Y": 816.965,
+      "Z": 200.865
+    },
+    {
+      "Name": "The_Astralarium_Heart_Vendor",
+      "X": -1163.63,
+      "Y": 933.301,
+      "Z": 127.489
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -715.591,
+      "Y": -468.847,
+      "Z": 33.0143
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -633.318,
+      "Y": -315.051,
+      "Z": 32.5554
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -761.29,
+      "Y": -381.904,
+      "Z": 70.8433
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -773.192,
+      "Y": -405.595,
+      "Z": 73.2405
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -816.671,
+      "Y": -391.31,
+      "Z": 56.0319
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -825.067,
+      "Y": -394.597,
+      "Z": 39.3867
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -865.165,
+      "Y": -335.701,
+      "Z": 30.1691
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -929.536,
+      "Y": -368.124,
+      "Z": 45.0965
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -833.803,
+      "Y": -428.256,
+      "Z": 29.9474
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -723.285,
+      "Y": -365.994,
+      "Z": 34.4924
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -747.965,
+      "Y": -298.393,
+      "Z": 30.2802
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -750.637,
+      "Y": -202.712,
+      "Z": 32.3305
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -760.638,
+      "Y": -506.998,
+      "Z": 34.0828
+    },
+    {
+      "Name": "Champions_Dawn_Cage",
+      "X": -909.986,
+      "Y": -406.407,
+      "Z": 34.7365
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -719.698,
+      "Y": -210.179,
+      "Z": 31.9558
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -716.396,
+      "Y": -306.151,
+      "Z": 32.7676
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -691.749,
+      "Y": -318.837,
+      "Z": 35.8773
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -687.177,
+      "Y": -354.8,
+      "Z": 35.1514
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -706.342,
+      "Y": -448.456,
+      "Z": 34.6241
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -787.784,
+      "Y": -509.258,
+      "Z": 35.4916
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -814.068,
+      "Y": -498.925,
+      "Z": 31.6388
+    },
+    {
+      "Name": "Champions_Dawn_Jokos_Propaganda",
+      "X": -923.192,
+      "Y": -361.968,
+      "Z": 38.5894
+    },
+    {
+      "Name": "Champions_Dawn_Heart_Vendor",
+      "X": -745.082,
+      "Y": -548.265,
+      "Z": 77.4919
+    },
+    {
+      "Name": "Corsair_Flotilla_Grog_Drinking",
+      "X": -458.148,
+      "Y": 963.12,
+      "Z": 3.25898
+    },
+    {
+      "Name": "Corsair_Flotilla_Break_Up_Fights",
+      "X": -477.121,
+      "Y": 1011.62,
+      "Z": 19.3216
+    },
+    {
+      "Name": "Corsair_Flotilla_Break_Up_Fights",
+      "X": -443.826,
+      "Y": 1107.38,
+      "Z": 22.136
+    },
+    {
+      "Name": "Corsair_Flotilla_Break_Up_Fights",
+      "X": -427.408,
+      "Y": 1047.21,
+      "Z": 13.0849
+    },
+    {
+      "Name": "Corsair_Flotilla_Break_Up_Fights",
+      "X": -473.652,
+      "Y": 984.741,
+      "Z": 0.19827
+    },
+    {
+      "Name": "Corsair_Flotilla_Break_Up_Fights",
+      "X": -403.577,
+      "Y": 957.505,
+      "Z": -0.0968418
+    },
+    {
+      "Name": "Corsair_Flotilla_Water_Bucket",
+      "X": -455.729,
+      "Y": 1095.58,
+      "Z": 22.0421
+    },
+    {
+      "Name": "Corsair_Flotilla_Water_Bucket",
+      "X": -430.354,
+      "Y": 1074.9,
+      "Z": 25.0301
+    },
+    {
+      "Name": "Corsair_Flotilla_Water_Bucket",
+      "X": -411.091,
+      "Y": 1033.92,
+      "Z": 6.51369
+    },
+    {
+      "Name": "Corsair_Flotilla_Water_Bucket",
+      "X": -428.67,
+      "Y": 1063.01,
+      "Z": 18.2467
+    },
+    {
+      "Name": "Corsair_Flotilla_Heart_Vendor",
+      "X": -442.083,
+      "Y": 992.9,
+      "Z": 0.833761
+    }
+  ]
+}

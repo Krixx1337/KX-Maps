@@ -1,0 +1,35 @@
+{
+  "Name": "Trolls Revenge JP",
+  "Coordinates": [
+    {
+      "Name": "Trolls_Revenge_Chest_1",
+      "X": -203.554,
+      "Y": 42.0846,
+      "Z": 46.3196
+    },
+    {
+      "Name": "Trolls_Revenge_Chest_2",
+      "X": -403.91,
+      "Y": 90.5282,
+      "Z": 38.9881
+    },
+    {
+      "Name": "Trolls_Revenge_Chest_3",
+      "X": -485.398,
+      "Y": 155.799,
+      "Z": 48.257
+    },
+    {
+      "Name": "Trolls_Revenge_Chest_4",
+      "X": -583.869,
+      "Y": 454.424,
+      "Z": 97.6133
+    },
+    {
+      "Name": "Trolls_Revenge_Chest_5",
+      "X": -594.509,
+      "Y": 340.838,
+      "Z": 95.4117
+    }
+  ]
+}

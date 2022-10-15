@@ -1,0 +1,23 @@
+{
+  "Name": "W1Z3 Boss",
+  "Coordinates": [
+    {
+      "Name": "W1Z3_Last_Checkpoint",
+      "X": -331.526,
+      "Y": 443.198,
+      "Z": 49.2313
+    },
+    {
+      "Name": "W1Z3_Last_Boss_Anchor",
+      "X": -326.002,
+      "Y": 429.051,
+      "Z": 48.3508
+    },
+    {
+      "Name": "W1Z3_Last_Boss_Safety_Rock",
+      "X": -311.822,
+      "Y": 422.695,
+      "Z": 30.8423
+    }
+  ]
+}

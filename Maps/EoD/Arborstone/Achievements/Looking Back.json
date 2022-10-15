@@ -1,0 +1,77 @@
+{
+  "Name": "Looking Back",
+  "Coordinates": [
+    {
+      "Name": "Arborstone-talk-to-Delaqua(any_toon_who_have_completed_story)",
+      "X": -933.3,
+      "Y": 588.8,
+      "Z": 5.49
+    },
+    {
+      "Name": "New_Kaineng_City_(NKC)",
+      "X": 1227.87,
+      "Y": 741.56,
+      "Z": 114.59
+    },
+    {
+      "Name": "NKC",
+      "X": -15.59,
+      "Y": -624.86,
+      "Z": 147.88
+    },
+    {
+      "Name": "NKC",
+      "X": -871.63,
+      "Y": -32.73,
+      "Z": 188.19
+    },
+    {
+      "Name": "SP",
+      "X": 401.71,
+      "Y": 851.37,
+      "Z": 0.68
+    },
+    {
+      "Name": "SP",
+      "X": -1216.24,
+      "Y": -230.63,
+      "Z": 163.94
+    },
+    {
+      "Name": "SP",
+      "X": -39.09,
+      "Y": 234.54,
+      "Z": 171.1
+    },
+    {
+      "Name": "SP",
+      "X": 192.58,
+      "Y": -137.14,
+      "Z": 82.67
+    },
+    {
+      "Name": "DE-Marjory_only_apper_when_Meta_success_(15-Mins)",
+      "X": -239.75,
+      "Y": 727.88,
+      "Z": 174.07
+    },
+    {
+      "Name": "DE-Marjory_only_apper_when_Meta_success_(15-Mins)",
+      "X": 23.33,
+      "Y": -380.33,
+      "Z": 234.28
+    },
+    {
+      "Name": "DE-Marjory_only_apper_when_Meta_success_(15-Mins)",
+      "X": 508.67,
+      "Y": -117.78,
+      "Z": 199.41
+    },
+    {
+      "Name": "DE-Marjory_only_apper_when_Meta_success_(Note:will_left_DE_map)",
+      "X": 572.43,
+      "Y": -1009.97,
+      "Z": 226.22
+    }
+  ]
+}

@@ -1,0 +1,1439 @@
+{
+  "Name": "Aurora Awakening Ember Bay Rising-Flames-Mastery&Story- Achievements",
+  "Coordinates": [
+    {
+      "Name": "Port-here-to-start-first-Mission",
+      "X": 71.3518,
+      "Y": 334.728,
+      "Z": 470.805
+    },
+    {
+      "Name": "Port-to-console",
+      "X": 472.777,
+      "Y": 371.062,
+      "Z": 49.3031
+    },
+    {
+      "Name": "Port-to-Portal-and-go-in",
+      "X": 461.754,
+      "Y": 332.948,
+      "Z": 52.3325
+    },
+    {
+      "Name": "Port-to-Taimi[Before.you-go-in-the-Trainings-Arena[You-get-an-needed-achievment-when-you-complete-this-part-without-getting-defeated]",
+      "X": 528.221,
+      "Y": 672.203,
+      "Z": 2.81586
+    },
+    {
+      "Name": "Now-go-into-portal",
+      "X": 537.467,
+      "Y": 718.011,
+      "Z": 7.06585
+    },
+    {
+      "Name": "Talk-to-her-to-go-on-with-story",
+      "X": -236.952,
+      "Y": -662.863,
+      "Z": 25.0419
+    },
+    {
+      "Name": "Talk-to-her",
+      "X": 242.075,
+      "Y": -681.875,
+      "Z": 28.9932
+    },
+    {
+      "Name": "Restart",
+      "X": 274.078,
+      "Y": -564.143,
+      "Z": 22.1018
+    },
+    {
+      "Name": "Restart",
+      "X": 290.73,
+      "Y": -515.588,
+      "Z": 17.4576
+    },
+    {
+      "Name": "Restart",
+      "X": 322.615,
+      "Y": -474.302,
+      "Z": 19.0466
+    },
+    {
+      "Name": "Restart",
+      "X": 373.141,
+      "Y": -448.113,
+      "Z": 15.837
+    },
+    {
+      "Name": "Restart",
+      "X": 400.52,
+      "Y": -512.865,
+      "Z": 16.657
+    },
+    {
+      "Name": "Now-kill-Destroyer-until-you-get-what-you-need",
+      "X": 341.134,
+      "Y": -587.924,
+      "Z": 11.9654
+    },
+    {
+      "Name": "when-youre-done-port-here",
+      "X": 243.334,
+      "Y": -680.881,
+      "Z": 28.9941
+    },
+    {
+      "Name": "Talk-to-him",
+      "X": 394.052,
+      "Y": -377.538,
+      "Z": 33.1074
+    },
+    {
+      "Name": "Talk-to-her",
+      "X": 672.17,
+      "Y": -396.318,
+      "Z": 21.9562
+    },
+    {
+      "Name": "Arm-a-skritt",
+      "X": 700.154,
+      "Y": -314.3,
+      "Z": 13.6581
+    },
+    {
+      "Name": "Arm-a-Skritt",
+      "X": 790.989,
+      "Y": -337.242,
+      "Z": 6.54782
+    },
+    {
+      "Name": "Arm-A-Skritt",
+      "X": 625.102,
+      "Y": -436.055,
+      "Z": 11.7417
+    },
+    {
+      "Name": "Wake-up",
+      "X": 673.3,
+      "Y": -337.258,
+      "Z": 21.3724
+    },
+    {
+      "Name": "Wake-up",
+      "X": 762.6,
+      "Y": -349.124,
+      "Z": 11.7835
+    },
+    {
+      "Name": "Wake-him-up",
+      "X": 724.391,
+      "Y": -382.164,
+      "Z": 14.5225
+    },
+    {
+      "Name": "Take-him",
+      "X": 580.06,
+      "Y": -474.014,
+      "Z": 8.59473
+    },
+    {
+      "Name": "put-him-here",
+      "X": 672.577,
+      "Y": -402.96,
+      "Z": 22.3807
+    },
+    {
+      "Name": "take-him",
+      "X": 584.516,
+      "Y": -467.221,
+      "Z": 9.1632
+    },
+    {
+      "Name": "Put-him-here",
+      "X": 669.755,
+      "Y": -405.871,
+      "Z": 22.3733
+    },
+    {
+      "Name": "Take-him",
+      "X": 586.046,
+      "Y": -472.724,
+      "Z": 8.94192
+    },
+    {
+      "Name": "put-him-here",
+      "X": 670.082,
+      "Y": -406.23,
+      "Z": 22.3529
+    },
+    {
+      "Name": "Talk-to-her",
+      "X": 671.734,
+      "Y": -395.012,
+      "Z": 21.7179
+    },
+    {
+      "Name": "now-talk-to-him",
+      "X": 702.987,
+      "Y": -411.161,
+      "Z": 20.3213
+    },
+    {
+      "Name": "Take",
+      "X": 710.435,
+      "Y": -404.905,
+      "Z": 19.3571
+    },
+    {
+      "Name": "talk-to-him",
+      "X": 394.032,
+      "Y": -377.902,
+      "Z": 33.1072
+    },
+    {
+      "Name": "interact",
+      "X": 389.744,
+      "Y": -378.688,
+      "Z": 33.1094
+    },
+    {
+      "Name": "talk",
+      "X": -728.152,
+      "Y": -590.579,
+      "Z": 6.78971
+    },
+    {
+      "Name": "Take-portal",
+      "X": -737.349,
+      "Y": -588.984,
+      "Z": 7.11478
+    },
+    {
+      "Name": "interact",
+      "X": -567.39,
+      "Y": -366.47,
+      "Z": 178.511
+    },
+    {
+      "Name": "talk-to-her",
+      "X": -27.8918,
+      "Y": -210.0,
+      "Z": 134.598
+    },
+    {
+      "Name": "collect",
+      "X": 36.716,
+      "Y": -41.263,
+      "Z": 48.0289
+    },
+    {
+      "Name": "collect",
+      "X": 52.9174,
+      "Y": -81.0599,
+      "Z": 47.7751
+    },
+    {
+      "Name": "collect",
+      "X": 116.167,
+      "Y": -101.002,
+      "Z": 49.0333
+    },
+    {
+      "Name": "collect",
+      "X": 154.912,
+      "Y": -80.1314,
+      "Z": 30.4728
+    },
+    {
+      "Name": "collect",
+      "X": 109.022,
+      "Y": 1.56507,
+      "Z": 30.9157
+    },
+    {
+      "Name": "talk-to-her-again",
+      "X": -26.8068,
+      "Y": -209.954,
+      "Z": 134.604
+    },
+    {
+      "Name": "activate",
+      "X": -25.4866,
+      "Y": -207.329,
+      "Z": 134.604
+    },
+    {
+      "Name": "talk-to-him",
+      "X": -1054.84,
+      "Y": -38.3073,
+      "Z": 31.8799
+    },
+    {
+      "Name": "collect-armore-peace",
+      "X": -1103.69,
+      "Y": -15.1949,
+      "Z": 40.0939
+    },
+    {
+      "Name": "collect-armore-peace",
+      "X": -984.863,
+      "Y": 164.079,
+      "Z": 73.5123
+    },
+    {
+      "Name": "collect-armore-peace",
+      "X": -960.326,
+      "Y": -32.5024,
+      "Z": 64.7325
+    },
+    {
+      "Name": "collect-last-part",
+      "X": -800.471,
+      "Y": -35.0891,
+      "Z": 110.934
+    },
+    {
+      "Name": "talk-again",
+      "X": -1054.42,
+      "Y": -38.2599,
+      "Z": 31.8799
+    },
+    {
+      "Name": "port-here",
+      "X": -808.762,
+      "Y": -52.3971,
+      "Z": 171.351
+    },
+    {
+      "Name": "interact",
+      "X": -775.087,
+      "Y": -46.7691,
+      "Z": 174.235
+    },
+    {
+      "Name": "talk-to-him",
+      "X": 704.045,
+      "Y": -410.663,
+      "Z": 20.0789
+    },
+    {
+      "Name": "Return-to-Egg-Chamber",
+      "X": 102.481,
+      "Y": -20.3385,
+      "Z": 6.894
+    },
+    {
+      "Name": "Now-you-have-Achievments-to-do-which-one-on-the-next-coord",
+      "X": 55.9946,
+      "Y": -102.792,
+      "Z": 23.3771
+    },
+    {
+      "Name": "Talk/[Achievments=Dragon-Duty=Complete-Mission-without-getting-defeated][Dragon-Vigil=Just-complete-the-story][Im-Rubber:-Youre-Destroyer=Kill-Destroyers-with-their-own-Bombs][Maintain-Aurenes-Shield=Dont-let-her-shield-go-below-50%][No-Bombs-Allowed=Stopped-a-Destroyer-Bomb-from-Exploding]That-is-all-good-luck",
+      "X": 62.1245,
+      "Y": -107.362,
+      "Z": 23.5721
+    },
+    {
+      "Name": "Now-youve-completed-the-story[with-all-story-achievments]now-were-going-into-the[Rising-Flmaes-Achievments-on-the-map-have-fun]",
+      "X": 104.369,
+      "Y": -31.0946,
+      "Z": 6.88156
+    },
+    {
+      "Name": "MP1",
+      "X": 976.635,
+      "Y": 48.8222,
+      "Z": 19.5352
+    },
+    {
+      "Name": "port-here-with-air-walk-on-so-you-get-the-MP2",
+      "X": -1001.19,
+      "Y": -27.2278,
+      "Z": 15.6477
+    },
+    {
+      "Name": "nextports-will-be-for-the-Hungry-Hal-achievment-you-can-do-this-event-with-4-chars-on-one-day-just-do-the-coords-with-one-char-and-then-again-with-another-one-to-get-the-50-Apples-to-him-and-get-all-you-need!",
+      "X": -757.03,
+      "Y": -613.714,
+      "Z": 6.26192
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -777.86,
+      "Y": -812.49,
+      "Z": 36.3243
+    },
+    {
+      "Name": "Give-Him-Apple",
+      "X": -840.566,
+      "Y": -275.575,
+      "Z": 83.1317
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -785.436,
+      "Y": -897.454,
+      "Z": 76.1582
+    },
+    {
+      "Name": "Give-him",
+      "X": -840.509,
+      "Y": -274.859,
+      "Z": 83.1677
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -792.822,
+      "Y": -954.575,
+      "Z": 91.4857
+    },
+    {
+      "Name": "Give-him",
+      "X": -840.557,
+      "Y": -274.51,
+      "Z": 83.1911
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -700.522,
+      "Y": -974.279,
+      "Z": 86.5097
+    },
+    {
+      "Name": "Give-Him",
+      "X": -840.881,
+      "Y": -275.44,
+      "Z": 83.1671
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -697.78,
+      "Y": -990.235,
+      "Z": 86.2964
+    },
+    {
+      "Name": "Give-Him",
+      "X": -841.199,
+      "Y": -275.312,
+      "Z": 83.2034
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -837.753,
+      "Y": -871.311,
+      "Z": 83.1024
+    },
+    {
+      "Name": "Give-Him",
+      "X": -840.668,
+      "Y": -275.245,
+      "Z": 83.164
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -804.708,
+      "Y": -813.198,
+      "Z": 64.8813
+    },
+    {
+      "Name": "Give-Him",
+      "X": -841.01,
+      "Y": -275.194,
+      "Z": 83.1965
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -1061.14,
+      "Y": -540.847,
+      "Z": 59.1751
+    },
+    {
+      "Name": "Give-Him",
+      "X": -841.229,
+      "Y": -275.491,
+      "Z": 83.1924
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -1070.46,
+      "Y": -537.776,
+      "Z": 59.3528
+    },
+    {
+      "Name": "Give-Him",
+      "X": -841.35,
+      "Y": -275.844,
+      "Z": 83.2029
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -1077.99,
+      "Y": -523.066,
+      "Z": 30.7509
+    },
+    {
+      "Name": "Give-Him",
+      "X": -841.385,
+      "Y": -276.206,
+      "Z": 83.2007
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -1061.69,
+      "Y": -509.62,
+      "Z": 22.4824
+    },
+    {
+      "Name": "GIve-Him",
+      "X": -841.52,
+      "Y": -276.526,
+      "Z": 83.2267
+    },
+    {
+      "Name": "Take-Apple",
+      "X": -1031.25,
+      "Y": -558.877,
+      "Z": 41.112
+    },
+    {
+      "Name": "Give-Him",
+      "X": -840.677,
+      "Y": -275.934,
+      "Z": 83.1127
+    },
+    {
+      "Name": "Apple",
+      "X": -1025.47,
+      "Y": -563.091,
+      "Z": 40.909
+    },
+    {
+      "Name": "Give-Him",
+      "X": -840.818,
+      "Y": -275.841,
+      "Z": 83.1315
+    },
+    {
+      "Name": "Apple",
+      "X": -1020.74,
+      "Y": -568.459,
+      "Z": 41.0398
+    },
+    {
+      "Name": "Give-Him",
+      "X": -840.838,
+      "Y": -275.818,
+      "Z": 83.1349
+    },
+    {
+      "Name": "First-do-the-pre-event-hear-to-get-it-going-for[Krackin-Karka-Achievment]",
+      "X": 780.924,
+      "Y": -345.535,
+      "Z": 14.1205
+    },
+    {
+      "Name": "now-do-second-pre-event-to-get-the-Karka-showen-up-and-kill-then-karka-champion-to-get-achievment",
+      "X": 1043.07,
+      "Y": -276.329,
+      "Z": 2.94079
+    },
+    {
+      "Name": "next-Achievment[Metal-Mountain]",
+      "X": 939.241,
+      "Y": -221.034,
+      "Z": 14.0789
+    },
+    {
+      "Name": "FIrst-port-here-and-next-port-will-give-you-achievment",
+      "X": 346.939,
+      "Y": -955.651,
+      "Z": 199.801
+    },
+    {
+      "Name": "Achievment[Metal-Mountain-Completed]",
+      "X": -163.743,
+      "Y": -553.553,
+      "Z": 228.37
+    },
+    {
+      "Name": "Next-Achievment[Queen-of-The-Fire-Islands]-Kill-The-Sloth-Queen-if-not-spawned-just-come-back-later",
+      "X": -163.743,
+      "Y": -553.553,
+      "Z": 228.37
+    },
+    {
+      "Name": "Here-the-Sloth-Queen-will-be-after-shes-released",
+      "X": -1023.74,
+      "Y": -254.042,
+      "Z": 34.0324
+    },
+    {
+      "Name": "Next-Kill-The-Boss-monster-to-get-Achievment[Return-of-the-Jade-Construct]",
+      "X": -1043.03,
+      "Y": -44.1348,
+      "Z": 34.2733
+    },
+    {
+      "Name": "The-next-Achievment-will-be-also-the-Jumping-Puzzle-here-good-luck![Achievment-Skip-up-the-Volcano]",
+      "X": -763.37,
+      "Y": -0.769017,
+      "Z": 362.951
+    },
+    {
+      "Name": "1checkpointjp",
+      "X": -669.919,
+      "Y": -7.20294,
+      "Z": 161.382
+    },
+    {
+      "Name": "2checkpointjp",
+      "X": -660.126,
+      "Y": -170.105,
+      "Z": 184.85
+    },
+    {
+      "Name": "1chestjp",
+      "X": -629.261,
+      "Y": -30.0701,
+      "Z": 235.702
+    },
+    {
+      "Name": "3checkpointjp",
+      "X": -655.295,
+      "Y": -46.0475,
+      "Z": 256.176
+    },
+    {
+      "Name": "4checkpointjp",
+      "X": -615.095,
+      "Y": -236.691,
+      "Z": 264.163
+    },
+    {
+      "Name": "2chestjp",
+      "X": -584.193,
+      "Y": -84.0609,
+      "Z": 252.044
+    },
+    {
+      "Name": "5checkpointjp",
+      "X": -546.56,
+      "Y": -81.7179,
+      "Z": 295.51
+    },
+    {
+      "Name": "finalchestjp[Achievment-Completed]",
+      "X": -662.21,
+      "Y": -295.808,
+      "Z": 363.165
+    },
+    {
+      "Name": "Next-Achievment-is[Skrillas-Benefactor]",
+      "X": -235.283,
+      "Y": -740.77,
+      "Z": 24.8216
+    },
+    {
+      "Name": "Search-Here-for-Skrilla-and-donate-to-her-3-Gold-to-get-achievment[when-shes-not-here-the-event-has-started-and-she-comes-back-after-that-just-wait-or-do-something-else",
+      "X": 712.439,
+      "Y": -373.322,
+      "Z": 14.5089
+    },
+    {
+      "Name": "Info-Text=-The-Achievment[Token-Collector-willbe-done-by-know-because-you-needed-that-achievment-to-get-the-Collections-unlocked]",
+      "X": -235.279,
+      "Y": -740.776,
+      "Z": 24.8214
+    },
+    {
+      "Name": "Next-Achievment[Verm-The-Burnin-Wurm]",
+      "X": 386.311,
+      "Y": 242.509,
+      "Z": 118.828
+    },
+    {
+      "Name": "Kill-The-Meta-Wurm-when-hes-here-if-not-do-something-else",
+      "X": 207.531,
+      "Y": 49.1795,
+      "Z": 67.239
+    },
+    {
+      "Name": "Next-Achievment[Walking-on-Fire]-INFO=-THe-Coords-will-be-in-mid-air-so-open-up-glider-and-fly-through-the-tunnel-to-get-the-achievment[dont-land-thats-fail-for-achievment-and-youhave-to-redo-it]",
+      "X": 166.052,
+      "Y": 61.355,
+      "Z": 69.4143
+    },
+    {
+      "Name": "",
+      "X": 65.1782,
+      "Y": -91.4398,
+      "Z": 48.3359
+    },
+    {
+      "Name": "",
+      "X": 90.6259,
+      "Y": -147.912,
+      "Z": 22.1018
+    },
+    {
+      "Name": "",
+      "X": 108.0,
+      "Y": -183.379,
+      "Z": 22.3381
+    },
+    {
+      "Name": "",
+      "X": 94.3608,
+      "Y": -201.543,
+      "Z": 22.3381
+    },
+    {
+      "Name": "",
+      "X": 76.966,
+      "Y": -231.336,
+      "Z": 17.8441
+    },
+    {
+      "Name": "",
+      "X": 77.732,
+      "Y": -258.011,
+      "Z": 20.9263
+    },
+    {
+      "Name": "",
+      "X": 76.6957,
+      "Y": -283.706,
+      "Z": 20.9286
+    },
+    {
+      "Name": "",
+      "X": 66.5595,
+      "Y": -326.311,
+      "Z": 20.1785
+    },
+    {
+      "Name": "[Walking-on-Fire-completed]",
+      "X": 48.2861,
+      "Y": -386.872,
+      "Z": 4.10248
+    },
+    {
+      "Name": "[Achievment-Broodmother-Down-By-the-Bay]",
+      "X": -887.22,
+      "Y": -624.305,
+      "Z": 7.47542
+    },
+    {
+      "Name": "Kill-The-Boss-around-here-to-get[Dominating-the-Dominator]",
+      "X": 322.949,
+      "Y": -1011.58,
+      "Z": 56.3086
+    },
+    {
+      "Name": "Next-Achievment[Tablets-of-the-Unseen",
+      "X": -1060.2,
+      "Y": -117.074,
+      "Z": 95.1627
+    },
+    {
+      "Name": "tablet1",
+      "X": -1085.68,
+      "Y": -175.182,
+      "Z": 19.847
+    },
+    {
+      "Name": "Tablet2",
+      "X": -1109.03,
+      "Y": -23.5067,
+      "Z": 10.5597
+    },
+    {
+      "Name": "Tablet3",
+      "X": -1048.26,
+      "Y": -21.7232,
+      "Z": 29.0645
+    },
+    {
+      "Name": "Tablet4",
+      "X": -961.742,
+      "Y": -40.7224,
+      "Z": 77.3495
+    },
+    {
+      "Name": "Tablet5",
+      "X": -836.786,
+      "Y": -67.4655,
+      "Z": 111.929
+    },
+    {
+      "Name": "Tablet6",
+      "X": -931.409,
+      "Y": -52.5863,
+      "Z": 77.7523
+    },
+    {
+      "Name": "Tablet7",
+      "X": -820.641,
+      "Y": -96.396,
+      "Z": 170.588
+    },
+    {
+      "Name": "Tablet8",
+      "X": -787.237,
+      "Y": 15.7465,
+      "Z": 187.019
+    },
+    {
+      "Name": "Tablet9",
+      "X": -859.711,
+      "Y": 48.5387,
+      "Z": 140.185
+    },
+    {
+      "Name": "Tablet10",
+      "X": -1000.29,
+      "Y": -82.2492,
+      "Z": 39.1419
+    },
+    {
+      "Name": "Next-Coords-will-be-for-Heart-quests&-the-Achievment[Task-Master]In-which-you-have-to-complete-all-Heart-quests-Enjoy",
+      "X": -757.03,
+      "Y": -613.714,
+      "Z": 6.26192
+    },
+    {
+      "Name": "Pearl",
+      "X": -849.73,
+      "Y": -714.734,
+      "Z": 7.11605
+    },
+    {
+      "Name": "Steal-Egg",
+      "X": -764.14,
+      "Y": -686.268,
+      "Z": 0.856078
+    },
+    {
+      "Name": "Steal",
+      "X": -728.263,
+      "Y": -754.861,
+      "Z": 1.65827
+    },
+    {
+      "Name": "Steal",
+      "X": -764.606,
+      "Y": -817.079,
+      "Z": 14.486
+    },
+    {
+      "Name": "Steal",
+      "X": -752.588,
+      "Y": -848.61,
+      "Z": 20.8474
+    },
+    {
+      "Name": "Steal",
+      "X": -729.117,
+      "Y": -851.742,
+      "Z": 20.5178
+    },
+    {
+      "Name": "Steal",
+      "X": -713.29,
+      "Y": -823.915,
+      "Z": 17.8315
+    },
+    {
+      "Name": "Steal",
+      "X": -692.246,
+      "Y": -865.469,
+      "Z": 21.7428
+    },
+    {
+      "Name": "Pearl",
+      "X": -689.315,
+      "Y": -869.197,
+      "Z": 21.5128
+    },
+    {
+      "Name": "Steal",
+      "X": -715.203,
+      "Y": -904.99,
+      "Z": 22.0664
+    },
+    {
+      "Name": "Take-Egg",
+      "X": -804.379,
+      "Y": -834.138,
+      "Z": 61.3184
+    },
+    {
+      "Name": "Take-Egg",
+      "X": -794.867,
+      "Y": -805.601,
+      "Z": 64.6532
+    },
+    {
+      "Name": "Steal",
+      "X": -838.126,
+      "Y": -749.652,
+      "Z": 13.8039
+    },
+    {
+      "Name": "Take",
+      "X": -875.367,
+      "Y": -858.625,
+      "Z": 64.5161
+    },
+    {
+      "Name": "Take",
+      "X": -881.336,
+      "Y": -858.752,
+      "Z": 64.4994
+    },
+    {
+      "Name": "Take",
+      "X": -865.786,
+      "Y": -848.111,
+      "Z": 48.8383
+    },
+    {
+      "Name": "Take",
+      "X": -794.439,
+      "Y": -805.368,
+      "Z": 64.4334
+    },
+    {
+      "Name": "Take",
+      "X": -804.13,
+      "Y": -831.649,
+      "Z": 61.5619
+    },
+    {
+      "Name": "Take",
+      "X": -895.234,
+      "Y": -837.586,
+      "Z": 63.9543
+    },
+    {
+      "Name": "Take",
+      "X": -855.773,
+      "Y": -882.383,
+      "Z": 77.2818
+    },
+    {
+      "Name": "Take",
+      "X": -840.025,
+      "Y": -876.315,
+      "Z": 83.0859
+    },
+    {
+      "Name": "Take",
+      "X": -720.903,
+      "Y": -1006.94,
+      "Z": 65.8439
+    },
+    {
+      "Name": "Take",
+      "X": -697.138,
+      "Y": -1009.86,
+      "Z": 78.8536
+    },
+    {
+      "Name": "Give-him-all-the-stuff-collected-Heart-completed",
+      "X": -801.349,
+      "Y": -788.99,
+      "Z": 20.344
+    },
+    {
+      "Name": "Passed-out",
+      "X": 725.249,
+      "Y": -381.593,
+      "Z": 14.3257
+    },
+    {
+      "Name": "Passed-out",
+      "X": 760.355,
+      "Y": -350.735,
+      "Z": 11.8454
+    },
+    {
+      "Name": "Passed-out",
+      "X": 824.116,
+      "Y": -370.739,
+      "Z": 15.9141
+    },
+    {
+      "Name": "Passed-Out",
+      "X": 788.003,
+      "Y": -413.667,
+      "Z": 16.9154
+    },
+    {
+      "Name": "Passed-Out",
+      "X": 748.775,
+      "Y": -438.644,
+      "Z": 12.3999
+    },
+    {
+      "Name": "Passed-Out",
+      "X": 790.316,
+      "Y": -507.902,
+      "Z": 1.9125
+    },
+    {
+      "Name": "Passed-Out",
+      "X": 722.5,
+      "Y": -500.859,
+      "Z": 9.64671
+    },
+    {
+      "Name": "Weapon-Cache",
+      "X": 625.418,
+      "Y": -433.944,
+      "Z": 12.0675
+    },
+    {
+      "Name": "Weapon-Cache",
+      "X": 603.131,
+      "Y": -353.47,
+      "Z": 21.6999
+    },
+    {
+      "Name": "Rescue-Skritt",
+      "X": 560.319,
+      "Y": -414.564,
+      "Z": 18.7904
+    },
+    {
+      "Name": "Put-Rescued-Skritt-in-Bed",
+      "X": 671.013,
+      "Y": -409.048,
+      "Z": 22.3148
+    },
+    {
+      "Name": "Rescue",
+      "X": 581.101,
+      "Y": -472.284,
+      "Z": 8.73502
+    },
+    {
+      "Name": "Put-In-Bed",
+      "X": 673.081,
+      "Y": -403.722,
+      "Z": 22.3847
+    },
+    {
+      "Name": "Rescue",
+      "X": 584.228,
+      "Y": -474.644,
+      "Z": 8.7654
+    },
+    {
+      "Name": "put-in-Bed",
+      "X": 671.357,
+      "Y": -405.524,
+      "Z": 22.4212
+    },
+    {
+      "Name": "Weapon-Cache",
+      "X": 698.467,
+      "Y": -315.603,
+      "Z": 13.7267
+    },
+    {
+      "Name": "Passed-Out",
+      "X": 676.058,
+      "Y": -336.117,
+      "Z": 21.29
+    },
+    {
+      "Name": "Passed-Out",
+      "X": 640.629,
+      "Y": -369.731,
+      "Z": 18.9622
+    },
+    {
+      "Name": "Rescue",
+      "X": 584.775,
+      "Y": -467.719,
+      "Z": 9.16012
+    },
+    {
+      "Name": "Put-in-Bed-Heart-completed",
+      "X": 675.971,
+      "Y": -395.297,
+      "Z": 22.0117
+    },
+    {
+      "Name": "Camera",
+      "X": 274.176,
+      "Y": -564.6,
+      "Z": 22.1529
+    },
+    {
+      "Name": "Camera",
+      "X": 291.563,
+      "Y": -514.088,
+      "Z": 17.0025
+    },
+    {
+      "Name": "Camera",
+      "X": 322.144,
+      "Y": -473.22,
+      "Z": 19.2534
+    },
+    {
+      "Name": "Camera",
+      "X": 370.895,
+      "Y": -448.171,
+      "Z": 15.9791
+    },
+    {
+      "Name": "Camera",
+      "X": 400.532,
+      "Y": -513.038,
+      "Z": 16.6524
+    },
+    {
+      "Name": "Camera",
+      "X": 358.681,
+      "Y": -551.18,
+      "Z": 12.7519
+    },
+    {
+      "Name": "Camera",
+      "X": 367.65,
+      "Y": -641.267,
+      "Z": 12.0525
+    },
+    {
+      "Name": "Camera",
+      "X": 302.615,
+      "Y": -713.664,
+      "Z": 6.87336
+    },
+    {
+      "Name": "Camera",
+      "X": 306.524,
+      "Y": -817.269,
+      "Z": 20.6961
+    },
+    {
+      "Name": "Camera",
+      "X": 326.96,
+      "Y": -877.084,
+      "Z": 36.021
+    },
+    {
+      "Name": "Camera",
+      "X": 341.329,
+      "Y": -983.955,
+      "Z": 50.2753
+    },
+    {
+      "Name": "Camera",
+      "X": 401.094,
+      "Y": -1023.44,
+      "Z": 49.8164
+    },
+    {
+      "Name": "Camera",
+      "X": 261.148,
+      "Y": -868.515,
+      "Z": 11.1999
+    },
+    {
+      "Name": "Camera",
+      "X": 407.491,
+      "Y": -645.84,
+      "Z": 21.6377
+    },
+    {
+      "Name": "Camera",
+      "X": 465.003,
+      "Y": -749.026,
+      "Z": 7.932
+    },
+    {
+      "Name": "Camera",
+      "X": 324.046,
+      "Y": -472.456,
+      "Z": 19.1041
+    },
+    {
+      "Name": "Camera",
+      "X": 292.118,
+      "Y": -515.902,
+      "Z": 16.8596
+    },
+    {
+      "Name": "Camera",
+      "X": 274.447,
+      "Y": -563.283,
+      "Z": 21.9363
+    },
+    {
+      "Name": "Camera",
+      "X": 357.495,
+      "Y": -552.735,
+      "Z": 12.7464
+    },
+    {
+      "Name": "Next-coords-are-just-for-when-you-didnt-got-the-last-4-camera-the-respawned-ones",
+      "X": 387.677,
+      "Y": -624.279,
+      "Z": 15.4172
+    },
+    {
+      "Name": "Kill2",
+      "X": 386.162,
+      "Y": -665.322,
+      "Z": 14.1367
+    },
+    {
+      "Name": "Kill",
+      "X": 367.072,
+      "Y": -670.009,
+      "Z": 11.3158
+    },
+    {
+      "Name": "Kill-Heart-completed",
+      "X": 424.573,
+      "Y": -574.896,
+      "Z": 13.4058
+    },
+    {
+      "Name": "Kill-ooze",
+      "X": 223.625,
+      "Y": 127.914,
+      "Z": 74.8129
+    },
+    {
+      "Name": "Kill-OOze",
+      "X": 232.065,
+      "Y": 152.745,
+      "Z": 78.747
+    },
+    {
+      "Name": "Kill-Elemental",
+      "X": 221.25,
+      "Y": 173.021,
+      "Z": 83.6404
+    },
+    {
+      "Name": "Artifact",
+      "X": 220.042,
+      "Y": -39.9279,
+      "Z": 47.8151
+    },
+    {
+      "Name": "Artifact",
+      "X": 180.433,
+      "Y": -74.2378,
+      "Z": 49.323
+    },
+    {
+      "Name": "Artifact",
+      "X": 111.569,
+      "Y": -98.5254,
+      "Z": 49.3773
+    },
+    {
+      "Name": "Artifact",
+      "X": 122.866,
+      "Y": -83.1447,
+      "Z": 30.5902
+    },
+    {
+      "Name": "Artifact",
+      "X": 165.614,
+      "Y": -86.3049,
+      "Z": 36.5867
+    },
+    {
+      "Name": "Artifact",
+      "X": 197.082,
+      "Y": -54.4855,
+      "Z": 33.4756
+    },
+    {
+      "Name": "Artifact",
+      "X": 184.014,
+      "Y": -35.4667,
+      "Z": 30.13
+    },
+    {
+      "Name": "Artifact",
+      "X": 165.316,
+      "Y": 4.63858,
+      "Z": 28.7884
+    },
+    {
+      "Name": "Artifact",
+      "X": 124.245,
+      "Y": -1.02897,
+      "Z": 29.0536
+    },
+    {
+      "Name": "Artifact",
+      "X": 143.047,
+      "Y": 30.2429,
+      "Z": 44.847
+    },
+    {
+      "Name": "Artifact",
+      "X": 107.588,
+      "Y": 54.6008,
+      "Z": 49.6154
+    },
+    {
+      "Name": "Artifact",
+      "X": 47.2564,
+      "Y": 8.30854,
+      "Z": 47.6442
+    },
+    {
+      "Name": "Artifact",
+      "X": 65.2825,
+      "Y": -34.3173,
+      "Z": 40.0595
+    },
+    {
+      "Name": "Artifact",
+      "X": 62.3507,
+      "Y": -63.7673,
+      "Z": 49.5608
+    },
+    {
+      "Name": "Artifact",
+      "X": 68.8756,
+      "Y": 24.878,
+      "Z": 67.6946
+    },
+    {
+      "Name": "Kill-2-3-or-4-Enemys-then-Heart-completed",
+      "X": 192.283,
+      "Y": 27.485,
+      "Z": 44.1116
+    },
+    {
+      "Name": "Lore-Tablet",
+      "X": -1050.51,
+      "Y": -22.66,
+      "Z": 27.5566
+    },
+    {
+      "Name": "Kill-2-Jade-armours",
+      "X": -980.204,
+      "Y": 86.4376,
+      "Z": 83.2098
+    },
+    {
+      "Name": "Lore-Tablet",
+      "X": -859.325,
+      "Y": 49.6697,
+      "Z": 140.211
+    },
+    {
+      "Name": "Lore-Tablet",
+      "X": -787.589,
+      "Y": 16.1366,
+      "Z": 187.035
+    },
+    {
+      "Name": "Lore-Tablet",
+      "X": -835.216,
+      "Y": -69.0714,
+      "Z": 111.992
+    },
+    {
+      "Name": "Lore-Tablet",
+      "X": -819.456,
+      "Y": -96.848,
+      "Z": 170.622
+    },
+    {
+      "Name": "Kill-Jade-Armours",
+      "X": -807.047,
+      "Y": -123.435,
+      "Z": 170.474
+    },
+    {
+      "Name": "Kill",
+      "X": -815.473,
+      "Y": -30.5701,
+      "Z": 111.588
+    },
+    {
+      "Name": "Lore-Tablet",
+      "X": -1086.28,
+      "Y": -174.708,
+      "Z": 19.7059
+    },
+    {
+      "Name": "Lore-Tablet",
+      "X": -1107.82,
+      "Y": -24.001,
+      "Z": 10.6407
+    },
+    {
+      "Name": "Kill",
+      "X": -951.847,
+      "Y": -116.287,
+      "Z": 84.2421
+    },
+    {
+      "Name": "Kill2",
+      "X": -912.824,
+      "Y": -103.316,
+      "Z": 112.447
+    },
+    {
+      "Name": "Kill",
+      "X": -886.08,
+      "Y": -10.2948,
+      "Z": 113.047
+    },
+    {
+      "Name": "Kill",
+      "X": -914.038,
+      "Y": 6.98831,
+      "Z": 114.014
+    },
+    {
+      "Name": "Kill-Heart-completed",
+      "X": -930.172,
+      "Y": 10.2519,
+      "Z": 111.317
+    },
+    {
+      "Name": "Next&-last-Achievment-is[Collecting-Coalescence]-You-have-to-do-3-Events-to-get-it.enjoy",
+      "X": 331.464,
+      "Y": -294.904,
+      "Z": 34.443
+    },
+    {
+      "Name": "First-event-is-here",
+      "X": 279.139,
+      "Y": -339.626,
+      "Z": 41.4919
+    },
+    {
+      "Name": "next-Event-is-here",
+      "X": -556.471,
+      "Y": -1054.69,
+      "Z": 45.6171
+    },
+    {
+      "Name": "The-last-one-is-here-port-to-the-other-2-if-there-isnothing-here-for-you-eventually-the-event-will-start-and-you-get-it-See-ya-in-the-other-Collections",
+      "X": 551.744,
+      "Y": -685.925,
+      "Z": 1.91222
+    }
+  ]
+}

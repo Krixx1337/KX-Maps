@@ -1,0 +1,287 @@
+{
+  "Name": "Poi",
+  "Coordinates": [
+    {
+      "Name": "before_going_into_pois_get_a_stealth_kit_from_him",
+      "X": 52.22,
+      "Y": 648.72,
+      "Z": 214.56
+    },
+    {
+      "Name": "Kage´s_Perch",
+      "X": 39.97,
+      "Y": 608.1,
+      "Z": 362.03
+    },
+    {
+      "Name": "Ingenuity_Square",
+      "X": 90.84,
+      "Y": 788.8,
+      "Z": 207.07
+    },
+    {
+      "Name": "Mi-Shen´s_Lab",
+      "X": 172.78,
+      "Y": 834.01,
+      "Z": 275.11
+    },
+    {
+      "Name": "Memorial_zu_Heltzer",
+      "X": -482.84,
+      "Y": 856.67,
+      "Z": 260.84
+    },
+    {
+      "Name": "Caretaker´s_Camp",
+      "X": -703.44,
+      "Y": 741.42,
+      "Z": 200.75
+    },
+    {
+      "Name": "House_zu_Heltzer",
+      "X": -779.81,
+      "Y": 125.25,
+      "Z": 204.57
+    },
+    {
+      "Name": "Altrumm_Mines",
+      "X": -1330.53,
+      "Y": 194.58,
+      "Z": 213.66
+    },
+    {
+      "Name": "Dreslav´s_Garden",
+      "X": 373.7,
+      "Y": 890.05,
+      "Z": 252.21
+    },
+    {
+      "Name": "Aoi´s_Perch",
+      "X": 875.34,
+      "Y": 640.84,
+      "Z": 324.47
+    },
+    {
+      "Name": "Aspenwood_Research_Facility",
+      "X": 552.39,
+      "Y": 311.64,
+      "Z": 190.14
+    },
+    {
+      "Name": "Aspenwood_Sublevel_B1",
+      "X": 462.01,
+      "Y": 224.9,
+      "Z": 185.46
+    },
+    {
+      "Name": "Tangled_Altar",
+      "X": 329.3,
+      "Y": 429.04,
+      "Z": 302.65
+    },
+    {
+      "Name": "Goa_Village",
+      "X": 355.18,
+      "Y": 117.98,
+      "Z": 280.03
+    },
+    {
+      "Name": "Vasburg_armory",
+      "X": 881.72,
+      "Y": 114.92,
+      "Z": 16.45
+    },
+    {
+      "Name": "Secret_Cavern",
+      "X": 528.8,
+      "Y": -45.92,
+      "Z": 97.35
+    },
+    {
+      "Name": "Karstadt_Village",
+      "X": 955.72,
+      "Y": -126.06,
+      "Z": 104.32
+    },
+    {
+      "Name": "Qinkai_Stream",
+      "X": 1278.58,
+      "Y": 155.46,
+      "Z": 28.98
+    },
+    {
+      "Name": "Valdhertz_Crypts",
+      "X": 1409.08,
+      "Y": -228.4,
+      "Z": 37.52
+    },
+    {
+      "Name": "Teleri_Village",
+      "X": 503.99,
+      "Y": -372.81,
+      "Z": 70.26
+    },
+    {
+      "Name": "Ancient_Archives",
+      "X": 370.77,
+      "Y": -280.54,
+      "Z": 168.78
+    },
+    {
+      "Name": "Dump_site_2",
+      "X": 71.67,
+      "Y": 37.05,
+      "Z": 144.72
+    },
+    {
+      "Name": "Dump_site_3",
+      "X": -125.84,
+      "Y": 1.19,
+      "Z": 112.85
+    },
+    {
+      "Name": "Dump_Site_1",
+      "X": -69.62,
+      "Y": 160.26,
+      "Z": 195.05
+    },
+    {
+      "Name": "Xunlai_Jade_Junkyard_outpost_E-1",
+      "X": -230.26,
+      "Y": 160.64,
+      "Z": 184.53
+    },
+    {
+      "Name": "Wrightstone_Chantry",
+      "X": -344.77,
+      "Y": 333.95,
+      "Z": 265.33
+    },
+    {
+      "Name": "Aetherblade_Hideout",
+      "X": -334.5,
+      "Y": 29.55,
+      "Z": 184.9
+    },
+    {
+      "Name": "Sarophyte´s_Pond",
+      "X": -499.08,
+      "Y": -135.2,
+      "Z": 142.16
+    },
+    {
+      "Name": "Cylow_Outpost",
+      "X": -260.34,
+      "Y": -155.75,
+      "Z": 180.68
+    },
+    {
+      "Name": "Arianna´s_Perch",
+      "X": 83.25,
+      "Y": -328.1,
+      "Z": 274.89
+    },
+    {
+      "Name": "Court_of_Song",
+      "X": 137.91,
+      "Y": -603.77,
+      "Z": 234.89
+    },
+    {
+      "Name": "Forever_Tree",
+      "X": -91.66,
+      "Y": -829.48,
+      "Z": 145.26
+    },
+    {
+      "Name": "Temple_of_the_Dredge",
+      "X": -436.38,
+      "Y": -524.82,
+      "Z": 167.74
+    },
+    {
+      "Name": "Kropa_Village",
+      "X": -567.75,
+      "Y": -385.55,
+      "Z": 195.59
+    },
+    {
+      "Name": "Skygazer_Cathedral",
+      "X": -1028.39,
+      "Y": -139.58,
+      "Z": 160.31
+    },
+    {
+      "Name": "for_next_Poi_get_disguise",
+      "X": -1073.73,
+      "Y": -538.75,
+      "Z": 219.65
+    },
+    {
+      "Name": "Speaker´s_Sanctum",
+      "X": -1230.73,
+      "Y": -628.2,
+      "Z": 199.42
+    },
+    {
+      "Name": "Chamber_of_the_Spirits",
+      "X": -1236.82,
+      "Y": -770.38,
+      "Z": 207.71
+    },
+    {
+      "Name": "Erys_Oasis",
+      "X": -962.64,
+      "Y": -820.74,
+      "Z": 245.84
+    },
+    {
+      "Name": "Saint_Anjeka´s_Shrine",
+      "X": -687.79,
+      "Y": -862.79,
+      "Z": -1.39
+    },
+    {
+      "Name": "Yarrow´s_Perch",
+      "X": -652.36,
+      "Y": -656.62,
+      "Z": 388.71
+    },
+    {
+      "Name": "Lutgardis_Ruins",
+      "X": 593.93,
+      "Y": -804.47,
+      "Z": -8.58
+    },
+    {
+      "Name": "Hermit´s_Dock",
+      "X": 798.67,
+      "Y": -568.9,
+      "Z": 3.65
+    },
+    {
+      "Name": "Elder´s_Roost",
+      "X": 1057.19,
+      "Y": -756.12,
+      "Z": 114.61
+    },
+    {
+      "Name": "Mori_Plaza",
+      "X": 1287.3,
+      "Y": -756.09,
+      "Z": 49.22
+    },
+    {
+      "Name": "Qinkai_Village",
+      "X": 1292.39,
+      "Y": 623.97,
+      "Z": 5.39
+    },
+    {
+      "Name": "Qinkaishi_Falls",
+      "X": 1274.33,
+      "Y": 897.95,
+      "Z": -1.35
+    }
+  ]
+}

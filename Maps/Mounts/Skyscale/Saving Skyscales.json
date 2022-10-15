@@ -1,0 +1,239 @@
+{
+  "Name": "Saving Skyscales",
+  "Coordinates": [
+    {
+      "Name": "SS_Spirit1_Brisban",
+      "X": 683.939,
+      "Y": -453.405,
+      "Z": 45.6961
+    },
+    {
+      "Name": "SS_Life1_D.Reach",
+      "X": 54.8725,
+      "Y": -575.625,
+      "Z": 123.37
+    },
+    {
+      "Name": "SS_Blood1_Dragonfall",
+      "X": 917.811,
+      "Y": 814.401,
+      "Z": 131.866
+    },
+    {
+      "Name": "SS_Ice1_Frostgorge",
+      "X": -677.652,
+      "Y": -296.721,
+      "Z": 52.698
+    },
+    {
+      "Name": "SS_Growth1_Grove(Enter-Instance)",
+      "X": 80.9519,
+      "Y": 50.305,
+      "Z": 83.4537
+    },
+    {
+      "Name": "SS_Fear1_Lornars",
+      "X": -12.5367,
+      "Y": -1571.72,
+      "Z": 89.0643
+    },
+    {
+      "Name": "SS_Courage1_S.O.Devastation",
+      "X": 929.463,
+      "Y": 156.107,
+      "Z": 39.9156
+    },
+    {
+      "Name": "SS_Air1/Earth1/Fire1/Water1_Vabbi",
+      "X": 1683.94,
+      "Y": -141.22,
+      "Z": 111.027
+    },
+    {
+      "Name": "SS_Death1_Vabbi",
+      "X": -1013.8,
+      "Y": -881.359,
+      "Z": 247.077
+    },
+    {
+      "Name": "PART_1_COMPLETE",
+      "X": -1013.8,
+      "Y": -881.359,
+      "Z": 247.077
+    },
+    {
+      "Name": "SS_Fire2_B.Citadel",
+      "X": 296.615,
+      "Y": -139.796,
+      "Z": 154.753
+    },
+    {
+      "Name": "SS_Fear5_Blazeridge",
+      "X": -317.929,
+      "Y": 807.053,
+      "Z": 237.451
+    },
+    {
+      "Name": "SS_Water3_Bloodtide",
+      "X": -137.444,
+      "Y": -756.845,
+      "Z": -312.4
+    },
+    {
+      "Name": "SS_Earth2_C.Oasis",
+      "X": -351.04,
+      "Y": 738.999,
+      "Z": 53.6523
+    },
+    {
+      "Name": "SS_Death4_D.Highlands",
+      "X": 1743.51,
+      "Y": 668.281,
+      "Z": 198.065
+    },
+    {
+      "Name": "SS_Fire5_D.Highlands",
+      "X": -1314.15,
+      "Y": 202.741,
+      "Z": 256.81
+    },
+    {
+      "Name": "SS_Growth2_D.Highlands",
+      "X": -494.962,
+      "Y": -216.775,
+      "Z": 106.925
+    },
+    {
+      "Name": "SS_Ice2_D.Highlands",
+      "X": -1494.3,
+      "Y": 81.1809,
+      "Z": 394.985
+    },
+    {
+      "Name": "SS_Spirit5_D.Highlands",
+      "X": 1327.43,
+      "Y": -463.947,
+      "Z": 251.541
+    },
+    {
+      "Name": "SS_Death3_Desolation",
+      "X": 379.32,
+      "Y": -1669.05,
+      "Z": 341.138
+    },
+    {
+      "Name": "SS_Growth5_Desolation",
+      "X": 588.313,
+      "Y": 1821.51,
+      "Z": 21.4655
+    },
+    {
+      "Name": "SS_Earth3_DryTop",
+      "X": 295.096,
+      "Y": -320.423,
+      "Z": 12.4322
+    },
+    {
+      "Name": "SS_Death2_Elon",
+      "X": -161.582,
+      "Y": -5.66409,
+      "Z": 32.9793
+    },
+    {
+      "Name": "SS_Earth4_Elon",
+      "X": -22.7811,
+      "Y": 397.331,
+      "Z": 77.2529
+    },
+    {
+      "Name": "SS_Water4_Elon",
+      "X": -1694.81,
+      "Y": 208.503,
+      "Z": -11.5261
+    },
+    {
+      "Name": "SS_Spirit4_Elon",
+      "X": -1216.38,
+      "Y": 1236.49,
+      "Z": 110.643
+    },
+    {
+      "Name": "SS_Fear4_F.O.Ruin",
+      "X": -899.799,
+      "Y": -965.934,
+      "Z": 76.7169
+    },
+    {
+      "Name": "SS_Death5_Istan",
+      "X": -520.78,
+      "Y": -556.947,
+      "Z": 103.549
+    },
+    {
+      "Name": "SS_Spirit2_Jahai",
+      "X": 95.76,
+      "Y": 3.93175,
+      "Z": 70.2832
+    },
+    {
+      "Name": "SS_Spirit3_Jahai",
+      "X": -1199.36,
+      "Y": 693.002,
+      "Z": 63.3983
+    },
+    {
+      "Name": "SS_Water2_Kourna",
+      "X": -1205.8,
+      "Y": 1089.51,
+      "Z": -488.905
+    },
+    {
+      "Name": "SS_Fire3_Maelstrom",
+      "X": -406.526,
+      "Y": -269.661,
+      "Z": 12.516
+    },
+    {
+      "Name": "SS_Air3_Maelstrom",
+      "X": 1320.22,
+      "Y": 846.844,
+      "Z": 140.834
+    },
+    {
+      "Name": "SS_Courage2_Silverwastes",
+      "X": 699.202,
+      "Y": -282.328,
+      "Z": 509.106
+    },
+    {
+      "Name": "SS_Ice3_Thunderhead",
+      "X": -86.8131,
+      "Y": -1215.07,
+      "Z": -56.9846
+    },
+    {
+      "Name": "SS_Courage3_Vabbi",
+      "X": 556.556,
+      "Y": 16.8609,
+      "Z": 357.809
+    },
+    {
+      "Name": "SS_Earth5_Vabbi",
+      "X": -542.565,
+      "Y": -439.876,
+      "Z": 114.456
+    },
+    {
+      "Name": "SS_Fire4_Vabbi",
+      "X": -1575.38,
+      "Y": -299.871,
+      "Z": 87.8492
+    },
+    {
+      "Name": "SS_Growth3_Vabbi",
+      "X": -1195.1,
+      "Y": -1137.34,
+      "Z": 321.732
+    }
+  ]
+}

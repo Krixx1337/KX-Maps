@@ -1,0 +1,23 @@
+{
+  "Name": "Timberline-Falls",
+  "Coordinates": [
+    {
+      "Name": "TimberlineFalls-to-LornarsPass",
+      "X": -683.48,
+      "Y": 1176.0,
+      "Z": 55.79
+    },
+    {
+      "Name": "TimberlineFalls-to-Dredgehaunt",
+      "X": 390.88,
+      "Y": 1199.01,
+      "Z": 89.41
+    },
+    {
+      "Name": "TimberlineFalls-to-MountMaelstrom",
+      "X": -423.23,
+      "Y": -1038.78,
+      "Z": 12.73
+    }
+  ]
+}

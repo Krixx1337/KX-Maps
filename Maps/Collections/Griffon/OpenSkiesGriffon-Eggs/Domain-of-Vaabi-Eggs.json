@@ -1,0 +1,35 @@
+{
+  "Name": "Domain-of-Vaabi-Eggs",
+  "Coordinates": [
+    {
+      "Name": "Warmed-Vabian-Griffon-Egg",
+      "X": 1734.78,
+      "Y": -991.17,
+      "Z": 338.69
+    },
+    {
+      "Name": "Cracked-Vabian-Griffon-Egg",
+      "X": 1584.69,
+      "Y": -637.21,
+      "Z": 346.24
+    },
+    {
+      "Name": "Polished-Vabian-Griffon-Egg",
+      "X": 1620.68,
+      "Y": -159.55,
+      "Z": 258.35
+    },
+    {
+      "Name": "Rubby-Vabian-Griffon-Egg",
+      "X": 1219.12,
+      "Y": -676.72,
+      "Z": 246.04
+    },
+    {
+      "Name": "Charged-Vabian-Griffon-Egg",
+      "X": 1253.49,
+      "Y": -993.05,
+      "Z": 163.98
+    }
+  ]
+}

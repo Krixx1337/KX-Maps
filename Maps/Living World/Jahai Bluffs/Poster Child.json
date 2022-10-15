@@ -1,0 +1,143 @@
+{
+  "Name": "Poster Child",
+  "Coordinates": [
+    {
+      "Name": "Jahai_Bluff_1",
+      "X": 909.76,
+      "Y": 1068.85,
+      "Z": 151.01
+    },
+    {
+      "Name": "Jahai_Bluff_2",
+      "X": -532.11,
+      "Y": -765.85,
+      "Z": 57.84
+    },
+    {
+      "Name": "Jahai_Bluff_3",
+      "X": 1061.96,
+      "Y": -338.62,
+      "Z": 53.41
+    },
+    {
+      "Name": "Jahai_Bluff_4",
+      "X": 940.3,
+      "Y": -971.87,
+      "Z": 53.95
+    },
+    {
+      "Name": "Jahai_Bluff_5",
+      "X": -766.27,
+      "Y": 675.52,
+      "Z": 58.77
+    },
+    {
+      "Name": "Go_to_Crystal_Oasis",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Crystal_Oasis_6",
+      "X": -1040.77,
+      "Y": -184.12,
+      "Z": 10.76
+    },
+    {
+      "Name": "Go_to_Desert_Highlands",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Desert_Highlands_7",
+      "X": 621.28,
+      "Y": -769.29,
+      "Z": 180.84
+    },
+    {
+      "Name": "Go_to_Elon_Riverlands",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Elon_Riverlands_8",
+      "X": 479.36,
+      "Y": 542.18,
+      "Z": 96.53
+    },
+    {
+      "Name": "Go_to_Desolation",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Desolation_9",
+      "X": 299.45,
+      "Y": 1504.15,
+      "Z": 10.21
+    },
+    {
+      "Name": "Go_to_Domain_of_Vabbi",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Domain_of_Vabbi_10",
+      "X": 434.3,
+      "Y": -783.31,
+      "Z": 84.41
+    },
+    {
+      "Name": "Go_to_Lions_Arch",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Lions_Arch11",
+      "X": 109.35,
+      "Y": -266.42,
+      "Z": 37.75
+    },
+    {
+      "Name": "Go_to_Fields_of_Ruin",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Fields_of_Ruin_12",
+      "X": -690.38,
+      "Y": -644.61,
+      "Z": 63.89
+    },
+    {
+      "Name": "Go_to_Divinitys_Reach",
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    {
+      "Name": "Divinitys_Reach_13",
+      "X": -243.92,
+      "Y": 273.13,
+      "Z": 73.1
+    },
+    {
+      "Name": "Divinitys_Reach_14",
+      "X": 42.08,
+      "Y": -189.29,
+      "Z": 175.76
+    },
+    {
+      "Name": "Divinitys_Reach_15",
+      "X": 999.83,
+      "Y": -438.89,
+      "Z": 29.62
+    }
+  ]
+}

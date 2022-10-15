@@ -1,0 +1,35 @@
+{
+  "Name": "Big-Bluffs-Hunter",
+  "Coordinates": [
+    {
+      "Name": "Champion-Elasa-the-Elemental-Spawn-Area",
+      "X": -538.24,
+      "Y": 1111.64,
+      "Z": 111.6
+    },
+    {
+      "Name": "Champion-Judge-Aasma-spawn-area",
+      "X": 659.6,
+      "Y": 206.37,
+      "Z": 261.48
+    },
+    {
+      "Name": "Champion-Rilohn-Broodmother",
+      "X": 1450.09,
+      "Y": 762.42,
+      "Z": 166.91
+    },
+    {
+      "Name": "Champion-The-Tooth-spawn-area",
+      "X": -1101.43,
+      "Y": 1036.54,
+      "Z": 93.51
+    },
+    {
+      "Name": "Champion-Vihn-spawn-Area",
+      "X": 248.11,
+      "Y": -181.8,
+      "Z": 96.53
+    }
+  ]
+}

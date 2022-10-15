@@ -1,0 +1,95 @@
+{
+  "Name": "BloodstoneFenJunglePlant",
+  "Coordinates": [
+    {
+      "Name": "JunglePlant1BloodstoneFen",
+      "X": -284.754,
+      "Y": 188.085,
+      "Z": 855.778
+    },
+    {
+      "Name": "JunglePlant2BloodstoneFen",
+      "X": -328.421,
+      "Y": 164.166,
+      "Z": 866.644
+    },
+    {
+      "Name": "JunglePlant3Bloodstonefen",
+      "X": -299.724,
+      "Y": 145.756,
+      "Z": 852.226
+    },
+    {
+      "Name": "Jungleplant4BloodstoneFen",
+      "X": -43.5043,
+      "Y": 174.188,
+      "Z": 827.036
+    },
+    {
+      "Name": "Jungleplant5BloodstoneFen",
+      "X": 215.736,
+      "Y": -26.7644,
+      "Z": 937.921
+    },
+    {
+      "Name": "Jungleplant6BloodstoneFen",
+      "X": 194.641,
+      "Y": -133.39,
+      "Z": 855.343
+    },
+    {
+      "Name": "Jungleplant7Bloodstonefen",
+      "X": -50.6711,
+      "Y": -110.496,
+      "Z": 866.719
+    },
+    {
+      "Name": "Jungleplant8Bloodstonefen",
+      "X": -62.5267,
+      "Y": -105.384,
+      "Z": 852.004
+    },
+    {
+      "Name": "Jungleplant9Bloodstonefen",
+      "X": -100.645,
+      "Y": 150.481,
+      "Z": 671.269
+    },
+    {
+      "Name": "Jungleplant10Bloodstonefen",
+      "X": -220.256,
+      "Y": 151.231,
+      "Z": 656.908
+    },
+    {
+      "Name": "Jungleplant11Bloodstonefen",
+      "X": -193.147,
+      "Y": -16.5481,
+      "Z": 652.518
+    },
+    {
+      "Name": "Jungleplant12Bloodstonefen",
+      "X": -114.78,
+      "Y": -58.9393,
+      "Z": 657.537
+    },
+    {
+      "Name": "JunglePlant13Bloodstonefen",
+      "X": -310.77,
+      "Y": -5.34884,
+      "Z": 632.521
+    },
+    {
+      "Name": "Jungleplant14Bloodstonefen",
+      "X": -219.868,
+      "Y": 152.558,
+      "Z": 657.165
+    },
+    {
+      "Name": "JunglePlant15BloodstoneFen",
+      "X": -99.391,
+      "Y": 150.462,
+      "Z": 671.292
+    }
+  ]
+}

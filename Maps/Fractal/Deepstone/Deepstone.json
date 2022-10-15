@@ -1,0 +1,107 @@
+{
+  "Name": "Deepstone",
+  "Coordinates": [
+    {
+      "Name": "Fractal-Start",
+      "X": 49.87,
+      "Y": -304.51,
+      "Z": 384.12
+    },
+    {
+      "Name": "Before-Field-of-Pain",
+      "X": -68.08,
+      "Y": -148.23,
+      "Z": 328.54
+    },
+    {
+      "Name": "Button-Right",
+      "X": -60.67,
+      "Y": -47.17,
+      "Z": 328.62
+    },
+    {
+      "Name": "Button-Left",
+      "X": -76.86,
+      "Y": -46.77,
+      "Z": 328.62
+    },
+    {
+      "Name": "Deepstone-Sentinel",
+      "X": -74.25,
+      "Y": -2.96,
+      "Z": 328.29
+    },
+    {
+      "Name": "Use-orb-here-after-you-took-it",
+      "X": 20.56,
+      "Y": -252.88,
+      "Z": 338.93
+    },
+    {
+      "Name": "kill-all-spiders-here",
+      "X": 103.98,
+      "Y": -171.96,
+      "Z": 328.29
+    },
+    {
+      "Name": "Singularity",
+      "X": 116.35,
+      "Y": -131.24,
+      "Z": 328.29
+    },
+    {
+      "Name": "Spider-Nest",
+      "X": 163.87,
+      "Y": -133.76,
+      "Z": 328.31
+    },
+    {
+      "Name": "Left-Button",
+      "X": 197.05,
+      "Y": -131.74,
+      "Z": 328.51
+    },
+    {
+      "Name": "Right-Button",
+      "X": 197.43,
+      "Y": -139.31,
+      "Z": 328.51
+    },
+    {
+      "Name": "Spider-Boss-Room",
+      "X": 242.04,
+      "Y": -136.67,
+      "Z": 328.29
+    },
+    {
+      "Name": "put-Orb-in-here",
+      "X": 21.93,
+      "Y": -253.04,
+      "Z": 338.93
+    },
+    {
+      "Name": "kill-Shadow-Minotaur-next",
+      "X": 21.86,
+      "Y": -167.46,
+      "Z": 328.28
+    },
+    {
+      "Name": "PlatformTP",
+      "X": 19.97,
+      "Y": 178.83,
+      "Z": 328.37
+    },
+    {
+      "Name": "Singularity-before-ENDBOSS",
+      "X": 27.8,
+      "Y": 291.43,
+      "Z": 147.4
+    },
+    {
+      "Name": "Right-in-Front-of-Endboss",
+      "X": 20.48,
+      "Y": 335.79,
+      "Z": 147.53
+    }
+  ]
+}

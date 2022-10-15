@@ -1,0 +1,59 @@
+{
+  "Name": "World 2 Zone 1 Adventure",
+  "Coordinates": [
+    {
+      "Name": "Start",
+      "X": -765.62,
+      "Y": -458.1,
+      "Z": 221.16
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -734.197,
+      "Y": -486.187,
+      "Z": 226.966
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -713.369,
+      "Y": -475.946,
+      "Z": 237.009
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -743.747,
+      "Y": -504.295,
+      "Z": 241.902
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -693.496,
+      "Y": -466.938,
+      "Z": 251.9
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -663.197,
+      "Y": -521.177,
+      "Z": 266.749
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -744.609,
+      "Y": -466.772,
+      "Z": 272.124
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -793.823,
+      "Y": -541.176,
+      "Z": 256.439
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_adventures.tw_sab_normal_adventures_adventurecoin",
+      "X": -773.502,
+      "Y": -566.695,
+      "Z": 266.601
+    }
+  ]
+}

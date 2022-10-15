@@ -1,0 +1,23 @@
+{
+  "Name": "Dredgehaunt-Cliffs",
+  "Coordinates": [
+    {
+      "Name": "Dredgehaunt-to-LornarsPass",
+      "X": -742.96,
+      "Y": 190.0,
+      "Z": 71.37
+    },
+    {
+      "Name": "Dredgehaunt-to-Hoelbrak",
+      "X": 253.98,
+      "Y": 1144.82,
+      "Z": 124.77
+    },
+    {
+      "Name": "Dredgehaunt-to-TimberlineFalls",
+      "X": 43.79,
+      "Y": -999.67,
+      "Z": 57.34
+    }
+  ]
+}

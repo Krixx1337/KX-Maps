@@ -1,0 +1,179 @@
+{
+  "Name": "Fireheart-Rise",
+  "Coordinates": [
+    {
+      "Name": "Start",
+      "X": 238.82,
+      "Y": 890.0,
+      "Z": 44.7
+    },
+    {
+      "Name": "Make-it-harder",
+      "X": 244.17,
+      "Y": 899.45,
+      "Z": 44.1
+    },
+    {
+      "Name": "make-it-easy",
+      "X": 232.69,
+      "Y": 885.46,
+      "Z": 45.09
+    },
+    {
+      "Name": "Emblem",
+      "X": 303.95,
+      "Y": 755.94,
+      "Z": 38.97
+    },
+    {
+      "Name": "Emblem",
+      "X": 298.09,
+      "Y": 732.52,
+      "Z": 41.46
+    },
+    {
+      "Name": "Emblem",
+      "X": 279.68,
+      "Y": 686.9,
+      "Z": 32.87
+    },
+    {
+      "Name": "Emblem",
+      "X": 242.55,
+      "Y": 678.38,
+      "Z": 27.38
+    },
+    {
+      "Name": "Emblem",
+      "X": 353.84,
+      "Y": 654.15,
+      "Z": 17.55
+    },
+    {
+      "Name": "Emblem",
+      "X": 434.82,
+      "Y": 580.78,
+      "Z": 24.61
+    },
+    {
+      "Name": "Emblem",
+      "X": 342.85,
+      "Y": 576.24,
+      "Z": 10.0
+    },
+    {
+      "Name": "Emblem",
+      "X": 231.12,
+      "Y": 585.35,
+      "Z": 19.77
+    },
+    {
+      "Name": "Emblem",
+      "X": 192.36,
+      "Y": 642.53,
+      "Z": 17.86
+    },
+    {
+      "Name": "Turret",
+      "X": 324.28,
+      "Y": 615.74,
+      "Z": 23.19
+    },
+    {
+      "Name": "Turret",
+      "X": 325.19,
+      "Y": 628.33,
+      "Z": 21.56
+    },
+    {
+      "Name": "Turret",
+      "X": 379.95,
+      "Y": 757.8,
+      "Z": 24.49
+    },
+    {
+      "Name": "Turret",
+      "X": 409.54,
+      "Y": 667.59,
+      "Z": 24.29
+    },
+    {
+      "Name": "Turret",
+      "X": 222.09,
+      "Y": 638.42,
+      "Z": 24.27
+    },
+    {
+      "Name": "Turret",
+      "X": 224.19,
+      "Y": 623.14,
+      "Z": 24.8
+    },
+    {
+      "Name": "Turret",
+      "X": 200.11,
+      "Y": 760.82,
+      "Z": 47.77
+    },
+    {
+      "Name": "Turret",
+      "X": 270.26,
+      "Y": 720.06,
+      "Z": 42.86
+    },
+    {
+      "Name": "Turret",
+      "X": 449.57,
+      "Y": 553.09,
+      "Z": 23.78
+    },
+    {
+      "Name": "Turret-agiain-if-dead",
+      "X": 224.96,
+      "Y": 637.48,
+      "Z": 24.91
+    },
+    {
+      "Name": "now-kill-mobs-maybe-they-killed-around-20-30-by-now-so-you-have-to-kill-only20-leggo",
+      "X": 274.97,
+      "Y": 705.73,
+      "Z": 38.26
+    },
+    {
+      "Name": "now-after-that-is-done-escord-him",
+      "X": 326.49,
+      "Y": 623.68,
+      "Z": 22.24
+    },
+    {
+      "Name": "after-escord-done-kill-waves-for-achievm-challenges-must-be-active-then-help-factions",
+      "X": 714.94,
+      "Y": 615.76,
+      "Z": 37.96
+    },
+    {
+      "Name": "get-the-mastery-point-skip-if-you-already-have-it",
+      "X": 742.15,
+      "Y": 835.33,
+      "Z": 61.21
+    },
+    {
+      "Name": "now-kill-boss",
+      "X": 895.82,
+      "Y": 724.91,
+      "Z": 53.4
+    },
+    {
+      "Name": "get-loot",
+      "X": 965.85,
+      "Y": 772.48,
+      "Z": 53.54
+    },
+    {
+      "Name": "tp-back-to-hub",
+      "X": 972.62,
+      "Y": 784.84,
+      "Z": 53.44
+    }
+  ]
+}

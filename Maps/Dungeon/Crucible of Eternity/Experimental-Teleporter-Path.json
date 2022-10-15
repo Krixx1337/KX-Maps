@@ -1,0 +1,89 @@
+{
+  "Name": "Experimental-Teleporter-Path",
+  "Coordinates": [
+    {
+      "Name": "Talk-to-Spire",
+      "X": 19.53,
+      "Y": 31.07,
+      "Z": 142.44
+    },
+    {
+      "Name": "port-here-to-wait",
+      "X": -210.97,
+      "Y": -109.07,
+      "Z": 148.8
+    },
+    {
+      "Name": "select-Path-Experimental-teleporter",
+      "X": -251.65,
+      "Y": -126.95,
+      "Z": 152.57
+    },
+    {
+      "Name": "port-here",
+      "X": -247.87,
+      "Y": -239.71,
+      "Z": 151.74
+    },
+    {
+      "Name": "Fast-port",
+      "X": -221.58,
+      "Y": -272.78,
+      "Z": 148.18
+    },
+    {
+      "Name": "Fast-port",
+      "X": -129.72,
+      "Y": -288.09,
+      "Z": 148.18
+    },
+    {
+      "Name": "Port-here",
+      "X": 40.25,
+      "Y": -128.64,
+      "Z": 176.63
+    },
+    {
+      "Name": "before-boss",
+      "X": 130.09,
+      "Y": -28.82,
+      "Z": 210.65
+    },
+    {
+      "Name": "Boss",
+      "X": 148.21,
+      "Y": -46.04,
+      "Z": 210.75
+    },
+    {
+      "Name": "Canon-Breach",
+      "X": 190.27,
+      "Y": 46.28,
+      "Z": 217.32
+    },
+    {
+      "Name": "Alpha-Fight-here",
+      "X": 50.85,
+      "Y": 232.97,
+      "Z": 260.7
+    },
+    {
+      "Name": "Port-here-next",
+      "X": 36.82,
+      "Y": 437.99,
+      "Z": 279.04
+    },
+    {
+      "Name": "kill-The-Husk-next",
+      "X": 20.32,
+      "Y": 436.95,
+      "Z": 276.37
+    },
+    {
+      "Name": "Alpha-ENDBOSS",
+      "X": -79.76,
+      "Y": 438.55,
+      "Z": 277.89
+    }
+  ]
+}

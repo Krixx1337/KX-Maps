@@ -1,0 +1,59 @@
+{
+  "Name": "HP",
+  "Coordinates": [
+    {
+      "Name": "Jade_Monument",
+      "X": -687.24,
+      "Y": 0.28,
+      "Z": 194.38
+    },
+    {
+      "Name": "Ministry_of_Archives",
+      "X": -588.54,
+      "Y": -561.92,
+      "Z": 331.88
+    },
+    {
+      "Name": "Engineer_Hu",
+      "X": -672.53,
+      "Y": 230.46,
+      "Z": 147.83
+    },
+    {
+      "Name": "Veteran_Purist_Necromancer",
+      "X": 1282.22,
+      "Y": -1.0,
+      "Z": 14.83
+    },
+    {
+      "Name": "New_Kaineng_City_Limits",
+      "X": 1015.18,
+      "Y": -756.82,
+      "Z": 67.86
+    },
+    {
+      "Name": "Old_Kaineng_Ruins",
+      "X": 1082.77,
+      "Y": 596.05,
+      "Z": 268.82
+    },
+    {
+      "Name": "Lab_District_Terrace",
+      "X": 558.88,
+      "Y": 468.27,
+      "Z": 134.73
+    },
+    {
+      "Name": "Garden_Scaffolding",
+      "X": 286.58,
+      "Y": 424.64,
+      "Z": 14.83
+    },
+    {
+      "Name": "Sotdae_Landing_Lookout",
+      "X": -1049.92,
+      "Y": -918.36,
+      "Z": 171.12
+    }
+  ]
+}

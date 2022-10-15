@@ -1,0 +1,47 @@
+{
+  "Name": "HP",
+  "Coordinates": [
+    {
+      "Name": "Gravestone_of_Lord_Archek",
+      "X": -428.43,
+      "Y": 826.28,
+      "Z": 241.93
+    },
+    {
+      "Name": "House_zu_Heltzer",
+      "X": -838.37,
+      "Y": 29.99,
+      "Z": 233.62
+    },
+    {
+      "Name": "Xunlai_Jade_Junkyard_Overlook",
+      "X": -121.07,
+      "Y": -66.71,
+      "Z": 247.72
+    },
+    {
+      "Name": "for_next_HP_get_disguise",
+      "X": -1073.73,
+      "Y": -538.75,
+      "Z": 219.65
+    },
+    {
+      "Name": "Speaker_Headquarters",
+      "X": -1080.65,
+      "Y": -594.6,
+      "Z": 273.21
+    },
+    {
+      "Name": "Submerged_Cathedral",
+      "X": 178.89,
+      "Y": -852.83,
+      "Z": 1.1
+    },
+    {
+      "Name": "Village_Overlook",
+      "X": 1272.5,
+      "Y": -813.21,
+      "Z": 122.71
+    }
+  ]
+}

@@ -1,0 +1,1241 @@
+{
+  "Name": "Zephyrite-Lost-and-Found",
+  "Coordinates": [
+    {
+      "Name": "Queensdale-Basket",
+      "X": -106.25,
+      "Y": 522.81,
+      "Z": 0.54
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": 664.02,
+      "Y": 768.63,
+      "Z": 1.25
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": 78.31,
+      "Y": -271.46,
+      "Z": 40.35
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": -207.05,
+      "Y": -616.64,
+      "Z": 34.57
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": 785.66,
+      "Y": -621.36,
+      "Z": 45.26
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": 1076.72,
+      "Y": -537.45,
+      "Z": 101.46
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": 1225.58,
+      "Y": -166.84,
+      "Z": 93.68
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": 983.21,
+      "Y": 28.91,
+      "Z": 59.48
+    },
+    {
+      "Name": "Queensdale-Basket",
+      "X": -1129.86,
+      "Y": -288.43,
+      "Z": 62.16
+    },
+    {
+      "Name": "Kessex-Hill-Basket",
+      "X": -1325.99,
+      "Y": 227.08,
+      "Z": 38.36
+    },
+    {
+      "Name": "Kessex-Hill-Basket",
+      "X": -1154.4,
+      "Y": -73.46,
+      "Z": 38.25
+    },
+    {
+      "Name": "Kessex-Hill-Basket",
+      "X": -956.62,
+      "Y": -431.56,
+      "Z": 50.08
+    },
+    {
+      "Name": "Kessex-Hill-Basket",
+      "X": -719.97,
+      "Y": -482.55,
+      "Z": 44.76
+    },
+    {
+      "Name": "Kessex-Hill-Basket",
+      "X": -1242.15,
+      "Y": -311.46,
+      "Z": 85.32
+    },
+    {
+      "Name": "Kessex-Hill-Basket",
+      "X": -640.94,
+      "Y": 281.22,
+      "Z": 8.07
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": 531.09,
+      "Y": 1023.04,
+      "Z": 2.85
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": 189.87,
+      "Y": 1249.79,
+      "Z": 6.45
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": -397.62,
+      "Y": 1182.24,
+      "Z": 9.84
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": 574.36,
+      "Y": 1312.12,
+      "Z": -0.06
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": -508.49,
+      "Y": 667.49,
+      "Z": 0.78
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": -433.48,
+      "Y": 97.31,
+      "Z": 32.9
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": -485.5,
+      "Y": -108.97,
+      "Z": 0.03
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": -446.15,
+      "Y": -450.66,
+      "Z": 25.45
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": -435.46,
+      "Y": -747.81,
+      "Z": 26.21
+    },
+    {
+      "Name": "Caledon-Forest-Basket",
+      "X": -441.48,
+      "Y": -939.59,
+      "Z": 56.83
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": 1090.45,
+      "Y": 896.98,
+      "Z": 100.28
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": 740.53,
+      "Y": 819.06,
+      "Z": 137.2
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": 390.2,
+      "Y": 848.88,
+      "Z": 128.08
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": 133.04,
+      "Y": 720.88,
+      "Z": 82.16
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": -185.48,
+      "Y": 627.66,
+      "Z": 88.36
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": -454.56,
+      "Y": 791.75,
+      "Z": 81.65
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": -860.41,
+      "Y": 548.51,
+      "Z": 81.78
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": 1033.03,
+      "Y": 355.39,
+      "Z": 98.82
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": 954.21,
+      "Y": -10.43,
+      "Z": 89.45
+    },
+    {
+      "Name": "Brisban-Wildlands-Basket",
+      "X": -586.46,
+      "Y": -259.47,
+      "Z": 31.66
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": -154.14,
+      "Y": 944.34,
+      "Z": 21.06
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": -524.55,
+      "Y": 596.79,
+      "Z": 30.59
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": -591.53,
+      "Y": 110.16,
+      "Z": 3.94
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": -341.1,
+      "Y": -550.75,
+      "Z": 20.0
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": -338.81,
+      "Y": 223.11,
+      "Z": 3.13
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": 76.09,
+      "Y": 1032.72,
+      "Z": 0.67
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": 318.12,
+      "Y": 1029.28,
+      "Z": 3.62
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": 562.34,
+      "Y": 916.74,
+      "Z": 57.46
+    },
+    {
+      "Name": "Metrica-Province-Basket",
+      "X": 480.62,
+      "Y": 402.89,
+      "Z": 39.24
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -1225.76,
+      "Y": 150.34,
+      "Z": 10.88
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -1281.58,
+      "Y": -201.05,
+      "Z": 33.7
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -1077.82,
+      "Y": 663.44,
+      "Z": 60.76
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -657.61,
+      "Y": 691.86,
+      "Z": 64.24
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -147.53,
+      "Y": 560.99,
+      "Z": 6.79
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -754.54,
+      "Y": -461.4,
+      "Z": 2.78
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -120.39,
+      "Y": -668.22,
+      "Z": 33.31
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": 161.03,
+      "Y": -625.23,
+      "Z": 5.27
+    },
+    {
+      "Name": "Gendarran-Fields-Basket",
+      "X": -381.71,
+      "Y": -425.08,
+      "Z": 12.14
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": -487.29,
+      "Y": -648.15,
+      "Z": 80.03
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": -634.76,
+      "Y": -328.01,
+      "Z": 73.72
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": -958.83,
+      "Y": -307.59,
+      "Z": 91.76
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": 170.22,
+      "Y": -948.11,
+      "Z": 23.75
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": 123.53,
+      "Y": 159.84,
+      "Z": 43.34
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": -273.81,
+      "Y": 754.95,
+      "Z": 67.38
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": -732.37,
+      "Y": 848.8,
+      "Z": 55.37
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": -954.16,
+      "Y": 633.26,
+      "Z": 24.89
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": -914.98,
+      "Y": 180.57,
+      "Z": 51.95
+    },
+    {
+      "Name": "Harathi-Hinterlands-Basket",
+      "X": 600.97,
+      "Y": 339.76,
+      "Z": 108.01
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -1009.28,
+      "Y": 38.01,
+      "Z": 65.46
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -737.5,
+      "Y": -293.79,
+      "Z": 24.9
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -852.22,
+      "Y": 152.23,
+      "Z": 92.84
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -881.85,
+      "Y": 340.53,
+      "Z": 70.25
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -620.81,
+      "Y": 297.31,
+      "Z": 20.18
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -199.86,
+      "Y": 416.11,
+      "Z": 20.96
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": 155.1,
+      "Y": -122.44,
+      "Z": 67.44
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -86.82,
+      "Y": -192.7,
+      "Z": 67.23
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": -305.38,
+      "Y": -453.43,
+      "Z": 5.39
+    },
+    {
+      "Name": "Snowden-Drifts-Basket",
+      "X": 86.47,
+      "Y": -588.55,
+      "Z": 19.36
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": -192.29,
+      "Y": -479.14,
+      "Z": 1.46
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": 92.53,
+      "Y": -686.83,
+      "Z": 82.32
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": 259.17,
+      "Y": -953.26,
+      "Z": 98.42
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": 2.48,
+      "Y": -228.55,
+      "Z": 29.29
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": 83.54,
+      "Y": 32.44,
+      "Z": 1.9
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": -562.63,
+      "Y": -48.55,
+      "Z": 5.08
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": -778.07,
+      "Y": 187.29,
+      "Z": 5.61
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": -857.83,
+      "Y": 724.25,
+      "Z": 2.79
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": -462.71,
+      "Y": 979.87,
+      "Z": 2.36
+    },
+    {
+      "Name": "Frostgourge-Sound-Basket",
+      "X": 426.9,
+      "Y": 1077.81,
+      "Z": 46.44
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": -795.43,
+      "Y": 141.53,
+      "Z": 107.11
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": -630.16,
+      "Y": 855.44,
+      "Z": 67.21
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": -246.09,
+      "Y": 623.15,
+      "Z": 79.83
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": 43.94,
+      "Y": 819.69,
+      "Z": 30.43
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": 506.74,
+      "Y": 743.3,
+      "Z": 71.03
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": 1001.66,
+      "Y": 686.58,
+      "Z": 3.11
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": 1107.4,
+      "Y": 220.02,
+      "Z": 37.78
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": 877.85,
+      "Y": -159.94,
+      "Z": 14.87
+    },
+    {
+      "Name": "Fireheart-Rise-Basket",
+      "X": -933.27,
+      "Y": -239.39,
+      "Z": 122.68
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": -491.31,
+      "Y": 691.86,
+      "Z": 30.68
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": -561.23,
+      "Y": 1114.96,
+      "Z": 34.94
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": -263.37,
+      "Y": 1402.0,
+      "Z": 0.25
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": 191.74,
+      "Y": 1061.64,
+      "Z": 41.88
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": 597.68,
+      "Y": 976.81,
+      "Z": 19.63
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": 646.95,
+      "Y": 283.21,
+      "Z": 12.52
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": 600.95,
+      "Y": -519.12,
+      "Z": 1.94
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": -453.29,
+      "Y": -484.0,
+      "Z": 26.79
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": -44.04,
+      "Y": -923.35,
+      "Z": 56.89
+    },
+    {
+      "Name": "Iron-Marches-Basket",
+      "X": -661.15,
+      "Y": -1322.75,
+      "Z": 93.96
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": 645.64,
+      "Y": 632.74,
+      "Z": 93.07
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": 1299.88,
+      "Y": 242.7,
+      "Z": 33.66
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": 1187.34,
+      "Y": -550.27,
+      "Z": -0.03
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": 661.98,
+      "Y": -548.34,
+      "Z": 22.87
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": 216.57,
+      "Y": 648.12,
+      "Z": 97.07
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": 44.08,
+      "Y": 572.01,
+      "Z": 49.54
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": -223.48,
+      "Y": 380.1,
+      "Z": 64.53
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": -50.26,
+      "Y": -554.47,
+      "Z": 47.48
+    },
+    {
+      "Name": "Plains-of-Ashford-Basket",
+      "X": -804.97,
+      "Y": 244.32,
+      "Z": 45.18
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": -599.75,
+      "Y": -234.33,
+      "Z": 74.77
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": -574.39,
+      "Y": 201.89,
+      "Z": 23.27
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": -613.71,
+      "Y": 750.68,
+      "Z": 59.03
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": -288.9,
+      "Y": 752.03,
+      "Z": 33.06
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": 289.02,
+      "Y": 720.37,
+      "Z": 42.64
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": -181.36,
+      "Y": 1051.54,
+      "Z": 2.5
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": 109.0,
+      "Y": 1037.24,
+      "Z": 49.45
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": -546.85,
+      "Y": -1074.99,
+      "Z": 19.77
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": -659.93,
+      "Y": -1325.99,
+      "Z": 23.79
+    },
+    {
+      "Name": "Blazeridge-Steppes-Basket",
+      "X": 258.03,
+      "Y": -1435.36,
+      "Z": 0.01
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 219.22,
+      "Y": 840.71,
+      "Z": 24.91
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 17.02,
+      "Y": 961.48,
+      "Z": 36.7
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 943.9,
+      "Y": 1021.95,
+      "Z": 42.62
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 840.02,
+      "Y": 477.51,
+      "Z": 42.59
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 958.6,
+      "Y": 122.03,
+      "Z": 64.59
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 549.63,
+      "Y": -173.0,
+      "Z": 52.78
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 222.66,
+      "Y": -278.71,
+      "Z": 50.83
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 650.5,
+      "Y": -1055.3,
+      "Z": 48.14
+    },
+    {
+      "Name": "Fields-of-Ruin-Basket",
+      "X": 956.86,
+      "Y": -805.58,
+      "Z": 64.5
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": 356.97,
+      "Y": -1253.76,
+      "Z": 34.75
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": -63.12,
+      "Y": -1458.46,
+      "Z": 53.64
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": -441.77,
+      "Y": -223.58,
+      "Z": 148.19
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": -119.28,
+      "Y": 4.46,
+      "Z": 54.1
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": -67.87,
+      "Y": 422.84,
+      "Z": 139.09
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": -324.84,
+      "Y": 745.55,
+      "Z": 123.29
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": 349.49,
+      "Y": 820.66,
+      "Z": 86.59
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": -333.04,
+      "Y": 1003.94,
+      "Z": 159.25
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": -341.9,
+      "Y": 1411.95,
+      "Z": 159.36
+    },
+    {
+      "Name": "Wayfarer-Foothills-Basket",
+      "X": 23.96,
+      "Y": -498.86,
+      "Z": 206.69
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": 418.52,
+      "Y": 1317.52,
+      "Z": 209.43
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": 460.87,
+      "Y": 810.72,
+      "Z": 205.74
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": 309.14,
+      "Y": 703.6,
+      "Z": 144.18
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": 300.34,
+      "Y": 301.42,
+      "Z": 144.69
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": -396.43,
+      "Y": -57.04,
+      "Z": 49.42
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": -413.8,
+      "Y": -416.73,
+      "Z": 44.84
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": 43.35,
+      "Y": -718.57,
+      "Z": 104.66
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": -342.44,
+      "Y": -700.87,
+      "Z": 35.55
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": -73.37,
+      "Y": -1010.09,
+      "Z": 24.79
+    },
+    {
+      "Name": "Lornars-Pass-Basket",
+      "X": -429.48,
+      "Y": -1144.16,
+      "Z": 2.51
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": 387.98,
+      "Y": 777.59,
+      "Z": 68.58
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": -590.29,
+      "Y": 808.3,
+      "Z": 3.39
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": 404.43,
+      "Y": 337.3,
+      "Z": 100.68
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": -5.77,
+      "Y": 307.61,
+      "Z": 173.16
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": -262.73,
+      "Y": 193.55,
+      "Z": 140.91
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": -110.76,
+      "Y": -586.02,
+      "Z": 103.26
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": 104.8,
+      "Y": -657.16,
+      "Z": 77.6
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": -529.52,
+      "Y": -679.32,
+      "Z": 106.12
+    },
+    {
+      "Name": "Dredgehaunt-Cliffs-Basket",
+      "X": 716.74,
+      "Y": -852.0,
+      "Z": 68.21
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": 308.83,
+      "Y": 837.96,
+      "Z": 66.61
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": 212.26,
+      "Y": 540.51,
+      "Z": 62.89
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": 124.85,
+      "Y": 251.96,
+      "Z": 88.07
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": 329.66,
+      "Y": 203.37,
+      "Z": 1.07
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": 572.77,
+      "Y": 130.28,
+      "Z": 7.83
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": 325.08,
+      "Y": -637.97,
+      "Z": 88.14
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": -45.61,
+      "Y": -814.56,
+      "Z": 31.55
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": -177.04,
+      "Y": -741.3,
+      "Z": 46.9
+    },
+    {
+      "Name": "Timberline-_Falls-Basket",
+      "X": -675.84,
+      "Y": -875.8,
+      "Z": 0.06
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": -162.51,
+      "Y": 1050.51,
+      "Z": 1.62
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": -62.38,
+      "Y": 526.8,
+      "Z": 0.47
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": -415.87,
+      "Y": 499.09,
+      "Z": 41.68
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": -345.45,
+      "Y": 177.4,
+      "Z": 14.14
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": 730.59,
+      "Y": 458.9,
+      "Z": 0.0
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": 768.28,
+      "Y": 111.38,
+      "Z": 64.68
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": 538.78,
+      "Y": -593.65,
+      "Z": 29.42
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": -498.1,
+      "Y": -863.63,
+      "Z": 1.21
+    },
+    {
+      "Name": "Bloodtide-Coast-Basket",
+      "X": 539.34,
+      "Y": -978.5,
+      "Z": 2.24
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": 666.72,
+      "Y": 804.44,
+      "Z": 39.87
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": -444.38,
+      "Y": 359.53,
+      "Z": 31.82
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": -527.89,
+      "Y": 106.04,
+      "Z": 0.59
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": -72.34,
+      "Y": -192.84,
+      "Z": 21.97
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": 753.61,
+      "Y": 173.36,
+      "Z": 101.07
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": 535.21,
+      "Y": -393.02,
+      "Z": 12.13
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": 580.37,
+      "Y": -750.79,
+      "Z": -0.18
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": 81.98,
+      "Y": -733.21,
+      "Z": 0.28
+    },
+    {
+      "Name": "SparkflyFen-Basket",
+      "X": -54.53,
+      "Y": -413.17,
+      "Z": 6.07
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": -22.89,
+      "Y": 782.18,
+      "Z": 20.18
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": 622.69,
+      "Y": 401.04,
+      "Z": 24.44
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": 1078.13,
+      "Y": 115.7,
+      "Z": 11.3
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": 1293.34,
+      "Y": -131.35,
+      "Z": 0.61
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": 524.13,
+      "Y": -183.78,
+      "Z": 0.36
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": 385.09,
+      "Y": 201.31,
+      "Z": 0.16
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": 102.34,
+      "Y": 494.98,
+      "Z": 59.49
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": -582.39,
+      "Y": -720.73,
+      "Z": 114.02
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": -56.46,
+      "Y": -436.81,
+      "Z": 102.03
+    },
+    {
+      "Name": "Mount-Maelstrom-Basket",
+      "X": 80.26,
+      "Y": -717.72,
+      "Z": 50.7
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": 551.32,
+      "Y": -451.56,
+      "Z": 0.69
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": 454.17,
+      "Y": -115.06,
+      "Z": 64.72
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": 538.38,
+      "Y": -2.99,
+      "Z": 62.02
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": 111.74,
+      "Y": 357.65,
+      "Z": 0.86
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": -27.22,
+      "Y": -127.25,
+      "Z": 46.32
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": -320.92,
+      "Y": -214.05,
+      "Z": 63.95
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": -632.61,
+      "Y": -407.35,
+      "Z": 0.71
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": -732.03,
+      "Y": -310.64,
+      "Z": 38.35
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": -597.98,
+      "Y": 363.46,
+      "Z": 43.12
+    },
+    {
+      "Name": "Soutshun-Cove-Basket",
+      "X": 860.13,
+      "Y": 6.73,
+      "Z": 0.7
+    }
+  ]
+}

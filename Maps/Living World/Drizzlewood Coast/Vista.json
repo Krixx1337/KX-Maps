@@ -1,0 +1,101 @@
+{
+  "Name": "Vista",
+  "Coordinates": [
+    {
+      "Name": "VloxenMineVista",
+      "X": -601.017,
+      "Y": -1396.77,
+      "Z": 195.501
+    },
+    {
+      "Name": "UmbralGrottoVista",
+      "X": -66.122,
+      "Y": -1379.24,
+      "Z": 214.228
+    },
+    {
+      "Name": "PetrajOverlookVista",
+      "X": 466.044,
+      "Y": -1273.18,
+      "Z": 208.804
+    },
+    {
+      "Name": "PortCascadiaVista",
+      "X": 530.65,
+      "Y": -946.326,
+      "Z": 82.7123
+    },
+    {
+      "Name": "LighthousePointVista",
+      "X": 662.523,
+      "Y": -277.102,
+      "Z": 95.784
+    },
+    {
+      "Name": "WolfsCrossingVista",
+      "X": 253.181,
+      "Y": -451.466,
+      "Z": 82.8707
+    },
+    {
+      "Name": "LeadfootVillageNortheastVista",
+      "X": -367.537,
+      "Y": -44.5797,
+      "Z": 63.0562
+    },
+    {
+      "Name": "LeadfootVillageSouthwestVista",
+      "X": -560.629,
+      "Y": -177.68,
+      "Z": 159.101
+    },
+    {
+      "Name": "FortDefianceVista",
+      "X": -248.772,
+      "Y": -790.566,
+      "Z": 223.772
+    },
+    {
+      "Name": "BreakrootBasinVista",
+      "X": 56.5296,
+      "Y": -657.921,
+      "Z": 56.6731
+    },
+    {
+      "Name": "Vista11",
+      "X": 37.5509,
+      "Y": 461.781,
+      "Z": 309.46
+    },
+    {
+      "Name": "Vista12",
+      "X": -319.939,
+      "Y": 474.676,
+      "Z": 126.82
+    },
+    {
+      "Name": "Vista13",
+      "X": -28.0245,
+      "Y": 778.853,
+      "Z": 365.262
+    },
+    {
+      "Name": "Vista14",
+      "X": -91.5612,
+      "Y": 1201.38,
+      "Z": 252.311
+    },
+    {
+      "Name": "Vista15",
+      "X": 517.95,
+      "Y": 1147.47,
+      "Z": 206.028
+    },
+    {
+      "Name": "Vista16",
+      "X": 428.959,
+      "Y": 388.008,
+      "Z": 197.042
+    }
+  ]
+}

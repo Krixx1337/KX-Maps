@@ -1,0 +1,1181 @@
+{
+  "Name": "EoD Completion WP PoI",
+  "Coordinates": [
+    {
+      "Name": "Village_Waypoint",
+      "X": -97.2,
+      "Y": -226.15,
+      "Z": 17.63
+    },
+    {
+      "Name": "Monastery_Waypoint",
+      "X": -1054.72,
+      "Y": -144.61,
+      "Z": 142.63
+    },
+    {
+      "Name": "Daigo_Ward_Waypoint",
+      "X": 84.19,
+      "Y": 309.48,
+      "Z": 140.33
+    },
+    {
+      "Name": "Haiju_Docks_Waypoint",
+      "X": 419.43,
+      "Y": 853.22,
+      "Z": 0.69
+    },
+    {
+      "Name": "Seitung_Prison",
+      "X": -109.09,
+      "Y": -492.41,
+      "Z": 65.47
+    },
+    {
+      "Name": "Fishing_Village",
+      "X": -232.5,
+      "Y": -357.49,
+      "Z": 25.78
+    },
+    {
+      "Name": "Harbor_market",
+      "X": -83.61,
+      "Y": -176.65,
+      "Z": 16.6
+    },
+    {
+      "Name": "Town_Outskirts",
+      "X": -220.09,
+      "Y": -79.04,
+      "Z": 74.25
+    },
+    {
+      "Name": "Bell_Passage",
+      "X": -395.85,
+      "Y": -57.69,
+      "Z": 115.87
+    },
+    {
+      "Name": "Aurene´s_Enclave",
+      "X": -540.18,
+      "Y": -767.46,
+      "Z": 14.04
+    },
+    {
+      "Name": "Painter´s_Platform",
+      "X": -640.86,
+      "Y": -555.0,
+      "Z": 59.83
+    },
+    {
+      "Name": "Obstacle_Course",
+      "X": -821.41,
+      "Y": -508.54,
+      "Z": 65.64
+    },
+    {
+      "Name": "Imperial_Overlook",
+      "X": -556.85,
+      "Y": -185.78,
+      "Z": 121.85
+    },
+    {
+      "Name": "Monastery_Temple",
+      "X": -1088.06,
+      "Y": -56.14,
+      "Z": 167.18
+    },
+    {
+      "Name": "Secured_Gate",
+      "X": -1236.26,
+      "Y": -44.67,
+      "Z": 120.54
+    },
+    {
+      "Name": "Royal_Court",
+      "X": -1258.44,
+      "Y": -224.37,
+      "Z": 120.68
+    },
+    {
+      "Name": "Combat_Arena",
+      "X": -803.36,
+      "Y": -611.1,
+      "Z": 57.24
+    },
+    {
+      "Name": "Dreary_Caves",
+      "X": -997.38,
+      "Y": -643.88,
+      "Z": 63.81
+    },
+    {
+      "Name": "Aetherblade_Flagship_Wreckage",
+      "X": -1144.43,
+      "Y": -540.8,
+      "Z": 24.89
+    },
+    {
+      "Name": "Serene_pool",
+      "X": 601.14,
+      "Y": -37.9,
+      "Z": 28.93
+    },
+    {
+      "Name": "Joons_Mansion",
+      "X": 402.71,
+      "Y": -52.54,
+      "Z": 277.58
+    },
+    {
+      "Name": "Valor_Shrine",
+      "X": 174.26,
+      "Y": -65.07,
+      "Z": 92.91
+    },
+    {
+      "Name": "Jade_Memorial",
+      "X": -47.85,
+      "Y": 231.33,
+      "Z": 170.45
+    },
+    {
+      "Name": "Ministry_of_Transit",
+      "X": 144.38,
+      "Y": 246.0,
+      "Z": 150.31
+    },
+    {
+      "Name": "Xunlai_Jade_Junkyard",
+      "X": 553.59,
+      "Y": 277.94,
+      "Z": 0.32
+    },
+    {
+      "Name": "Cat-Island",
+      "X": 83.92,
+      "Y": -811.98,
+      "Z": 62.95
+    },
+    {
+      "Name": "Zen_Daijun_Temple",
+      "X": 257.05,
+      "Y": -442.05,
+      "Z": 99.31
+    },
+    {
+      "Name": "Spirit_Vestibule",
+      "X": 394.3,
+      "Y": -349.63,
+      "Z": 72.15
+    },
+    {
+      "Name": "Hollow_Caves",
+      "X": 501.66,
+      "Y": -503.52,
+      "Z": 93.66
+    },
+    {
+      "Name": "Fishing_Hamlet",
+      "X": 1070.08,
+      "Y": -458.89,
+      "Z": 5.64
+    },
+    {
+      "Name": "Naga_Domain",
+      "X": 1158.33,
+      "Y": -739.91,
+      "Z": 0.79
+    },
+    {
+      "Name": "Derelict_Temple",
+      "X": 1132.13,
+      "Y": -69.67,
+      "Z": 83.6
+    },
+    {
+      "Name": "Provisional_MinSec_Camp",
+      "X": 1107.38,
+      "Y": 270.94,
+      "Z": 22.97
+    },
+    {
+      "Name": "Emperor´s_Watchtower",
+      "X": 1096.32,
+      "Y": 550.84,
+      "Z": 31.51
+    },
+    {
+      "Name": "Abandoned_Lighthouse",
+      "X": 1185.0,
+      "Y": 873.7,
+      "Z": 26.35
+    },
+    {
+      "Name": "Eastern_Aetherblade_Crash_Site",
+      "X": 766.59,
+      "Y": 798.06,
+      "Z": 2.26
+    },
+    {
+      "Name": "Northern_Aetherblade_Crash_Site",
+      "X": 106.7,
+      "Y": 621.53,
+      "Z": 72.3
+    },
+    {
+      "Name": "Aetherblade_Refuge",
+      "X": 83.62,
+      "Y": 763.79,
+      "Z": 101.83
+    },
+    {
+      "Name": "Fish_Hatchery",
+      "X": -202.89,
+      "Y": 909.97,
+      "Z": 0.94
+    },
+    {
+      "Name": "Western_Aetherblade_Crash_Site",
+      "X": -451.98,
+      "Y": 660.78,
+      "Z": 48.83
+    },
+    {
+      "Name": "Sizhou_Hall",
+      "X": -758.88,
+      "Y": 726.2,
+      "Z": 48.12
+    },
+    {
+      "Name": "Shrine_of_Reverence",
+      "X": -557.81,
+      "Y": 148.09,
+      "Z": 177.62
+    },
+    {
+      "Name": "Drizzle_Cove",
+      "X": -210.89,
+      "Y": 211.57,
+      "Z": -2.08
+    },
+    {
+      "Name": "Tengu_Alpine_Camp",
+      "X": -1121.01,
+      "Y": 839.89,
+      "Z": 148.49
+    },
+    {
+      "Name": "Sensali_Shrine",
+      "X": -1196.47,
+      "Y": 495.77,
+      "Z": 166.25
+    },
+    {
+      "Name": "portalKaineng",
+      "X": 612.46,
+      "Y": 1039.89,
+      "Z": 19.47
+    },
+    {
+      "Name": "Promenade_Waypoint",
+      "X": -1085.42,
+      "Y": -158.73,
+      "Z": 3.49
+    },
+    {
+      "Name": "Ministry_Ward_Waypoint",
+      "X": -183.71,
+      "Y": -42.9,
+      "Z": 3.22
+    },
+    {
+      "Name": "Garden_Heights_Waypoint",
+      "X": -730.86,
+      "Y": 560.12,
+      "Z": 255.49
+    },
+    {
+      "Name": "Lutgardis_Plaza",
+      "X": 712.22,
+      "Y": -0.66,
+      "Z": 3.06
+    },
+    {
+      "Name": "Kaineng_FIsh_Market",
+      "X": -1078.77,
+      "Y": -71.29,
+      "Z": 3.24
+    },
+    {
+      "Name": "Jade_Monument",
+      "X": -969.38,
+      "Y": -3.22,
+      "Z": 4.06
+    },
+    {
+      "Name": "Haebaragi´s_Tears",
+      "X": -611.43,
+      "Y": -0.39,
+      "Z": 187.97
+    },
+    {
+      "Name": "Central_Powerstation",
+      "X": -644.79,
+      "Y": -3.42,
+      "Z": 7.56
+    },
+    {
+      "Name": "Jade_Statuette",
+      "X": -492.35,
+      "Y": 382.52,
+      "Z": 147.84
+    },
+    {
+      "Name": "North_Substation",
+      "X": -373.59,
+      "Y": 534.09,
+      "Z": 143.77
+    },
+    {
+      "Name": "Pool_of_Tranquility",
+      "X": -837.91,
+      "Y": 210.18,
+      "Z": 321.51
+    },
+    {
+      "Name": "Garden_of_Enlightenment",
+      "X": -612.06,
+      "Y": 543.34,
+      "Z": 269.54
+    },
+    {
+      "Name": "Temple_of_Preeminence",
+      "X": -605.4,
+      "Y": 434.43,
+      "Z": 335.58
+    },
+    {
+      "Name": "Tae-Jin´s_Estate",
+      "X": -377.01,
+      "Y": 623.35,
+      "Z": 320.92
+    },
+    {
+      "Name": "Ministry_Headquarters",
+      "X": -51.99,
+      "Y": 23.75,
+      "Z": 7.7
+    },
+    {
+      "Name": "Seung-Gi´s_Legacy",
+      "X": 97.93,
+      "Y": 108.97,
+      "Z": 22.95
+    },
+    {
+      "Name": "Garden_of_the_Celestials",
+      "X": 207.78,
+      "Y": -6.13,
+      "Z": 243.63
+    },
+    {
+      "Name": "Red_Duck_Tea_house",
+      "X": -807.2,
+      "Y": -391.55,
+      "Z": 243.76
+    },
+    {
+      "Name": "Ministry_of_Security",
+      "X": -627.95,
+      "Y": -425.22,
+      "Z": 147.84
+    },
+    {
+      "Name": "Ministry_of_Archives",
+      "X": -665.62,
+      "Y": -603.32,
+      "Z": 243.64
+    },
+    {
+      "Name": "Ihn´s_Grace",
+      "X": -412.32,
+      "Y": -696.25,
+      "Z": 256.35
+    },
+    {
+      "Name": "South_Substation",
+      "X": -367.09,
+      "Y": -602.47,
+      "Z": 143.88
+    },
+    {
+      "Name": "Brume_Alley",
+      "X": -126.72,
+      "Y": -797.6,
+      "Z": 3.7
+    },
+    {
+      "Name": "Tengu_Square",
+      "X": 65.16,
+      "Y": -630.15,
+      "Z": 3.23
+    },
+    {
+      "Name": "Kappa_Underpass",
+      "X": 739.35,
+      "Y": -474.14,
+      "Z": -12.7
+    },
+    {
+      "Name": "Salvage_Yard",
+      "X": 780.91,
+      "Y": -735.3,
+      "Z": 4.7
+    },
+    {
+      "Name": "Lutgardis_Market",
+      "X": 387.26,
+      "Y": 132.62,
+      "Z": 3.23
+    },
+    {
+      "Name": "East_Precinct",
+      "X": 612.16,
+      "Y": 44.95,
+      "Z": 3.22
+    },
+    {
+      "Name": "Tranquil_Overlook",
+      "X": 709.78,
+      "Y": 94.36,
+      "Z": 110.12
+    },
+    {
+      "Name": "Soo-Won´s_Protection",
+      "X": 1100.75,
+      "Y": -132.48,
+      "Z": 22.07
+    },
+    {
+      "Name": "Sunjiang_Lab",
+      "X": 1081.48,
+      "Y": -227.47,
+      "Z": 117.46
+    },
+    {
+      "Name": "Petrified_Shipping_Docks",
+      "X": 1174.67,
+      "Y": -375.68,
+      "Z": 3.22
+    },
+    {
+      "Name": "Misa_Village",
+      "X": 1002.48,
+      "Y": -676.07,
+      "Z": 22.89
+    },
+    {
+      "Name": "Aetherblade_Camp",
+      "X": 1139.41,
+      "Y": 573.24,
+      "Z": 114.34
+    },
+    {
+      "Name": "Jade_Brotherhood_Hideout",
+      "X": 1259.62,
+      "Y": 791.91,
+      "Z": 3.23
+    },
+    {
+      "Name": "Ancient_Vault",
+      "X": 1156.2,
+      "Y": 712.99,
+      "Z": -63.16
+    },
+    {
+      "Name": "The_Old_Steamshop",
+      "X": 567.0,
+      "Y": 300.02,
+      "Z": 3.41
+    },
+    {
+      "Name": "Garden_of_Lyssa",
+      "X": 290.91,
+      "Y": 549.41,
+      "Z": 3.55
+    },
+    {
+      "Name": "Shipwreck_Graveyard",
+      "X": -1067.38,
+      "Y": -770.15,
+      "Z": 1.72
+    },
+    {
+      "Name": "Isle_of_Hanasha",
+      "X": -1274.31,
+      "Y": 651.56,
+      "Z": 19.27
+    },
+    {
+      "Name": "Reactor_Station",
+      "X": -654.48,
+      "Y": 842.05,
+      "Z": 21.43
+    },
+    {
+      "Name": "Nahpui_Lab",
+      "X": 638.72,
+      "Y": 826.84,
+      "Z": 118.35
+    },
+    {
+      "Name": "TransitEcho",
+      "X": 1342.91,
+      "Y": -428.49,
+      "Z": 45.85
+    },
+    {
+      "Name": "Junkyard_Waypoint",
+      "X": -156.71,
+      "Y": 873.48,
+      "Z": 200.33
+    },
+    {
+      "Name": "Waypoint_zu_Heltzer",
+      "X": -813.11,
+      "Y": 95.49,
+      "Z": 205.04
+    },
+    {
+      "Name": "Jade_Gate_Waypoint",
+      "X": 1247.77,
+      "Y": 47.78,
+      "Z": 109.29
+    },
+    {
+      "Name": "Kropa_Waypoint",
+      "X": -594.28,
+      "Y": -407.14,
+      "Z": 201.81
+    },
+    {
+      "Name": "Mori_Village_Waypoint",
+      "X": 1303.27,
+      "Y": -644.95,
+      "Z": 9.64
+    },
+    {
+      "Name": "Qinkai_Waypoint",
+      "X": 1177.8,
+      "Y": 635.32,
+      "Z": 84.68
+    },
+    {
+      "Name": "before_going_into_pois_get_a_stealth_kit_from_him",
+      "X": 52.22,
+      "Y": 648.72,
+      "Z": 214.56
+    },
+    {
+      "Name": "Kage´s_Perch",
+      "X": 39.97,
+      "Y": 608.1,
+      "Z": 362.03
+    },
+    {
+      "Name": "Ingenuity_Square",
+      "X": 90.84,
+      "Y": 788.8,
+      "Z": 207.07
+    },
+    {
+      "Name": "Mi-Shen´s_Lab",
+      "X": 172.78,
+      "Y": 834.01,
+      "Z": 275.11
+    },
+    {
+      "Name": "Memorial_zu_Heltzer",
+      "X": -482.84,
+      "Y": 856.67,
+      "Z": 260.84
+    },
+    {
+      "Name": "Caretaker´s_Camp",
+      "X": -703.44,
+      "Y": 741.42,
+      "Z": 200.75
+    },
+    {
+      "Name": "House_zu_Heltzer",
+      "X": -779.81,
+      "Y": 125.25,
+      "Z": 204.57
+    },
+    {
+      "Name": "Altrumm_Mines",
+      "X": -1330.53,
+      "Y": 194.58,
+      "Z": 213.66
+    },
+    {
+      "Name": "Dreslav´s_Garden",
+      "X": 373.7,
+      "Y": 890.05,
+      "Z": 252.21
+    },
+    {
+      "Name": "Aoi´s_Perch",
+      "X": 875.34,
+      "Y": 640.84,
+      "Z": 324.47
+    },
+    {
+      "Name": "Aspenwood_Research_Facility",
+      "X": 552.39,
+      "Y": 311.64,
+      "Z": 190.14
+    },
+    {
+      "Name": "Aspenwood_Sublevel_B1",
+      "X": 462.01,
+      "Y": 224.9,
+      "Z": 185.46
+    },
+    {
+      "Name": "Tangled_Altar",
+      "X": 329.3,
+      "Y": 429.04,
+      "Z": 302.65
+    },
+    {
+      "Name": "Goa_Village",
+      "X": 355.18,
+      "Y": 117.98,
+      "Z": 280.03
+    },
+    {
+      "Name": "Vasburg_armory",
+      "X": 881.72,
+      "Y": 114.92,
+      "Z": 16.45
+    },
+    {
+      "Name": "Secret_Cavern",
+      "X": 528.8,
+      "Y": -45.92,
+      "Z": 97.35
+    },
+    {
+      "Name": "Karstadt_Village",
+      "X": 955.72,
+      "Y": -126.06,
+      "Z": 104.32
+    },
+    {
+      "Name": "Qinkai_Stream",
+      "X": 1278.58,
+      "Y": 155.46,
+      "Z": 28.98
+    },
+    {
+      "Name": "Valdhertz_Crypts",
+      "X": 1409.08,
+      "Y": -228.4,
+      "Z": 37.52
+    },
+    {
+      "Name": "Teleri_Village",
+      "X": 503.99,
+      "Y": -372.81,
+      "Z": 70.26
+    },
+    {
+      "Name": "Ancient_Archives",
+      "X": 370.77,
+      "Y": -280.54,
+      "Z": 168.78
+    },
+    {
+      "Name": "Dump_site_2",
+      "X": 71.67,
+      "Y": 37.05,
+      "Z": 144.72
+    },
+    {
+      "Name": "Dump_site_3",
+      "X": -125.84,
+      "Y": 1.19,
+      "Z": 112.85
+    },
+    {
+      "Name": "Dump_Site_1",
+      "X": -69.62,
+      "Y": 160.26,
+      "Z": 195.05
+    },
+    {
+      "Name": "Xunlai_Jade_Junkyard_outpost_E-1",
+      "X": -230.26,
+      "Y": 160.64,
+      "Z": 184.53
+    },
+    {
+      "Name": "Wrightstone_Chantry",
+      "X": -344.77,
+      "Y": 333.95,
+      "Z": 265.33
+    },
+    {
+      "Name": "Aetherblade_Hideout",
+      "X": -334.5,
+      "Y": 29.55,
+      "Z": 184.9
+    },
+    {
+      "Name": "Sarophyte´s_Pond",
+      "X": -499.08,
+      "Y": -135.2,
+      "Z": 142.16
+    },
+    {
+      "Name": "Cylow_Outpost",
+      "X": -260.34,
+      "Y": -155.75,
+      "Z": 180.68
+    },
+    {
+      "Name": "Arianna´s_Perch",
+      "X": 83.25,
+      "Y": -328.1,
+      "Z": 274.89
+    },
+    {
+      "Name": "Court_of_Song",
+      "X": 137.91,
+      "Y": -603.77,
+      "Z": 234.89
+    },
+    {
+      "Name": "Forever_Tree",
+      "X": -91.66,
+      "Y": -829.48,
+      "Z": 145.26
+    },
+    {
+      "Name": "Temple_of_the_Dredge",
+      "X": -436.38,
+      "Y": -524.82,
+      "Z": 167.74
+    },
+    {
+      "Name": "Kropa_Village",
+      "X": -567.75,
+      "Y": -385.55,
+      "Z": 195.59
+    },
+    {
+      "Name": "Skygazer_Cathedral",
+      "X": -1028.39,
+      "Y": -139.58,
+      "Z": 160.31
+    },
+    {
+      "Name": "for_next_Poi_get_disguise",
+      "X": -1073.73,
+      "Y": -538.75,
+      "Z": 219.65
+    },
+    {
+      "Name": "Speaker´s_Sanctum",
+      "X": -1230.73,
+      "Y": -628.2,
+      "Z": 199.42
+    },
+    {
+      "Name": "Chamber_of_the_Spirits",
+      "X": -1236.82,
+      "Y": -770.38,
+      "Z": 207.71
+    },
+    {
+      "Name": "Erys_Oasis",
+      "X": -962.64,
+      "Y": -820.74,
+      "Z": 245.84
+    },
+    {
+      "Name": "Saint_Anjeka´s_Shrine",
+      "X": -687.79,
+      "Y": -862.79,
+      "Z": -1.39
+    },
+    {
+      "Name": "Yarrow´s_Perch",
+      "X": -652.36,
+      "Y": -656.62,
+      "Z": 388.71
+    },
+    {
+      "Name": "Lutgardis_Ruins",
+      "X": 593.93,
+      "Y": -804.47,
+      "Z": -8.58
+    },
+    {
+      "Name": "Hermit´s_Dock",
+      "X": 798.67,
+      "Y": -568.9,
+      "Z": 3.65
+    },
+    {
+      "Name": "Elder´s_Roost",
+      "X": 1057.19,
+      "Y": -756.12,
+      "Z": 114.61
+    },
+    {
+      "Name": "Mori_Plaza",
+      "X": 1287.3,
+      "Y": -756.09,
+      "Z": 49.22
+    },
+    {
+      "Name": "Qinkai_Village",
+      "X": 1292.39,
+      "Y": 623.97,
+      "Z": 5.39
+    },
+    {
+      "Name": "Qinkaishi_Falls",
+      "X": 1274.33,
+      "Y": 897.95,
+      "Z": -1.35
+    },
+    {
+      "Name": "Transit-DragonsEND",
+      "X": 1368.15,
+      "Y": 62.42,
+      "Z": 112.66
+    },
+    {
+      "Name": "Frozen_Sea",
+      "X": -18.02,
+      "Y": -1170.9,
+      "Z": 244.01
+    },
+    {
+      "Name": "Jade_Quarry",
+      "X": -243.41,
+      "Y": 1030.96,
+      "Z": 216.92
+    },
+    {
+      "Name": "Brotherhood",
+      "X": -568.7,
+      "Y": -467.41,
+      "Z": 220.71
+    },
+    {
+      "Name": "Harvest_Complex",
+      "X": 23.03,
+      "Y": -145.44,
+      "Z": 198.13
+    },
+    {
+      "Name": "Speakers",
+      "X": 621.53,
+      "Y": -540.41,
+      "Z": 184.49
+    },
+    {
+      "Name": "Frozen_Sea_Monastery",
+      "X": -20.18,
+      "Y": -1238.52,
+      "Z": 308.86
+    },
+    {
+      "Name": "Archemorus_Solitude_(underground_cavern)",
+      "X": -107.11,
+      "Y": -913.52,
+      "Z": 7.81
+    },
+    {
+      "Name": "Shrine_of_the_Serpent",
+      "X": 468.24,
+      "Y": 1243.51,
+      "Z": 113.52
+    },
+    {
+      "Name": "Saltspray_Roost",
+      "X": -196.86,
+      "Y": 183.6,
+      "Z": 420.8
+    },
+    {
+      "Name": "Emerald_Bluff",
+      "X": 352.26,
+      "Y": -1050.98,
+      "Z": 189.48
+    },
+    {
+      "Name": "Sanctuary_of_Ione",
+      "X": 571.66,
+      "Y": -974.95,
+      "Z": 228.94
+    },
+    {
+      "Name": "The_Void_Expanse",
+      "X": 739.45,
+      "Y": -1214.55,
+      "Z": 186.77
+    },
+    {
+      "Name": "Risens_Havoc",
+      "X": 420.41,
+      "Y": -777.35,
+      "Z": 182.82
+    },
+    {
+      "Name": "Speakers_Outpost",
+      "X": 663.1,
+      "Y": -656.81,
+      "Z": 187.96
+    },
+    {
+      "Name": "Harvest_Temple",
+      "X": 19.01,
+      "Y": -636.48,
+      "Z": 482.02
+    },
+    {
+      "Name": "Jade_Wind_Respite",
+      "X": -458.41,
+      "Y": -967.5,
+      "Z": 226.24
+    },
+    {
+      "Name": "Mordrem_Blight",
+      "X": -333.17,
+      "Y": -790.2,
+      "Z": 184.71
+    },
+    {
+      "Name": "Jade_Brotherhood_Outpost",
+      "X": -553.18,
+      "Y": -630.43,
+      "Z": 230.14
+    },
+    {
+      "Name": "Wasteland_of_the_Destroyer",
+      "X": -567.29,
+      "Y": -299.69,
+      "Z": 212.23
+    },
+    {
+      "Name": "Guardians_Perch",
+      "X": -580.49,
+      "Y": -122.15,
+      "Z": 225.4
+    },
+    {
+      "Name": "Temple_of_the_Fallen",
+      "X": -524.83,
+      "Y": -22.62,
+      "Z": 211.3
+    },
+    {
+      "Name": "Branded_Rise",
+      "X": 20.46,
+      "Y": -252.33,
+      "Z": 213.33
+    },
+    {
+      "Name": "Kuan_Jun_Pavilion",
+      "X": 139.66,
+      "Y": -135.65,
+      "Z": 199.12
+    },
+    {
+      "Name": "Harvest_Temple_Observatory",
+      "X": 29.81,
+      "Y": -59.48,
+      "Z": 209.34
+    },
+    {
+      "Name": "Juno_Hatchery",
+      "X": 530.06,
+      "Y": -136.17,
+      "Z": 198.1
+    },
+    {
+      "Name": "Eloras_Beach",
+      "X": 705.17,
+      "Y": -252.08,
+      "Z": 179.61
+    },
+    {
+      "Name": "Chantry_of_the_Crab",
+      "X": 622.36,
+      "Y": 190.99,
+      "Z": 133.52
+    },
+    {
+      "Name": "The_Great_Jade_Wall",
+      "X": 731.19,
+      "Y": 401.37,
+      "Z": 134.75
+    },
+    {
+      "Name": "Mine_Site_JS_36",
+      "X": 591.13,
+      "Y": 410.85,
+      "Z": 12.67
+    },
+    {
+      "Name": "Temple_of_the_Turtle",
+      "X": 256.16,
+      "Y": 208.36,
+      "Z": 151.63
+    },
+    {
+      "Name": "Miners_Folly",
+      "X": 141.92,
+      "Y": 405.09,
+      "Z": 11.63
+    },
+    {
+      "Name": "Seaguards_Crossing",
+      "X": -36.4,
+      "Y": 474.0,
+      "Z": 56.21
+    },
+    {
+      "Name": "Mine_Site_JS_02",
+      "X": -300.21,
+      "Y": 443.89,
+      "Z": -221.54
+    },
+    {
+      "Name": "Argo_Crawler",
+      "X": -378.01,
+      "Y": 458.97,
+      "Z": 131.83
+    },
+    {
+      "Name": "Rheas_Landing",
+      "X": -430.99,
+      "Y": 240.22,
+      "Z": 145.38
+    },
+    {
+      "Name": "Brotherhoods_Watch",
+      "X": -442.25,
+      "Y": 677.68,
+      "Z": 192.75
+    },
+    {
+      "Name": "Warehouse_District",
+      "X": -538.38,
+      "Y": 842.87,
+      "Z": 192.94
+    },
+    {
+      "Name": "Logistics_District",
+      "X": -448.31,
+      "Y": 1167.97,
+      "Z": 252.01
+    },
+    {
+      "Name": "Residential_District",
+      "X": -166.72,
+      "Y": 1174.7,
+      "Z": 251.11
+    },
+    {
+      "Name": "Xiko_Refugee_Camp",
+      "X": 82.01,
+      "Y": 972.49,
+      "Z": 139.12
+    },
+    {
+      "Name": "The_Green_Grotto",
+      "X": 182.14,
+      "Y": 1137.94,
+      "Z": 6.73
+    },
+    {
+      "Name": "Alua_Falls",
+      "X": 633.41,
+      "Y": 1201.77,
+      "Z": 5.73
+    },
+    {
+      "Name": "Speakers_Encampment",
+      "X": 650.38,
+      "Y": 911.82,
+      "Z": 102.69
+    },
+    {
+      "Name": "Shrine_to_Hanuku",
+      "X": 655.87,
+      "Y": 722.28,
+      "Z": 100.3
+    },
+    {
+      "Name": "Kaolai_Tower",
+      "X": 395.85,
+      "Y": 716.16,
+      "Z": 81.22
+    },
+    {
+      "Name": "Tanasen_Pier",
+      "X": 211.27,
+      "Y": 726.74,
+      "Z": 1.16
+    },
+    {
+      "Name": "Quarry_Passage",
+      "X": -11.28,
+      "Y": 663.06,
+      "Z": 41.53
+    },
+    {
+      "Name": "Xinraes_Wharf",
+      "X": 40.95,
+      "Y": -971.66,
+      "Z": 183.65
+    },
+    {
+      "Name": "The_Green_Melt(underground)",
+      "X": -183.76,
+      "Y": -407.21,
+      "Z": 2.35
+    },
+    {
+      "Name": "Xunlai_Jade_Museum",
+      "X": 283.65,
+      "Y": -529.36,
+      "Z": 313.91
+    },
+    {
+      "Name": "Icebroods_Desolation",
+      "X": 589.69,
+      "Y": -394.66,
+      "Z": 196.68
+    },
+    {
+      "Name": "Harvest_Bridge",
+      "X": 22.68,
+      "Y": -380.94,
+      "Z": 234.28
+    },
+    {
+      "Name": "Font_of_Elders",
+      "X": 211.44,
+      "Y": -1030.6,
+      "Z": 238.82
+    }
+  ]
+}

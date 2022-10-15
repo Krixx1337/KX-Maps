@@ -1,0 +1,17 @@
+{
+  "Name": "Qadim2North Pillar CounterClockwise",
+  "Coordinates": [
+    {
+      "Name": "Pillar",
+      "X": 53.99,
+      "Y": 344.73,
+      "Z": 20.69
+    },
+    {
+      "Name": "Aoe_Location",
+      "X": 9.07,
+      "Y": 338.65,
+      "Z": 20.69
+    }
+  ]
+}

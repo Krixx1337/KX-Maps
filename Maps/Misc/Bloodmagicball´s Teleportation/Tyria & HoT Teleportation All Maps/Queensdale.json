@@ -1,0 +1,23 @@
+{
+  "Name": "Queensdale",
+  "Coordinates": [
+    {
+      "Name": "Queensdale-to-Divinity",
+      "X": -471.52,
+      "Y": 749.71,
+      "Z": 93.69
+    },
+    {
+      "Name": "Queensdale-to-Kessex",
+      "X": -885.73,
+      "Y": -747.69,
+      "Z": 42.74
+    },
+    {
+      "Name": "Queensdale-to-Gendarran",
+      "X": 1255.33,
+      "Y": 240.93,
+      "Z": 37.63
+    }
+  ]
+}

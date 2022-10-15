@@ -1,0 +1,17 @@
+{
+  "Name": "TheGrove",
+  "Coordinates": [
+    {
+      "Name": "TheGrove-to-Caledon",
+      "X": -100.95,
+      "Y": 366.65,
+      "Z": 94.04
+    },
+    {
+      "Name": "TheGrove-to-LionsArch",
+      "X": 60.93,
+      "Y": 156.11,
+      "Z": 90.83
+    }
+  ]
+}

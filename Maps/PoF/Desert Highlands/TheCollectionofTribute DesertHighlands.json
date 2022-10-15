@@ -1,0 +1,65 @@
+{
+  "Name": "TheCollectionofTribute DesertHighlands",
+  "Coordinates": [
+    {
+      "Name": "DesertHighlandsTamarisk",
+      "X": 54.0242,
+      "Y": 308.352,
+      "Z": 413.882
+    },
+    {
+      "Name": "HighlandstoCrystal",
+      "X": 671.0,
+      "Y": -900.0,
+      "Z": 199.4
+    },
+    {
+      "Name": "CrystalOasisGranite",
+      "X": 627.044,
+      "Y": 557.151,
+      "Z": 347.284
+    },
+    {
+      "Name": "CrystalToElon",
+      "X": 1280.0,
+      "Y": -715.0,
+      "Z": 26.0
+    },
+    {
+      "Name": "ElonRiverlandsLily",
+      "X": 1253.97,
+      "Y": 174.042,
+      "Z": 21.1377
+    },
+    {
+      "Name": "ElonToDesolation",
+      "X": 47.5,
+      "Y": -1231.0,
+      "Z": 1.0
+    },
+    {
+      "Name": "DesolationSafespot",
+      "X": -1096.08,
+      "Y": 709.198,
+      "Z": 298.569
+    },
+    {
+      "Name": "chest",
+      "X": -1091.48,
+      "Y": 681.336,
+      "Z": 229.458
+    },
+    {
+      "Name": "DesolationToVabbi",
+      "X": 1312.0,
+      "Y": -1442.0,
+      "Z": 335.0
+    },
+    {
+      "Name": "DomainofVabbiGrapes",
+      "X": 712.758,
+      "Y": -1011.26,
+      "Z": 102.768
+    }
+  ]
+}

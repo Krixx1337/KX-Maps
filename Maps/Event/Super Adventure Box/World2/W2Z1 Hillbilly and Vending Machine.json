@@ -1,0 +1,17 @@
+{
+  "Name": "W2Z1 Hillbilly and Vending Machine",
+  "Coordinates": [
+    {
+      "Name": "Hillbilly",
+      "X": -50.57,
+      "Y": -410.02,
+      "Z": 309.88
+    },
+    {
+      "Name": "Vending_Machine_Trade_Whipe_Boomerang",
+      "X": -48.96,
+      "Y": -412.37,
+      "Z": 309.88
+    }
+  ]
+}

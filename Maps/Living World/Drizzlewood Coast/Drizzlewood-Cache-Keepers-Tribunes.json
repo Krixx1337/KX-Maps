@@ -1,0 +1,95 @@
+{
+  "Name": "Drizzlewood-Cache-Keepers-Tribunes",
+  "Coordinates": [
+    {
+      "Name": "CK-UmbralGrotto",
+      "X": -185.679,
+      "Y": -1062.89,
+      "Z": 235.047
+    },
+    {
+      "Name": "CK-Petraj",
+      "X": 591.949,
+      "Y": -1511.08,
+      "Z": 123.269
+    },
+    {
+      "Name": "CK-PortCascadia",
+      "X": 295.266,
+      "Y": -865.269,
+      "Z": 94.0445
+    },
+    {
+      "Name": "CK-FortDefiance",
+      "X": -638.277,
+      "Y": -608.696,
+      "Z": 185.749
+    },
+    {
+      "Name": "CK-BreakrootBasin",
+      "X": 67.2232,
+      "Y": -649.386,
+      "Z": 57.875
+    },
+    {
+      "Name": "CK-WolfsCrossing",
+      "X": 273.148,
+      "Y": -660.05,
+      "Z": 77.4812
+    },
+    {
+      "Name": "CK-LighthouseRight",
+      "X": 748.893,
+      "Y": -354.407,
+      "Z": 14.5123
+    },
+    {
+      "Name": "CK-LighthouseLeft",
+      "X": 389.614,
+      "Y": -342.179,
+      "Z": 3.48754
+    },
+    {
+      "Name": "CK-LeadfootLow",
+      "X": -410.9,
+      "Y": -429.054,
+      "Z": 129.833
+    },
+    {
+      "Name": "CK-LeadfootHigh",
+      "X": -279.022,
+      "Y": -269.003,
+      "Z": 36.4082
+    },
+    {
+      "Name": "AshTribuneChest",
+      "X": -233.671,
+      "Y": 275.839,
+      "Z": 4.32882
+    },
+    {
+      "Name": "BloodTribune",
+      "X": 366.308,
+      "Y": 466.1,
+      "Z": 70.2481
+    },
+    {
+      "Name": "FrostTribune",
+      "X": 397.673,
+      "Y": 784.087,
+      "Z": 95.3171
+    },
+    {
+      "Name": "IronTribune",
+      "X": 122.731,
+      "Y": 14.0085,
+      "Z": 13.9043
+    },
+    {
+      "Name": "FlameTribune",
+      "X": 49.3271,
+      "Y": 369.113,
+      "Z": 107.827
+    }
+  ]
+}

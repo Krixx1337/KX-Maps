@@ -1,0 +1,41 @@
+{
+  "Name": "Guild Puzzle Angvars Trove Snowden",
+  "Coordinates": [
+    {
+      "Name": "Start",
+      "X": -1427.46,
+      "Y": 288.25,
+      "Z": 165.61
+    },
+    {
+      "Name": "Talk",
+      "X": -1427.77,
+      "Y": 296.52,
+      "Z": 167.78
+    },
+    {
+      "Name": "Jump_Down",
+      "X": -1175.74,
+      "Y": 593.7,
+      "Z": 60.12
+    },
+    {
+      "Name": "Pick_up_torch_to_activate",
+      "X": -1123.1,
+      "Y": 699.71,
+      "Z": 19.01
+    },
+    {
+      "Name": "Then_Teleport_to_end",
+      "X": -987.56,
+      "Y": 693.83,
+      "Z": 29.0
+    },
+    {
+      "Name": "exit",
+      "X": -861.4,
+      "Y": 726.69,
+      "Z": 4.22
+    }
+  ]
+}

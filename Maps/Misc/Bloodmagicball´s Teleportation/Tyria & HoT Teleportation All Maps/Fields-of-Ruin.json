@@ -1,0 +1,17 @@
+{
+  "Name": "Fields-of-Ruin",
+  "Coordinates": [
+    {
+      "Name": "FieldsofRuin-to-Blazeridge",
+      "X": 543.01,
+      "Y": 1023.01,
+      "Z": 2.3
+    },
+    {
+      "Name": "FieldsofRuin-to-Divinity",
+      "X": -856.88,
+      "Y": -470.17,
+      "Z": 89.03
+    }
+  ]
+}
