@@ -1,1 +1,0 @@
-1	'Arborstone_Waypoint' -945 8.43 559.04

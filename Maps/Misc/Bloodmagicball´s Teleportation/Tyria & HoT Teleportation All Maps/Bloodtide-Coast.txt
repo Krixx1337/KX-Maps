@@ -1,3 +1,0 @@
-1	'BloodtideCoast-to-LionsArch' 287.25 25.89 1209.5
-2	'Bloodtide-to-LornarsPass' 873.58 47.41 1092.85
-3	'Bloodtide-to-SparkflyFen' 654.8 10.97 -1037.13

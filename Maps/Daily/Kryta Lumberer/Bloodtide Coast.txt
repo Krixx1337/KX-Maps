@@ -1,2 +1,0 @@
-1	'SeasonedWoodLogs_Archen_Foreland' 73.6578 20.662 1088.45
-2	'HardWoodLogs_Mistarion_Beach' 565.135 32.6656 -723.183

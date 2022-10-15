@@ -1,2 +1,0 @@
-1	'Blazeridge-to-IronMarches' -670.26 22.79 1187.25
-2	'Blazeridge-to-FieldsofRuin' 540.93 54.29 -1479.07

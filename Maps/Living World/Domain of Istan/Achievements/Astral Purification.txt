@@ -1,9 +1,0 @@
-1	'When_you_have_all_Materials_port_here_to_craft_all_Mirrors' -1039.09 37.72 718.9
-2	'now_we_go_to_locations_to_complete_the_Achievment' -1036.5 37.72 719.63
-3	'Molten_Mirror' -968 198.92 192.59
-4	'Crystal_Mirror' -843.33 144.62 -221.37
-5	'Charged_Mirror' -629.68 174.5 -501.07
-6	'Destroyer_Mirror' -216.15 266.84 -296.18
-7	'Corrupted_Mirror' 80.94 308.15 -62.8
-8	'Onyx_Mirror' -246.37 193.97 483.94
-9	'Glacial_Mirror' 38.42 310.46 819.09

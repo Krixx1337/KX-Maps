@@ -1,5 +1,0 @@
-1	'Warmed-Coastal-Griffon-Egg' 690.13 342.55 464.78
-2	'Browned-Coastal-Griffon-Egg' 208.62 210.07 766.95
-3	'Lustrous-Coastal-Griffon-Egg' 1521.4 392.12 560.06
-4	'Dusty-Coastal-Griffon-Egg' 916.29 196.71 -609.99
-5	'Ridged-Coastal-Griffon-Egg' 685.97 212.32 421.51

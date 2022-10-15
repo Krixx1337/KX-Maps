@@ -1,3 +1,0 @@
-1	'MountMaelstrom-to-TimberlineFalls' -96.52 31.73 919.73
-2	'MountMaelstrom-to-SparkflyFen' -1373.05 46.56 683.76
-3	'MountMaelstrom-to-StraitsofDevastation' -1381.41 20.31 -606.85

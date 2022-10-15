@@ -1,2 +1,0 @@
-1	'TheGrove-to-Caledon' -100.95 94.04 366.65
-2	'TheGrove-to-LionsArch' 60.93 90.83 156.11

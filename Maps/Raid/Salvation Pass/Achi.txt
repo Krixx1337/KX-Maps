@@ -1,9 +1,0 @@
-1	'TornPage1' 289.16 8.22627 264.34
-2	'TornPage2' -57.8979 100.002 -158.495
-3	'TornPage3' -41.7585 129.689 47.4445
-4	'TornPage4' 1.94806 130.148 148.06
-5	'TornPage5' -96.3849 135.017 221.719
-6	'TornPage6' -60.3729 135.932 164.919
-7	'TornPage7' -110.414 147.422 77.9719
-8	'Giant-Beehive-Raid-Legendary-Armore-Achievment' 43.0228 85.1379 -456.991
-9	'Legendary-Armore-Achievment-BottleofWater' -158.552 161.945 211.088

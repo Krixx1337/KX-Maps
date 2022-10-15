@@ -1,7 +1,0 @@
-1	'Jahai_Bluff_Disturbance' -1200.81 60.3704 249.525
-2	'Jahai_Bluff_Disturbance' 638.016 98.9293 -885.032
-3	'Jahai_Bluff_Disturbance' 511.137 60.0071 -151.898
-4	'Jahai_Bluff_Disturbance' 637.779 98.615 -883.569
-5	'Jahai_Bluff_Disturbance' -453.305 118.789 534.11
-6	'Jahai_Bluff_Disturbance' 1062.16 161.937 716.557
-7	'Jahai_Bluff_Death_Branded_Shatterer' -875.037 72.7762 901.703

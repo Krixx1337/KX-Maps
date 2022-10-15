@@ -1,8 +1,0 @@
-1	'talk-to-him' -342.682 64.9606 -292.167
-2	'killthem' -28.0927 14.7618 -202.229
-3	'kill-the-champion' 57.1014 32.937 -160.24
-4	'kill-all-of-them' 134.329 48.0586 -111.269
-5	'Master-Rente-spawn' -20.8169 63.3058 -119.211
-6	'Ralena&Vasar-spawn' 418.865 24.2654 -68.3651
-7	'Kashaspawn' 411.568 39.1922 107.766
-8	'King-Adelbern-spawn' 121.597 53.408 -79.6627

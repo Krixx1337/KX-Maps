@@ -1,3 +1,0 @@
-1	'Dredgehaunt-to-LornarsPass' -742.96 71.37 190
-2	'Dredgehaunt-to-Hoelbrak' 253.98 124.77 1144.82
-3	'Dredgehaunt-to-TimberlineFalls' 43.79 57.34 -999.67

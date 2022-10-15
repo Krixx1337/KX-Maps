@@ -1,6 +1,0 @@
-1	'Vision-of-Dragons-Skyscale-Point' -674.89 243.27 1276.87
-2	'Torn-Page-Vision-of-Allies' 570.31 446.16 731.92
-3	'Defeat-Wrathbringer-with-Memory-Essence-in-inventory-for-Vision-of-Enemys' 904.21 471.94 1154.91
-4	'Vision-of-Landscapes-skyscale-point' -450.64 469.1 138.07
-5	'Vision-of-Equipment-craft-6-weapons-after-story' -657.34 171.04 1235.22
-6	'Vision-of-Action-Defend-the-Zephyrites-from-the-Branded' 426.81 222.98 -342.83
