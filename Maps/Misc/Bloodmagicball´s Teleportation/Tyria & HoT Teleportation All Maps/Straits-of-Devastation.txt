@@ -1,3 +1,0 @@
-1	'StraitsofDevastation-to-MountMaelstrom' 1166.31 34.09 203.5
-2	'StraitsofDevastation-to-SparkflyFen' 638.63 94.48 945.84
-3	'StraitsofDevastation-to-MalchorsLeap' -1164.63 65.74 -549.52

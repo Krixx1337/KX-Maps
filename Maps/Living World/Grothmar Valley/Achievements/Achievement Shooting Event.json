@@ -1,0 +1,17 @@
+{
+  "Name": "Achievement Shooting Event",
+  "Coordinates": [
+    {
+      "Name": "shooting",
+      "X": -440.0,
+      "Y": -624.13,
+      "Z": 69.27
+    },
+    {
+      "Name": "farming",
+      "X": -263.06,
+      "Y": 520.48,
+      "Z": 47.97
+    }
+  ]
+}

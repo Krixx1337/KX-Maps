@@ -1,0 +1,65 @@
+{
+  "Name": "Lions-Arch",
+  "Coordinates": [
+    {
+      "Name": "LionsArch-to-RataSum",
+      "X": 123.93,
+      "Y": 256.75,
+      "Z": 48.34
+    },
+    {
+      "Name": "LionsArch-to-Gendarran",
+      "X": -198.13,
+      "Y": 543.7,
+      "Z": 40.56
+    },
+    {
+      "Name": "LionsArch-to-Aerodrome",
+      "X": 157.39,
+      "Y": -412.73,
+      "Z": 44.99
+    },
+    {
+      "Name": "LionsArch-Fractal-Entrance",
+      "X": 180.78,
+      "Y": -295.94,
+      "Z": 38.76
+    },
+    {
+      "Name": "LionsArch-to-BloodtideCoast",
+      "X": 331.83,
+      "Y": -494.46,
+      "Z": 39.08
+    },
+    {
+      "Name": "LionsArch-to-LornarsPass",
+      "X": 802.16,
+      "Y": 57.07,
+      "Z": 32.42
+    },
+    {
+      "Name": "LionsArch-to-Divinity",
+      "X": 158.54,
+      "Y": 329.34,
+      "Z": 48.33
+    },
+    {
+      "Name": "LionsArch-to-SouthsunCove",
+      "X": 198.74,
+      "Y": 331.55,
+      "Z": 48.33
+    },
+    {
+      "Name": "LionsArch-to-Hoelbrak",
+      "X": 222.1,
+      "Y": 305.21,
+      "Z": 48.34
+    },
+    {
+      "Name": "LionsArch-to-BlackCitadel",
+      "X": 210.65,
+      "Y": 228.43,
+      "Z": 48.39
+    }
+  ]
+}

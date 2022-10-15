@@ -1,0 +1,41 @@
+{
+  "Name": "Eternal Battlegrounds",
+  "Coordinates": [
+    {
+      "Name": "Golanta-Clearing",
+      "X": -246.176,
+      "Y": -754.72,
+      "Z": 2.78504
+    },
+    {
+      "Name": "Danelon-Passage",
+      "X": 386.284,
+      "Y": -878.321,
+      "Z": 11.8193
+    },
+    {
+      "Name": "Umberglade-Woods",
+      "X": 818.998,
+      "Y": -129.279,
+      "Z": 9.08904
+    },
+    {
+      "Name": "Pangloss-Rise",
+      "X": 557.792,
+      "Y": 404.045,
+      "Z": 25.1103
+    },
+    {
+      "Name": "Speldan-Clearcut",
+      "X": -430.282,
+      "Y": 593.358,
+      "Z": 15.4719
+    },
+    {
+      "Name": "Rques-Quarry",
+      "X": -662.447,
+      "Y": -26.5106,
+      "Z": 22.0506
+    }
+  ]
+}

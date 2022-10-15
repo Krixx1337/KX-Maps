@@ -1,0 +1,47 @@
+{
+  "Name": "Enormous Mistwrought Chest",
+  "Coordinates": [
+    {
+      "Name": "[Bottom_Half_of_the_Mistwrought_Key]",
+      "X": -846.25,
+      "Y": 712.843,
+      "Z": 42.968
+    },
+    {
+      "Name": "[Top_Half_of_the_Mistwrought_Key]",
+      "X": -884.493,
+      "Y": 649.181,
+      "Z": 63.8597
+    },
+    {
+      "Name": "Mistwrought_Vault",
+      "X": -915.552,
+      "Y": 477.846,
+      "Z": 36.0871
+    },
+    {
+      "Name": "Enormous_Mistwrought_Chest",
+      "X": -926.981,
+      "Y": 453.507,
+      "Z": 40.9458
+    },
+    {
+      "Name": "Open)Vault_Door",
+      "X": -933.849,
+      "Y": 473.15,
+      "Z": 36.8452
+    },
+    {
+      "Name": "Blue_Catmander",
+      "X": -849.007,
+      "Y": 494.109,
+      "Z": 19.2157
+    },
+    {
+      "Name": "WP",
+      "X": -745.256,
+      "Y": -188.619,
+      "Z": 4.96343
+    }
+  ]
+}

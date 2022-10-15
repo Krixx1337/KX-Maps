@@ -1,0 +1,41 @@
+{
+  "Name": "Life-In-the-Underworld",
+  "Coordinates": [
+    {
+      "Name": "Camp-events-Port",
+      "X": -570.39,
+      "Y": -447.25,
+      "Z": 170.21
+    },
+    {
+      "Name": "Specter-of-Pain-spawn",
+      "X": -271.25,
+      "Y": -473.13,
+      "Z": 242.08
+    },
+    {
+      "Name": "specter-2",
+      "X": -509.85,
+      "Y": -830.15,
+      "Z": 185.25
+    },
+    {
+      "Name": "storm-spawn",
+      "X": -708.17,
+      "Y": -626.32,
+      "Z": 221.75
+    },
+    {
+      "Name": "specter-3",
+      "X": -1050.8,
+      "Y": -221.58,
+      "Z": 136.08
+    },
+    {
+      "Name": "arbiter-spawn",
+      "X": -1099.33,
+      "Y": -530.67,
+      "Z": 75.81
+    }
+  ]
+}

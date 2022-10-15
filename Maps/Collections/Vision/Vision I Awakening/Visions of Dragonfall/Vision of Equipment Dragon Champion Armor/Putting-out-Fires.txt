@@ -1,6 +1,0 @@
-1	'Camp-Events-Port' -927.88 154.8 626.14
-2	'Shadow-event-spawn' -804.37 72.5 918.06
-3	'shadow2-spawn' -655.39 214.54 463.61
-4	'storm-elemental' -437.21 237.13 673.88
-5	'Champ-Abyssal-Event' -726.04 316.52 646.86
-6	'Shadow3' 3.96 255.47 806.99

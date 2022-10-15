@@ -1,2 +1,0 @@
-1	'Hillbilly' -50.57 309.88 -410.02
-2	'Vending_Machine_Trade_Whipe_Boomerang' -48.96 309.88 -412.37

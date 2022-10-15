@@ -1,0 +1,23 @@
+{
+  "Name": "Bloodtide-Coast",
+  "Coordinates": [
+    {
+      "Name": "BloodtideCoast-to-LionsArch",
+      "X": 287.25,
+      "Y": 1209.5,
+      "Z": 25.89
+    },
+    {
+      "Name": "Bloodtide-to-LornarsPass",
+      "X": 873.58,
+      "Y": 1092.85,
+      "Z": 47.41
+    },
+    {
+      "Name": "Bloodtide-to-SparkflyFen",
+      "X": 654.8,
+      "Y": -1037.13,
+      "Z": 10.97
+    }
+  ]
+}

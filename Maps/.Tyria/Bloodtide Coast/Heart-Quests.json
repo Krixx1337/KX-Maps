@@ -1,0 +1,1349 @@
+{
+  "Name": "Heart-Quests",
+  "Coordinates": [
+    {
+      "Name": "catch-frog",
+      "X": 337.825,
+      "Y": 1119.9,
+      "Z": 7.98005
+    },
+    {
+      "Name": "catch-frog",
+      "X": 361.25,
+      "Y": 1119.23,
+      "Z": 15.3777
+    },
+    {
+      "Name": "Artifact",
+      "X": -140.793,
+      "Y": 1180.5,
+      "Z": 42.8281
+    },
+    {
+      "Name": "Artifact",
+      "X": -165.857,
+      "Y": 1194.55,
+      "Z": 49.3702
+    },
+    {
+      "Name": "Artifact",
+      "X": -166.749,
+      "Y": 1180.0,
+      "Z": 46.4022
+    },
+    {
+      "Name": "Artifact",
+      "X": -114.153,
+      "Y": 1218.81,
+      "Z": 44.1762
+    },
+    {
+      "Name": "Examine-and-get-the-gloves-from-Heart-NPC",
+      "X": -201.113,
+      "Y": 735.546,
+      "Z": 4.08166
+    },
+    {
+      "Name": "Talk-with-quaggan-in-container-and-use-gloveand-hit-it-one-time",
+      "X": -310.371,
+      "Y": 775.986,
+      "Z": -67.8711
+    },
+    {
+      "Name": "Bug-Box",
+      "X": 172.244,
+      "Y": 284.604,
+      "Z": 11.9185
+    },
+    {
+      "Name": "Bug-Box",
+      "X": 228.922,
+      "Y": 249.486,
+      "Z": 16.0491
+    },
+    {
+      "Name": "crow",
+      "X": -644.031,
+      "Y": -126.526,
+      "Z": 12.1778
+    },
+    {
+      "Name": "Stomp-all-rats-around-here",
+      "X": -659.76,
+      "Y": -88.59,
+      "Z": 13.51
+    },
+    {
+      "Name": "Help-Quaggan-and-kill-mob-which-comes",
+      "X": -542.403,
+      "Y": -98.2861,
+      "Z": 2.01758
+    },
+    {
+      "Name": "take-weapon",
+      "X": -169.25,
+      "Y": -11.6121,
+      "Z": -108.442
+    },
+    {
+      "Name": "Give-NPC-the-Weapon",
+      "X": -197.214,
+      "Y": -110.277,
+      "Z": -105.912
+    },
+    {
+      "Name": "take-weapon",
+      "X": -185.977,
+      "Y": -55.5467,
+      "Z": -127.402
+    },
+    {
+      "Name": "Give-NPC-the-Weapon",
+      "X": -197.214,
+      "Y": -110.277,
+      "Z": -105.912
+    },
+    {
+      "Name": "take-weapon",
+      "X": -269.549,
+      "Y": -131.234,
+      "Z": -138.62
+    },
+    {
+      "Name": "Give-NPC-the-Weapon",
+      "X": -197.214,
+      "Y": -110.277,
+      "Z": -105.912
+    },
+    {
+      "Name": "take-weapon",
+      "X": -303.689,
+      "Y": -159.041,
+      "Z": -107.22
+    },
+    {
+      "Name": "Give-NPC-the-Weapon",
+      "X": -197.214,
+      "Y": -110.277,
+      "Z": -105.912
+    },
+    {
+      "Name": "Artifact",
+      "X": -115.076,
+      "Y": 1193.95,
+      "Z": 41.4236
+    },
+    {
+      "Name": "Artifact",
+      "X": -155.106,
+      "Y": 1129.02,
+      "Z": 21.7861
+    },
+    {
+      "Name": "Artifact",
+      "X": -136.024,
+      "Y": 1115.9,
+      "Z": 12.9905
+    },
+    {
+      "Name": "Artifact",
+      "X": -174.503,
+      "Y": 1142.02,
+      "Z": 34.6737
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 341.876,
+      "Y": -241.733,
+      "Z": 28.3267
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 327.686,
+      "Y": -289.421,
+      "Z": 46.0409
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 370.518,
+      "Y": -306.385,
+      "Z": 56.1521
+    },
+    {
+      "Name": "Dredge-Mine",
+      "X": 118.187,
+      "Y": -335.983,
+      "Z": 39.1381
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 56.2337,
+      "Y": -297.354,
+      "Z": 38.2259
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 44.6109,
+      "Y": -278.7,
+      "Z": 39.3829
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 895.662,
+      "Y": 668.163,
+      "Z": 41.8945
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 915.724,
+      "Y": 649.96,
+      "Z": 39.9828
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 909.464,
+      "Y": 620.789,
+      "Z": 45.5823
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 883.572,
+      "Y": 625.006,
+      "Z": 37.6102
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 860.205,
+      "Y": 621.992,
+      "Z": 47.5808
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -167.146,
+      "Y": 968.031,
+      "Z": -0.314513
+    },
+    {
+      "Name": "Bring-Crabs-here",
+      "X": -251.129,
+      "Y": 952.184,
+      "Z": 0.11866
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -128.596,
+      "Y": 967.11,
+      "Z": -0.557037
+    },
+    {
+      "Name": "Bring-Crabs-here",
+      "X": -251.129,
+      "Y": 952.184,
+      "Z": 0.11866
+    },
+    {
+      "Name": "Take-Oasis-Spring-Coral",
+      "X": 787.321,
+      "Y": -977.445,
+      "Z": -1.03355
+    },
+    {
+      "Name": "Take-Oasis-Mushroom",
+      "X": 780.809,
+      "Y": -997.59,
+      "Z": 0.0589867
+    },
+    {
+      "Name": "Take-Oasis-Fern",
+      "X": 746.501,
+      "Y": -1028.77,
+      "Z": 3.14874
+    },
+    {
+      "Name": "Give-NPC-The-Colelcted-items-and-brew-potion",
+      "X": 767.819,
+      "Y": -975.486,
+      "Z": 9.84013
+    },
+    {
+      "Name": "press1-to-use-potion-on-Spider-Kill-the-Giant-Spider-after",
+      "X": 761.862,
+      "Y": -982.402,
+      "Z": 3.55038
+    },
+    {
+      "Name": "take-weapon",
+      "X": -342.631,
+      "Y": -176.116,
+      "Z": -101.339
+    },
+    {
+      "Name": "Give-NPC-the-Weapon",
+      "X": -197.214,
+      "Y": -110.277,
+      "Z": -105.912
+    },
+    {
+      "Name": "take-weapon",
+      "X": -400.315,
+      "Y": -199.454,
+      "Z": -86.5332
+    },
+    {
+      "Name": "Give-NPC-the-Weapon",
+      "X": -197.214,
+      "Y": -110.277,
+      "Z": -105.912
+    },
+    {
+      "Name": "Take-Food",
+      "X": -236.318,
+      "Y": 961.766,
+      "Z": 1.22026
+    },
+    {
+      "Name": "Give-Food",
+      "X": -248.593,
+      "Y": 952.013,
+      "Z": -0.119332
+    },
+    {
+      "Name": "Rat-or-Crow",
+      "X": -685.205,
+      "Y": -92.232,
+      "Z": 15.6292
+    },
+    {
+      "Name": "Rat-or-Crow",
+      "X": -674.446,
+      "Y": -81.9832,
+      "Z": 15.321
+    },
+    {
+      "Name": "Rat-or-Crow",
+      "X": -658.023,
+      "Y": -70.4363,
+      "Z": 14.2012
+    },
+    {
+      "Name": "Pick-Up-Keg",
+      "X": 235.61,
+      "Y": 294.51,
+      "Z": 23.37
+    },
+    {
+      "Name": "Bug-Box&Kill-Enemy",
+      "X": 236.888,
+      "Y": 304.976,
+      "Z": 18.9968
+    },
+    {
+      "Name": "Artifact",
+      "X": -180.606,
+      "Y": 1121.64,
+      "Z": 33.5378
+    },
+    {
+      "Name": "Artifact",
+      "X": -191.871,
+      "Y": 1132.76,
+      "Z": 41.4893
+    },
+    {
+      "Name": "Artifact",
+      "X": -208.121,
+      "Y": 1147.66,
+      "Z": 52.6117
+    },
+    {
+      "Name": "Artifact",
+      "X": -217.139,
+      "Y": 1156.25,
+      "Z": 54.8545
+    },
+    {
+      "Name": "Artifact",
+      "X": -221.324,
+      "Y": 1172.79,
+      "Z": 58.4707
+    },
+    {
+      "Name": "catch-frog",
+      "X": 383.83,
+      "Y": 1083.8,
+      "Z": 16.1613
+    },
+    {
+      "Name": "catch-frog",
+      "X": 338.292,
+      "Y": 1045.94,
+      "Z": -0.019088
+    },
+    {
+      "Name": "catch-frog",
+      "X": 315.667,
+      "Y": 1070.82,
+      "Z": -0.244261
+    },
+    {
+      "Name": "Artifact",
+      "X": -197.144,
+      "Y": 1186.11,
+      "Z": 53.5718
+    },
+    {
+      "Name": "Artifact",
+      "X": -177.457,
+      "Y": 1166.63,
+      "Z": 44.5551
+    },
+    {
+      "Name": "Artifact",
+      "X": -177.537,
+      "Y": 1156.22,
+      "Z": 39.5434
+    },
+    {
+      "Name": "catch-frog",
+      "X": 298.083,
+      "Y": 1078.17,
+      "Z": -0.566434
+    },
+    {
+      "Name": "Artifact",
+      "X": -193.891,
+      "Y": 1087.26,
+      "Z": 24.5682
+    },
+    {
+      "Name": "Artifact",
+      "X": -209.887,
+      "Y": 1092.31,
+      "Z": 9.01345
+    },
+    {
+      "Name": "catch-frog",
+      "X": 293.077,
+      "Y": 1069.55,
+      "Z": -0.0242692
+    },
+    {
+      "Name": "Artifact",
+      "X": -192.621,
+      "Y": 1118.55,
+      "Z": 8.15224
+    },
+    {
+      "Name": "put-in-the-artifacts",
+      "X": -244.433,
+      "Y": 1187.1,
+      "Z": 61.1262
+    },
+    {
+      "Name": "catch-frog",
+      "X": 276.815,
+      "Y": 1062.61,
+      "Z": -0.68498
+    },
+    {
+      "Name": "Artifact",
+      "X": -293.42,
+      "Y": 1188.92,
+      "Z": 63.24
+    },
+    {
+      "Name": "Artifact",
+      "X": -326.744,
+      "Y": 1194.15,
+      "Z": 62.571
+    },
+    {
+      "Name": "catch-frog",
+      "X": 268.604,
+      "Y": 1035.48,
+      "Z": -0.321921
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 316.139,
+      "Y": 1122.22,
+      "Z": 0.212707
+    },
+    {
+      "Name": "Artifact",
+      "X": -328.506,
+      "Y": 1172.49,
+      "Z": 57.3428
+    },
+    {
+      "Name": "Artifact",
+      "X": -317.421,
+      "Y": 1147.03,
+      "Z": 46.8358
+    },
+    {
+      "Name": "Artifact",
+      "X": -320.012,
+      "Y": 1105.99,
+      "Z": 38.6121
+    },
+    {
+      "Name": "talk-again-to-get-another-glove",
+      "X": -200.603,
+      "Y": 735.889,
+      "Z": 4.18226
+    },
+    {
+      "Name": "talk-with-quaggan-use-gloveand-hit-it-one-time",
+      "X": -332.93,
+      "Y": 807.552,
+      "Z": -66.3647
+    },
+    {
+      "Name": "Crow",
+      "X": -649.824,
+      "Y": -70.7082,
+      "Z": 13.2433
+    },
+    {
+      "Name": "Rat",
+      "X": -616.25,
+      "Y": -107.782,
+      "Z": 9.37485
+    },
+    {
+      "Name": "Rat",
+      "X": -614.964,
+      "Y": -113.166,
+      "Z": 9.19186
+    },
+    {
+      "Name": "take-weapon",
+      "X": -415.596,
+      "Y": -132.324,
+      "Z": -88.3626
+    },
+    {
+      "Name": "Give-NPC-the-Weapon",
+      "X": -197.214,
+      "Y": -110.277,
+      "Z": -105.912
+    },
+    {
+      "Name": "Grub-Hole&kill-spawned-mob",
+      "X": -578.492,
+      "Y": -716.5,
+      "Z": 22.5627
+    },
+    {
+      "Name": "Grub-Hole&kill-spawned-mob",
+      "X": -616.075,
+      "Y": -609.346,
+      "Z": 44.5657
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 376.866,
+      "Y": -368.509,
+      "Z": 55.4611
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 329.024,
+      "Y": -359.067,
+      "Z": 63.3114
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 314.343,
+      "Y": -368.486,
+      "Z": 70.6801
+    },
+    {
+      "Name": "Dredge-Mine",
+      "X": 42.7823,
+      "Y": -240.834,
+      "Z": 40.1663
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 60.0767,
+      "Y": -179.033,
+      "Z": 40.2495
+    },
+    {
+      "Name": "Dredge-Mine&Kill",
+      "X": 68.692,
+      "Y": -161.338,
+      "Z": 40.2552
+    },
+    {
+      "Name": "Spike&kill-spawned-mob",
+      "X": -568.83,
+      "Y": -737.282,
+      "Z": 11.9566
+    },
+    {
+      "Name": "Spike&kill-spawned-mob",
+      "X": -593.069,
+      "Y": -747.951,
+      "Z": 15.7594
+    },
+    {
+      "Name": "Rat",
+      "X": -631.689,
+      "Y": -160.75,
+      "Z": 9.02953
+    },
+    {
+      "Name": "Get-another-Glove",
+      "X": -201.851,
+      "Y": 736.138,
+      "Z": 3.6567
+    },
+    {
+      "Name": "Talk-with-quaggan-use-glove-and-hit-it-one-time",
+      "X": -394.888,
+      "Y": 733.421,
+      "Z": -90.7624
+    },
+    {
+      "Name": "Rat",
+      "X": -622.357,
+      "Y": -174.518,
+      "Z": 3.99336
+    },
+    {
+      "Name": "Grub-Hole&kill-spawned-mob",
+      "X": -687.0,
+      "Y": -644.936,
+      "Z": 58.3343
+    },
+    {
+      "Name": "Grub-Hole&kill-spawned-mob",
+      "X": -652.287,
+      "Y": -650.773,
+      "Z": 56.3402
+    },
+    {
+      "Name": "Rat",
+      "X": -620.397,
+      "Y": -177.987,
+      "Z": 3.36875
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 288.217,
+      "Y": -422.891,
+      "Z": 64.6214
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 263.387,
+      "Y": -445.278,
+      "Z": 55.1887
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 60.516,
+      "Y": -178.97,
+      "Z": 40.2149
+    },
+    {
+      "Name": "Dredge-Mine",
+      "X": 42.6546,
+      "Y": -239.326,
+      "Z": 40.1822
+    },
+    {
+      "Name": "Take&Drop-Sonic-Rifle",
+      "X": 44.2715,
+      "Y": -277.414,
+      "Z": 39.3692
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 54.7683,
+      "Y": -294.791,
+      "Z": 38.1563
+    },
+    {
+      "Name": "Kill-Storm-Generator",
+      "X": 96.9437,
+      "Y": -278.275,
+      "Z": 52.8932
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 871.596,
+      "Y": 605.422,
+      "Z": 47.6463
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 889.451,
+      "Y": 587.156,
+      "Z": 44.3813
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 903.593,
+      "Y": 594.387,
+      "Z": 46.0538
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -104.232,
+      "Y": 970.134,
+      "Z": -0.34677
+    },
+    {
+      "Name": "Bring-Crabs-here",
+      "X": -251.129,
+      "Y": 952.184,
+      "Z": 0.11866
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -76.0552,
+      "Y": 962.304,
+      "Z": -0.402541
+    },
+    {
+      "Name": "Bring-Crabs-here",
+      "X": -251.129,
+      "Y": 952.184,
+      "Z": 0.11866
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -81.9442,
+      "Y": 984.167,
+      "Z": 0.0295409
+    },
+    {
+      "Name": "Bring-Crabs-here",
+      "X": -251.129,
+      "Y": 952.184,
+      "Z": 0.11866
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 899.462,
+      "Y": 635.025,
+      "Z": 40.9418
+    },
+    {
+      "Name": "take-Rum-and-use-skill1",
+      "X": 870.649,
+      "Y": 672.256,
+      "Z": 42.0087
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -49.6551,
+      "Y": 998.049,
+      "Z": -0.0450995
+    },
+    {
+      "Name": "Bring-Crabs-here",
+      "X": -251.129,
+      "Y": 952.184,
+      "Z": 0.11866
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -37.2002,
+      "Y": 985.55,
+      "Z": 0.0943218
+    },
+    {
+      "Name": "Bring-Crabs-here",
+      "X": -251.129,
+      "Y": 952.184,
+      "Z": 0.11866
+    },
+    {
+      "Name": "Stomp-and-catch-fast-the-little-crab",
+      "X": -39.5687,
+      "Y": 1024.95,
+      "Z": -0.405484
+    },
+    {
+      "Name": "Bring-THe-Crab-here",
+      "X": -251.442,
+      "Y": 950.883,
+      "Z": 0.256613
+    },
+    {
+      "Name": "Take-Food",
+      "X": -253.694,
+      "Y": 938.839,
+      "Z": 0.612684
+    },
+    {
+      "Name": "Give-Food",
+      "X": -257.373,
+      "Y": 945.7,
+      "Z": 0.0942215
+    },
+    {
+      "Name": "Take-Food",
+      "X": -284.481,
+      "Y": 949.982,
+      "Z": 0.519547
+    },
+    {
+      "Name": "Give-Food-to-Crab",
+      "X": -260.034,
+      "Y": 949.976,
+      "Z": -0.0762465
+    },
+    {
+      "Name": "Dredge-Mine&Kill-Mob",
+      "X": 116.468,
+      "Y": -334.934,
+      "Z": 38.9646
+    },
+    {
+      "Name": "Dredge-Mine",
+      "X": 90.8841,
+      "Y": -415.408,
+      "Z": 45.3188
+    },
+    {
+      "Name": "Bug-Boxes-second-Round",
+      "X": 172.665,
+      "Y": 284.44,
+      "Z": 12.0931
+    },
+    {
+      "Name": "Bug-Boxes-Second-Round",
+      "X": 237.029,
+      "Y": 305.612,
+      "Z": 18.6962
+    },
+    {
+      "Name": "BUg-Boxes-Second-Round",
+      "X": 228.981,
+      "Y": 246.977,
+      "Z": 15.8746
+    },
+    {
+      "Name": "Bug-Box",
+      "X": 138.56,
+      "Y": 206.17,
+      "Z": 31.61
+    },
+    {
+      "Name": "Spike&kill-spawned-mob",
+      "X": -589.431,
+      "Y": -652.393,
+      "Z": 38.4501
+    },
+    {
+      "Name": "Spike&kill-spawned-mob",
+      "X": -581.041,
+      "Y": -627.64,
+      "Z": 31.1039
+    },
+    {
+      "Name": "Grub-Hole&kill-spawned-mob",
+      "X": -662.57,
+      "Y": -705.837,
+      "Z": 40.0236
+    },
+    {
+      "Name": "Rat",
+      "X": -606.993,
+      "Y": -226.402,
+      "Z": 0.924014
+    },
+    {
+      "Name": "Rat",
+      "X": -606.69,
+      "Y": -230.542,
+      "Z": 1.78476
+    },
+    {
+      "Name": "Crow",
+      "X": -609.639,
+      "Y": -234.167,
+      "Z": 2.62446
+    },
+    {
+      "Name": "Rat",
+      "X": -636.639,
+      "Y": -244.253,
+      "Z": 1.99267
+    },
+    {
+      "Name": "Crow",
+      "X": -640.809,
+      "Y": -258.541,
+      "Z": 1.15178
+    },
+    {
+      "Name": "Get-a-glove",
+      "X": -201.082,
+      "Y": 734.778,
+      "Z": 4.10095
+    },
+    {
+      "Name": "Help-quaggan-with-glove",
+      "X": -382.422,
+      "Y": 737.366,
+      "Z": -93.3903
+    },
+    {
+      "Name": "Get-a-new-glove",
+      "X": -201.792,
+      "Y": 736.028,
+      "Z": 3.74379
+    },
+    {
+      "Name": "Help-Quaggan-with-glove",
+      "X": -355.125,
+      "Y": 765.626,
+      "Z": -101.157
+    },
+    {
+      "Name": "Kill-Container-normaly",
+      "X": -365.492,
+      "Y": 757.224,
+      "Z": -102.561
+    },
+    {
+      "Name": "Artifact",
+      "X": -292.513,
+      "Y": 1096.93,
+      "Z": 30.5555
+    },
+    {
+      "Name": "Artifact",
+      "X": -283.339,
+      "Y": 1102.22,
+      "Z": 36.2056
+    },
+    {
+      "Name": "Artifact",
+      "X": -254.852,
+      "Y": 1100.36,
+      "Z": 38.397
+    },
+    {
+      "Name": "Artifact",
+      "X": -254.097,
+      "Y": 1122.08,
+      "Z": 47.6082
+    },
+    {
+      "Name": "put-in-artifacts",
+      "X": -267.809,
+      "Y": 1161.69,
+      "Z": 62.1002
+    },
+    {
+      "Name": "Artifact",
+      "X": -286.412,
+      "Y": 1168.4,
+      "Z": 60.748
+    },
+    {
+      "Name": "Artifact",
+      "X": -273.798,
+      "Y": 1120.15,
+      "Z": 45.0394
+    },
+    {
+      "Name": "Artifact",
+      "X": -271.722,
+      "Y": 1087.39,
+      "Z": 32.3291
+    },
+    {
+      "Name": "Artifact",
+      "X": -241.059,
+      "Y": 1129.68,
+      "Z": 51.5389
+    },
+    {
+      "Name": "Artifact",
+      "X": -136.177,
+      "Y": 1114.59,
+      "Z": 12.4614
+    },
+    {
+      "Name": "put-in-artifacts-Heart-completed",
+      "X": -241.676,
+      "Y": 1151.23,
+      "Z": 60.9934
+    },
+    {
+      "Name": "Kill",
+      "X": 652.661,
+      "Y": 663.563,
+      "Z": 16.9746
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 334.527,
+      "Y": 1088.43,
+      "Z": 1.15628
+    },
+    {
+      "Name": "kill",
+      "X": 664.928,
+      "Y": 650.771,
+      "Z": 20.7645
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 368.527,
+      "Y": 1050.54,
+      "Z": 0.186727
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 215.302,
+      "Y": 1076.15,
+      "Z": 5.18001
+    },
+    {
+      "Name": "kill",
+      "X": 673.617,
+      "Y": 649.436,
+      "Z": 20.6789
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 140.04,
+      "Y": 1027.78,
+      "Z": 0.0429143
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 107.357,
+      "Y": 1012.57,
+      "Z": 1.62494
+    },
+    {
+      "Name": "pick-up-bomb-and-trow",
+      "X": 680.999,
+      "Y": 646.995,
+      "Z": 20.4108
+    },
+    {
+      "Name": "Trap&Kill",
+      "X": 116.504,
+      "Y": 1070.88,
+      "Z": 0.191902
+    },
+    {
+      "Name": "Extra-Kill",
+      "X": 134.14,
+      "Y": 1054.69,
+      "Z": -0.0273273
+    },
+    {
+      "Name": "kill",
+      "X": 666.313,
+      "Y": 631.081,
+      "Z": 23.5178
+    },
+    {
+      "Name": "Rat",
+      "X": -655.544,
+      "Y": -293.956,
+      "Z": 0.908574
+    },
+    {
+      "Name": "Crow",
+      "X": -670.801,
+      "Y": -321.621,
+      "Z": 3.09865
+    },
+    {
+      "Name": "Rat",
+      "X": -678.076,
+      "Y": -324.276,
+      "Z": 3.48792
+    },
+    {
+      "Name": "kill",
+      "X": 660.165,
+      "Y": 617.436,
+      "Z": 25.3666
+    },
+    {
+      "Name": "Extra-Kill",
+      "X": 143.026,
+      "Y": 1069.74,
+      "Z": 0.29319
+    },
+    {
+      "Name": "Extra-Kill",
+      "X": 160.742,
+      "Y": 1081.11,
+      "Z": -0.0262029
+    },
+    {
+      "Name": "Extra-Kill",
+      "X": 165.306,
+      "Y": 1104.21,
+      "Z": 0.23962
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 412.292,
+      "Y": -456.516,
+      "Z": 45.1063
+    },
+    {
+      "Name": "Corrupted-Tree&Kill-spawned-Mob",
+      "X": 460.292,
+      "Y": -462.137,
+      "Z": 41.275
+    },
+    {
+      "Name": "kill",
+      "X": 655.029,
+      "Y": 606.976,
+      "Z": 26.652
+    },
+    {
+      "Name": "Collect-Strangler-Vine",
+      "X": 754.951,
+      "Y": -987.145,
+      "Z": 5.73912
+    },
+    {
+      "Name": "COllect-Mushroom",
+      "X": 757.193,
+      "Y": -992.025,
+      "Z": 4.93978
+    },
+    {
+      "Name": "Collect-Spring-Coral",
+      "X": 788.612,
+      "Y": -979.768,
+      "Z": -1.06535
+    },
+    {
+      "Name": "Give-NPC-The-Colelcted-items-and-brew-potion",
+      "X": 767.819,
+      "Y": -975.486,
+      "Z": 9.84013
+    },
+    {
+      "Name": "Use-Potion-on-Spider",
+      "X": 762.731,
+      "Y": -982.875,
+      "Z": 3.40135
+    },
+    {
+      "Name": "kill",
+      "X": 648.708,
+      "Y": 599.521,
+      "Z": 28.134
+    },
+    {
+      "Name": "Quaggan-Help-him-and-kill-mob-which-will-come",
+      "X": -640.47,
+      "Y": -307.841,
+      "Z": 1.47161
+    },
+    {
+      "Name": "2Rats+Quaggan-Help-him-and-kill-mob-which-will-come",
+      "X": -619.97,
+      "Y": -295.336,
+      "Z": -0.298676
+    },
+    {
+      "Name": "more-Artifacts",
+      "X": -202.93,
+      "Y": 1189.61,
+      "Z": 55.36
+    },
+    {
+      "Name": "more-Artifacts",
+      "X": -161.42,
+      "Y": 1144.46,
+      "Z": 28.56
+    },
+    {
+      "Name": "Crow",
+      "X": -599.434,
+      "Y": -282.222,
+      "Z": 0.385412
+    },
+    {
+      "Name": "Rat",
+      "X": -601.013,
+      "Y": -256.738,
+      "Z": 0.909316
+    },
+    {
+      "Name": "more-Artifacts",
+      "X": -228.61,
+      "Y": 1086.29,
+      "Z": 34.39
+    },
+    {
+      "Name": "more-Artifacts",
+      "X": -221.49,
+      "Y": 1136.76,
+      "Z": 53.54
+    },
+    {
+      "Name": "more-Artifacts",
+      "X": -294.47,
+      "Y": 1177.12,
+      "Z": 60.83
+    },
+    {
+      "Name": "Crow",
+      "X": -607.821,
+      "Y": -235.271,
+      "Z": 2.8993
+    },
+    {
+      "Name": "Crow",
+      "X": -610.633,
+      "Y": -231.193,
+      "Z": 2.01163
+    },
+    {
+      "Name": "Rat",
+      "X": -608.732,
+      "Y": -225.703,
+      "Z": 0.833488
+    },
+    {
+      "Name": "more-Artifacts",
+      "X": -308.16,
+      "Y": 1174.23,
+      "Z": 58.55
+    },
+    {
+      "Name": "more-Artifacts",
+      "X": -166.69,
+      "Y": 1179.25,
+      "Z": 46.14
+    },
+    {
+      "Name": "put-artifacts-in-chest",
+      "X": -283.76,
+      "Y": 1183.18,
+      "Z": 63.96
+    },
+    {
+      "Name": "Bug-Boxes-last-Round",
+      "X": 172.665,
+      "Y": 284.44,
+      "Z": 12.0931
+    },
+    {
+      "Name": "Bug-Boxes-last-Round",
+      "X": 237.029,
+      "Y": 305.612,
+      "Z": 18.6962
+    },
+    {
+      "Name": "BUg-Boxes-last-Round",
+      "X": 228.981,
+      "Y": 246.977,
+      "Z": 15.8746
+    },
+    {
+      "Name": "Bug-Box",
+      "X": 138.56,
+      "Y": 206.17,
+      "Z": 31.61
+    },
+    {
+      "Name": "Dredge-Mine",
+      "X": 42.6546,
+      "Y": -239.326,
+      "Z": 40.1822
+    },
+    {
+      "Name": "Take&Drop-Sonic-Rifle",
+      "X": 44.2715,
+      "Y": -277.414,
+      "Z": 39.3692
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 54.7683,
+      "Y": -294.791,
+      "Z": 38.1563
+    },
+    {
+      "Name": "Dredge-Mine",
+      "X": 118.187,
+      "Y": -335.983,
+      "Z": 39.1381
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 56.2337,
+      "Y": -297.354,
+      "Z": 38.2259
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 44.6109,
+      "Y": -278.7,
+      "Z": 39.3829
+    },
+    {
+      "Name": "Examine-and-get-the-gloves-from-Heart-NPC",
+      "X": -201.113,
+      "Y": 735.546,
+      "Z": 4.08166
+    },
+    {
+      "Name": "Talk-with-quaggan-in-container-and-use-gloveand-hit-it-one-time",
+      "X": -310.371,
+      "Y": 775.986,
+      "Z": -67.8711
+    },
+    {
+      "Name": "Get-a-glove",
+      "X": -201.082,
+      "Y": 734.778,
+      "Z": 4.10095
+    },
+    {
+      "Name": "Help-quaggan-with-glove",
+      "X": -382.422,
+      "Y": 737.366,
+      "Z": -93.3903
+    },
+    {
+      "Name": "Rat",
+      "X": -606.194,
+      "Y": -228.298,
+      "Z": 1.28672
+    },
+    {
+      "Name": "Dredge-Mine",
+      "X": 118.187,
+      "Y": -335.983,
+      "Z": 39.1381
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 56.2337,
+      "Y": -297.354,
+      "Z": 38.2259
+    },
+    {
+      "Name": "Take&Drop-Sonyc-Rifle",
+      "X": 44.6109,
+      "Y": -278.7,
+      "Z": 39.3829
+    }
+  ]
+}

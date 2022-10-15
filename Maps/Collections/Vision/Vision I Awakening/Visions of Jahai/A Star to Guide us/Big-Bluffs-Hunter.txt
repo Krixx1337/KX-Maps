@@ -1,5 +1,0 @@
-1	'Champion-Elasa-the-Elemental-Spawn-Area' -538.24 111.6 1111.64
-2	'Champion-Judge-Aasma-spawn-area' 659.6 261.48 206.37
-3	'Champion-Rilohn-Broodmother' 1450.09 166.91 762.42
-4	'Champion-The-Tooth-spawn-area' -1101.43 93.51 1036.54
-5	'Champion-Vihn-spawn-Area' 248.11 96.53 -181.8

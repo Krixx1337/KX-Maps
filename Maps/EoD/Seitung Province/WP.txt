@@ -1,4 +1,0 @@
-1	'Village_Waypoint' -97.2 17.63 -226.15
-2	'Monastery_Waypoint' -1054.72 142.63 -144.61
-3	'Daigo_Ward_Waypoint' 84.19 140.33 309.48
-4	'Haiju_Docks_Waypoint' 419.43 0.69 853.22

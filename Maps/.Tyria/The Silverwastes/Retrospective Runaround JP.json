@@ -1,0 +1,107 @@
+{
+  "Name": "Retrospective Runaround JP",
+  "Coordinates": [
+    {
+      "Name": "Checkpoint-1-run-backwar-ds-forwards-if-you-dont-have-checkpoint-1",
+      "X": 288.74,
+      "Y": -23.68,
+      "Z": 377.05
+    },
+    {
+      "Name": "The_Silverwaste_JP_Checkpoint_2",
+      "X": 471.447,
+      "Y": -172.115,
+      "Z": 422.011
+    },
+    {
+      "Name": "New-Checkpoint3",
+      "X": 487.12,
+      "Y": -335.84,
+      "Z": 550.45
+    },
+    {
+      "Name": "The_Silverwaste_JP_Checkpoint_4",
+      "X": 211.718,
+      "Y": -204.811,
+      "Z": 462.123
+    },
+    {
+      "Name": "New-Checkpoint5",
+      "X": -41.74,
+      "Y": -89.61,
+      "Z": 513.58
+    },
+    {
+      "Name": "The_Silverwaste_JP_Checkpoint_6",
+      "X": 4.04605,
+      "Y": -0.165753,
+      "Z": 280.013
+    },
+    {
+      "Name": "The_Silverwaste_JP_Checkpoint_7",
+      "X": -270.303,
+      "Y": 141.169,
+      "Z": 300.637
+    },
+    {
+      "Name": "The_Silverwaste_JP_Checkpoint_8",
+      "X": -111.305,
+      "Y": 189.034,
+      "Z": 252.049
+    },
+    {
+      "Name": "safespot1",
+      "X": -429.12,
+      "Y": 93.29,
+      "Z": 190.1
+    },
+    {
+      "Name": "safespot2",
+      "X": -667.57,
+      "Y": -244.89,
+      "Z": 171.46
+    },
+    {
+      "Name": "newcheckpoint9",
+      "X": -599.4,
+      "Y": -342.63,
+      "Z": 375.4
+    },
+    {
+      "Name": "The_Silverwaste_JP_Checkpoint_9",
+      "X": -596.231,
+      "Y": -369.803,
+      "Z": 381.554
+    },
+    {
+      "Name": "The_Silverwaste_JP_Skritt_Key_Frag_1",
+      "X": -653.283,
+      "Y": -458.082,
+      "Z": 387.774
+    },
+    {
+      "Name": "The_Silverwaste_JP_Skritt_Key_Frag_2",
+      "X": -625.282,
+      "Y": -488.507,
+      "Z": 387.537
+    },
+    {
+      "Name": "The_Silverwaste_JP_Skritt_Key_Frag_3",
+      "X": -671.654,
+      "Y": -504.704,
+      "Z": 388.226
+    },
+    {
+      "Name": "The_Silverwaste_Open_Mag_Chest_Kill_Skritt",
+      "X": -668.727,
+      "Y": -427.544,
+      "Z": 389.6
+    },
+    {
+      "Name": "The_Silverwaste_Exit_Tunnel",
+      "X": -655.81,
+      "Y": -470.76,
+      "Z": 387.171
+    }
+  ]
+}

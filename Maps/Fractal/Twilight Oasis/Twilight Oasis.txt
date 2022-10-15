@@ -1,8 +1,0 @@
-1	'start-point' 53.16 34.12 287.34
-2	'Singularity1' 40.47 30.61 264.93
-3	'kill' 22.76 13.04 37.86
-4	'First-Time-Amala' 147.9 2.8 62.02
-5	'Elite-Sandbinder1' 179.87 56.41 104.18
-6	'Elite-Sandbinder2' 46.64 51.63 69.87
-7	'Singularity-before-boss' 205.89 4.35 16.58
-8	'ENDBOSS' 230.95 15.53 -36.42

@@ -1,0 +1,59 @@
+{
+  "Name": "HP",
+  "Coordinates": [
+    {
+      "Name": "Bloom_of_Seitung_Hero_Challenge",
+      "X": -389.86,
+      "Y": -266.37,
+      "Z": 3.68
+    },
+    {
+      "Name": "Veteran_Jade_Bulwark-part_of_story",
+      "X": -638.31,
+      "Y": -457.72,
+      "Z": 57.16
+    },
+    {
+      "Name": "Village_Overlook",
+      "X": -787.69,
+      "Y": -79.19,
+      "Z": 200.94
+    },
+    {
+      "Name": "Cliffside_Memorial_Bell",
+      "X": 611.26,
+      "Y": -226.77,
+      "Z": 140.48
+    },
+    {
+      "Name": "Village_Overlook",
+      "X": 1204.67,
+      "Y": -443.59,
+      "Z": 123.81
+    },
+    {
+      "Name": "Old_Bell_Shrine",
+      "X": 488.59,
+      "Y": 571.15,
+      "Z": 44.65
+    },
+    {
+      "Name": "Haiju_Hatchery",
+      "X": -215.75,
+      "Y": 895.36,
+      "Z": -32.89
+    },
+    {
+      "Name": "Dog_Statue",
+      "X": -506.83,
+      "Y": 235.87,
+      "Z": 1.8
+    },
+    {
+      "Name": "Source_of_the_Springs",
+      "X": -106.93,
+      "Y": 106.68,
+      "Z": 267.83
+    }
+  ]
+}

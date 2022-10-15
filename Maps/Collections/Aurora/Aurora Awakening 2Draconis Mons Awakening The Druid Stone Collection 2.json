@@ -1,0 +1,467 @@
+{
+  "Name": "Aurora Awakening 2Draconis Mons Awakening The Druid Stone Collection 2",
+  "Coordinates": [
+    {
+      "Name": "Shroom&kill",
+      "X": -78.2514,
+      "Y": 68.9827,
+      "Z": 308.803
+    },
+    {
+      "Name": "Shroom&Kill",
+      "X": -170.387,
+      "Y": 118.153,
+      "Z": 310.65
+    },
+    {
+      "Name": "Shroom&Kill",
+      "X": -177.307,
+      "Y": 146.114,
+      "Z": 311.462
+    },
+    {
+      "Name": "Kill-the-5-Spiders",
+      "X": -243.583,
+      "Y": 200.705,
+      "Z": 303.082
+    },
+    {
+      "Name": "Shroom&Kill",
+      "X": -250.372,
+      "Y": 179.642,
+      "Z": 302.737
+    },
+    {
+      "Name": "Shroom&Kill",
+      "X": -227.249,
+      "Y": 93.4672,
+      "Z": 292.516
+    },
+    {
+      "Name": "Shroom&Kill",
+      "X": -137.664,
+      "Y": 62.6167,
+      "Z": 310.074
+    },
+    {
+      "Name": "Killspiders",
+      "X": -133.804,
+      "Y": 52.0502,
+      "Z": 310.337
+    },
+    {
+      "Name": "kIll-5-spiders-Heart-completed",
+      "X": -213.416,
+      "Y": 9.67373,
+      "Z": 309.656
+    },
+    {
+      "Name": "[Buy-Druid-Runestone-Fragment-1x-per-day",
+      "X": -82.4398,
+      "Y": 126.712,
+      "Z": 313.127
+    },
+    {
+      "Name": "Recorder-if-not-there-use-the-extra-slots-which-are-comming-later",
+      "X": -399.508,
+      "Y": -368.207,
+      "Z": 510.041
+    },
+    {
+      "Name": "Recorder-if-not-there-use-the-extra-slots-which-are-comming-later",
+      "X": -331.219,
+      "Y": -397.296,
+      "Z": 510.188
+    },
+    {
+      "Name": "Kill-4-Inquest",
+      "X": -320.931,
+      "Y": -426.932,
+      "Z": 510.219
+    },
+    {
+      "Name": "Kill-2-Inquest",
+      "X": -330.487,
+      "Y": -462.841,
+      "Z": 514.709
+    },
+    {
+      "Name": "Kill-3-Inquest",
+      "X": -344.117,
+      "Y": -481.627,
+      "Z": 530.107
+    },
+    {
+      "Name": "Kill-Inquest",
+      "X": -372.686,
+      "Y": -440.351,
+      "Z": 531.693
+    },
+    {
+      "Name": "Kill-3-Inquest",
+      "X": -400.25,
+      "Y": -385.568,
+      "Z": 510.135
+    },
+    {
+      "Name": "Kill-4-Inquest",
+      "X": -473.017,
+      "Y": -340.373,
+      "Z": 539.408
+    },
+    {
+      "Name": "Kill-Inquest-Heart-completed",
+      "X": -366.126,
+      "Y": -326.043,
+      "Z": 523.46
+    },
+    {
+      "Name": "Kill-Inquest-Extra-Spot",
+      "X": -357.972,
+      "Y": -347.07,
+      "Z": 520.081
+    },
+    {
+      "Name": "Extra-Inquest",
+      "X": -448.419,
+      "Y": -383.901,
+      "Z": 572.091
+    },
+    {
+      "Name": "Extra-Inquest",
+      "X": -477.727,
+      "Y": -378.703,
+      "Z": 573.869
+    },
+    {
+      "Name": "Extra-Inquest",
+      "X": -490.2,
+      "Y": -404.405,
+      "Z": 570.952
+    },
+    {
+      "Name": "Get--Druid-Runestone-Fragment-1x-per-day",
+      "X": -393.689,
+      "Y": -259.757,
+      "Z": 539.674
+    },
+    {
+      "Name": "Shrub&Kill",
+      "X": -112.358,
+      "Y": -867.555,
+      "Z": 203.357
+    },
+    {
+      "Name": "Shrub&Kill",
+      "X": -106.404,
+      "Y": -824.689,
+      "Z": 201.645
+    },
+    {
+      "Name": "Rescue",
+      "X": -102.843,
+      "Y": -786.749,
+      "Z": 196.699
+    },
+    {
+      "Name": "Shrub&Kill",
+      "X": -68.5129,
+      "Y": -712.354,
+      "Z": 208.107
+    },
+    {
+      "Name": "Rescue",
+      "X": -59.1645,
+      "Y": -760.902,
+      "Z": 207.656
+    },
+    {
+      "Name": "Shrub&Kill",
+      "X": -16.2085,
+      "Y": -776.678,
+      "Z": 204.647
+    },
+    {
+      "Name": "Rescue",
+      "X": -45.5931,
+      "Y": -820.53,
+      "Z": 198.086
+    },
+    {
+      "Name": "Shrub&Kill",
+      "X": -4.87336,
+      "Y": -875.735,
+      "Z": 187.552
+    },
+    {
+      "Name": "Shrub&Kill",
+      "X": 29.4066,
+      "Y": -832.947,
+      "Z": 191.729
+    },
+    {
+      "Name": "Shrub&Kill",
+      "X": -105.046,
+      "Y": -823.782,
+      "Z": 201.558
+    },
+    {
+      "Name": "Shrub&Kill-Heart-completed",
+      "X": -112.321,
+      "Y": -865.371,
+      "Z": 203.493
+    },
+    {
+      "Name": "Buy-Item-Druid-Runestone-Fragment-1x-per-day",
+      "X": -68.002,
+      "Y": -892.041,
+      "Z": 196.221
+    },
+    {
+      "Name": "Take-Oil",
+      "X": 409.47,
+      "Y": -240.464,
+      "Z": 515.034
+    },
+    {
+      "Name": "make-aline-to-fire",
+      "X": 420.697,
+      "Y": -240.126,
+      "Z": 514.826
+    },
+    {
+      "Name": "Next",
+      "X": 418.425,
+      "Y": -253.612,
+      "Z": 513.56
+    },
+    {
+      "Name": "next",
+      "X": 419.278,
+      "Y": -248.932,
+      "Z": 513.537
+    },
+    {
+      "Name": "next",
+      "X": 416.716,
+      "Y": -258.534,
+      "Z": 513.744
+    },
+    {
+      "Name": "next",
+      "X": 414.783,
+      "Y": -264.084,
+      "Z": 515.091
+    },
+    {
+      "Name": "next",
+      "X": 413.265,
+      "Y": -272.763,
+      "Z": 514.264
+    },
+    {
+      "Name": "next",
+      "X": 411.903,
+      "Y": -280.23,
+      "Z": 512.828
+    },
+    {
+      "Name": "Next",
+      "X": 419.756,
+      "Y": -243.41,
+      "Z": 513.576
+    },
+    {
+      "Name": "Next",
+      "X": 410.8,
+      "Y": -286.666,
+      "Z": 512.943
+    },
+    {
+      "Name": "Destroy-Gate-if-there",
+      "X": 407.673,
+      "Y": -177.896,
+      "Z": 512.776
+    },
+    {
+      "Name": "Free-Prisoner",
+      "X": 388.383,
+      "Y": -167.391,
+      "Z": 514.335
+    },
+    {
+      "Name": "Free-prisoner",
+      "X": 383.128,
+      "Y": -140.036,
+      "Z": 512.74
+    },
+    {
+      "Name": "kill-all-7-enemys-in-here",
+      "X": 397.419,
+      "Y": -134.679,
+      "Z": 511.187
+    },
+    {
+      "Name": "Free-Prisoner",
+      "X": 415.055,
+      "Y": -121.653,
+      "Z": 510.178
+    },
+    {
+      "Name": "Free-Prisoner",
+      "X": 420.921,
+      "Y": -133.069,
+      "Z": 510.548
+    },
+    {
+      "Name": "Free-Prisoner",
+      "X": 416.852,
+      "Y": -147.681,
+      "Z": 509.854
+    },
+    {
+      "Name": "Kill-2-Enemys",
+      "X": 369.178,
+      "Y": -94.005,
+      "Z": 513.157
+    },
+    {
+      "Name": "Kill-2-Enemys",
+      "X": 326.695,
+      "Y": 16.0805,
+      "Z": 504.28
+    },
+    {
+      "Name": "Kill-2-Enemys",
+      "X": 360.151,
+      "Y": 4.70855,
+      "Z": 510.276
+    },
+    {
+      "Name": "Kill-2-Enemys",
+      "X": 446.523,
+      "Y": -83.3638,
+      "Z": 508.178
+    },
+    {
+      "Name": "Kill-Sniper-Heart-completed",
+      "X": 311.017,
+      "Y": 15.9177,
+      "Z": 526.392
+    },
+    {
+      "Name": "Kill-2-Enemys-Extra-Spot",
+      "X": 384.552,
+      "Y": 6.3742,
+      "Z": 547.605
+    },
+    {
+      "Name": "Extra-Enemy",
+      "X": 338.119,
+      "Y": 26.9126,
+      "Z": 542.323
+    },
+    {
+      "Name": "Extra-Enemys&Prisoner-Heart-completed-after",
+      "X": 346.097,
+      "Y": 81.2812,
+      "Z": 524.378
+    },
+    {
+      "Name": "Buy-item-Druid-Runestone-Fragment-1x-per-day",
+      "X": 538.443,
+      "Y": -336.363,
+      "Z": 509.272
+    },
+    {
+      "Name": "Buy-the-5th-Druid-Stone-shard-from-him",
+      "X": -449.295,
+      "Y": -543.328,
+      "Z": 6.01468
+    },
+    {
+      "Name": "You-have-to-kill-Wardbough-again-wait-until-he-spawned-then-kill-him",
+      "X": 9.38597,
+      "Y": -1274.0465,
+      "Z": 170.294
+    },
+    {
+      "Name": "After-hes-dead-combine-one-Druid-Stone-with-\"Elemt-of-the-Wardbough-which-you-got-fire-killing-him-and-get-the-needed-item",
+      "X": 8.95004,
+      "Y": -1276.81,
+      "Z": 236.148
+    },
+    {
+      "Name": "Next-step-is-giving-him-the-item-you-created",
+      "X": 704.237,
+      "Y": -417.092,
+      "Z": 148.49
+    },
+    {
+      "Name": "Now-for-the-Next-one-we-are-going-to-the-Brisban-Wildlands-i-see-you-there!",
+      "X": -466.37,
+      "Y": -536.313,
+      "Z": 4.41713
+    },
+    {
+      "Name": "Now-i-saw-you-hehe-;)-so-kill-him-and-wait-until-you-get-the-item-needed-from-him-if-its-buggy-kill-him-again-or-leave-the-map-and-come-back",
+      "X": -39.0389,
+      "Y": 795.863,
+      "Z": 7.37229
+    },
+    {
+      "Name": "HEY-LISTEN!-:P-Now-you-combine-the-item[Element-of-Arbor-with-your-Druid-Stone-whenyou-done-that-you-go-back-toDraconis-Mons-i-meet-you-there!",
+      "X": -39.0389,
+      "Y": 795.863,
+      "Z": 7.37229
+    },
+    {
+      "Name": "Give-him-Item",
+      "X": 704.589,
+      "Y": -416.941,
+      "Z": 148.453
+    },
+    {
+      "Name": "now-we-are-going-to-Queensdale-meet-me-there",
+      "X": -466.37,
+      "Y": -536.313,
+      "Z": 4.41713
+    },
+    {
+      "Name": "Kill[Rotting-Ancient-Oakheart]-to-get-item[Element-of-the-Oakhearts]-after-that-combine-them-and-go-back-to-Draconis-Mons",
+      "X": -136.0,
+      "Y": -303.118,
+      "Z": 3.63387
+    },
+    {
+      "Name": "Now-give-him-the-last-item-and-you-have-the-hard-work-done-next-is-only-giving-spirits-3-Fire-Orchids",
+      "X": 704.401,
+      "Y": -417.421,
+      "Z": 148.489
+    },
+    {
+      "Name": "GIve-him-3-Fire-Orchids",
+      "X": 704.401,
+      "Y": -417.421,
+      "Z": 148.489
+    },
+    {
+      "Name": "Give-him-3-Fire-Orchids",
+      "X": 731.467,
+      "Y": -346.091,
+      "Z": 298.556
+    },
+    {
+      "Name": "Give-Him-3-Fire-Orchids",
+      "X": -0.926513,
+      "Y": 166.617,
+      "Z": 380.422
+    },
+    {
+      "Name": "Give-him-3-Fire-Orchids-and-youre-Collection2-is-done-See-you-all-in-Collection-3-Bye",
+      "X": -268.753,
+      "Y": -871.965,
+      "Z": 363.982
+    }
+  ]
+}

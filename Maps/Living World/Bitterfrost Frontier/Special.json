@@ -1,0 +1,23 @@
+{
+  "Name": "Special",
+  "Coordinates": [
+    {
+      "Name": "MasteryPoint1",
+      "X": -1002.74,
+      "Y": -291.119,
+      "Z": 120.044
+    },
+    {
+      "Name": "MasteryPoint2",
+      "X": -642.037,
+      "Y": 37.84473,
+      "Z": 111.856
+    },
+    {
+      "Name": "MasteryPoint3",
+      "X": 1045.4,
+      "Y": 430.526,
+      "Z": 108.584
+    }
+  ]
+}

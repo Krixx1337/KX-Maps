@@ -1,0 +1,17 @@
+{
+  "Name": "Finders-Inner-Keepers",
+  "Coordinates": [
+    {
+      "Name": "Race-start",
+      "X": 909.93,
+      "Y": 231.4,
+      "Z": 183.21
+    },
+    {
+      "Name": "Treasure",
+      "X": 1268.13,
+      "Y": 103.38,
+      "Z": 187.78
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Name": "drizzlewood - Drizzlewood Historian",
+  "Coordinates": [
+    {
+      "Name": "Reflection",
+      "X": 91.0988,
+      "Y": -67.5781,
+      "Z": 4.24849
+    },
+    {
+      "Name": "Diplomacy",
+      "X": -455.231,
+      "Y": 366.42,
+      "Z": 12.7005
+    },
+    {
+      "Name": "Great_Drunken",
+      "X": -557.316,
+      "Y": 863.265,
+      "Z": 98.9548
+    },
+    {
+      "Name": "Legacy",
+      "X": -50.6129,
+      "Y": 918.199,
+      "Z": 186.55
+    },
+    {
+      "Name": "Betrayal",
+      "X": 416.97,
+      "Y": 822.558,
+      "Z": 95.8275
+    }
+  ]
+}

@@ -1,2 +1,0 @@
-1	'MalchorsLeap-to-StraitsofDevastation' 1452.36 66.25 -305.08
-2	'MalchorsLeap-to-CursedShore' -369.6 75.6 -706.18

@@ -1,0 +1,185 @@
+{
+  "Name": "0.Convergence&Chapter1 Old Friends",
+  "Coordinates": [
+    {
+      "Name": "start_in_Eye_of_the_North",
+      "X": -122.15,
+      "Y": 61.04,
+      "Z": 2.4
+    },
+    {
+      "Name": "talk_with_Aurene",
+      "X": -266.65,
+      "Y": 216.99,
+      "Z": 2.41
+    },
+    {
+      "Name": "talk_with_Taimi",
+      "X": -323.01,
+      "Y": 193.07,
+      "Z": 2.32
+    },
+    {
+      "Name": "now_to_lornars_Pass",
+      "X": -132.93,
+      "Y": 71.04,
+      "Z": 2.4
+    },
+    {
+      "Name": "starting_instance_Old_Friends",
+      "X": -274.77,
+      "Y": -220.03,
+      "Z": 99.25
+    },
+    {
+      "Name": "Meet_Gorrik_and_run_with_him_next_ports_at_the_ship",
+      "X": -123.0,
+      "Y": 155.39,
+      "Z": 100.68
+    },
+    {
+      "Name": "after_gorrik_gets_captured_kill_them_then_start_next_instance",
+      "X": 268.46,
+      "Y": -261.06,
+      "Z": 120.84
+    },
+    {
+      "Name": "next_instance_start_here",
+      "X": 276.43,
+      "Y": -263.86,
+      "Z": 119.27
+    },
+    {
+      "Name": "After_Loading_Screen_youre_here",
+      "X": 378.77,
+      "Y": 200.45,
+      "Z": 270.15
+    },
+    {
+      "Name": "Check_the_inside_of_the_ship-i-removed-the-next-ports-due-to-errors-so-you-have-to-do-the-stuff-here-now-manually",
+      "X": 377.68,
+      "Y": 294.69,
+      "Z": 270.03
+    },
+    {
+      "Name": "after_cutscene_you_are_in_Detention_Facility",
+      "X": -104.04,
+      "Y": -539.25,
+      "Z": 66.21
+    },
+    {
+      "Name": "take_large_rock",
+      "X": -100.19,
+      "Y": -547.13,
+      "Z": 65.61
+    },
+    {
+      "Name": "use_rock_at_bench",
+      "X": -106.78,
+      "Y": -534.76,
+      "Z": 65.6
+    },
+    {
+      "Name": "take_plank",
+      "X": -106.78,
+      "Y": -534.76,
+      "Z": 65.6
+    },
+    {
+      "Name": "use_plank_to_get_keys",
+      "X": -98.74,
+      "Y": -535.61,
+      "Z": 65.6
+    },
+    {
+      "Name": "get_the_keys_with_the_plank_from_the_ground",
+      "X": -98.74,
+      "Y": -535.61,
+      "Z": 65.6
+    },
+    {
+      "Name": "now_wait_until_the_door_opens_and_youre_free-or-get-achievment-next-ports",
+      "X": -104.08,
+      "Y": -531.04,
+      "Z": 65.61
+    },
+    {
+      "Name": "get-bandage",
+      "X": -98.52,
+      "Y": -539.85,
+      "Z": 65.6
+    },
+    {
+      "Name": "soak_it",
+      "X": -99.53,
+      "Y": -542.81,
+      "Z": 65.62
+    },
+    {
+      "Name": "get_the_key_with_the_bandage",
+      "X": -98.74,
+      "Y": -535.61,
+      "Z": 65.61
+    },
+    {
+      "Name": "now_open_the_door_for_achievment",
+      "X": -103.08,
+      "Y": -530.59,
+      "Z": 65.61
+    },
+    {
+      "Name": "talk_with_Big_Hatted_Man_Rama",
+      "X": -97.95,
+      "Y": -525.85,
+      "Z": 65.5
+    },
+    {
+      "Name": "walk_with_him",
+      "X": -100.83,
+      "Y": -522.42,
+      "Z": 65.39
+    },
+    {
+      "Name": "once_he_reached_the_office_use_this_port",
+      "X": -163.52,
+      "Y": -503.46,
+      "Z": 65.55
+    },
+    {
+      "Name": "get_youre_stuff",
+      "X": -168.42,
+      "Y": -516.68,
+      "Z": 65.48
+    },
+    {
+      "Name": "follow_him",
+      "X": -161.98,
+      "Y": -510.41,
+      "Z": 65.48
+    },
+    {
+      "Name": "Anet_Presents_Position",
+      "X": -131.86,
+      "Y": -393.69,
+      "Z": 59.9
+    },
+    {
+      "Name": "talk_with_Kas",
+      "X": -163.85,
+      "Y": -373.58,
+      "Z": 59.9
+    },
+    {
+      "Name": "talk_with_Minister_LI",
+      "X": -127.84,
+      "Y": -372.17,
+      "Z": 59.98
+    },
+    {
+      "Name": "Chapter_Done",
+      "X": -127.84,
+      "Y": -372.17,
+      "Z": 59.98
+    }
+  ]
+}

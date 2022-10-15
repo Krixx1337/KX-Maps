@@ -1,0 +1,1127 @@
+{
+  "Name": "Guild-Trek-All-Locations",
+  "Coordinates": [
+    {
+      "Name": "Altar-Brook-Lair-Queensdale",
+      "X": -465.12,
+      "Y": 30.48,
+      "Z": 18.2
+    },
+    {
+      "Name": "Anthems-Hold-Cursed-Shore",
+      "X": 293.31,
+      "Y": -1142.83,
+      "Z": 8.6
+    },
+    {
+      "Name": "Anyas-Patch-Diessa-Plateu",
+      "X": -1310.09,
+      "Y": -761.23,
+      "Z": 85.02
+    },
+    {
+      "Name": "Arctodus-Haunt-Wayfarer-Foothills",
+      "X": 616.24,
+      "Y": 228.46,
+      "Z": 92.82
+    },
+    {
+      "Name": "Backroot-Fountain-The-Grove",
+      "X": 219.7,
+      "Y": -73.1,
+      "Z": 47.34
+    },
+    {
+      "Name": "Badjelly-Kelpbed-Snowden-Drifts",
+      "X": 154.93,
+      "Y": -456.78,
+      "Z": -40.48
+    },
+    {
+      "Name": "Bandits-Cabbage-Patch-Harathi-Hinterlands",
+      "X": -887.8,
+      "Y": -157.08,
+      "Z": 1.87
+    },
+    {
+      "Name": "Beetlestone-Mirador-Queensdale",
+      "X": 1041.26,
+      "Y": 749.99,
+      "Z": 10.06
+    },
+    {
+      "Name": "Black-Lion-Root-Cellar-The-Grove",
+      "X": 40.97,
+      "Y": 132.15,
+      "Z": 54.63
+    },
+    {
+      "Name": "Blackblade-Butte-Diessa-Plateau",
+      "X": 337.71,
+      "Y": 436.35,
+      "Z": 59.19
+    },
+    {
+      "Name": "Blasted-Sepulchre-Diessa-Plateau",
+      "X": -309.55,
+      "Y": 58.55,
+      "Z": 2.9
+    },
+    {
+      "Name": "Blood-Ooze-Gallery-Bloodtide-Coast",
+      "X": 26.05,
+      "Y": -503.37,
+      "Z": 91.95
+    },
+    {
+      "Name": "Bluups-Comeuppance-Rata-Sum",
+      "X": -22.95,
+      "Y": 261.91,
+      "Z": 388.23
+    },
+    {
+      "Name": "Brandstrike-Dig-Fields-of-Ruin",
+      "X": -1143.4,
+      "Y": 736.82,
+      "Z": 10.42
+    },
+    {
+      "Name": "Before-Briarthorn-Barrier-Caledon-Forest-get-disguise",
+      "X": 593.61,
+      "Y": -579.87,
+      "Z": 1.48
+    },
+    {
+      "Name": "Briarthorn-Barrier-Caledon-Forest",
+      "X": 708.83,
+      "Y": -472.35,
+      "Z": 23.28
+    },
+    {
+      "Name": "Broken-Falls-Courtyard-Black-Citadel",
+      "X": -93.03,
+      "Y": -275.09,
+      "Z": 1.46
+    },
+    {
+      "Name": "Broodmother-Falls-Frostgorge-Sound",
+      "X": 961.02,
+      "Y": -425.84,
+      "Z": -0.23
+    },
+    {
+      "Name": "Brothers-Notch-Hoelbrak",
+      "X": -125.5,
+      "Y": 475.13,
+      "Z": 335.52
+    },
+    {
+      "Name": "Burstbubble-Blind-Blazeridge-Steppes",
+      "X": -392.25,
+      "Y": -976.39,
+      "Z": 9.92
+    },
+    {
+      "Name": "Cache-of-the-Pursued-Cursed-Shore",
+      "X": 603.99,
+      "Y": 1002.26,
+      "Z": 66.3
+    },
+    {
+      "Name": "Cademkrall-Overlook-Plains-of-Ashford",
+      "X": 1401.41,
+      "Y": 84.92,
+      "Z": 50.81
+    },
+    {
+      "Name": "Canyonweb-Cave-Blazeridge-Steppes",
+      "X": -668.85,
+      "Y": 461.08,
+      "Z": 45.92
+    },
+    {
+      "Name": "Captain-Berth-Malchors-Leap",
+      "X": -1227.85,
+      "Y": -23.51,
+      "Z": -86.21
+    },
+    {
+      "Name": "Castavall-Corner-Bloodtide-Coast",
+      "X": -279.59,
+      "Y": -684.07,
+      "Z": -155.96
+    },
+    {
+      "Name": "Cathedrals-Cavity-Malchors-Leap",
+      "X": 494.17,
+      "Y": 57.42,
+      "Z": 23.19
+    },
+    {
+      "Name": "Cave-Bear-Cache-Snowden-Drifts",
+      "X": 890.87,
+      "Y": -118.78,
+      "Z": 46.3
+    },
+    {
+      "Name": "Cave-Spider-Nidus-Lornars-Pass",
+      "X": 415.26,
+      "Y": 1027.86,
+      "Z": 230.16
+    },
+    {
+      "Name": "Claypool-Bailey--Queensdale",
+      "X": -607.61,
+      "Y": -493.01,
+      "Z": 59.9
+    },
+    {
+      "Name": "Constellation-Parabet-The-Grove",
+      "X": 21.3,
+      "Y": -135.64,
+      "Z": 71.2
+    },
+    {
+      "Name": "Corruptions-Teeth-Frostgorge-Sound",
+      "X": -691.52,
+      "Y": 1095.53,
+      "Z": 20.56
+    },
+    {
+      "Name": "Covingtons-Stowage-Bloodtide-Coast",
+      "X": -345.02,
+      "Y": 224.24,
+      "Z": 1.79
+    },
+    {
+      "Name": "Cutthroats-Rest-Gendarran-Fields",
+      "X": 185.84,
+      "Y": 172.18,
+      "Z": 0.58
+    },
+    {
+      "Name": "Cymbels-Glen-Fields-of-Ruin",
+      "X": 838.82,
+      "Y": -586.18,
+      "Z": 64.78
+    },
+    {
+      "Name": "Dawngleam-Pergola-The-Grove",
+      "X": 11.79,
+      "Y": 266.56,
+      "Z": 3.19
+    },
+    {
+      "Name": "Deepmire-Diver-Mount-Maelstrom",
+      "X": 218.05,
+      "Y": -5.09,
+      "Z": 4.45
+    },
+    {
+      "Name": "Defiled-Delve-Kessex-Hills",
+      "X": 1511.65,
+      "Y": -93.78,
+      "Z": 56.2
+    },
+    {
+      "Name": "Delights-Balcony-Malchors-Leap",
+      "X": 1176.73,
+      "Y": -578.21,
+      "Z": 109.85
+    },
+    {
+      "Name": "Destinys-Guildhall-Queensddale",
+      "X": -670.74,
+      "Y": 640.27,
+      "Z": 49.19
+    },
+    {
+      "Name": "Dirtclaw-Cleft-Iron-Marches",
+      "X": 687.28,
+      "Y": -1141.56,
+      "Z": 9.19
+    },
+    {
+      "Name": "Doefalls-Court-Plains-of-Ashford",
+      "X": 1500.24,
+      "Y": 737.86,
+      "Z": 60.15
+    },
+    {
+      "Name": "Drakecleft-Shelf-Fields-of-Ruin",
+      "X": 777.99,
+      "Y": 331.74,
+      "Z": 27.74
+    },
+    {
+      "Name": "Drakehatch-Shore-Diessa-Plateau",
+      "X": 1273.48,
+      "Y": -439.5,
+      "Z": 12.02
+    },
+    {
+      "Name": "Droknah-Gate-Mount-Maelstrom",
+      "X": 950.65,
+      "Y": 147.68,
+      "Z": -51.31
+    },
+    {
+      "Name": "Drowned-Plaza-Straits-of-Devastation",
+      "X": -472.85,
+      "Y": 807.63,
+      "Z": -143.65
+    },
+    {
+      "Name": "East-End-Falls-Brisban-Wildlands",
+      "X": 647.53,
+      "Y": 146.14,
+      "Z": 20.98
+    },
+    {
+      "Name": "Eastlurk-Alley-Divinitys-Reach",
+      "X": 189.47,
+      "Y": -414.49,
+      "Z": 80.83
+    },
+    {
+      "Name": "Elises-Surprise-Harathi-Hinterlands",
+      "X": -1099.76,
+      "Y": -703.91,
+      "Z": 150.43
+    },
+    {
+      "Name": "Ettinbreath-Lair-Lornars-Pass",
+      "X": -210.23,
+      "Y": -1631.62,
+      "Z": 114.42
+    },
+    {
+      "Name": "Fathom-Five-Forcefield-Straits-of-Devastation",
+      "X": 520.28,
+      "Y": 0.11,
+      "Z": -99.29
+    },
+    {
+      "Name": "Fawcetts-Porch-Harathi-Hinterlands",
+      "X": -858.08,
+      "Y": 999.18,
+      "Z": 10.9
+    },
+    {
+      "Name": "Fire-Imp-Pocket-Mount-Maelstrom",
+      "X": -397.11,
+      "Y": -405.97,
+      "Z": 7.94
+    },
+    {
+      "Name": "Firefrog-Springs-Sparkfly-Fen",
+      "X": 908.7,
+      "Y": -37.66,
+      "Z": 76.36
+    },
+    {
+      "Name": "Firewatch-Flybridge-Iron-Marches",
+      "X": -102.51,
+      "Y": 724.3,
+      "Z": 24.82
+    },
+    {
+      "Name": "Fishers-Crag-Metrica--Province",
+      "X": -689.57,
+      "Y": -31.88,
+      "Z": 4.41
+    },
+    {
+      "Name": "Flakks-Lapidary-Nook-Rata-Sum",
+      "X": -67.7,
+      "Y": 311.61,
+      "Z": 448.74
+    },
+    {
+      "Name": "Foragers-Midden-Dredgehaunt-Cliffs",
+      "X": -762.68,
+      "Y": -725.16,
+      "Z": 38.6
+    },
+    {
+      "Name": "Forbidden-Shear-Malchors-Leap",
+      "X": -1006.31,
+      "Y": 183.41,
+      "Z": 13.99
+    },
+    {
+      "Name": "Foremans-Recess-Dredgehaunt-Cliffs",
+      "X": 404.9,
+      "Y": -923.03,
+      "Z": 89.34
+    },
+    {
+      "Name": "Forgotten-Grotto-Blazeridge-Steppes",
+      "X": 689.7,
+      "Y": 1430.77,
+      "Z": 57.27
+    },
+    {
+      "Name": "Founders-Flagon-Hearth-Fields-of-Ruin",
+      "X": -534.35,
+      "Y": -848.37,
+      "Z": 83.48
+    },
+    {
+      "Name": "Freestand-Scaffold-Black-Citadel",
+      "X": -157.52,
+      "Y": -4.89,
+      "Z": 13.08
+    },
+    {
+      "Name": "Frozen-Antrum-Timberline-Falls",
+      "X": 223.21,
+      "Y": 908.08,
+      "Z": 9.09
+    },
+    {
+      "Name": "Gallow-Canyons-Brisban-Wildlands",
+      "X": -977.49,
+      "Y": 474.38,
+      "Z": 14.26
+    },
+    {
+      "Name": "Gardenroot-Alcove-The-Grove",
+      "X": -122.33,
+      "Y": 275.51,
+      "Z": 75.07
+    },
+    {
+      "Name": "Gnashars-Viewpoint-Brisban-Wildlands",
+      "X": 724.94,
+      "Y": 879.61,
+      "Z": 184.27
+    },
+    {
+      "Name": "Green-Moa-Paddock-Caledon-Forest",
+      "X": -73.86,
+      "Y": 630.05,
+      "Z": 75.61
+    },
+    {
+      "Name": "Grenths-Pavillion-Divinitys-Reach",
+      "X": 6.62,
+      "Y": 420.81,
+      "Z": 75.94
+    },
+    {
+      "Name": "Grimsdottirs-Duty-Hoelbrak",
+      "X": 810.06,
+      "Y": 332.15,
+      "Z": 251.91
+    },
+    {
+      "Name": "Guardian-Overwatch-Harathi-Hinterlands",
+      "X": 435.19,
+      "Y": -379.58,
+      "Z": 111.92
+    },
+    {
+      "Name": "Hawkeye-Perch-Timberline-Falls",
+      "X": 31.58,
+      "Y": -753.74,
+      "Z": 67.87
+    },
+    {
+      "Name": "Heart-Speaks-Notch-Fireheart-Rise",
+      "X": -694.83,
+      "Y": -162.42,
+      "Z": 59.5
+    },
+    {
+      "Name": "Heartwoods-Honey-Cache-Queensdale",
+      "X": -128.41,
+      "Y": -452.84,
+      "Z": 33.66
+    },
+    {
+      "Name": "Heidis-Showpiece-Harathi-Hinterlands",
+      "X": -931.72,
+      "Y": 493.2,
+      "Z": 23.7
+    },
+    {
+      "Name": "Hermits-Roost-Fields-of-Ruin",
+      "X": 774.46,
+      "Y": 863.48,
+      "Z": 79.8
+    },
+    {
+      "Name": "Hidden-Owl-Distillery-Snowden-Drifts",
+      "X": 1458.95,
+      "Y": -495.42,
+      "Z": 160.22
+    },
+    {
+      "Name": "Holystone-Sanctum-Diessa-Plateau",
+      "X": 1093.23,
+      "Y": 226.41,
+      "Z": 45.82
+    },
+    {
+      "Name": "Icewurm-Trench-Frostgorge-Sound",
+      "X": -715.84,
+      "Y": 514.13,
+      "Z": -285.91
+    },
+    {
+      "Name": "Ideation-Leap-Rata-Sum",
+      "X": 60.42,
+      "Y": -438.81,
+      "Z": 126.6
+    },
+    {
+      "Name": "Imphaunt-Hallow-Caledon-Forest",
+      "X": -616.34,
+      "Y": 1237.71,
+      "Z": 25.53
+    },
+    {
+      "Name": "Irondock-Viewpoint-Plains-of-Ashford",
+      "X": 970.96,
+      "Y": -78.03,
+      "Z": 53.15
+    },
+    {
+      "Name": "Isenfell-Wash-Snowden-Drifts",
+      "X": -217.22,
+      "Y": 616.88,
+      "Z": 0.15
+    },
+    {
+      "Name": "Isgarren-Viewpoint-Kessex-Hills",
+      "X": 1487.28,
+      "Y": -541.1,
+      "Z": 40.37
+    },
+    {
+      "Name": "Jaguar-Pride-Den-Metrica-Province",
+      "X": 200.5,
+      "Y": 915.53,
+      "Z": 22.63
+    },
+    {
+      "Name": "Junkers-Apex-Black-Citadel",
+      "X": 113.01,
+      "Y": -69.94,
+      "Z": 218.64
+    },
+    {
+      "Name": "Kaldars-Hot-Seat-Hoelbrak",
+      "X": 788.62,
+      "Y": -325.56,
+      "Z": 367.26
+    },
+    {
+      "Name": "Karis-Hot-Spot-Kessex-Hills",
+      "X": 1064.61,
+      "Y": -436.61,
+      "Z": 67.97
+    },
+    {
+      "Name": "Kegbrawl-Watch-Hoelbrak",
+      "X": -461.11,
+      "Y": 390.57,
+      "Z": 330.32
+    },
+    {
+      "Name": "Kevachs-Strongroom-Wayfarer-Foothill",
+      "X": 236.15,
+      "Y": 808.79,
+      "Z": 41.92
+    },
+    {
+      "Name": "Lakebottom-Underpass-Queensdale",
+      "X": 56.17,
+      "Y": 598.76,
+      "Z": -22.49
+    },
+    {
+      "Name": "Lawen-Grotto-Gendarran-Fields",
+      "X": -965.02,
+      "Y": -706.5,
+      "Z": 1.3
+    },
+    {
+      "Name": "Lightfoot--Dock-Straits-of-Devastation",
+      "X": 1048.6,
+      "Y": -396.1,
+      "Z": 3.16
+    },
+    {
+      "Name": "Lilys-Bivvy-Fireheart-Rise",
+      "X": -914.25,
+      "Y": 1004.82,
+      "Z": 68.36
+    },
+    {
+      "Name": "Lionguard-Larder-Wayfarer-Foothills",
+      "X": 119.86,
+      "Y": 151.72,
+      "Z": 128.26
+    },
+    {
+      "Name": "Lychcroft-Wardenship-Kessex-Hills",
+      "X": -1003.51,
+      "Y": -716.92,
+      "Z": 34.12
+    },
+    {
+      "Name": "Magihedron-Corner-Rata-Sum",
+      "X": 202.92,
+      "Y": 227.17,
+      "Z": 474.69
+    },
+    {
+      "Name": "Master-Control-LIN39-Metrica-Province",
+      "X": -463.17,
+      "Y": 909.61,
+      "Z": 30.25
+    },
+    {
+      "Name": "Melandrus-Fount-Divinitys-Reach",
+      "X": -270.9,
+      "Y": -347.08,
+      "Z": 74.18
+    },
+    {
+      "Name": "Meltwater-Cave-Timberline-Falls",
+      "X": 829.29,
+      "Y": -184.17,
+      "Z": -44.81
+    },
+    {
+      "Name": "Minas-Target-Shoot-Divinitys-Reach",
+      "X": 18.59,
+      "Y": -379.58,
+      "Z": 87.21
+    },
+    {
+      "Name": "Mistriven-Shelf-Lornars-Pass",
+      "X": -177.49,
+      "Y": 941.85,
+      "Z": 78.6
+    },
+    {
+      "Name": "Moleberia-Prison-Wayfarer-Foothills",
+      "X": -540.4,
+      "Y": 540.15,
+      "Z": 121.62
+    },
+    {
+      "Name": "Monument-to-the-Ancient-One-Southsun-Cove",
+      "X": -304.37,
+      "Y": 214.22,
+      "Z": 17.07
+    },
+    {
+      "Name": "Narrowkraal-Crossing-Fields-of-Ruin",
+      "X": 855.92,
+      "Y": -1016.14,
+      "Z": 61.21
+    },
+    {
+      "Name": "Necrolith-Landing-The-Grove",
+      "X": 40.12,
+      "Y": 349.83,
+      "Z": 90.01
+    },
+    {
+      "Name": "Orecart-Hoist-Fireheart-Rise",
+      "X": 445.99,
+      "Y": -741.67,
+      "Z": 73.52
+    },
+    {
+      "Name": "Orvanic-Sourcewaters-Sparkfly-Fen",
+      "X": -795.88,
+      "Y": 598.53,
+      "Z": 125.73
+    },
+    {
+      "Name": "Osenfold-Counterweights-Wayfarer-Foothills",
+      "X": -307.42,
+      "Y": -512.33,
+      "Z": 209.64
+    },
+    {
+      "Name": "Overlord-Lodge-Kessex-Hills",
+      "X": -1357.99,
+      "Y": 30.65,
+      "Z": 52.29
+    },
+    {
+      "Name": "Phasmatis-Prospect-Plains-of-Ashford",
+      "X": 714.14,
+      "Y": 5.28,
+      "Z": 52.42
+    },
+    {
+      "Name": "Pochtecatls-Desire-Bloodtide-Coast",
+      "X": -515.32,
+      "Y": -1094.47,
+      "Z": 39.14
+    },
+    {
+      "Name": "Port-Authority-Lost-&-Found-Rata-Sum",
+      "X": -374.92,
+      "Y": -604.57,
+      "Z": 45.66
+    },
+    {
+      "Name": "Portmatts-Promontory-Bloodtide-Coast",
+      "X": -523.47,
+      "Y": 740.02,
+      "Z": 10.95
+    },
+    {
+      "Name": "Provatum-Carcer-Fireheart-Rise",
+      "X": 179.48,
+      "Y": 221.68,
+      "Z": 6.63
+    },
+    {
+      "Name": "Ramview-Peak-Dredgehaunt-Cliffs",
+      "X": -221.48,
+      "Y": 981.91,
+      "Z": 142.26
+    },
+    {
+      "Name": "Raptors-Aerie-Iron-Marches",
+      "X": -18.57,
+      "Y": 278.86,
+      "Z": 75.5
+    },
+    {
+      "Name": "Raptors-Perch-Gendarran-Fields",
+      "X": 1183.65,
+      "Y": 605.19,
+      "Z": 82.08
+    },
+    {
+      "Name": "Rata-Pten-Portico-Mount-Maelstrom",
+      "X": -1318.53,
+      "Y": 274.13,
+      "Z": 76.47
+    },
+    {
+      "Name": "Raven-Nook-Hoelbrak",
+      "X": 437.64,
+      "Y": 404.49,
+      "Z": 339.21
+    },
+    {
+      "Name": "Reef-Drake-Nesting-Grounds-Southsun-Cove",
+      "X": 447.35,
+      "Y": -210.37,
+      "Z": 0.9
+    },
+    {
+      "Name": "Restless-Footings-Mount-Maelstrom",
+      "X": 568.67,
+      "Y": -114.29,
+      "Z": -186.84
+    },
+    {
+      "Name": "Reverberants-Watch-Wayfarer-Foothills",
+      "X": 86.58,
+      "Y": -626.52,
+      "Z": 5.36
+    },
+    {
+      "Name": "Risewild-Green-Bloodtide-Coast",
+      "X": 901.78,
+      "Y": 84.18,
+      "Z": 61.73
+    },
+    {
+      "Name": "Ruriks-View-Divinitys-Reach",
+      "X": 599.59,
+      "Y": 55.52,
+      "Z": 115.19
+    },
+    {
+      "Name": "Saltflood-Altar-Sparkfly-Fen",
+      "X": 561.48,
+      "Y": 787.71,
+      "Z": 22.49
+    },
+    {
+      "Name": "Sandwurm-Prowl-Southsun-Cove",
+      "X": 543.28,
+      "Y": -10.18,
+      "Z": 64.06
+    },
+    {
+      "Name": "Scholars-Blind-Dredgehaunt-Cliffs",
+      "X": -589.03,
+      "Y": 176.06,
+      "Z": 122.73
+    },
+    {
+      "Name": "Scourgejaw-Watchtower-Iron-Marches",
+      "X": -692.78,
+      "Y": -343.43,
+      "Z": 84.81
+    },
+    {
+      "Name": "Scriptorium-Nook--Black-Citadel",
+      "X": 299.46,
+      "Y": 605.77,
+      "Z": 164.11
+    },
+    {
+      "Name": "Sea-Scorpions-Eye-Cursed-Shore",
+      "X": -599.11,
+      "Y": -67.62,
+      "Z": -254.21
+    },
+    {
+      "Name": "Sentinel-Sink-Iron-Marches",
+      "X": 385.93,
+      "Y": 192.61,
+      "Z": -156.15
+    },
+    {
+      "Name": "Sepulchre-Skylight-Straits-of-Devastation",
+      "X": -742.07,
+      "Y": -877.5,
+      "Z": 19.15
+    },
+    {
+      "Name": "Sharkhollows-Edge-Blazeridge-Steppes",
+      "X": 747.88,
+      "Y": -662.15,
+      "Z": 4.57
+    },
+    {
+      "Name": "Shattered-Loft-Sparkfly-Fen",
+      "X": 350.38,
+      "Y": 1142.67,
+      "Z": 43.6
+    },
+    {
+      "Name": "Siamoth-Refuge-Sparkfly-Fen",
+      "X": 730.67,
+      "Y": -1075.5,
+      "Z": 40.34
+    },
+    {
+      "Name": "Skalecatch-Butcher-Shop-Iron-Marches",
+      "X": -311.25,
+      "Y": -461.02,
+      "Z": 11.2
+    },
+    {
+      "Name": "Skalefound-Cove-Fireheart-Rise",
+      "X": 669.1,
+      "Y": -1024.32,
+      "Z": 1.68
+    },
+    {
+      "Name": "Skalesplash-Falls-Timberline-Falls",
+      "X": 63.2,
+      "Y": -1101.19,
+      "Z": 11.55
+    },
+    {
+      "Name": "Skalestash-Hideaway-Plains-of-Ashford",
+      "X": -1079.34,
+      "Y": 747.91,
+      "Z": -0.23
+    },
+    {
+      "Name": "Skelknest-Borehole-Frostgorge-Sound",
+      "X": -46.22,
+      "Y": 196.35,
+      "Z": -112.86
+    },
+    {
+      "Name": "Skibo-Hall-Dormitory-Rata-Sum",
+      "X": 74.8,
+      "Y": 35.68,
+      "Z": 409.68
+    },
+    {
+      "Name": "Skyshine-Scratch-Harathi-Hinterlands",
+      "X": 942.07,
+      "Y": -138.28,
+      "Z": 127.9
+    },
+    {
+      "Name": "Snowden-Safehouse-Snowden-Drifts",
+      "X": -408.27,
+      "Y": -64.56,
+      "Z": 46.11
+    },
+    {
+      "Name": "Snowhowl-Den-Snowden-Drifts",
+      "X": 659.49,
+      "Y": 43.38,
+      "Z": 11.08
+    },
+    {
+      "Name": "Soggorsort-Rotunda-Caledon-Forest",
+      "X": 573.94,
+      "Y": 767.11,
+      "Z": -117.25
+    },
+    {
+      "Name": "Soren-Draa-Rest-Stop-Metrica-Province",
+      "X": -405.8,
+      "Y": -732.51,
+      "Z": 52.76
+    },
+    {
+      "Name": "Source-of-Lament-Frostgorge-Sound",
+      "X": -131.33,
+      "Y": -725.47,
+      "Z": 0.08
+    },
+    {
+      "Name": "Sparwinds-Lounge-Black-Citadel",
+      "X": 83.5,
+      "Y": 242.41,
+      "Z": 266.44
+    },
+    {
+      "Name": "Spectrehaunt-Socket-Malchors-Leap",
+      "X": -191.99,
+      "Y": 117.12,
+      "Z": 95.11
+    },
+    {
+      "Name": "Steamscrap-Overlook-Lornars-Pass",
+      "X": 183.48,
+      "Y": 394.08,
+      "Z": 157.71
+    },
+    {
+      "Name": "Steampipe-Perch-Southsun-Cove",
+      "X": 228.22,
+      "Y": -15.18,
+      "Z": 103.62
+    },
+    {
+      "Name": "Steamy-Steps-Southsun-Cove",
+      "X": -22.41,
+      "Y": 341.96,
+      "Z": 1.2
+    },
+    {
+      "Name": "Steelbands-Tunnel-Blazeridge-Steppes",
+      "X": -270.34,
+      "Y": -1128.84,
+      "Z": 9.7
+    },
+    {
+      "Name": "Stentor-Shelter-Straits-of-Devastation",
+      "X": 82.33,
+      "Y": 770.84,
+      "Z": 8.08
+    },
+    {
+      "Name": "Stonebore-Spiderhole-Gendarran-Fields",
+      "X": -1352.04,
+      "Y": -157.03,
+      "Z": 38.16
+    },
+    {
+      "Name": "Strongpaws-Garden-Diessa-Plateau",
+      "X": -219.38,
+      "Y": -837.71,
+      "Z": 65.98
+    },
+    {
+      "Name": "Tactical-Retreat-Cursed-Shore",
+      "X": 617.7,
+      "Y": -984.93,
+      "Z": 43.17
+    },
+    {
+      "Name": "Talus-Steps-Timberline-Falls",
+      "X": -798.79,
+      "Y": -954.74,
+      "Z": 21.76
+    },
+    {
+      "Name": "Tarstar-Copse-Fireheart-Rise",
+      "X": -1052.44,
+      "Y": -633.15,
+      "Z": 82.45
+    },
+    {
+      "Name": "Tekkis-Drawing-Board-Brisban-Wildlands",
+      "X": -339.08,
+      "Y": -140.45,
+      "Z": 22.34
+    },
+    {
+      "Name": "Thaumanova-Spillway-Metrica-Province",
+      "X": -392.58,
+      "Y": 1016.89,
+      "Z": 12.31
+    },
+    {
+      "Name": "The-Karka-Klub-Southsun-Cove",
+      "X": 755.21,
+      "Y": -506.32,
+      "Z": 0.33
+    },
+    {
+      "Name": "The-Peoples-Deadlock-Frostgorge-Sound",
+      "X": -962.97,
+      "Y": -751.46,
+      "Z": 60.76
+    },
+    {
+      "Name": "The-Workers-Stores-Dredgehaunt-Cliffs",
+      "X": -88.08,
+      "Y": -196.9,
+      "Z": 152.63
+    },
+    {
+      "Name": "Togatl-Shore-Kessex-Hills",
+      "X": -130.96,
+      "Y": -40.34,
+      "Z": 5.36
+    },
+    {
+      "Name": "Tower-of-Tribulation-Dredgehaunt-Cliffs",
+      "X": -582.79,
+      "Y": -984.83,
+      "Z": 52.11
+    },
+    {
+      "Name": "Toxal-Spill-Brsiban-Wildlands",
+      "X": -780.4,
+      "Y": -920.95,
+      "Z": 19.28
+    },
+    {
+      "Name": "Traders-Stash-Hoelbrak",
+      "X": 194.69,
+      "Y": -100.42,
+      "Z": 319.95
+    },
+    {
+      "Name": "Trolltrap-Pit-Lornars-Pass",
+      "X": -554.52,
+      "Y": 936.91,
+      "Z": 111.67
+    },
+    {
+      "Name": "Turai-Tavern-Stillroom-Divinitys-Reach",
+      "X": -252.52,
+      "Y": 266.75,
+      "Z": 65.85
+    },
+    {
+      "Name": "Ulta-Scraproom-Brisban-Wildlands",
+      "X": -177.47,
+      "Y": -258.31,
+      "Z": 26.41
+    },
+    {
+      "Name": "Unseen-Scratch-Caledon-Forest",
+      "X": -37.29,
+      "Y": 452.63,
+      "Z": 0.08
+    },
+    {
+      "Name": "Upsilon-Hyperboloid-Malchors-Leap",
+      "X": 1248.17,
+      "Y": 439.17,
+      "Z": 0.23
+    },
+    {
+      "Name": "Usharrs-Threshold-Sparkfly-Fen",
+      "X": 39.08,
+      "Y": -99.94,
+      "Z": 1.87
+    },
+    {
+      "Name": "Vacant-Hermitage-Blazeridge-Steppes",
+      "X": 100.96,
+      "Y": 729.38,
+      "Z": 3.78
+    },
+    {
+      "Name": "Venison-Hollow-Lornars-Pass",
+      "X": 36.67,
+      "Y": -1699.29,
+      "Z": 148.83
+    },
+    {
+      "Name": "Verdance-Font-Cursed-Shore",
+      "X": 64.74,
+      "Y": 386.04,
+      "Z": -18.54
+    },
+    {
+      "Name": "Viziers-Anteport-Straits-of-Devastation",
+      "X": 242.91,
+      "Y": -381.51,
+      "Z": 29.24
+    },
+    {
+      "Name": "Wassas-Terrace-Gendarran-Fields",
+      "X": -1224.41,
+      "Y": -350.21,
+      "Z": 53.96
+    },
+    {
+      "Name": "Watchpoint-Decimus-Plains-of-Ashford",
+      "X": -954.46,
+      "Y": -545.26,
+      "Z": 78.15
+    },
+    {
+      "Name": "Wheelport-Pub-Black-Citadel",
+      "X": 450.79,
+      "Y": 33.78,
+      "Z": 183.13
+    },
+    {
+      "Name": "Whitland-Sinkhole-Mount-Maelstrom",
+      "X": 1373.85,
+      "Y": 31.1,
+      "Z": -24.49
+    },
+    {
+      "Name": "Widds-Folly-Caledon-Forest",
+      "X": -35.18,
+      "Y": 41.39,
+      "Z": 7.71
+    },
+    {
+      "Name": "Wikks-Gate-Timberline-Falls",
+      "X": -695.6,
+      "Y": 168.95,
+      "Z": 35.92
+    },
+    {
+      "Name": "Wildflame-Monitor-Metrica-Province",
+      "X": -585.79,
+      "Y": -1050.03,
+      "Z": 91.82
+    },
+    {
+      "Name": "Winterknell-Impasse-Cursed-Shore",
+      "X": 0.61,
+      "Y": 632.88,
+      "Z": 7.37
+    },
+    {
+      "Name": "Wrelks-Salon-Gendarran-Fields",
+      "X": 837.15,
+      "Y": -138.87,
+      "Z": 31.31
+    }
+  ]
+}

@@ -1,3 +1,0 @@
-1	'Warmed-Riparian-Griffon-Egg' -44.3 154.49 63.87
-2	'Azure-Riparian-Griffon-Egg' 404.77 105.71 -146.64
-3	'Rocky-Riparian-Griffon-Egg' -475.56 114.94 -345.88

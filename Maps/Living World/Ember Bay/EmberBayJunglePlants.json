@@ -1,0 +1,17 @@
+{
+  "Name": "EmberBayJunglePlants",
+  "Coordinates": [
+    {
+      "Name": "JunglePlant1Emberbay",
+      "X": -725.383,
+      "Y": -932.958,
+      "Z": 61.8157
+    },
+    {
+      "Name": "Jungleplant2Emberbay",
+      "X": -819.929,
+      "Y": -884.055,
+      "Z": 56.2584
+    }
+  ]
+}

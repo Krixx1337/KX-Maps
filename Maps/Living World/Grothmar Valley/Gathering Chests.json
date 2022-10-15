@@ -1,0 +1,149 @@
+{
+  "Name": "Gathering Chests",
+  "Coordinates": [
+    {
+      "Name": "grothmarvalleychest_1",
+      "X": 457.803,
+      "Y": 530.471,
+      "Z": 101.549
+    },
+    {
+      "Name": "grothmarvalleychest_2",
+      "X": 1065.267,
+      "Y": 440.956,
+      "Z": 77.435
+    },
+    {
+      "Name": "grothmarvalleychest_3",
+      "X": 1115.863,
+      "Y": -284.878,
+      "Z": 0.777
+    },
+    {
+      "Name": "grothmarvalleychest_4",
+      "X": 561.717,
+      "Y": -808.97,
+      "Z": 77.563
+    },
+    {
+      "Name": "grothmarvalleychest_5",
+      "X": 290.02,
+      "Y": -834.61,
+      "Z": 68.62
+    },
+    {
+      "Name": "grothmarvalleychest_6",
+      "X": -235.723,
+      "Y": -860.044,
+      "Z": 3.591
+    },
+    {
+      "Name": "grothmarvalleychest_7",
+      "X": -585.931,
+      "Y": -450.499,
+      "Z": 139.79
+    },
+    {
+      "Name": "grothmarvalleychest_8",
+      "X": -315.166,
+      "Y": -465.785,
+      "Z": -2.18
+    },
+    {
+      "Name": "grothmarvalleychest_9",
+      "X": -329.945,
+      "Y": 37.338,
+      "Z": -1.294
+    },
+    {
+      "Name": "grothmarvalleychest_10",
+      "X": -517.574,
+      "Y": 160.406,
+      "Z": 11.006
+    },
+    {
+      "Name": "grothmarvalleychest_11",
+      "X": -697.923,
+      "Y": 306.723,
+      "Z": 36.328
+    },
+    {
+      "Name": "grothmarvalleychest_12",
+      "X": -480.154,
+      "Y": 578.053,
+      "Z": 99.846
+    },
+    {
+      "Name": "grothmarvalleychest_13",
+      "X": -206.9,
+      "Y": 560.369,
+      "Z": 49.098
+    },
+    {
+      "Name": "grothmarvalleychest_14",
+      "X": 505.651,
+      "Y": -60.223,
+      "Z": -17.033
+    },
+    {
+      "Name": "grothmarvalleychest_15",
+      "X": 844.674,
+      "Y": -438.998,
+      "Z": -38.0
+    },
+    {
+      "Name": "grothmarvalleychest_16",
+      "X": 878.262,
+      "Y": 597.856,
+      "Z": 19.468
+    },
+    {
+      "Name": "grothmarvalleychest_17",
+      "X": -11.16,
+      "Y": 297.69,
+      "Z": 72.69
+    },
+    {
+      "Name": "grothmarvalleychest_18",
+      "X": 533.434,
+      "Y": -477.394,
+      "Z": 56.268
+    },
+    {
+      "Name": "grothmarvalleychest_19",
+      "X": 592.365,
+      "Y": 531.458,
+      "Z": 3.862
+    },
+    {
+      "Name": "grothmarvalleychest_20",
+      "X": 270.668,
+      "Y": -192.041,
+      "Z": 94.063
+    },
+    {
+      "Name": "grothmarvalleychest_21",
+      "X": 720.881,
+      "Y": -416.507,
+      "Z": 98.351
+    },
+    {
+      "Name": "grothmarvalleychest_22",
+      "X": -56.752,
+      "Y": 817.293,
+      "Z": 17.962
+    },
+    {
+      "Name": "grothmarvalleychest_23",
+      "X": -56.973,
+      "Y": 817.208,
+      "Z": 18.013
+    },
+    {
+      "Name": "grothmarvalleychest_24",
+      "X": -376.38,
+      "Y": -57.267,
+      "Z": 36.474
+    }
+  ]
+}

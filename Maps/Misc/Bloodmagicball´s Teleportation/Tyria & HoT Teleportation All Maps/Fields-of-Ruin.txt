@@ -1,2 +1,0 @@
-1	'FieldsofRuin-to-Blazeridge' 543.01 2.3 1023.01
-2	'FieldsofRuin-to-Divinity' -856.88 89.03 -470.17

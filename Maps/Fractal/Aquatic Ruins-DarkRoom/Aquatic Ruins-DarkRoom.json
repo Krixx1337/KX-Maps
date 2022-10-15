@@ -1,0 +1,35 @@
+{
+  "Name": "Aquatic Ruins-DarkRoom",
+  "Coordinates": [
+    {
+      "Name": "Save-Prisoner1",
+      "X": -511.863,
+      "Y": -906.17,
+      "Z": -53.3937
+    },
+    {
+      "Name": "Save-Prisoner2",
+      "X": -534.946,
+      "Y": -983.331,
+      "Z": -56.0094
+    },
+    {
+      "Name": "Save-Prisoner3",
+      "X": -546.413,
+      "Y": -1044.75,
+      "Z": -57.3263
+    },
+    {
+      "Name": "Dark-Room-Path-Real",
+      "X": -410.814,
+      "Y": -1047.02,
+      "Z": -90.6093
+    },
+    {
+      "Name": "Dark-Room-ENDSPOT",
+      "X": -299.381,
+      "Y": -927.705,
+      "Z": -238.326
+    }
+  ]
+}

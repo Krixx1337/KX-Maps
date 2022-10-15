@@ -1,0 +1,1565 @@
+{
+  "Name": "Airshipcargo",
+  "Coordinates": [
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1054.59,
+      "Y": 20.973,
+      "Z": 469.924
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1011.196,
+      "Y": 39.797,
+      "Z": 444.437
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1077.107,
+      "Y": -88.418,
+      "Z": 475.041
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1138.998,
+      "Y": -156.72,
+      "Z": 483.052
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1134.525,
+      "Y": -205.247,
+      "Z": 489.875
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1115.093,
+      "Y": -175.916,
+      "Z": 504.344
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1038.619,
+      "Y": -44.841,
+      "Z": 470.942
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1100.729,
+      "Y": 212.396,
+      "Z": 442.652
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 663.925,
+      "Y": 137.943,
+      "Z": 409.367
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 400.913,
+      "Y": 239.315,
+      "Z": 446.476
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 426.867,
+      "Y": 298.652,
+      "Z": 458.363
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 613.273,
+      "Y": 335.229,
+      "Z": 451.781
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 832.445,
+      "Y": 364.119,
+      "Z": 454.823
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 866.688,
+      "Y": 252.82,
+      "Z": 454.306
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 569.712,
+      "Y": 278.095,
+      "Z": 477.653
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 503.942,
+      "Y": 245.752,
+      "Z": 536.339
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 659.344,
+      "Y": 359.205,
+      "Z": 509.199
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 629.125,
+      "Y": 413.662,
+      "Z": 520.076
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 521.798,
+      "Y": 519.435,
+      "Z": 554.368
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 501.918,
+      "Y": 417.139,
+      "Z": 550.236
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 275.942,
+      "Y": 273.376,
+      "Z": 462.764
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 190.269,
+      "Y": 298.097,
+      "Z": 477.798
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 15.105,
+      "Y": 162.246,
+      "Z": 524.67
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -37.544,
+      "Y": 248.326,
+      "Z": 529.236
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 17.27,
+      "Y": 64.49,
+      "Z": 499.839
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -125.357,
+      "Y": 73.142,
+      "Z": 458.818
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -180.662,
+      "Y": 106.646,
+      "Z": 463.2
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -221.37,
+      "Y": -2.994,
+      "Z": 440.847
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -389.411,
+      "Y": -159.311,
+      "Z": 458.498
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -441.97,
+      "Y": -191.155,
+      "Z": 467.293
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -371.401,
+      "Y": -354.433,
+      "Z": 493.51
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -314.517,
+      "Y": -323.293,
+      "Z": 493.027
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -470.169,
+      "Y": -463.485,
+      "Z": 648.36
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -550.015,
+      "Y": -395.101,
+      "Z": 606.718
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -666.857,
+      "Y": -282.433,
+      "Z": 611.788
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -600.99,
+      "Y": -393.98,
+      "Z": 733.542
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -740.733,
+      "Y": -149.215,
+      "Z": 429.67
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -816.957,
+      "Y": -210.339,
+      "Z": 421.492
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -934.588,
+      "Y": -267.456,
+      "Z": 453.9
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -9.51,
+      "Y": -183.091,
+      "Z": 480.849
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -20.194,
+      "Y": -112.394,
+      "Z": 454.638
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -66.902,
+      "Y": -55.087,
+      "Z": 450.165
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 39.475,
+      "Y": -153.39,
+      "Z": 440.455
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -75.645,
+      "Y": -379.914,
+      "Z": 495.098
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -140.868,
+      "Y": -498.384,
+      "Z": 505.129
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -166.69,
+      "Y": -501.451,
+      "Z": 505.108
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -189.303,
+      "Y": -486.337,
+      "Z": 505.659
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -207.141,
+      "Y": -245.533,
+      "Z": 538.116
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -313.844,
+      "Y": -387.737,
+      "Z": 560.474
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -488.161,
+      "Y": 243.544,
+      "Z": 722.977
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -675.702,
+      "Y": 293.705,
+      "Z": 742.164
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -399.712,
+      "Y": 188.219,
+      "Z": 659.836
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -215.391,
+      "Y": 234.077,
+      "Z": 652.351
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -474.777,
+      "Y": 38.897,
+      "Z": 602.138
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -927.923,
+      "Y": 375.17,
+      "Z": 387.459
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -351.022,
+      "Y": -247.162,
+      "Z": 491.036
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -377.086,
+      "Y": -204.509,
+      "Z": 451.587
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -345.106,
+      "Y": -74.871,
+      "Z": 466.232
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -744.566,
+      "Y": 178.116,
+      "Z": 559.037
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -866.18,
+      "Y": 159.496,
+      "Z": 599.99
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -753.306,
+      "Y": 174.929,
+      "Z": 626.812
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -860.14,
+      "Y": -59.564,
+      "Z": 572.408
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -464.244,
+      "Y": -325.112,
+      "Z": 508.341
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1118.52,
+      "Y": 207.231,
+      "Z": 441.105
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1085.327,
+      "Y": 245.442,
+      "Z": 441.531
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1172.052,
+      "Y": -217.389,
+      "Z": 485.352
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1092.367,
+      "Y": -298.117,
+      "Z": 465.064
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1124.05,
+      "Y": 260.044,
+      "Z": 438.736
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 878.583,
+      "Y": -164.172,
+      "Z": 418.111
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 872.954,
+      "Y": -247.153,
+      "Z": 431.232
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 728.376,
+      "Y": -240.734,
+      "Z": 453.364
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 658.107,
+      "Y": -302.218,
+      "Z": 492.601
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 624.054,
+      "Y": -235.287,
+      "Z": 461.151
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 585.743,
+      "Y": -199.658,
+      "Z": 454.439
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 422.934,
+      "Y": -85.689,
+      "Z": 413.711
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 301.225,
+      "Y": -231.515,
+      "Z": 449.453
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 236.585,
+      "Y": -209.121,
+      "Z": 422.728
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 249.478,
+      "Y": -222.245,
+      "Z": 429.387
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 185.089,
+      "Y": -293.769,
+      "Z": 474.036
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 385.977,
+      "Y": -350.268,
+      "Z": 489.406
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 390.961,
+      "Y": -348.187,
+      "Z": 489.685
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 539.73,
+      "Y": -318.65,
+      "Z": 492.46
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 314.05,
+      "Y": -377.5,
+      "Z": 512.41
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 398.41,
+      "Y": -505.784,
+      "Z": 570.225
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 204.073,
+      "Y": -401.995,
+      "Z": 623.534
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 174.11,
+      "Y": -461.42,
+      "Z": 660.16
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 177.14,
+      "Y": -388.16,
+      "Z": 514.78
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 181.37,
+      "Y": -436.2,
+      "Z": 542.89
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 455.66,
+      "Y": -449.34,
+      "Z": 535.0
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -721.33,
+      "Y": -315.29,
+      "Z": 655.55
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 142.3,
+      "Y": -42.66,
+      "Z": 527.25
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 104.43,
+      "Y": -1.88,
+      "Z": 771.71
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 163.17,
+      "Y": 54.39,
+      "Z": 752.41
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 226.57,
+      "Y": 62.12,
+      "Z": 725.94
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 284.47,
+      "Y": 92.88,
+      "Z": 506.89
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 292.48,
+      "Y": -86.43,
+      "Z": 473.93
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 102.5,
+      "Y": -43.98,
+      "Z": 518.4
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 142.57,
+      "Y": -40.49,
+      "Z": 776.6
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 311.36,
+      "Y": 8.98,
+      "Z": 678.99
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 342.52,
+      "Y": 64.79,
+      "Z": 618.88
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 329.42,
+      "Y": 241.84,
+      "Z": 458.4
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 78.32,
+      "Y": 245.81,
+      "Z": 518.51
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -140.95,
+      "Y": 163.18,
+      "Z": 516.08
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -156.49,
+      "Y": 80.77,
+      "Z": 457.33
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -95.86,
+      "Y": -134.26,
+      "Z": 481.4
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 40.14,
+      "Y": 31.32,
+      "Z": 398.26
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -79.43,
+      "Y": -21.81,
+      "Z": 323.73
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 204.68,
+      "Y": -177.11,
+      "Z": 99.39
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1074.69,
+      "Y": -21.35,
+      "Z": 468.99
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1143.75,
+      "Y": -56.16,
+      "Z": 477.85
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1103.67,
+      "Y": -212.78,
+      "Z": 491.21
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 993.71,
+      "Y": -5.35,
+      "Z": 461.5
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 995.85,
+      "Y": 67.95,
+      "Z": 448.58
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 919.85,
+      "Y": -105.6,
+      "Z": 418.53
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 746.98,
+      "Y": -292.07,
+      "Z": 455.4
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 675.91,
+      "Y": -265.95,
+      "Z": 483.21
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 767.08,
+      "Y": -401.24,
+      "Z": 499.24
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 802.75,
+      "Y": -475.81,
+      "Z": 486.52
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 823.59,
+      "Y": -454.86,
+      "Z": 504.18
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 726.49,
+      "Y": -489.43,
+      "Z": 559.83
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 607.8,
+      "Y": -470.17,
+      "Z": 503.2
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 624.52,
+      "Y": -414.14,
+      "Z": 486.06
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 206.87,
+      "Y": -297.13,
+      "Z": 478.49
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 243.12,
+      "Y": -344.59,
+      "Z": 488.93
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 294.56,
+      "Y": -337.78,
+      "Z": 496.85
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 146.64,
+      "Y": -206.95,
+      "Z": 475.23
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 225.83,
+      "Y": -262.09,
+      "Z": 470.92
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 392.05,
+      "Y": -208.94,
+      "Z": 429.16
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 397.91,
+      "Y": -187.54,
+      "Z": 422.08
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 393.23,
+      "Y": 110.44,
+      "Z": 424.87
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 281.62,
+      "Y": 98.28,
+      "Z": 435.83
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 403.19,
+      "Y": 73.95,
+      "Z": 420.84
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 644.5,
+      "Y": 75.34,
+      "Z": 404.1
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 707.77,
+      "Y": 201.48,
+      "Z": 393.36
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 758.86,
+      "Y": 305.05,
+      "Z": 379.9
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 763.97,
+      "Y": 334.79,
+      "Z": 380.37
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 859.61,
+      "Y": 185.7,
+      "Z": 451.97
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 913.64,
+      "Y": 235.87,
+      "Z": 506.68
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 793.99,
+      "Y": 349.62,
+      "Z": 478.81
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 655.12,
+      "Y": 395.74,
+      "Z": 513.64
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 512.1,
+      "Y": 290.34,
+      "Z": 465.03
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 633.9,
+      "Y": 311.03,
+      "Z": 452.54
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 729.79,
+      "Y": 403.18,
+      "Z": 404.18
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 752.99,
+      "Y": 483.71,
+      "Z": 420.94
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 692.44,
+      "Y": 545.07,
+      "Z": 484.16
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 614.85,
+      "Y": 532.04,
+      "Z": 524.23
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 522.64,
+      "Y": 392.65,
+      "Z": 548.54
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 114.59,
+      "Y": 312.44,
+      "Z": 494.45
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 64.99,
+      "Y": 252.58,
+      "Z": 518.12
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 37.88,
+      "Y": 229.63,
+      "Z": 529.97
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -112.41,
+      "Y": 217.93,
+      "Z": 527.4
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -151.15,
+      "Y": 95.03,
+      "Z": 520.13
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -98.38,
+      "Y": 53.59,
+      "Z": 528.62
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -205.02,
+      "Y": 126.62,
+      "Z": 517.49
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -221.52,
+      "Y": 380.95,
+      "Z": 575.87
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -339.34,
+      "Y": 260.28,
+      "Z": 657.18
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -368.02,
+      "Y": 189.18,
+      "Z": 662.86
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -321.66,
+      "Y": 184.61,
+      "Z": 667.49
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -583.58,
+      "Y": 306.91,
+      "Z": 717.42
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -655.4,
+      "Y": 242.78,
+      "Z": 741.29
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -633.69,
+      "Y": 144.99,
+      "Z": 573.24
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -720.82,
+      "Y": 166.86,
+      "Z": 561.42
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -824.37,
+      "Y": 199.22,
+      "Z": 558.18
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -852.12,
+      "Y": 127.35,
+      "Z": 604.71
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -934.73,
+      "Y": 24.56,
+      "Z": 573.13
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -898.37,
+      "Y": -62.74,
+      "Z": 571.89
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -825.75,
+      "Y": -8.73,
+      "Z": 570.46
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -821.36,
+      "Y": 44.38,
+      "Z": 571.01
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -774.11,
+      "Y": 151.63,
+      "Z": 621.16
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -646.48,
+      "Y": 116.41,
+      "Z": 561.28
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -757.31,
+      "Y": -162.65,
+      "Z": 425.2
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -877.34,
+      "Y": -191.52,
+      "Z": 420.95
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -932.27,
+      "Y": -353.07,
+      "Z": 471.33
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1051.27,
+      "Y": 162.4,
+      "Z": 459.63
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1034.4,
+      "Y": 161.21,
+      "Z": 444.21
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1126.44,
+      "Y": 302.58,
+      "Z": 434.76
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1091.31,
+      "Y": 331.44,
+      "Z": 457.86
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1030.24,
+      "Y": 456.69,
+      "Z": 419.86
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1118.92,
+      "Y": 473.84,
+      "Z": 485.21
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -578.47,
+      "Y": -394.6,
+      "Z": 685.51
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_richveins",
+      "X": -546.68,
+      "Y": -332.05,
+      "Z": 668.83
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -524.68,
+      "Y": -365.64,
+      "Z": 605.27
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -524.94,
+      "Y": -477.85,
+      "Z": 607.52
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -618.97,
+      "Y": -428.1,
+      "Z": 601.28
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -613.47,
+      "Y": -230.45,
+      "Z": 590.52
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -428.82,
+      "Y": -256.29,
+      "Z": 487.94
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -308.26,
+      "Y": -265.52,
+      "Z": 470.47
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -285.33,
+      "Y": -196.67,
+      "Z": 455.27
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 73.07,
+      "Y": 97.83,
+      "Z": 475.47
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 283.71,
+      "Y": -74.26,
+      "Z": 511.05
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 99.22,
+      "Y": -179.2,
+      "Z": 809.17
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 215.99,
+      "Y": -161.66,
+      "Z": 788.04
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 191.89,
+      "Y": -98.13,
+      "Z": 756.79
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 290.99,
+      "Y": -95.99,
+      "Z": 732.49
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -166.59,
+      "Y": -1.59,
+      "Z": 910.01
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -22.58,
+      "Y": -32.8,
+      "Z": 924.62
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -242.88,
+      "Y": -1.56,
+      "Z": 883.49
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -155.92,
+      "Y": 51.06,
+      "Z": 782.17
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -283.08,
+      "Y": -1.38,
+      "Z": 761.55
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -505.0,
+      "Y": -189.96,
+      "Z": 856.4
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -416.9,
+      "Y": -161.46,
+      "Z": 826.47
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -412.48,
+      "Y": 25.67,
+      "Z": 792.16
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -671.05,
+      "Y": 184.98,
+      "Z": 827.73
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -747.98,
+      "Y": 28.06,
+      "Z": 787.45
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -625.7,
+      "Y": -100.51,
+      "Z": 782.45
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -590.5,
+      "Y": -287.57,
+      "Z": 865.33
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -732.68,
+      "Y": -368.36,
+      "Z": 796.4
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -673.05,
+      "Y": -309.36,
+      "Z": 855.55
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -609.92,
+      "Y": -397.78,
+      "Z": 820.28
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -806.3,
+      "Y": -376.32,
+      "Z": 751.13
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -811.42,
+      "Y": -292.35,
+      "Z": 715.0
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 15.17,
+      "Y": 102.64,
+      "Z": 907.3
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -31.2,
+      "Y": 142.2,
+      "Z": 860.62
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -162.41,
+      "Y": 144.52,
+      "Z": 816.77
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -264.42,
+      "Y": 74.66,
+      "Z": 880.96
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -280.38,
+      "Y": 263.32,
+      "Z": 767.06
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -165.47,
+      "Y": 21.69,
+      "Z": 699.87
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -97.13,
+      "Y": -273.57,
+      "Z": 711.35
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -398.59,
+      "Y": -422.33,
+      "Z": 634.13
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -403.47,
+      "Y": -438.3,
+      "Z": 638.89
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1145.6,
+      "Y": 255.23,
+      "Z": 439.31
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1178.17,
+      "Y": 364.26,
+      "Z": 459.37
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1146.9,
+      "Y": 434.03,
+      "Z": 474.26
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1192.4,
+      "Y": 460.44,
+      "Z": 486.19
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1029.87,
+      "Y": 505.1,
+      "Z": 491.82
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1044.15,
+      "Y": 275.61,
+      "Z": 414.94
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 368.05,
+      "Y": 122.64,
+      "Z": 433.29
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 495.79,
+      "Y": -27.86,
+      "Z": 416.75
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 370.88,
+      "Y": -99.39,
+      "Z": 412.61
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 337.44,
+      "Y": -204.6,
+      "Z": 427.62
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -304.44,
+      "Y": -439.94,
+      "Z": 550.98
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1047.73,
+      "Y": 89.51,
+      "Z": 475.92
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1013.63,
+      "Y": 154.13,
+      "Z": 446.43
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1118.94,
+      "Y": 14.71,
+      "Z": 468.46
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 671.02,
+      "Y": 407.85,
+      "Z": 415.7
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 735.29,
+      "Y": 447.82,
+      "Z": 414.29
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 912.97,
+      "Y": -194.26,
+      "Z": 418.91
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 707.4,
+      "Y": -228.79,
+      "Z": 457.52
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 293.04,
+      "Y": -378.15,
+      "Z": 522.5
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 664.3,
+      "Y": -457.02,
+      "Z": 490.51
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 715.3,
+      "Y": -437.68,
+      "Z": 486.35
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1092.7,
+      "Y": -138.34,
+      "Z": 478.94
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 1097.43,
+      "Y": 19.05,
+      "Z": 468.56
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 494.27,
+      "Y": -474.75,
+      "Z": 534.73
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 211.61,
+      "Y": -439.59,
+      "Z": 621.93
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 250.02,
+      "Y": -145.74,
+      "Z": 467.27
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": 215.81,
+      "Y": 119.88,
+      "Z": 489.72
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -100.93,
+      "Y": 244.45,
+      "Z": 528.82
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -118.85,
+      "Y": 200.08,
+      "Z": 533.18
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -186.34,
+      "Y": 115.78,
+      "Z": 519.51
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -189.87,
+      "Y": 244.26,
+      "Z": 567.53
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -419.44,
+      "Y": 291.98,
+      "Z": 651.37
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -893.99,
+      "Y": 84.06,
+      "Z": 585.67
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -927.16,
+      "Y": 27.04,
+      "Z": 573.13
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -669.0,
+      "Y": 70.33,
+      "Z": 570.13
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -483.16,
+      "Y": -215.88,
+      "Z": 539.07
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -577.8,
+      "Y": -428.49,
+      "Z": 602.92
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -706.34,
+      "Y": -348.67,
+      "Z": 614.41
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -569.6,
+      "Y": -382.0,
+      "Z": 731.78
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
+      "X": -459.14,
+      "Y": -470.61,
+      "Z": 646.75
+    }
+  ]
+}

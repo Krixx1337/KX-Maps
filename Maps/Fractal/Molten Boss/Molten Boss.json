@@ -1,0 +1,53 @@
+{
+  "Name": "Molten Boss",
+  "Coordinates": [
+    {
+      "Name": "Singularity-at-start",
+      "X": -233.55,
+      "Y": -216.8,
+      "Z": 257.36
+    },
+    {
+      "Name": "port-point-to-skip-walk-part",
+      "X": -237.25,
+      "Y": -151.85,
+      "Z": 172.06
+    },
+    {
+      "Name": "shamane",
+      "X": -208.26,
+      "Y": -91.94,
+      "Z": 164.94
+    },
+    {
+      "Name": "Singularity",
+      "X": -168.57,
+      "Y": -42.07,
+      "Z": 164.94
+    },
+    {
+      "Name": "enemy-spawn",
+      "X": -23.93,
+      "Y": -95.92,
+      "Z": 172.27
+    },
+    {
+      "Name": "Boss-Singularity",
+      "X": 61.83,
+      "Y": -104.93,
+      "Z": 173.46
+    },
+    {
+      "Name": "kill-enemys-to-sunlock-ENDBOSS",
+      "X": 55.1,
+      "Y": -145.25,
+      "Z": 167.7
+    },
+    {
+      "Name": "ENDBOSS",
+      "X": 133.67,
+      "Y": -143.9,
+      "Z": 151.81
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Vision-of-Action-Dragonfall",
+  "Coordinates": [
+    {
+      "Name": "Event-Melandrus-Tears-port",
+      "X": 756.31,
+      "Y": -694.94,
+      "Z": 168.34
+    },
+    {
+      "Name": "Collect-Soulbinders-throughout-the-Underworld",
+      "X": -576.19,
+      "Y": -442.5,
+      "Z": 170.75
+    },
+    {
+      "Name": "Collect-Eternal-Embers-Event",
+      "X": -967.55,
+      "Y": 622.68,
+      "Z": 154.8
+    }
+  ]
+}

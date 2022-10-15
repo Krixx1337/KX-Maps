@@ -1,0 +1,47 @@
+{
+  "Name": "MP",
+  "Coordinates": [
+    {
+      "Name": "Jade_Waves",
+      "X": 17.92,
+      "Y": 161.57,
+      "Z": 213.29
+    },
+    {
+      "Name": "Brotherhood_Rooftop",
+      "X": -481.83,
+      "Y": -630.78,
+      "Z": 306.07
+    },
+    {
+      "Name": "Shrine_Rooftop",
+      "X": -223.84,
+      "Y": -62.01,
+      "Z": 272.95
+    },
+    {
+      "Name": "Quarry_Crane",
+      "X": -24.25,
+      "Y": 1068.46,
+      "Z": 252.41
+    },
+    {
+      "Name": "Charr_Scout",
+      "X": 235.25,
+      "Y": 1200.4,
+      "Z": 178.25
+    },
+    {
+      "Name": "for-Char-Scout-port-here-get-water-port-back",
+      "X": 167.39,
+      "Y": 1141.1,
+      "Z": 8.83
+    },
+    {
+      "Name": "Warehouse",
+      "X": -564.06,
+      "Y": 755.3,
+      "Z": 194.93
+    }
+  ]
+}

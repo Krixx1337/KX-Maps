@@ -1,4 +1,0 @@
-1	'interance' 342.95 336.33 -525.01
-2	'tele_here' 303.4 378.04 -592.79
-3	'drain_su-wan_active_connon' 306.54 378.33 -573.85
-4	'its_ez_u_dont_need_more_tele_just_kill_it' 121.72 391.79 -729.82

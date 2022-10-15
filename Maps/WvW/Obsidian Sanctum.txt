@@ -1,6 +1,0 @@
-1	'Obsidian_Sanctum_Waypoint' 766.48 13.3375 619.359
-2	'Mystic_Fountain' 1083.1 78.6651 316.945
-3	'Orichalcum1' 1020.8 56.1255 380.388
-4	'Orichalcum2' 957.664 63.3366 717.538
-5	'Obsidian_Sanctum_Chest' 1101.62 125.043 427.22
-6	'Obsidian_Sanctum_Waypoint' 766.48 13.3375 619.359

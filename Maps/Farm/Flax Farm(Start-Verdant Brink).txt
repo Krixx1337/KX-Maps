@@ -1,5 +1,0 @@
-1	'Verdant_Brink_Spot1/Next_teleport_to_Tangled_Depths' 889.299 17.7582 507.586
-2	'Tangled_Depths_Spot2/Next_teleport_to_Bloodstone_Fen' -371.082 404.97 -100.765
-3	'Bloodstone_Fen_Spot3/Next_spot_also_here' 249.257 985.165 -5.50002
-4	'Bloodstone_Fen_Spot4/Next_teleport_to_Draconic_Mons' 201.186 946.799 12.2074
-5	'Draconic_Mons_ENDspot' 667.078 131.029 -577.018

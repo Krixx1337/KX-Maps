@@ -1,0 +1,23 @@
+{
+  "Name": "Abaddon Ascent JP",
+  "Coordinates": [
+    {
+      "Name": "Get_the_chest_1",
+      "X": 664.86,
+      "Y": 183.04,
+      "Z": 210.1
+    },
+    {
+      "Name": "Get_the_chest_2",
+      "X": 707.05,
+      "Y": 144.69,
+      "Z": 350.52
+    },
+    {
+      "Name": "Get_the_last_chest",
+      "X": 695.94,
+      "Y": 133.73,
+      "Z": 625.8
+    }
+  ]
+}

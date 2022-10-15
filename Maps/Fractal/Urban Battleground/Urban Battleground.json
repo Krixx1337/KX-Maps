@@ -1,0 +1,23 @@
+{
+  "Name": "Urban Battleground",
+  "Coordinates": [
+    {
+      "Name": "first-kill-the-machines@lava",
+      "X": 357.965,
+      "Y": 793.249,
+      "Z": 28.5325
+    },
+    {
+      "Name": "secondspot-killthe-oil-mechanism-and-the-gate-beneth",
+      "X": 296.903,
+      "Y": 964.072,
+      "Z": 37.5662
+    },
+    {
+      "Name": "and-now-KILLALL",
+      "X": 248.575,
+      "Y": 1041.77,
+      "Z": 25.3349
+    }
+  ]
+}

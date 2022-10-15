@@ -1,0 +1,47 @@
+{
+  "Name": "Savage Scholar",
+  "Coordinates": [
+    {
+      "Name": "First_Page_on_map_Eternal_Battlegrounds_nr1_Rules_of_the_Mists",
+      "X": -1029.41,
+      "Y": -985.42,
+      "Z": 35.36
+    },
+    {
+      "Name": "nr2_Fractal_State_find_in_Aldons_Ledge",
+      "X": -900.12,
+      "Y": -569.21,
+      "Z": 16.51
+    },
+    {
+      "Name": "Nr3_Mysterious_Armor_Find_in_Wildcreek_Run",
+      "X": -493.18,
+      "Y": -295.01,
+      "Z": 0.38
+    },
+    {
+      "Name": "Nr4_Reunited_find_in_Klovan_Gully",
+      "X": -284.89,
+      "Y": -634.55,
+      "Z": 7.52
+    },
+    {
+      "Name": "nr7_Further_Studies_find_in_Molevekian_Delve",
+      "X": -289.06,
+      "Y": 109.52,
+      "Z": 33.44
+    },
+    {
+      "Name": "nr6_Spirit_of_the_Armor_Find_in_Darkrait_Inlet",
+      "X": 144.72,
+      "Y": -645.74,
+      "Z": 4.2
+    },
+    {
+      "Name": "nr5_Warclaw_find_in_Orgath_Uplands",
+      "X": 623.91,
+      "Y": 168.11,
+      "Z": 61.2
+    }
+  ]
+}

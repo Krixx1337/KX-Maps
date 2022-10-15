@@ -1,0 +1,335 @@
+{
+  "Name": "Core HoT PoF LW Dive-Locations",
+  "Coordinates": [
+    {
+      "Name": "Harathi_Hinterlands",
+      "X": 819.189,
+      "Y": -882.477,
+      "Z": 36.47
+    },
+    {
+      "Name": "Harathi_Hinterlands",
+      "X": -453.317,
+      "Y": 782.763,
+      "Z": 41.802
+    },
+    {
+      "Name": "Plains_of_Ashford",
+      "X": 751.632,
+      "Y": -471.292,
+      "Z": 59.739
+    },
+    {
+      "Name": "Plains_of_Ashford",
+      "X": -427.585,
+      "Y": -473.7,
+      "Z": 24.944
+    },
+    {
+      "Name": "Fields_of_Ruin",
+      "X": -53.328,
+      "Y": 95.407,
+      "Z": 44.116
+    },
+    {
+      "Name": "Fields_of_Ruin",
+      "X": -672.166,
+      "Y": 876.497,
+      "Z": 17.551
+    },
+    {
+      "Name": "Fireheart_Rise",
+      "X": 389.05,
+      "Y": -719.375,
+      "Z": 69.496
+    },
+    {
+      "Name": "Kessex_Hills",
+      "X": 1319.139,
+      "Y": -598.718,
+      "Z": 108.175
+    },
+    {
+      "Name": "Gendarran_Fields",
+      "X": 148.424,
+      "Y": 202.806,
+      "Z": 35.588
+    },
+    {
+      "Name": "Gendarran_Fields",
+      "X": 736.986,
+      "Y": 654.677,
+      "Z": 85.03
+    },
+    {
+      "Name": "Gendarran_Fields",
+      "X": -375.943,
+      "Y": -654.292,
+      "Z": 182.587
+    },
+    {
+      "Name": "Iron_Marches",
+      "X": -617.683,
+      "Y": -1184.692,
+      "Z": 67.578
+    },
+    {
+      "Name": "Iron_Marches",
+      "X": 163.867,
+      "Y": -956.071,
+      "Z": 42.809
+    },
+    {
+      "Name": "Lornars_Pass",
+      "X": -530.176,
+      "Y": -1529.594,
+      "Z": 64.923
+    },
+    {
+      "Name": "Lornars_Pass",
+      "X": -304.07,
+      "Y": -798.793,
+      "Z": 32.749
+    },
+    {
+      "Name": "Wayfarer_Foothills",
+      "X": 175.942,
+      "Y": -64.155,
+      "Z": 50.509
+    },
+    {
+      "Name": "Wayfarer_Foothills",
+      "X": 348.319,
+      "Y": -883.276,
+      "Z": 50.519
+    },
+    {
+      "Name": "Timberline_Falls",
+      "X": -205.583,
+      "Y": 1092.285,
+      "Z": 35.699
+    },
+    {
+      "Name": "Timberline_Falls",
+      "X": 316.849,
+      "Y": -656.804,
+      "Z": 110.244
+    },
+    {
+      "Name": "Frostgorge_Sound",
+      "X": -144.405,
+      "Y": 467.33,
+      "Z": 61.21
+    },
+    {
+      "Name": "Diessa_Plateau",
+      "X": 153.941,
+      "Y": 410.023,
+      "Z": 30.602
+    },
+    {
+      "Name": "Diessa_Plateau",
+      "X": 1089.289,
+      "Y": -524.964,
+      "Z": 33.078
+    },
+    {
+      "Name": "Caledon_Forest",
+      "X": 563.288,
+      "Y": 300.37,
+      "Z": 27.798
+    },
+    {
+      "Name": "Metrica_Province",
+      "X": 410.175,
+      "Y": 1095.712,
+      "Z": 22.856
+    },
+    {
+      "Name": "Metrica_Province",
+      "X": -31.613,
+      "Y": -697.05,
+      "Z": 31.684
+    },
+    {
+      "Name": "Mount_Maelstrom",
+      "X": 1325.584,
+      "Y": 824.396,
+      "Z": 138.022
+    },
+    {
+      "Name": "Mount_Maelstrom",
+      "X": 1276.433,
+      "Y": 612.503,
+      "Z": 126.855
+    },
+    {
+      "Name": "Lions_Arch",
+      "X": -386.186,
+      "Y": -461.756,
+      "Z": 196.813
+    },
+    {
+      "Name": "Straits_of_Devastation",
+      "X": 605.599,
+      "Y": 120.708,
+      "Z": 44.897
+    },
+    {
+      "Name": "Straits_of_Devastation",
+      "X": 205.337,
+      "Y": -472.598,
+      "Z": 46.585
+    },
+    {
+      "Name": "Brisban_Wildlands",
+      "X": 187.171,
+      "Y": 69.038,
+      "Z": 43.48
+    },
+    {
+      "Name": "Brisban_Wildlands",
+      "X": 629.349,
+      "Y": 203.446,
+      "Z": 64.164
+    },
+    {
+      "Name": "Cursed_Shore",
+      "X": 125.866,
+      "Y": 457.761,
+      "Z": 30.438
+    },
+    {
+      "Name": "Cursed_Shore",
+      "X": -19.384,
+      "Y": -1071.573,
+      "Z": 44.885
+    },
+    {
+      "Name": "Malchors_Leap",
+      "X": -494.967,
+      "Y": 162.091,
+      "Z": 188.737
+    },
+    {
+      "Name": "Bloodtide_Coast",
+      "X": 431.449,
+      "Y": 640.601,
+      "Z": 66.282
+    },
+    {
+      "Name": "The_Grove",
+      "X": 69.345,
+      "Y": -21.843,
+      "Z": 91.818
+    },
+    {
+      "Name": "Rata_Sum",
+      "X": -5.913,
+      "Y": -430.498,
+      "Z": 133.868
+    },
+    {
+      "Name": "EXPANSION_DIVE_LOCATIONS_NOW",
+      "X": -5.913,
+      "Y": -430.498,
+      "Z": 133.868
+    },
+    {
+      "Name": "The_Silverwastes",
+      "X": 358.624,
+      "Y": 190.733,
+      "Z": 505.385
+    },
+    {
+      "Name": "Tangled_Depths",
+      "X": 958.33,
+      "Y": -241.347,
+      "Z": 347.096
+    },
+    {
+      "Name": "Verdant_Brink",
+      "X": 120.222,
+      "Y": 26.094,
+      "Z": 848.766
+    },
+    {
+      "Name": "Bloodstone_Fen",
+      "X": 154.18,
+      "Y": 103.592,
+      "Z": 1037.385
+    },
+    {
+      "Name": "Bitterfrost_Frontier",
+      "X": 957.844,
+      "Y": 167.839,
+      "Z": 78.834
+    },
+    {
+      "Name": "Draconis_Mons",
+      "X": -29.772,
+      "Y": -318.418,
+      "Z": 672.668
+    },
+    {
+      "Name": "Sirens_Landing",
+      "X": 657.897,
+      "Y": 289.204,
+      "Z": 636.298
+    },
+    {
+      "Name": "Desert_Highlands",
+      "X": -1494.342,
+      "Y": -429.017,
+      "Z": 367.155
+    },
+    {
+      "Name": "Elon_Riverlands",
+      "X": -414.991,
+      "Y": -411.178,
+      "Z": 119.808
+    },
+    {
+      "Name": "Elon_Riverlands",
+      "X": -762.844,
+      "Y": -227.36,
+      "Z": 92.831
+    },
+    {
+      "Name": "Elon_Riverlands",
+      "X": 414.831,
+      "Y": -158.141,
+      "Z": 139.528
+    },
+    {
+      "Name": "Fractals_of_the_Mists",
+      "X": 116.24,
+      "Y": -144.94,
+      "Z": 316.431
+    },
+    {
+      "Name": "Edge_of_the_Mists",
+      "X": -429.528,
+      "Y": 235.0,
+      "Z": 392.556
+    },
+    {
+      "Name": "Edge_of_the_Mists",
+      "X": -5.905,
+      "Y": -478.589,
+      "Z": 412.883
+    },
+    {
+      "Name": "Edge_of_the_Mists",
+      "X": 437.433,
+      "Y": 239.61,
+      "Z": 377.437
+    },
+    {
+      "Name": "Dry_Top",
+      "X": 381.699,
+      "Y": -498.787,
+      "Z": 193.699
+    }
+  ]
+}

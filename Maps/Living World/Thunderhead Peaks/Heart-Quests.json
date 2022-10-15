@@ -1,0 +1,341 @@
+{
+  "Name": "Heart-Quests",
+  "Coordinates": [
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -379.783,
+      "Y": 1217.7,
+      "Z": 199.133
+    },
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -314.184,
+      "Y": 1246.93,
+      "Z": 190.798
+    },
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -203.66,
+      "Y": 1344.82,
+      "Z": 199.255
+    },
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -270.849,
+      "Y": 1349.92,
+      "Z": 199.461
+    },
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -336.791,
+      "Y": 1346.24,
+      "Z": 194.608
+    },
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -421.082,
+      "Y": 1407.58,
+      "Z": 199.133
+    },
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -393.802,
+      "Y": 1312.35,
+      "Z": 199.133
+    },
+    {
+      "Name": "Barracks_Discouraged_Pact_Soldier",
+      "X": -432.63,
+      "Y": 1303.1,
+      "Z": 199.133
+    },
+    {
+      "Name": "Barracks_Group_Rally",
+      "X": -421.086,
+      "Y": 1276.36,
+      "Z": 199.133
+    },
+    {
+      "Name": "Barracks_Group_Rally",
+      "X": -413.402,
+      "Y": 1173.85,
+      "Z": 199.133
+    },
+    {
+      "Name": "Barracks_Group_Rally",
+      "X": -270.745,
+      "Y": 1245.34,
+      "Z": 199.107
+    },
+    {
+      "Name": "Barracks_Group_Rally",
+      "X": -241.267,
+      "Y": 1372.88,
+      "Z": 199.256
+    },
+    {
+      "Name": "Barracks_Group_Rally",
+      "X": -387.366,
+      "Y": 1370.82,
+      "Z": 199.133
+    },
+    {
+      "Name": "Barracks_Heart_Vendor",
+      "X": -260.074,
+      "Y": 1314.25,
+      "Z": 199.341
+    },
+    {
+      "Name": "Dredgeways_Branded_Crystal",
+      "X": -576.132,
+      "Y": -529.894,
+      "Z": 34.5246
+    },
+    {
+      "Name": "Dredgeways_Branded_Crystal",
+      "X": -605.436,
+      "Y": -497.461,
+      "Z": 3.32774
+    },
+    {
+      "Name": "Dredgeways_Branded_Crystal",
+      "X": -615.476,
+      "Y": -470.425,
+      "Z": 4.75408
+    },
+    {
+      "Name": "Dredgeways_Branded_Crystal",
+      "X": -646.767,
+      "Y": -532.36,
+      "Z": 1.31962
+    },
+    {
+      "Name": "Dredgeways_Branded_Crystal",
+      "X": -620.759,
+      "Y": -589.083,
+      "Z": 12.0161
+    },
+    {
+      "Name": "Dredgeways_Branded_Crystal",
+      "X": -475.392,
+      "Y": -617.306,
+      "Z": 38.6739
+    },
+    {
+      "Name": "Dredgeways_Branded_Crystal",
+      "X": -489.787,
+      "Y": -684.018,
+      "Z": 44.926
+    },
+    {
+      "Name": "Discouraged_Dredge",
+      "X": -623.459,
+      "Y": -347.632,
+      "Z": 1.25897
+    },
+    {
+      "Name": "Discouraged_Dredge",
+      "X": -603.0,
+      "Y": -491.015,
+      "Z": 45.6876
+    },
+    {
+      "Name": "Discouraged_Dredge",
+      "X": -528.142,
+      "Y": -643.939,
+      "Z": 42.4905
+    },
+    {
+      "Name": "Discouraged_Dredge",
+      "X": -528.432,
+      "Y": -571.135,
+      "Z": 72.9751
+    },
+    {
+      "Name": "Discouraged_Dredge",
+      "X": -578.422,
+      "Y": -644.93,
+      "Z": 29.1118
+    },
+    {
+      "Name": "Discouraged_Dredge",
+      "X": -637.132,
+      "Y": -662.979,
+      "Z": 29.1119
+    },
+    {
+      "Name": "Discouraged_Dredge",
+      "X": -475.62,
+      "Y": -671.383,
+      "Z": 45.0016
+    },
+    {
+      "Name": "Dredgeways_Heart_Vendor",
+      "X": -576.617,
+      "Y": -570.391,
+      "Z": 16.4539
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 592.737,
+      "Y": -142.91,
+      "Z": 232.104
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 620.456,
+      "Y": -143.803,
+      "Z": 231.233
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 595.291,
+      "Y": -181.057,
+      "Z": 232.878
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 631.824,
+      "Y": -229.971,
+      "Z": 229.709
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 627.906,
+      "Y": -263.581,
+      "Z": 228.945
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 651.875,
+      "Y": -262.897,
+      "Z": 229.443
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 717.55,
+      "Y": -239.093,
+      "Z": 227.229
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 726.223,
+      "Y": -273.93,
+      "Z": 224.588
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 750.063,
+      "Y": -266.645,
+      "Z": 225.602
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 732.766,
+      "Y": -184.272,
+      "Z": 249.296
+    },
+    {
+      "Name": "Symphonys_Haven_Corsair_Supplies",
+      "X": 764.158,
+      "Y": -220.521,
+      "Z": 234.373
+    },
+    {
+      "Name": "Symphonys_Haven_Drop_Supplies",
+      "X": 474.327,
+      "Y": -251.762,
+      "Z": 220.092
+    },
+    {
+      "Name": "Symphonys_Haven_Split_Fight",
+      "X": 522.884,
+      "Y": -214.673,
+      "Z": 226.742
+    },
+    {
+      "Name": "Symphonys_Haven_Split_Fight",
+      "X": 478.672,
+      "Y": -143.406,
+      "Z": 231.985
+    },
+    {
+      "Name": "Symphonys_Haven_Split_Fight",
+      "X": 444.631,
+      "Y": -84.637,
+      "Z": 242.318
+    },
+    {
+      "Name": "Symphonys_Haven_Heart_Vendor",
+      "X": 523.298,
+      "Y": -169.116,
+      "Z": 230.933
+    },
+    {
+      "Name": "Deldrimor_Ruins_Priory_Scan_Gun",
+      "X": 533.081,
+      "Y": 692.68,
+      "Z": 440.609
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 571.255,
+      "Y": 667.5,
+      "Z": 432.368
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 413.263,
+      "Y": 615.308,
+      "Z": 424.221
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 306.376,
+      "Y": 637.772,
+      "Z": 416.727
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 351.909,
+      "Y": 583.138,
+      "Z": 412.689
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 382.294,
+      "Y": 461.789,
+      "Z": 392.204
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 239.628,
+      "Y": 468.416,
+      "Z": 391.329
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 152.799,
+      "Y": 536.525,
+      "Z": 395.17
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 569.965,
+      "Y": 528.965,
+      "Z": 426.738
+    },
+    {
+      "Name": "Deldrimor_Ruins_Dig_Site",
+      "X": 678.543,
+      "Y": 539.168,
+      "Z": 441.1
+    },
+    {
+      "Name": "Deldrimor_Ruins_Rhoban_Heart_Vendor",
+      "X": 538.997,
+      "Y": 714.313,
+      "Z": 435.119
+    }
+  ]
+}

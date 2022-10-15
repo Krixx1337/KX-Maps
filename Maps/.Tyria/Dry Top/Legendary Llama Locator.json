@@ -1,0 +1,23 @@
+{
+  "Name": "Legendary Llama Locator",
+  "Coordinates": [
+    {
+      "Name": "1st_Llama",
+      "X": 716.78,
+      "Y": -384.69,
+      "Z": 54.22
+    },
+    {
+      "Name": "2nd_Llama",
+      "X": 245.93,
+      "Y": -156.79,
+      "Z": 100.73
+    },
+    {
+      "Name": "3rd_Llama",
+      "X": -744.17,
+      "Y": -176.6,
+      "Z": 144.67
+    }
+  ]
+}

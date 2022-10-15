@@ -1,0 +1,257 @@
+{
+  "Name": "The-Grove-Home-Ini",
+  "Coordinates": [
+    {
+      "Name": "Ekku-Sapling",
+      "X": 68.29,
+      "Y": 63.33,
+      "Z": 2.47
+    },
+    {
+      "Name": "Tukawa",
+      "X": 72.34,
+      "Y": 60.15,
+      "Z": 2.15
+    },
+    {
+      "Name": "Mimosa",
+      "X": 76.17,
+      "Y": 59.06,
+      "Z": 2.08
+    },
+    {
+      "Name": "Red-Oak",
+      "X": 83.76,
+      "Y": 57.28,
+      "Z": 1.91
+    },
+    {
+      "Name": "Airship-Cargo",
+      "X": 89.22,
+      "Y": 191.29,
+      "Z": 0.3
+    },
+    {
+      "Name": "Exalted-Chest",
+      "X": 94.66,
+      "Y": 188.18,
+      "Z": 0.23
+    },
+    {
+      "Name": "Crystallized-Supply-Cache",
+      "X": 98.42,
+      "Y": 185.19,
+      "Z": -0.01
+    },
+    {
+      "Name": "Primordial-Orchid+3Plants",
+      "X": 143.22,
+      "Y": 167.99,
+      "Z": 0.58
+    },
+    {
+      "Name": "Orrian-Oyster+Copper+Silver-Ore",
+      "X": 147.85,
+      "Y": 144.84,
+      "Z": 0.39
+    },
+    {
+      "Name": "Gold+Aurilium",
+      "X": 141.92,
+      "Y": 141.42,
+      "Z": 1.13
+    },
+    {
+      "Name": "Prismaticite",
+      "X": 106.31,
+      "Y": 125.3,
+      "Z": 2.48
+    },
+    {
+      "Name": "Chilli-Pepper",
+      "X": 101.75,
+      "Y": 129.09,
+      "Z": 2.58
+    },
+    {
+      "Name": "Eternal-Ice",
+      "X": 97.38,
+      "Y": 133.22,
+      "Z": 1.42
+    },
+    {
+      "Name": "Winterberry-Bush",
+      "X": 105.08,
+      "Y": 152.24,
+      "Z": 0.98
+    },
+    {
+      "Name": "Bloodstone-Crystals",
+      "X": 70.42,
+      "Y": 123.89,
+      "Z": 0.57
+    },
+    {
+      "Name": "Jade-Fragments",
+      "X": 143.8,
+      "Y": 106.03,
+      "Z": 2.06
+    },
+    {
+      "Name": "Mistborn-Mote",
+      "X": 131.96,
+      "Y": 84.13,
+      "Z": 2.32
+    },
+    {
+      "Name": "Petrified-Stump",
+      "X": 93.74,
+      "Y": 86.31,
+      "Z": 1.88
+    },
+    {
+      "Name": "Quartz",
+      "X": 79.15,
+      "Y": 99.64,
+      "Z": 1.8
+    },
+    {
+      "Name": "Sprocket",
+      "X": 91.46,
+      "Y": 96.01,
+      "Z": 2.87
+    },
+    {
+      "Name": "Leather-Basic",
+      "X": 51.74,
+      "Y": 151.81,
+      "Z": 2.93
+    },
+    {
+      "Name": "Ancient",
+      "X": 90.4,
+      "Y": 55.8,
+      "Z": 2.09
+    },
+    {
+      "Name": "Bauble",
+      "X": 122.09,
+      "Y": 105.24,
+      "Z": 1.43
+    },
+    {
+      "Name": "Inglewood",
+      "X": 86.16,
+      "Y": 55.72,
+      "Z": 1.84
+    },
+    {
+      "Name": "Ghost-Pepper",
+      "X": 151.67,
+      "Y": 176.76,
+      "Z": 0.75
+    },
+    {
+      "Name": "Snow-Truffle-Flax",
+      "X": 140.6,
+      "Y": 161.23,
+      "Z": 0.6
+    },
+    {
+      "Name": "Ori-Orrian-Truffle",
+      "X": 133.17,
+      "Y": 155.23,
+      "Z": 0.84
+    },
+    {
+      "Name": "Plati-Mithril",
+      "X": 134.46,
+      "Y": 146.16,
+      "Z": 1.09
+    },
+    {
+      "Name": "Iron",
+      "X": 132.7,
+      "Y": 140.29,
+      "Z": 1.73
+    },
+    {
+      "Name": "Omnom",
+      "X": 137.77,
+      "Y": 131.96,
+      "Z": 3.01
+    },
+    {
+      "Name": "Salvage",
+      "X": 95.26,
+      "Y": 140.18,
+      "Z": 1.19
+    },
+    {
+      "Name": "Misto",
+      "X": 107.56,
+      "Y": 114.85,
+      "Z": 2.23
+    },
+    {
+      "Name": "Dragon-Crystal",
+      "X": 131.96,
+      "Y": 89.2,
+      "Z": 2.47
+    },
+    {
+      "Name": "CandyCorn",
+      "X": 87.45,
+      "Y": 99.23,
+      "Z": 2.48
+    },
+    {
+      "Name": "Leather",
+      "X": 47.56,
+      "Y": 148.69,
+      "Z": 2.92
+    },
+    {
+      "Name": "Cloth",
+      "X": 53.72,
+      "Y": 150.13,
+      "Z": 2.92
+    },
+    {
+      "Name": "Cloth",
+      "X": 56.43,
+      "Y": 146.09,
+      "Z": 2.92
+    },
+    {
+      "Name": "WintersdayTree",
+      "X": 83.24,
+      "Y": 68.04,
+      "Z": 14.1
+    },
+    {
+      "Name": "Pinata",
+      "X": 106.28,
+      "Y": 63.13,
+      "Z": 2.14
+    },
+    {
+      "Name": "Brandstone",
+      "X": 120.18,
+      "Y": 56.91,
+      "Z": 1.77
+    },
+    {
+      "Name": "Supply-Cache",
+      "X": 102.27,
+      "Y": 46.85,
+      "Z": 2.29
+    },
+    {
+      "Name": "Diflu",
+      "X": 97.57,
+      "Y": 112.38,
+      "Z": 1.65
+    }
+  ]
+}

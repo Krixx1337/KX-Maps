@@ -1,0 +1,83 @@
+{
+  "Name": "Shops MapID 934",
+  "Coordinates": [
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -432.143,
+      "Y": -491.037,
+      "Z": 256.426
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -141.566,
+      "Y": -371.44,
+      "Z": 259.665
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -158.51,
+      "Y": -479.786,
+      "Z": 294.51
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -275.929,
+      "Y": -334.732,
+      "Z": 288.442
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": 578.991,
+      "Y": -246.835,
+      "Z": 316.724
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": 472.584,
+      "Y": -265.478,
+      "Z": 308.279
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": 420.523,
+      "Y": -63.052,
+      "Z": 352.957
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": 593.522,
+      "Y": -102.181,
+      "Z": 342.932
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -5.318,
+      "Y": 75.916,
+      "Z": 99.607
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_normal.tw_sab_normal_hiddenrooms.tw_sab_normal_hiddenrooms_hiddenroom",
+      "X": -5.318,
+      "Y": 75.916,
+      "Z": 99.607
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -23.395,
+      "Y": 148.466,
+      "Z": 85.97
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -509.333,
+      "Y": 580.378,
+      "Z": 443.413
+    },
+    {
+      "Name": "type=tw_guides.tw_sab.tw_sab_tribulation.tw_sab_tribulation_shops.tw_sab_tribulation_shops_shop",
+      "X": -516.638,
+      "Y": 574.797,
+      "Z": 443.413
+    }
+  ]
+}

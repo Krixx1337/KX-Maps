@@ -1,0 +1,77 @@
+{
+  "Name": "13.Extraction Point",
+  "Coordinates": [
+    {
+      "Name": "instalce",
+      "X": -1071.37,
+      "Y": 576.59,
+      "Z": 12.0
+    },
+    {
+      "Name": "Begin_War_Council",
+      "X": -1102.19,
+      "Y": 544.87,
+      "Z": 8.88
+    },
+    {
+      "Name": "exit",
+      "X": -1102.19,
+      "Y": 544.87,
+      "Z": 8.88
+    },
+    {
+      "Name": "to_DE",
+      "X": -18.01,
+      "Y": -1170.56,
+      "Z": 243.96
+    },
+    {
+      "Name": "take_Scanning_Device",
+      "X": -518.51,
+      "Y": 797.03,
+      "Z": 194.93
+    },
+    {
+      "Name": "Scan_here_and_fight",
+      "X": 38.1,
+      "Y": 880.9,
+      "Z": 111.86
+    },
+    {
+      "Name": "Scan_here_and_fight_and_place",
+      "X": 386.47,
+      "Y": 646.43,
+      "Z": 52.04
+    },
+    {
+      "Name": "scan_fight_place",
+      "X": -57.43,
+      "Y": 364.34,
+      "Z": 56.11
+    },
+    {
+      "Name": "scan_fight_place",
+      "X": -355.98,
+      "Y": -280.69,
+      "Z": 183.45
+    },
+    {
+      "Name": "scan_fight_place",
+      "X": 532.03,
+      "Y": -532.02,
+      "Z": 184.91
+    },
+    {
+      "Name": "do_some_event_on_this_map",
+      "X": 22.18,
+      "Y": -640.78,
+      "Z": 482.02
+    },
+    {
+      "Name": "when_finsh_event_tele_here_and_end",
+      "X": 330.62,
+      "Y": -524.14,
+      "Z": 336.34
+    }
+  ]
+}

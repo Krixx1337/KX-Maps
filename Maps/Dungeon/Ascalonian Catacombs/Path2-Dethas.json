@@ -1,0 +1,23 @@
+{
+  "Name": "Path2-Dethas",
+  "Coordinates": [
+    {
+      "Name": "Killit",
+      "X": -316.553,
+      "Y": -224.249,
+      "Z": 60.9546
+    },
+    {
+      "Name": "questselection-Detha-path",
+      "X": -207.101,
+      "Y": -285.58,
+      "Z": 73.0644
+    },
+    {
+      "Name": "endboss-area",
+      "X": 137.077,
+      "Y": 190.287,
+      "Z": 82.023
+    }
+  ]
+}

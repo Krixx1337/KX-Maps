@@ -1,0 +1,23 @@
+{
+  "Name": "RIBA Rotation",
+  "Coordinates": [
+    {
+      "Name": "Red_Rock_Bastion",
+      "X": 193.063,
+      "Y": -420.87,
+      "Z": 509.601
+    },
+    {
+      "Name": "Indigo_Cave",
+      "X": 97.6307,
+      "Y": -146.689,
+      "Z": 508.47
+    },
+    {
+      "Name": "Blue_Oasis",
+      "X": -269.767,
+      "Y": 184.293,
+      "Z": 508.854
+    }
+  ]
+}

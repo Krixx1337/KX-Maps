@@ -1,0 +1,35 @@
+{
+  "Name": "Volcanic",
+  "Coordinates": [
+    {
+      "Name": "Mob1",
+      "X": 439.383,
+      "Y": -908.405,
+      "Z": 99.4996
+    },
+    {
+      "Name": "SkipPart1-setportalhere",
+      "X": 397.645,
+      "Y": -884.173,
+      "Z": 102.034
+    },
+    {
+      "Name": "Skip-Part1-place-here",
+      "X": 273.95,
+      "Y": -824.88,
+      "Z": 66.84
+    },
+    {
+      "Name": "SkipPart2-portal-1-here",
+      "X": 243.732,
+      "Y": -892.386,
+      "Z": 66.8054
+    },
+    {
+      "Name": "SkipPart2-END-Portal",
+      "X": 233.86,
+      "Y": -980.38,
+      "Z": 27.81
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "Name": "Nightmare",
+  "Coordinates": [
+    {
+      "Name": "Kill-Mobs",
+      "X": -14.46,
+      "Y": 139.44,
+      "Z": 49.19
+    },
+    {
+      "Name": "Singularity",
+      "X": 59.94,
+      "Y": 192.17,
+      "Z": 28.19
+    },
+    {
+      "Name": "Kill-Mobs-&Mama-boss-fight",
+      "X": 108.79,
+      "Y": 195.11,
+      "Z": 17.24
+    },
+    {
+      "Name": "pre-circle-left",
+      "X": 185.95,
+      "Y": 100.52,
+      "Z": 0.53
+    },
+    {
+      "Name": "pre-circle-right",
+      "X": 245.16,
+      "Y": 100.26,
+      "Z": 0.15
+    },
+    {
+      "Name": "circle-left",
+      "X": 257.62,
+      "Y": 26.44,
+      "Z": 6.88
+    },
+    {
+      "Name": "circle-right",
+      "X": 181.0,
+      "Y": 28.08,
+      "Z": 6.88
+    },
+    {
+      "Name": "circle-middle",
+      "X": 213.96,
+      "Y": 27.47,
+      "Z": 0.42
+    },
+    {
+      "Name": "stop-the-mechanic",
+      "X": 86.03,
+      "Y": -125.42,
+      "Z": 52.41
+    },
+    {
+      "Name": "next-Singularity",
+      "X": 101.15,
+      "Y": -121.67,
+      "Z": 48.41
+    },
+    {
+      "Name": "Boss-start",
+      "X": 54.29,
+      "Y": -98.77,
+      "Z": 54.57
+    },
+    {
+      "Name": "Singularity-before-ENDBOSS",
+      "X": 57.01,
+      "Y": -35.14,
+      "Z": 54.79
+    },
+    {
+      "Name": "ENDBOSS",
+      "X": 50.34,
+      "Y": 41.74,
+      "Z": 54.93
+    }
+  ]
+}

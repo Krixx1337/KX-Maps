@@ -1,0 +1,41 @@
+{
+  "Name": "MP",
+  "Coordinates": [
+    {
+      "Name": "MasteryInsight_1",
+      "X": -465.779,
+      "Y": -938.072,
+      "Z": 140.423
+    },
+    {
+      "Name": "MasteryInsight_2",
+      "X": -997.707,
+      "Y": -934.805,
+      "Z": 128.629
+    },
+    {
+      "Name": "MasteryInsight_3",
+      "X": -25.4305,
+      "Y": 54.2498,
+      "Z": -0.500744
+    },
+    {
+      "Name": "MasteryInsight_4",
+      "X": -1076.17,
+      "Y": 740.033,
+      "Z": 282.491
+    },
+    {
+      "Name": "MasteryInsight_5",
+      "X": -96.6059,
+      "Y": 573.43,
+      "Z": 396.104
+    },
+    {
+      "Name": "MasteryInsight_6",
+      "X": 355.877,
+      "Y": 207.65,
+      "Z": 337.32
+    }
+  ]
+}

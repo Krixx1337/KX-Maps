@@ -1,9 +1,0 @@
-1	'Bloom_of_Seitung_Hero_Challenge' -389.86 3.68 -266.37
-2	'Veteran_Jade_Bulwark-part_of_story' -638.31 57.16 -457.72
-3	'Village_Overlook' -787.69 200.94 -79.19
-4	'Cliffside_Memorial_Bell' 611.26 140.48 -226.77
-5	'Village_Overlook' 1204.67 123.81 -443.59
-6	'Old_Bell_Shrine' 488.59 44.65 571.15
-7	'Haiju_Hatchery' -215.75 -32.89 895.36
-8	'Dog_Statue' -506.83 1.8 235.87
-9	'Source_of_the_Springs' -106.93 267.83 106.68

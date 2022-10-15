@@ -1,8 +1,0 @@
-1	'Verdant-Brink-SpawnArea' -957.5 469.28 -287.87
-2	'Auric-Basin-Shroom-Spawn-Area' 565.46 319.19 -323.75
-3	'Tangled-Depths-Shroom-Spawn-Area' -387.53 156.08 601.29
-4	'Dragonstand-Shroom-around-here' 164.66 62.51 719.71
-5	'Dragonstand-Shroom-around-here' 303.09 133.57 142.18
-6	'Dragonstand-Shroom-around-here' 844.74 64.56 33.42
-7	'Bloodstone-Fen-Spawn-Area' -117.35 640.99 96.27
-8	'Draconis-Mons-Shroom' -129.59 444.92 74.45

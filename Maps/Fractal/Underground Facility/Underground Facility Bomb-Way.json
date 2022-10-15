@@ -1,0 +1,89 @@
+{
+  "Name": "Underground Facility Bomb-Way",
+  "Coordinates": [
+    {
+      "Name": "Unlock-Console-Skip-Point",
+      "X": 737.16,
+      "Y": 437.12,
+      "Z": 28.7
+    },
+    {
+      "Name": "Singularity-at-Path-Selection-open-file-you-need-next",
+      "X": 765.55,
+      "Y": 356.06,
+      "Z": 47.57
+    },
+    {
+      "Name": "progress-port",
+      "X": 769.99,
+      "Y": 352.28,
+      "Z": 47.86
+    },
+    {
+      "Name": "progress-port2",
+      "X": 767.93,
+      "Y": 315.24,
+      "Z": 54.91
+    },
+    {
+      "Name": "progress-port3",
+      "X": 732.27,
+      "Y": 283.9,
+      "Z": 55.62
+    },
+    {
+      "Name": "port-here-to-trigger-bomb-spawns-and-take-one",
+      "X": 702.87,
+      "Y": 290.42,
+      "Z": 57.21
+    },
+    {
+      "Name": "port-now-here-to-put-bomb-in-place-do-this-9-times",
+      "X": 756.01,
+      "Y": 176.55,
+      "Z": 70.36
+    },
+    {
+      "Name": "detonate-it-now",
+      "X": 741.88,
+      "Y": 157.74,
+      "Z": 69.83
+    },
+    {
+      "Name": "Rabso",
+      "X": 785.13,
+      "Y": 148.07,
+      "Z": 73.97
+    },
+    {
+      "Name": "Endboss-trigger",
+      "X": 938.9,
+      "Y": 224.64,
+      "Z": 103.6
+    },
+    {
+      "Name": "First-Öil",
+      "X": 997.41,
+      "Y": 268.08,
+      "Z": 115.17
+    },
+    {
+      "Name": "Second-Öil",
+      "X": 1050.82,
+      "Y": 268.18,
+      "Z": 115.08
+    },
+    {
+      "Name": "Third-Öil",
+      "X": 1050.93,
+      "Y": 185.83,
+      "Z": 115.17
+    },
+    {
+      "Name": "Fourth-Öil",
+      "X": 997.91,
+      "Y": 186.1,
+      "Z": 112.74
+    }
+  ]
+}

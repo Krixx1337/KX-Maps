@@ -1,0 +1,1943 @@
+{
+  "Name": "CrystallizedSupplyCache",
+  "Coordinates": [
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 148.579,
+      "Y": -487.376,
+      "Z": 3.844
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 261.472,
+      "Y": -454.325,
+      "Z": 0.99
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 360.886,
+      "Y": -329.402,
+      "Z": 1.259
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 355.622,
+      "Y": -393.462,
+      "Z": 0.401
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 430.064,
+      "Y": -321.186,
+      "Z": 47.912
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 491.759,
+      "Y": -245.298,
+      "Z": 68.019
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 536.277,
+      "Y": -341.808,
+      "Z": 53.733
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 615.007,
+      "Y": -280.975,
+      "Z": 39.336
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 645.321,
+      "Y": -292.545,
+      "Z": 43.843
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 735.077,
+      "Y": -332.337,
+      "Z": 50.702
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 772.963,
+      "Y": -289.982,
+      "Z": 11.228
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 788.927,
+      "Y": -277.077,
+      "Z": 9.27
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 764.675,
+      "Y": -246.875,
+      "Z": 13.25
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 728.962,
+      "Y": -262.552,
+      "Z": 16.566
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 722.049,
+      "Y": -230.075,
+      "Z": 21.649
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 642.702,
+      "Y": -209.194,
+      "Z": 43.442
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 727.782,
+      "Y": -197.178,
+      "Z": 37.855
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 820.363,
+      "Y": -236.472,
+      "Z": 11.257
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 915.536,
+      "Y": -91.586,
+      "Z": 41.047
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 209.07,
+      "Y": -172.715,
+      "Z": 48.109
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 220.45,
+      "Y": -146.121,
+      "Z": 33.632
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 203.348,
+      "Y": -110.303,
+      "Z": 32.397
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 213.353,
+      "Y": -71.706,
+      "Z": 23.872
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 262.886,
+      "Y": -53.344,
+      "Z": 19.544
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 289.46,
+      "Y": -73.298,
+      "Z": 26.247
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 301.615,
+      "Y": -17.004,
+      "Z": 18.137
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 193.691,
+      "Y": 38.898,
+      "Z": 11.396
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 220.086,
+      "Y": 62.886,
+      "Z": 5.285
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 272.94,
+      "Y": 115.983,
+      "Z": 0.741
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 280.881,
+      "Y": 137.984,
+      "Z": 0.705
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 223.031,
+      "Y": 183.058,
+      "Z": 3.958
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 243.903,
+      "Y": 221.677,
+      "Z": 3.056
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 292.036,
+      "Y": 215.282,
+      "Z": 0.037
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 251.093,
+      "Y": 251.298,
+      "Z": 4.659
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 236.461,
+      "Y": 510.292,
+      "Z": 4.315
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 303.063,
+      "Y": 600.752,
+      "Z": 1.797
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 181.508,
+      "Y": 639.285,
+      "Z": 46.529
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 168.674,
+      "Y": 297.018,
+      "Z": 164.637
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 181.064,
+      "Y": -508.663,
+      "Z": 2.854
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 56.604,
+      "Y": -563.562,
+      "Z": 33.997
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -131.287,
+      "Y": -546.908,
+      "Z": 37.023
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -183.529,
+      "Y": -459.098,
+      "Z": 26.933
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -267.656,
+      "Y": -488.299,
+      "Z": 24.629
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -286.599,
+      "Y": -544.601,
+      "Z": 18.878
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -258.193,
+      "Y": -605.893,
+      "Z": 15.458
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -286.08,
+      "Y": -626.727,
+      "Z": 16.56
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -370.418,
+      "Y": -598.819,
+      "Z": 14.716
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -371.011,
+      "Y": -632.379,
+      "Z": 15.466
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -401.491,
+      "Y": -601.247,
+      "Z": 10.038
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -377.699,
+      "Y": -498.221,
+      "Z": 10.029
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -457.529,
+      "Y": -647.589,
+      "Z": 0.79
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -575.485,
+      "Y": -575.213,
+      "Z": 2.611
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -606.504,
+      "Y": -535.851,
+      "Z": 2.215
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -859.39,
+      "Y": -652.6,
+      "Z": 4.582
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -941.255,
+      "Y": -629.534,
+      "Z": 27.289
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 38.269,
+      "Y": -136.576,
+      "Z": 49.101
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -29.212,
+      "Y": -188.824,
+      "Z": 24.59
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -58.074,
+      "Y": -155.028,
+      "Z": 63.926
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -110.407,
+      "Y": -91.363,
+      "Z": 4.235
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -177.797,
+      "Y": 47.946,
+      "Z": 3.431
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -235.856,
+      "Y": 6.287,
+      "Z": 0.452
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -265.444,
+      "Y": 2.922,
+      "Z": 0.254
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -301.782,
+      "Y": -17.237,
+      "Z": 5.868
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -213.327,
+      "Y": -65.054,
+      "Z": 21.153
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -152.103,
+      "Y": 88.315,
+      "Z": 28.727
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -427.123,
+      "Y": 38.839,
+      "Z": 0.296
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -378.914,
+      "Y": 18.888,
+      "Z": 49.888
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -291.314,
+      "Y": 152.651,
+      "Z": 1.432
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -356.589,
+      "Y": 126.861,
+      "Z": 0.555
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -434.977,
+      "Y": 94.668,
+      "Z": 0.016
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 199.872,
+      "Y": -616.585,
+      "Z": 24.182
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 295.133,
+      "Y": -591.264,
+      "Z": 58.645
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 572.871,
+      "Y": -623.978,
+      "Z": 180.535
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 682.298,
+      "Y": -416.399,
+      "Z": 288.684
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 841.33,
+      "Y": -474.786,
+      "Z": 280.093
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 947.192,
+      "Y": -452.173,
+      "Z": 295.846
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 877.78,
+      "Y": -365.482,
+      "Z": 324.198
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 883.829,
+      "Y": -275.615,
+      "Z": 284.156
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 1041.691,
+      "Y": -641.792,
+      "Z": 358.118
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 858.907,
+      "Y": -658.664,
+      "Z": 378.229
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 905.781,
+      "Y": -625.36,
+      "Z": 406.293
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -285.317,
+      "Y": -189.299,
+      "Z": 276.999
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -234.175,
+      "Y": -274.378,
+      "Z": 268.667
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -161.128,
+      "Y": -348.689,
+      "Z": 266.582
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -101.449,
+      "Y": -253.069,
+      "Z": 269.24
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -326.156,
+      "Y": -330.587,
+      "Z": 267.616
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -639.622,
+      "Y": -460.121,
+      "Z": 195.114
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -646.021,
+      "Y": -292.271,
+      "Z": 102.939
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 164.028,
+      "Y": -385.341,
+      "Z": 1.311
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 131.471,
+      "Y": -658.734,
+      "Z": 15.604
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 158.51,
+      "Y": -672.748,
+      "Z": 13.956
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 165.707,
+      "Y": -699.656,
+      "Z": 18.222
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 167.351,
+      "Y": -724.894,
+      "Z": 24.395
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 162.972,
+      "Y": -750.248,
+      "Z": 23.566
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 131.916,
+      "Y": -746.219,
+      "Z": 23.983
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 125.36,
+      "Y": -713.384,
+      "Z": 17.253
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 135.375,
+      "Y": -679.643,
+      "Z": 12.121
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -92.5,
+      "Y": -63.484,
+      "Z": 7.319
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -190.423,
+      "Y": -42.353,
+      "Z": 3.28
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -211.012,
+      "Y": 71.872,
+      "Z": 1.709
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -516.572,
+      "Y": 76.678,
+      "Z": 1.328
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -152.407,
+      "Y": -531.615,
+      "Z": 31.1
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -229.813,
+      "Y": -526.379,
+      "Z": 24.147
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -451.621,
+      "Y": -543.412,
+      "Z": 1.445
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -517.413,
+      "Y": -632.412,
+      "Z": 0.849
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -216.555,
+      "Y": 334.536,
+      "Z": 190.073
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 658.862,
+      "Y": 533.276,
+      "Z": 139.442
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 668.212,
+      "Y": 378.991,
+      "Z": 88.37
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 611.445,
+      "Y": 326.758,
+      "Z": 60.019
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 672.182,
+      "Y": 291.394,
+      "Z": 59.604
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 580.381,
+      "Y": 122.02,
+      "Z": 1.613
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 594.991,
+      "Y": 114.357,
+      "Z": 26.361
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 495.385,
+      "Y": 186.622,
+      "Z": 1.824
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 300.295,
+      "Y": 186.979,
+      "Z": 0.873
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 289.384,
+      "Y": 272.822,
+      "Z": 0.957
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 224.175,
+      "Y": 153.763,
+      "Z": 1.971
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 217.032,
+      "Y": -47.795,
+      "Z": 21.93
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 215.371,
+      "Y": -129.613,
+      "Z": 32.331
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 280.348,
+      "Y": -186.974,
+      "Z": 47.14
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 303.569,
+      "Y": -197.705,
+      "Z": 45.219
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 75.653,
+      "Y": -517.496,
+      "Z": 28.031
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -36.899,
+      "Y": -559.043,
+      "Z": 41.477
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -127.474,
+      "Y": -602.0,
+      "Z": 27.668
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -190.801,
+      "Y": -577.314,
+      "Z": -0.122
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -88.158,
+      "Y": -465.183,
+      "Z": 42.311
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -356.435,
+      "Y": -545.558,
+      "Z": 12.134
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -369.931,
+      "Y": -546.862,
+      "Z": 13.504
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -459.073,
+      "Y": -602.737,
+      "Z": 4.294
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -523.216,
+      "Y": -533.56,
+      "Z": 0.569
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 4.432,
+      "Y": -199.972,
+      "Z": 56.172
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -11.991,
+      "Y": -186.02,
+      "Z": 29.719
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -347.745,
+      "Y": 39.475,
+      "Z": 0.615
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 494.458,
+      "Y": 230.991,
+      "Z": 39.416
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 414.052,
+      "Y": 174.98,
+      "Z": 43.42
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 416.167,
+      "Y": 23.189,
+      "Z": 8.806
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 582.579,
+      "Y": -97.548,
+      "Z": 43.494
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 504.102,
+      "Y": -64.544,
+      "Z": 89.518
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 488.822,
+      "Y": -101.461,
+      "Z": 117.672
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 510.427,
+      "Y": -169.53,
+      "Z": 44.215
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 442.841,
+      "Y": -155.557,
+      "Z": 61.291
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 361.129,
+      "Y": 138.469,
+      "Z": 0.563
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 211.769,
+      "Y": 164.469,
+      "Z": 8.025
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 282.276,
+      "Y": -1.384,
+      "Z": 12.243
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 280.845,
+      "Y": -37.694,
+      "Z": 12.657
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 280.346,
+      "Y": -89.835,
+      "Z": 30.547
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 324.954,
+      "Y": -317.496,
+      "Z": 2.671
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 179.97,
+      "Y": -297.106,
+      "Z": 7.208
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 104.828,
+      "Y": -466.921,
+      "Z": 2.374
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -92.027,
+      "Y": -163.124,
+      "Z": 17.191
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -330.141,
+      "Y": 34.2,
+      "Z": 29.9
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -235.232,
+      "Y": 12.445,
+      "Z": 56.837
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -189.22,
+      "Y": -69.026,
+      "Z": 22.669
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 310.386,
+      "Y": 171.92,
+      "Z": 0.352
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 293.401,
+      "Y": -60.85,
+      "Z": 24.387
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 236.405,
+      "Y": -203.679,
+      "Z": 47.492
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 516.442,
+      "Y": -290.889,
+      "Z": 61.423
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 581.692,
+      "Y": -353.728,
+      "Z": 55.451
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 817.395,
+      "Y": -296.604,
+      "Z": 9.055
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 783.691,
+      "Y": -214.05,
+      "Z": 20.527
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -112.961,
+      "Y": -495.471,
+      "Z": 39.491
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -590.951,
+      "Y": -522.935,
+      "Z": 99.495
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -537.849,
+      "Y": -286.036,
+      "Z": 241.461
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -162.427,
+      "Y": -469.749,
+      "Z": 32.246
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 372.149,
+      "Y": -215.717,
+      "Z": 31.496
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -195.282,
+      "Y": -497.235,
+      "Z": 26.234
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -720.712,
+      "Y": -616.934,
+      "Z": 0.496
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 652.931,
+      "Y": 226.341,
+      "Z": 14.34
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 709.745,
+      "Y": 110.542,
+      "Z": 11.715
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 300.882,
+      "Y": 114.157,
+      "Z": 8.659
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 199.118,
+      "Y": 13.756,
+      "Z": 8.766
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -48.48,
+      "Y": 616.934,
+      "Z": 246.359
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -40.975,
+      "Y": 478.026,
+      "Z": 258.988
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -343.589,
+      "Y": 600.471,
+      "Z": 135.79
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -471.761,
+      "Y": 659.742,
+      "Z": 113.183
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -479.046,
+      "Y": 566.855,
+      "Z": 161.101
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 703.351,
+      "Y": -572.322,
+      "Z": 298.517
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 152.744,
+      "Y": -643.781,
+      "Z": 15.492
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 136.587,
+      "Y": -721.802,
+      "Z": 16.588
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -148.303,
+      "Y": -83.003,
+      "Z": 3.608
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 223.446,
+      "Y": -325.096,
+      "Z": 1.157
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 595.983,
+      "Y": -356.317,
+      "Z": 59.32
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 578.844,
+      "Y": -258.402,
+      "Z": 47.92
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 813.194,
+      "Y": -251.542,
+      "Z": 5.962
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 829.153,
+      "Y": -270.625,
+      "Z": 2.894
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 687.878,
+      "Y": -225.616,
+      "Z": 29.282
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 221.012,
+      "Y": 92.682,
+      "Z": 5.286
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 310.584,
+      "Y": 218.207,
+      "Z": 1.887
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 1072.173,
+      "Y": -411.836,
+      "Z": 262.827
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 654.946,
+      "Y": -489.289,
+      "Z": 236.903
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 609.621,
+      "Y": -562.733,
+      "Z": 202.529
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 460.362,
+      "Y": -544.98,
+      "Z": 136.723
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 505.909,
+      "Y": -235.077,
+      "Z": 68.505
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 532.792,
+      "Y": -251.802,
+      "Z": 63.481
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 581.439,
+      "Y": -279.346,
+      "Z": 41.721
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 629.203,
+      "Y": -340.953,
+      "Z": 53.982
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 689.967,
+      "Y": -308.03,
+      "Z": 49.315
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 885.818,
+      "Y": -165.08,
+      "Z": 114.953
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 1019.408,
+      "Y": -156.303,
+      "Z": 79.026
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 971.269,
+      "Y": -79.856,
+      "Z": 65.04
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 279.263,
+      "Y": -171.374,
+      "Z": 46.88
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 282.904,
+      "Y": -133.825,
+      "Z": 34.429
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 203.176,
+      "Y": -4.278,
+      "Z": 7.316
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 205.967,
+      "Y": 95.556,
+      "Z": 7.379
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 251.232,
+      "Y": 641.07,
+      "Z": 4.833
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -33.949,
+      "Y": -456.905,
+      "Z": 39.075
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -65.194,
+      "Y": -574.592,
+      "Z": 38.818
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -265.481,
+      "Y": -530.894,
+      "Z": 22.686
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -338.118,
+      "Y": -487.701,
+      "Z": 4.338
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -583.044,
+      "Y": -621.474,
+      "Z": 6.162
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 981.663,
+      "Y": -296.347,
+      "Z": 289.412
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 684.814,
+      "Y": -334.592,
+      "Z": 56.083
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 702.598,
+      "Y": -202.834,
+      "Z": 40.073
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 600.472,
+      "Y": -238.82,
+      "Z": 43.135
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 624.573,
+      "Y": -316.384,
+      "Z": 44.877
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 491.322,
+      "Y": -354.435,
+      "Z": 62.849
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 466.116,
+      "Y": -360.043,
+      "Z": 59.355
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 445.798,
+      "Y": -311.401,
+      "Z": 50.401
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 668.891,
+      "Y": -203.046,
+      "Z": 44.048
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 686.632,
+      "Y": -265.779,
+      "Z": 24.77
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 659.619,
+      "Y": -393.656,
+      "Z": 318.198
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -140.766,
+      "Y": -559.509,
+      "Z": 16.437
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -316.706,
+      "Y": -607.834,
+      "Z": 14.931
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -481.332,
+      "Y": -527.309,
+      "Z": 1.03
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -603.55,
+      "Y": -588.363,
+      "Z": 9.702
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -565.229,
+      "Y": -363.416,
+      "Z": 31.347
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -758.298,
+      "Y": -346.477,
+      "Z": 50.759
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -722.389,
+      "Y": -360.989,
+      "Z": 166.857
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -793.673,
+      "Y": -523.642,
+      "Z": 212.888
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -850.037,
+      "Y": -453.059,
+      "Z": 210.962
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -854.645,
+      "Y": -314.795,
+      "Z": 212.103
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 47.485,
+      "Y": -276.664,
+      "Z": 67.077
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -123.44,
+      "Y": -13.228,
+      "Z": 1.217
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -331.97,
+      "Y": 0.439,
+      "Z": 52.38
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -484.498,
+      "Y": 96.25,
+      "Z": 5.809
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -511.508,
+      "Y": 131.448,
+      "Z": 0.991
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 664.831,
+      "Y": -355.357,
+      "Z": 52.808
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -186.277,
+      "Y": -558.577,
+      "Z": 27.443
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 751.925,
+      "Y": -231.064,
+      "Z": 22.248
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 812.737,
+      "Y": -219.417,
+      "Z": 19.079
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 407.464,
+      "Y": -57.438,
+      "Z": 21.79
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -55.882,
+      "Y": -487.431,
+      "Z": 41.524
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -348.756,
+      "Y": -634.412,
+      "Z": 15.293
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -419.101,
+      "Y": -536.555,
+      "Z": 5.164
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -592.704,
+      "Y": -429.185,
+      "Z": 29.797
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -745.465,
+      "Y": -312.221,
+      "Z": 110.174
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -538.708,
+      "Y": -323.554,
+      "Z": 113.672
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -634.921,
+      "Y": -308.154,
+      "Z": 143.785
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -656.716,
+      "Y": -289.731,
+      "Z": 156.485
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -191.397,
+      "Y": -160.824,
+      "Z": 286.769
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -41.044,
+      "Y": 111.051,
+      "Z": 117.378
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 55.132,
+      "Y": -19.602,
+      "Z": 73.197
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -50.706,
+      "Y": -97.162,
+      "Z": 60.583
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -69.176,
+      "Y": 0.103,
+      "Z": 62.053
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -191.611,
+      "Y": 83.345,
+      "Z": 10.704
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -221.795,
+      "Y": 126.153,
+      "Z": 0.2
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -336.116,
+      "Y": 193.512,
+      "Z": 3.009
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -484.059,
+      "Y": 128.037,
+      "Z": 7.594
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -149.721,
+      "Y": 9.035,
+      "Z": 4.035
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 56.164,
+      "Y": -164.984,
+      "Z": 60.219
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 82.601,
+      "Y": -216.566,
+      "Z": 66.61
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 102.313,
+      "Y": -222.063,
+      "Z": 65.782
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 657.06,
+      "Y": -270.7,
+      "Z": 34.614
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 215.41,
+      "Y": -155.218,
+      "Z": 40.57
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 273.353,
+      "Y": -151.359,
+      "Z": 37.103
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 288.919,
+      "Y": 42.244,
+      "Z": 5.453
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 9.565,
+      "Y": -102.672,
+      "Z": 77.968
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -42.369,
+      "Y": 31.248,
+      "Z": 97.953
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -544.621,
+      "Y": -638.296,
+      "Z": 0.791
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 293.308,
+      "Y": -105.268,
+      "Z": 31.477
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 286.561,
+      "Y": 72.915,
+      "Z": 3.332
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 715.396,
+      "Y": -285.988,
+      "Z": 26.414
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -341.3,
+      "Y": 121.642,
+      "Z": 14.725
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -541.3,
+      "Y": 56.805,
+      "Z": 2.115
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -152.929,
+      "Y": -11.495,
+      "Z": 50.386
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -307.028,
+      "Y": -545.571,
+      "Z": 18.156
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 521.718,
+      "Y": -369.675,
+      "Z": 55.202
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -605.615,
+      "Y": -288.485,
+      "Z": 29.564
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 125.761,
+      "Y": -124.753,
+      "Z": 97.981
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 106.887,
+      "Y": 11.293,
+      "Z": 100.933
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -210.894,
+      "Y": -13.76,
+      "Z": 54.388
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 59.489,
+      "Y": -383.984,
+      "Z": 14.713
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 314.065,
+      "Y": -379.264,
+      "Z": 1.076
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 748.004,
+      "Y": -280.738,
+      "Z": 15.864
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 608.469,
+      "Y": 294.902,
+      "Z": 90.661
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 274.325,
+      "Y": 382.48,
+      "Z": 2.138
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 293.193,
+      "Y": 547.6,
+      "Z": 1.632
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -411.182,
+      "Y": -88.831,
+      "Z": 273.01
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -470.333,
+      "Y": -151.814,
+      "Z": 303.661
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -358.784,
+      "Y": -113.722,
+      "Z": 315.186
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -600.545,
+      "Y": -61.289,
+      "Z": 394.793
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -529.969,
+      "Y": -32.855,
+      "Z": 405.449
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -527.726,
+      "Y": -27.545,
+      "Z": 405.451
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 228.8,
+      "Y": -24.791,
+      "Z": 13.139
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 287.204,
+      "Y": 469.968,
+      "Z": 154.554
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -75.245,
+      "Y": -525.574,
+      "Z": 40.826
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -525.739,
+      "Y": -475.391,
+      "Z": 100.168
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -353.609,
+      "Y": 9.572,
+      "Z": 3.598
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -285.823,
+      "Y": 125.584,
+      "Z": 1.424
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 1028.488,
+      "Y": -145.761,
+      "Z": 78.964
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 174.696,
+      "Y": 73.755,
+      "Z": 30.786
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 442.851,
+      "Y": -155.439,
+      "Z": 61.295
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 204.305,
+      "Y": 692.224,
+      "Z": 249.288
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -458.257,
+      "Y": 142.743,
+      "Z": 1.383
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -251.451,
+      "Y": -450.798,
+      "Z": 371.199
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 54.463,
+      "Y": 430.694,
+      "Z": 273.626
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -266.434,
+      "Y": 398.025,
+      "Z": 288.991
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -600.581,
+      "Y": -356.873,
+      "Z": 0.858
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 898.973,
+      "Y": -58.534,
+      "Z": 93.318
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 1017.374,
+      "Y": -110.963,
+      "Z": 78.497
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 625.784,
+      "Y": -218.261,
+      "Z": 41.257
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 959.271,
+      "Y": -173.662,
+      "Z": 110.35
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -369.699,
+      "Y": -140.501,
+      "Z": 228.043
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 124.569,
+      "Y": 25.26,
+      "Z": 58.816
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 210.945,
+      "Y": -422.376,
+      "Z": 3.536
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 217.494,
+      "Y": -433.117,
+      "Z": 0.949
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 971.491,
+      "Y": -79.767,
+      "Z": 65.077
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 187.613,
+      "Y": -451.379,
+      "Z": 1.685
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": -161.571,
+      "Y": -348.841,
+      "Z": 266.582
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 178.718,
+      "Y": -418.626,
+      "Z": 4.708
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 112.932,
+      "Y": 470.614,
+      "Z": 235.057
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 541.071,
+      "Y": 324.82,
+      "Z": 190.985
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 725.391,
+      "Y": 582.487,
+      "Z": 148.253
+    },
+    {
+      "Name": "CrystallizedSupplyCache",
+      "X": 671.859,
+      "Y": 291.079,
+      "Z": 59.666
+    }
+  ]
+}

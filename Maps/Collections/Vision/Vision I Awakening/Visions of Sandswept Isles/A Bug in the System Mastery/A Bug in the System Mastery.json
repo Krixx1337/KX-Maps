@@ -1,0 +1,953 @@
+{
+  "Name": "A Bug in the System Mastery",
+  "Coordinates": [
+    {
+      "Name": "Now-starting-Meta-Achievment-A-Bug-in-the-System[Story-mission-Part]",
+      "X": -170.549,
+      "Y": 897.43,
+      "Z": 24.4645
+    },
+    {
+      "Name": "First-Part-will-be-in-Desert-Highlands",
+      "X": -170.549,
+      "Y": 897.43,
+      "Z": 24.4645
+    },
+    {
+      "Name": "start-story",
+      "X": 621.578,
+      "Y": 13.3832,
+      "Z": 174.707
+    },
+    {
+      "Name": "talk",
+      "X": 244.839,
+      "Y": 95.9602,
+      "Z": 174.307
+    },
+    {
+      "Name": "achievments-in-this-mission[I-Make-this-Golem-Look-Good][Gate-Crasher][Talk-to-The-Fist]&[Tracking-the-Scientist]",
+      "X": 244.811,
+      "Y": 97.0619,
+      "Z": 174.281
+    },
+    {
+      "Name": "talk",
+      "X": 219.897,
+      "Y": 115.473,
+      "Z": 171.588
+    },
+    {
+      "Name": "capture-golem",
+      "X": 253.078,
+      "Y": 196.452,
+      "Z": 178.321
+    },
+    {
+      "Name": "now-when-you-in-the-golem-we-do-some-achievments",
+      "X": 265.149,
+      "Y": 251.074,
+      "Z": 175.112
+    },
+    {
+      "Name": "port-here",
+      "X": 183.065,
+      "Y": 242.266,
+      "Z": 170.743
+    },
+    {
+      "Name": "port-here-then-go-to-console",
+      "X": 138.513,
+      "Y": 273.515,
+      "Z": 172.239
+    },
+    {
+      "Name": "port",
+      "X": 28.5434,
+      "Y": 345.205,
+      "Z": 169.885
+    },
+    {
+      "Name": "port[for-achievment][Talk-to-the-fist]you-have-to-get-caught-by-a-drone-and-use-the-sword-option-maybe-you-must-do-it-more-then-one-time-to-get",
+      "X": 57.5205,
+      "Y": 343.389,
+      "Z": 166.146
+    },
+    {
+      "Name": "now-you-can-do-ether-stealth-to-get-the-one-achievment-and-do-the-story-again-to-get-the-other-one-or-do-what-you-want^^",
+      "X": 13.0558,
+      "Y": 361.723,
+      "Z": 169.973
+    },
+    {
+      "Name": "nextports-will-be-starting-when-you-reached-the-network-hub",
+      "X": 13.0558,
+      "Y": 361.723,
+      "Z": 169.973
+    },
+    {
+      "Name": "port-here",
+      "X": -237.117,
+      "Y": 489.256,
+      "Z": 191.88
+    },
+    {
+      "Name": "acces-hub",
+      "X": -283.627,
+      "Y": 499.099,
+      "Z": 188.892
+    },
+    {
+      "Name": "now-doing-story-[The-Test-Subject]",
+      "X": 614.547,
+      "Y": 509.778,
+      "Z": 2.30078
+    },
+    {
+      "Name": "One-Achievment-is-killing-all-Inquests-in-here-thats-easy",
+      "X": 614.547,
+      "Y": 509.778,
+      "Z": 2.30078
+    },
+    {
+      "Name": "for-Drones-disable-achievment-go-to-console-and-change-password",
+      "X": 612.449,
+      "Y": 515.245,
+      "Z": 2.30078
+    },
+    {
+      "Name": "now-you-have-to-click-one-time-here-and-port-to-next-coord",
+      "X": 624.616,
+      "Y": 510.87,
+      "Z": 2.30078
+    },
+    {
+      "Name": "activate-and-disable-drones-to-get-achievment-then-port-to-next-coord",
+      "X": 683.767,
+      "Y": 533.048,
+      "Z": 2.73137
+    },
+    {
+      "Name": "port-back-here",
+      "X": 617.86,
+      "Y": 514.767,
+      "Z": 2.30247
+    },
+    {
+      "Name": "now-we-will-release-all-healthy-specimens-port-to-next",
+      "X": 617.86,
+      "Y": 514.767,
+      "Z": 2.30247
+    },
+    {
+      "Name": "Release",
+      "X": 597.606,
+      "Y": 489.666,
+      "Z": 20.3202
+    },
+    {
+      "Name": "release",
+      "X": 611.461,
+      "Y": 537.978,
+      "Z": 20.6614
+    },
+    {
+      "Name": "release",
+      "X": 647.456,
+      "Y": 535.626,
+      "Z": 20.6514
+    },
+    {
+      "Name": "Release-and-you-completed.achievment",
+      "X": 693.985,
+      "Y": 534.397,
+      "Z": 20.2066
+    },
+    {
+      "Name": "now-do-the-story-normaly-and-kill-all-inquests-to-get-last-achievment-here[NO-MORE-PORTS-ARE-in-THIS-Story",
+      "X": 614.854,
+      "Y": 509.376,
+      "Z": 2.30078
+    },
+    {
+      "Name": "run-over-the-cabbage-to-get-an-achievment",
+      "X": -21.0572,
+      "Y": 890.459,
+      "Z": 35.4346
+    },
+    {
+      "Name": "for[Impressionable-Youth]you-have-to-impress-the-little-cubs-in-the-story[?asy]",
+      "X": -129.565,
+      "Y": 750.135,
+      "Z": 7.63556
+    },
+    {
+      "Name": "port-here",
+      "X": -258.289,
+      "Y": 740.74,
+      "Z": 1.00791
+    },
+    {
+      "Name": "port-here",
+      "X": -583.345,
+      "Y": 671.816,
+      "Z": 1.56668
+    },
+    {
+      "Name": "after-long-escort-event-you-do-endboss-and-get-another-achievment",
+      "X": -138.219,
+      "Y": 803.269,
+      "Z": 6.93749
+    },
+    {
+      "Name": "next-story-[THe-Road-to-Rata-Primus",
+      "X": -156.294,
+      "Y": 764.515,
+      "Z": 4.17282
+    },
+    {
+      "Name": "port",
+      "X": -57.4589,
+      "Y": 653.932,
+      "Z": 45.0098
+    },
+    {
+      "Name": "talk-aurene",
+      "X": -147.594,
+      "Y": 907.025,
+      "Z": 112.096
+    },
+    {
+      "Name": "port",
+      "X": -60.243,
+      "Y": 653.158,
+      "Z": 44.7805
+    },
+    {
+      "Name": "port-here",
+      "X": -407.38,
+      "Y": 38.1316,
+      "Z": 8.28542
+    },
+    {
+      "Name": "when-no-one-is-looking-fly-over-the-barrier",
+      "X": -465.0,
+      "Y": -5.66046,
+      "Z": 7.7647
+    },
+    {
+      "Name": "port-here",
+      "X": -468.922,
+      "Y": -39.2976,
+      "Z": 9.52251
+    },
+    {
+      "Name": "access",
+      "X": -458.926,
+      "Y": -47.943,
+      "Z": 9.52251
+    },
+    {
+      "Name": "port",
+      "X": 28.9805,
+      "Y": -700.161,
+      "Z": 5.70349
+    },
+    {
+      "Name": "port",
+      "X": 46.602,
+      "Y": -743.919,
+      "Z": 55.3431
+    },
+    {
+      "Name": "port",
+      "X": 662.981,
+      "Y": -351.754,
+      "Z": 26.1271
+    },
+    {
+      "Name": "port-here-and-destroy",
+      "X": 627.197,
+      "Y": -344.015,
+      "Z": 26.2303
+    },
+    {
+      "Name": "port",
+      "X": 854.413,
+      "Y": -690.553,
+      "Z": 39.2152
+    },
+    {
+      "Name": "do-the-4-bridges-fast-to-get-achievment-just-click-them",
+      "X": 919.513,
+      "Y": -578.515,
+      "Z": 53.2633
+    },
+    {
+      "Name": "do-the-4-bridges-fast-to-get-achievment-just-click-them",
+      "X": 884.11,
+      "Y": -620.017,
+      "Z": 45.3889
+    },
+    {
+      "Name": "do-the-4-bridges-fast-to-get-achievment-just-click-them",
+      "X": 924.735,
+      "Y": -656.471,
+      "Z": 53.3395
+    },
+    {
+      "Name": "do-the-4-bridges-fast-to-get-achievment-just-click-them",
+      "X": 962.756,
+      "Y": -612.879,
+      "Z": 53.2966
+    },
+    {
+      "Name": "",
+      "X": 979.965,
+      "Y": -606.429,
+      "Z": 34.3983
+    },
+    {
+      "Name": "story-completed",
+      "X": 977.079,
+      "Y": -575.161,
+      "Z": 50.9989
+    },
+    {
+      "Name": "next-is-THe-Charge",
+      "X": 977.079,
+      "Y": -575.161,
+      "Z": 50.9989
+    },
+    {
+      "Name": "port",
+      "X": -60.8042,
+      "Y": 649.453,
+      "Z": 44.4798
+    },
+    {
+      "Name": "now-[achievments:Saving-Skritt][Awake-End]",
+      "X": 100.578,
+      "Y": -331.845,
+      "Z": 557.806
+    },
+    {
+      "Name": "talk-then-port-to-next-when-you-have-him",
+      "X": 34.0635,
+      "Y": -113.307,
+      "Z": 418.248
+    },
+    {
+      "Name": "bring-skritt-to-ship-get-achievment",
+      "X": 109.508,
+      "Y": -353.373,
+      "Z": 578.954
+    },
+    {
+      "Name": "now-doing[Inquest.info]Achievment",
+      "X": 110.984,
+      "Y": -341.376,
+      "Z": 569.403
+    },
+    {
+      "Name": "",
+      "X": 192.221,
+      "Y": -319.722,
+      "Z": 557.795
+    },
+    {
+      "Name": "",
+      "X": 238.965,
+      "Y": -314.099,
+      "Z": 557.799
+    },
+    {
+      "Name": "",
+      "X": -26.8452,
+      "Y": -269.136,
+      "Z": 557.941
+    },
+    {
+      "Name": "",
+      "X": 154.74,
+      "Y": -81.0217,
+      "Z": 558.06
+    },
+    {
+      "Name": "",
+      "X": 132.357,
+      "Y": -273.767,
+      "Z": 500.705
+    },
+    {
+      "Name": "",
+      "X": 287.839,
+      "Y": -367.896,
+      "Z": 498.575
+    },
+    {
+      "Name": "Achievment-completed-now-go-on-with-story",
+      "X": 287.839,
+      "Y": -367.896,
+      "Z": 498.575
+    },
+    {
+      "Name": "now-go-on-with-story[no-more-coords-but-an-info]=For-theb-oss-fight-against-the-commander/when-you-are-in-tyria-cc-him-fast-as-possible-and-get-the-achievment",
+      "X": 86.9028,
+      "Y": -321.56,
+      "Z": 557.799
+    },
+    {
+      "Name": "now-after-completing-this-mission-youre-done-with-story-parts-and-you-got-the-backpiece-to-start-some-achievments-next-and-now-comes-the-stuff-on-the-map-etc",
+      "X": -52.314,
+      "Y": 658.175,
+      "Z": 45.2456
+    },
+    {
+      "Name": "next-is-griffon-race-expert-Silver&Gold-both-gets-you-the-needed-achievments",
+      "X": -67.2855,
+      "Y": 646.915,
+      "Z": 42.9558
+    },
+    {
+      "Name": "starting-point",
+      "X": 623.025,
+      "Y": -275.149,
+      "Z": 182.225
+    },
+    {
+      "Name": "",
+      "X": 651.823,
+      "Y": -275.869,
+      "Z": 195.795
+    },
+    {
+      "Name": "",
+      "X": 734.334,
+      "Y": -220.112,
+      "Z": 10.4112
+    },
+    {
+      "Name": "",
+      "X": 750.579,
+      "Y": -167.679,
+      "Z": 106.356
+    },
+    {
+      "Name": "",
+      "X": 746.24,
+      "Y": -20.9924,
+      "Z": 20.1266
+    },
+    {
+      "Name": "",
+      "X": 781.537,
+      "Y": 47.6945,
+      "Z": 9.62836
+    },
+    {
+      "Name": "",
+      "X": 739.958,
+      "Y": 97.49,
+      "Z": 102.018
+    },
+    {
+      "Name": "",
+      "X": 774.866,
+      "Y": 154.398,
+      "Z": 33.4322
+    },
+    {
+      "Name": "now-doing=4-Mastery-points-for-the-4-achievments",
+      "X": 587.074,
+      "Y": -294.898,
+      "Z": 182.214
+    },
+    {
+      "Name": "",
+      "X": -393.005,
+      "Y": 1232.23,
+      "Z": 208.742
+    },
+    {
+      "Name": "",
+      "X": -900.906,
+      "Y": 816.905,
+      "Z": 64.7765
+    },
+    {
+      "Name": "",
+      "X": 107.94,
+      "Y": -214.296,
+      "Z": -156.881
+    },
+    {
+      "Name": "",
+      "X": 827.843,
+      "Y": -1161.56,
+      "Z": 89.165
+    },
+    {
+      "Name": "now-doing-back-pack-collections-1/2&and-3",
+      "X": 580.39,
+      "Y": -307.419,
+      "Z": 182.285
+    },
+    {
+      "Name": "You-get-some-parts-by-killing-Inquest-mobs-so-next-coords-will-ports-to-enemys-to-kill",
+      "X": 580.416,
+      "Y": -307.384,
+      "Z": 182.275
+    },
+    {
+      "Name": "FIrst-we-try-to-get-golem-left&Right-arm-so-5-coords-to-inquest-should-be-enough-leggo",
+      "X": 528.66,
+      "Y": -355.116,
+      "Z": 166.827
+    },
+    {
+      "Name": "",
+      "X": 481.378,
+      "Y": -383.939,
+      "Z": 180.06
+    },
+    {
+      "Name": "",
+      "X": 272.659,
+      "Y": -82.6135,
+      "Z": 94.8865
+    },
+    {
+      "Name": "For-the-Item[Integrated-Circuitry]You-have-to-do-the-Specimen-Chamber-Event-and-at-the-end-you-get-the-needed-item",
+      "X": -310.147,
+      "Y": -166.292,
+      "Z": 1.02394
+    },
+    {
+      "Name": "next-will-be[Optical-Sensor]You-have-to-kill-Birds[next-port-will-bring-.you-to-them][3-ports-for-this-one]",
+      "X": -372.565,
+      "Y": -110.069,
+      "Z": 1.02701
+    },
+    {
+      "Name": "Birds1-Agressive-Vultures",
+      "X": 484.335,
+      "Y": 687.39,
+      "Z": 38.075
+    },
+    {
+      "Name": "kill-little-moa-Birds2",
+      "X": 476.697,
+      "Y": 969.047,
+      "Z": 84.8568
+    },
+    {
+      "Name": "Birds3-last-spot-you-should-got-the-item-by-now-next-item",
+      "X": 551.083,
+      "Y": 965.931,
+      "Z": 86.4514
+    },
+    {
+      "Name": "nextis[Gravitic-Repulsion-Unit]-kill-golem-drones-3-ports-for-that",
+      "X": 588.592,
+      "Y": 930.074,
+      "Z": 97.9261
+    },
+    {
+      "Name": "",
+      "X": -437.761,
+      "Y": -107.45,
+      "Z": 4.94479
+    },
+    {
+      "Name": "",
+      "X": -460.141,
+      "Y": -139.071,
+      "Z": 4.94423
+    },
+    {
+      "Name": "last-port-for-the-item",
+      "X": -465.052,
+      "Y": -192.315,
+      "Z": 6.48801
+    },
+    {
+      "Name": "INFO-NOTE-You-can-complete-multiple-achievments-in-the-Specmen-chamber-event-be-aware-while-youre-in-the-area!",
+      "X": -547.835,
+      "Y": -174.162,
+      "Z": 27.8854
+    },
+    {
+      "Name": "next-item-is[Holographic-Display-Unit]",
+      "X": -489.964,
+      "Y": -271.459,
+      "Z": 166.245
+    },
+    {
+      "Name": "kill-golems",
+      "X": -123.749,
+      "Y": 183.733,
+      "Z": 62.9841
+    },
+    {
+      "Name": "kill-golems",
+      "X": 83.2167,
+      "Y": 110.355,
+      "Z": 195.296
+    },
+    {
+      "Name": "last-spot",
+      "X": 22.3798,
+      "Y": 73.8806,
+      "Z": 213.451
+    },
+    {
+      "Name": "[You-also-get-another-Achievment-for-doing-the-next-part]For-Final-Item-Golem-Power-Core-you-have-to-kill-an-Mark-III-Surpressor-Golem[There-are-3-Spots-it-can-show-up]-this�will-be-the-next-3-coords",
+      "X": -244.723,
+      "Y": 58.8219,
+      "Z": 131.393
+    },
+    {
+      "Name": "1",
+      "X": -230.813,
+      "Y": 23.0389,
+      "Z": 91.3782
+    },
+    {
+      "Name": "Around-this-area-Number-2",
+      "X": -195.443,
+      "Y": -669.498,
+      "Z": 82.7016
+    },
+    {
+      "Name": "last-spot",
+      "X": 729.632,
+      "Y": -781.639,
+      "Z": 59.7254
+    },
+    {
+      "Name": "now-that-you-have-all-items-next-port-will-bring-you-to-golem-where-you-can-complete-the-first-achievment-collection-and-get-the-repaired-golem-backpack",
+      "X": 671.038,
+      "Y": 178.574,
+      "Z": 1.16453
+    },
+    {
+      "Name": "",
+      "X": 522.329,
+      "Y": 431.552,
+      "Z": 4.55818
+    },
+    {
+      "Name": "now-doing[Stormbreak-Achievment]",
+      "X": 664.442,
+      "Y": 801.197,
+      "Z": 0.129896
+    },
+    {
+      "Name": "The-Champion-Jin-spawns-during-the-Meta-her-when-hes-not-here-to-something-else-and-come-back",
+      "X": 598.337,
+      "Y": 1003.87,
+      "Z": 0.546869
+    },
+    {
+      "Name": "now-starting[Crystal-Corral-Silver&Gold-Achievments]",
+      "X": -547.441,
+      "Y": -419.52,
+      "Z": 1.6021
+    },
+    {
+      "Name": "",
+      "X": -444.518,
+      "Y": -314.371,
+      "Z": 20.8273
+    },
+    {
+      "Name": "",
+      "X": -658.69,
+      "Y": -11.0023,
+      "Z": 64.1911
+    },
+    {
+      "Name": "",
+      "X": -500.002,
+      "Y": 207.03,
+      "Z": 58.0459
+    },
+    {
+      "Name": "",
+      "X": -74.4878,
+      "Y": 88.5677,
+      "Z": 107.943
+    },
+    {
+      "Name": "",
+      "X": -81.9037,
+      "Y": -281.969,
+      "Z": 123.024
+    },
+    {
+      "Name": "",
+      "X": -100.975,
+      "Y": -592.609,
+      "Z": 112.445
+    },
+    {
+      "Name": "before-going-to-last-port-and-finish-the-event-look-that-youre-not-too-fast",
+      "X": 37.6352,
+      "Y": -725.733,
+      "Z": 32.77
+    },
+    {
+      "Name": "",
+      "X": 110.005,
+      "Y": -736.696,
+      "Z": 57.3973
+    },
+    {
+      "Name": "",
+      "X": -540.425,
+      "Y": -417.485,
+      "Z": 3.27263
+    },
+    {
+      "Name": "Info-Notes=For-the-Achievment\"The-Specimen-Chamber]you-have-to-kill-all6-bosses-for-that-you-may-have-to-go-in-multiple-times-to-get-all",
+      "X": -535.282,
+      "Y": -423.361,
+      "Z": 5.94452
+    },
+    {
+      "Name": "for-the-Achievment[THree-Golem-Monte]You-have-to-complete-the-Golems-Challenge[All5-Phases-without-guessing-wrong!!!!][Spawn-location1/3]-only-when-event-is-active",
+      "X": -352.547,
+      "Y": 107.708,
+      "Z": 91.6607
+    },
+    {
+      "Name": "location-2-for-the-golem-achievment",
+      "X": 291.893,
+      "Y": 111.454,
+      "Z": 123.436
+    },
+    {
+      "Name": "last-area",
+      "X": 930.788,
+      "Y": -708.027,
+      "Z": 88.7922
+    },
+    {
+      "Name": "start-event[next-spots-are-all-for-rescuing-skritts]You-have-to-be-very-fast-to-get-up-to-10-because-enemys-can-kill-them-or-prison-them-again....realy-fucking-annoying]",
+      "X": 120.52,
+      "Y": -67.017,
+      "Z": 62.3275
+    },
+    {
+      "Name": "",
+      "X": -83.5484,
+      "Y": -147.849,
+      "Z": 51.9697
+    },
+    {
+      "Name": "",
+      "X": -59.4937,
+      "Y": -147.559,
+      "Z": 52.1264
+    },
+    {
+      "Name": "",
+      "X": -28.3629,
+      "Y": -86.4502,
+      "Z": 8.00573
+    },
+    {
+      "Name": "",
+      "X": -22.1664,
+      "Y": -78.1097,
+      "Z": 8.1053
+    },
+    {
+      "Name": "",
+      "X": -47.0953,
+      "Y": -132.832,
+      "Z": 6.56752
+    },
+    {
+      "Name": "",
+      "X": -45.4479,
+      "Y": -174.172,
+      "Z": 6.72082
+    },
+    {
+      "Name": "",
+      "X": -183.141,
+      "Y": -43.9463,
+      "Z": 2.01222
+    },
+    {
+      "Name": "",
+      "X": -199.41,
+      "Y": -27.4266,
+      "Z": 1.60809
+    },
+    {
+      "Name": "",
+      "X": -252.249,
+      "Y": -102.047,
+      "Z": 1.70923
+    },
+    {
+      "Name": "",
+      "X": -252.215,
+      "Y": -95.929,
+      "Z": 1.04678
+    },
+    {
+      "Name": "",
+      "X": -205.165,
+      "Y": 96.5381,
+      "Z": 0.994922
+    },
+    {
+      "Name": "",
+      "X": -192.742,
+      "Y": 99.7197,
+      "Z": 1.29231
+    },
+    {
+      "Name": "",
+      "X": -205.955,
+      "Y": 146.946,
+      "Z": 4.36135
+    },
+    {
+      "Name": "",
+      "X": -198.825,
+      "Y": 160.387,
+      "Z": 4.43789
+    },
+    {
+      "Name": "",
+      "X": -137.63,
+      "Y": 27.3115,
+      "Z": 1.51178
+    },
+    {
+      "Name": "",
+      "X": -134.394,
+      "Y": 42.5036,
+      "Z": 1.02069
+    },
+    {
+      "Name": "[Achievment]THe-Queen-and-I-kill-Abiri-THe-Beetle-Queen",
+      "X": 272.118,
+      "Y": 706.902,
+      "Z": 10.0157
+    },
+    {
+      "Name": "Achievment[Wyvern-Whacker]-Kill-Champion-Branded-Wyvern",
+      "X": -635.157,
+      "Y": -110.613,
+      "Z": 194.027
+    },
+    {
+      "Name": "get-on-that-line-and-get-hit-in-the-room-next-by-the-wyvern-to-get-achievment[A-branded-Blast",
+      "X": 606.264,
+      "Y": -246.228,
+      "Z": 26.6506
+    },
+    {
+      "Name": "talk-to-ewyn",
+      "X": -28.9602,
+      "Y": 1174.41,
+      "Z": 180.158
+    },
+    {
+      "Name": "interact",
+      "X": 6.79867,
+      "Y": 1172.05,
+      "Z": 177.862
+    },
+    {
+      "Name": "interact",
+      "X": -20.3378,
+      "Y": 1185.14,
+      "Z": 178.639
+    },
+    {
+      "Name": "interact",
+      "X": 1.61637,
+      "Y": 1244.88,
+      "Z": 183.979
+    },
+    {
+      "Name": "interact-completed-achievment",
+      "X": 64.1953,
+      "Y": 1215.23,
+      "Z": 178.948
+    },
+    {
+      "Name": "now-doing-backpack-collection2",
+      "X": 64.0316,
+      "Y": 1215.4,
+      "Z": 179.347
+    },
+    {
+      "Name": "interact-with-console",
+      "X": -189.995,
+      "Y": 160.243,
+      "Z": 62.2151
+    },
+    {
+      "Name": "interact",
+      "X": -445.56,
+      "Y": 36.0762,
+      "Z": 80.8428
+    },
+    {
+      "Name": "interact",
+      "X": -332.047,
+      "Y": -366.186,
+      "Z": 132.444
+    },
+    {
+      "Name": "interact",
+      "X": -162.148,
+      "Y": -380.371,
+      "Z": 191.608
+    },
+    {
+      "Name": "interact",
+      "X": -410.74,
+      "Y": -475.713,
+      "Z": 95.3657
+    },
+    {
+      "Name": "interact",
+      "X": 391.16,
+      "Y": -407.458,
+      "Z": 104.161
+    },
+    {
+      "Name": "interact",
+      "X": 93.814,
+      "Y": -808.609,
+      "Z": 78.1924
+    },
+    {
+      "Name": "last-step-before-going-to-golem-is-killing-inquest-members-to-get[Inquest-Passcode]",
+      "X": 208.512,
+      "Y": -384.694,
+      "Z": 111.627
+    },
+    {
+      "Name": "now-you-can-wait-some-days-each-day-one-module-when-you-gave-him-all-achievment-is-completed-and-the-collection-is-100%-done",
+      "X": 522.186,
+      "Y": 431.072,
+      "Z": 4.34164
+    },
+    {
+      "Name": "Ilani",
+      "X": -191.79,
+      "Y": 1268.14,
+      "Z": 94.51
+    }
+  ]
+}

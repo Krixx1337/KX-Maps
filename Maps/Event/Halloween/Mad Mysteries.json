@@ -1,0 +1,47 @@
+{
+  "Name": "Mad Mysteries",
+  "Coordinates": [
+    {
+      "Name": "Talk_to_Magister_Tassi",
+      "X": -104.434,
+      "Y": 191.695,
+      "Z": 29.4051
+    },
+    {
+      "Name": "Use_skill_3_and_talk_to_Serene",
+      "X": -116.474,
+      "Y": 171.4,
+      "Z": 29.373
+    },
+    {
+      "Name": "Use_skill_1_and_talk_to_Samson",
+      "X": 479.832,
+      "Y": -5.00168,
+      "Z": 1.31329
+    },
+    {
+      "Name": "Use_skill_3_and_talk_to_Tynna/Next_go_to_Queensdale",
+      "X": -444.149,
+      "Y": -104.143,
+      "Z": -70.8616
+    },
+    {
+      "Name": "Use_skill_2_and_talk_to_Prince_Ewan_Thorn/Next_go_to_Kessex_Hills",
+      "X": -172.4,
+      "Y": 764.417,
+      "Z": 69.6738
+    },
+    {
+      "Name": "Use_skill_4_and_talk_to_Lady_Lyrica/Next_go_to_Gendarran_Fields",
+      "X": 1271.74,
+      "Y": 624.021,
+      "Z": 19.373
+    },
+    {
+      "Name": "Use_skill_2_and_talk_to_Lord_Humphrey_Faren/Mad_Mysteries_is_completed",
+      "X": 65.4957,
+      "Y": 685.734,
+      "Z": -0.31422
+    }
+  ]
+}

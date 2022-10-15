@@ -1,0 +1,263 @@
+{
+  "Name": "POI",
+  "Coordinates": [
+    {
+      "Name": "chantryofshadows",
+      "X": -481.999,
+      "Y": 322.636,
+      "Z": 315.637
+    },
+    {
+      "Name": "tormentswatch",
+      "X": -557.773,
+      "Y": 57.3765,
+      "Z": 350.131
+    },
+    {
+      "Name": "sandstrewnshrine",
+      "X": -757.021,
+      "Y": 443.516,
+      "Z": 351.118
+    },
+    {
+      "Name": "acridsink",
+      "X": -1194.94,
+      "Y": 471.375,
+      "Z": 161.138
+    },
+    {
+      "Name": "imperialsulfurworks",
+      "X": -821.883,
+      "Y": 852.702,
+      "Z": 121.459
+    },
+    {
+      "Name": "bonecagepaddock",
+      "X": -497.974,
+      "Y": 1162.08,
+      "Z": 81.7041
+    },
+    {
+      "Name": "scourgethreshold",
+      "X": -82.2106,
+      "Y": 835.928,
+      "Z": 339.977
+    },
+    {
+      "Name": "chukehtoverlook",
+      "X": 130.685,
+      "Y": 648.043,
+      "Z": 353.937
+    },
+    {
+      "Name": "clanmarshalpergola",
+      "X": 326.834,
+      "Y": 1184.94,
+      "Z": 196.357
+    },
+    {
+      "Name": "sandfallsanctum",
+      "X": 462.145,
+      "Y": 1063.79,
+      "Z": 205.974
+    },
+    {
+      "Name": "bonestrandgarrison",
+      "X": -300.383,
+      "Y": 1395.62,
+      "Z": 22.3603
+    },
+    {
+      "Name": "villageofpurity",
+      "X": 238.322,
+      "Y": 1529.23,
+      "Z": 3.00618
+    },
+    {
+      "Name": "blindfaith",
+      "X": 880.707,
+      "Y": 1890.38,
+      "Z": 31.4429
+    },
+    {
+      "Name": "matriarchview",
+      "X": 856.296,
+      "Y": 1262.77,
+      "Z": 167.709
+    },
+    {
+      "Name": "springerladder",
+      "X": 1201.93,
+      "Y": 1048.16,
+      "Z": 300.957
+    },
+    {
+      "Name": "shadowarcade",
+      "X": 967.404,
+      "Y": 711.706,
+      "Z": 354.13
+    },
+    {
+      "Name": "emberheights",
+      "X": 565.76,
+      "Y": 644.066,
+      "Z": 391.996
+    },
+    {
+      "Name": "toweringlinks",
+      "X": 430.529,
+      "Y": 220.206,
+      "Z": 383.539
+    },
+    {
+      "Name": "toxicpools",
+      "X": 1107.45,
+      "Y": 230.799,
+      "Z": 350.72
+    },
+    {
+      "Name": "waywardwatch",
+      "X": 847.026,
+      "Y": -446.511,
+      "Z": 342.2
+    },
+    {
+      "Name": "forgedfirebase",
+      "X": 527.653,
+      "Y": -591.492,
+      "Z": 339.372
+    },
+    {
+      "Name": "zayangate",
+      "X": 248.716,
+      "Y": -267.693,
+      "Z": 365.456
+    },
+    {
+      "Name": "conquestoverlook",
+      "X": -235.506,
+      "Y": -413.087,
+      "Z": 379.454
+    },
+    {
+      "Name": "revealervantage",
+      "X": -227.404,
+      "Y": -131.631,
+      "Z": 366.754
+    },
+    {
+      "Name": "easternmaw",
+      "X": -622.064,
+      "Y": -556.098,
+      "Z": 278.936
+    },
+    {
+      "Name": "northernmaw",
+      "X": -737.489,
+      "Y": -448.463,
+      "Z": 274.023
+    },
+    {
+      "Name": "westernmaw",
+      "X": -817.609,
+      "Y": -460.382,
+      "Z": 277.896
+    },
+    {
+      "Name": "themouthoftorment",
+      "X": -740.343,
+      "Y": -568.753,
+      "Z": 224.058
+    },
+    {
+      "Name": "bleachedpillars",
+      "X": -1067.13,
+      "Y": -1060.49,
+      "Z": 389.766
+    },
+    {
+      "Name": "thevermitheater",
+      "X": -1001.73,
+      "Y": -1456.14,
+      "Z": 279.342
+    },
+    {
+      "Name": "djiinnenclave",
+      "X": -427.31,
+      "Y": -1398.26,
+      "Z": 467.829
+    },
+    {
+      "Name": "junundulookout",
+      "X": 19.4875,
+      "Y": -1392.0,
+      "Z": 394.501
+    },
+    {
+      "Name": "lonetreehill",
+      "X": 211.666,
+      "Y": -1106.7,
+      "Z": 425.451
+    },
+    {
+      "Name": "hengeofjoko",
+      "X": 24.2238,
+      "Y": -807.334,
+      "Z": 390.041
+    },
+    {
+      "Name": "forthuduh",
+      "X": 760.609,
+      "Y": -725.172,
+      "Z": 370.534
+    },
+    {
+      "Name": "forbiddenvault",
+      "X": 987.807,
+      "Y": -839.77,
+      "Z": 309.284
+    },
+    {
+      "Name": "uhiwibones",
+      "X": 1325.83,
+      "Y": -651.003,
+      "Z": 360.665
+    },
+    {
+      "Name": "vabbiancorridor",
+      "X": 1184.04,
+      "Y": -877.711,
+      "Z": 338.458
+    },
+    {
+      "Name": "thebonepalace",
+      "X": 383.682,
+      "Y": -1676.8,
+      "Z": 341.182
+    },
+    {
+      "Name": "bitumenreserve",
+      "X": 347.374,
+      "Y": -1807.1,
+      "Z": 288.983
+    },
+    {
+      "Name": "jununduhatchery",
+      "X": 947.135,
+      "Y": -1860.72,
+      "Z": 340.893
+    },
+    {
+      "Name": "lupicusboneyard",
+      "X": 1130.53,
+      "Y": -1549.5,
+      "Z": 289.11
+    },
+    {
+      "Name": "tarstoneweeps",
+      "X": 1239.68,
+      "Y": -1232.09,
+      "Z": 320.05
+    }
+  ]
+}

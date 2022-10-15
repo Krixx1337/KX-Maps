@@ -1,6 +1,0 @@
-1	'Collection_Start' -407.38 219.44 766.41
-2	'Amber_Keystone1' -596.99 53.47 -822.2
-3	'Amber_Keystone2' 769.31 0.71 -691.78
-4	'Amber_Keystone3' 357.76 303.78 456.67
-5	'return_to_her' -407.38 219.44 766.41
-6	'End_of_the_Collection' 1233.16 53.88 -239.19
