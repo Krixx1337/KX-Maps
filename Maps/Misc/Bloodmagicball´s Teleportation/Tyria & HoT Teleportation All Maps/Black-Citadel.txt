@@ -1,3 +1,0 @@
-1	'BlackCitadel-to-PlainsofAshford' 548.61 160.7 278.4
-2	'BlackCitadel-to-Diessa' -13.79 171.67 679.65
-3	'BlackCitadel-to-LionsArch' -202.82 215.75 400.3

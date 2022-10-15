@@ -1,3 +1,0 @@
-1	'Grand_Master_Kyren' -694.35 46.62 -540.73
-2	'Hall_Director_Soohee' -702.68 1.4 679.25
-3	'Fishermen_Benyo' 977.62 0.5 -276.77

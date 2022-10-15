@@ -1,2 +1,0 @@
-1	'GatekeepersLullaby_for_flute' 759.78 234.2 -141.67
-2	'fabled_drumstick' 525.06 295.22 -500.13

@@ -1,6 +1,0 @@
-1	'MasteryInsight_1' -465.779 140.423 -938.072
-2	'MasteryInsight_2' -997.707 128.629 -934.805
-3	'MasteryInsight_3' -25.4305 -0.500744 54.2498
-4	'MasteryInsight_4' -1076.17 282.491 740.033
-5	'MasteryInsight_5' -96.6059 396.104 573.43
-6	'MasteryInsight_6' 355.877 337.32 207.65

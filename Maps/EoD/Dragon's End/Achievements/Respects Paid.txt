@@ -1,9 +1,0 @@
-1	'Shrine_of_the_Serpent_kneel' 472.73 113.52 1242.39
-2	'Shrine_to_Hanuku' 655.09 100.3 721.03
-3	'Chantry_of_the_Crab' 629.38 133.99 186.57
-4	'Guardians_Perch' -577.55 225.4 -122.33
-5	'Temple_of_the_Turtle' 256.31 151.63 210.29
-6	'Speakers_Encampment' 681.3 101.58 910.04
-7	'Shrine_to_Hanuku2' 605.83 98.64 686.38
-8	'Emerald_Bluff' 211.71 238.75 -1032.72
-9	'Jade_Winds_Respite' -320.75 2.66 -1275.98

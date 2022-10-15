@@ -1,7 +1,0 @@
-1	'EW-Interance' -790.14 195.57 427.69
-2	'tele_here_diag' -1002.53 2.61 637.04
-3	'speak_with_Aurene_and_done' -1003.4 2.61 637.71
-4	'after_all_diag,_exit' -916.71 11.83 552.11
-5	'tele_here_to_DR' -968.21 2.41 602.49
-6	'tele_here_instance' 332.72 70.06 -508.78
-7	'tele' 344.83 71.94 -529.41

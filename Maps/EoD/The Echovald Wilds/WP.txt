@@ -1,6 +1,0 @@
-1	'Junkyard_Waypoint' -156.71 200.33 873.48
-2	'Waypoint_zu_Heltzer' -813.11 205.04 95.49
-3	'Jade_Gate_Waypoint' 1247.77 109.29 47.78
-4	'Kropa_Waypoint' -594.28 201.81 -407.14
-5	'Mori_Village_Waypoint' 1303.27 9.64 -644.95
-6	'Qinkai_Waypoint' 1177.8 84.68 635.32

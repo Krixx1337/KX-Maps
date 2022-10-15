@@ -1,7 +1,0 @@
-1	'First_Page_on_map_Eternal_Battlegrounds_nr1_Rules_of_the_Mists' -1029.41 35.36 -985.42
-2	'nr2_Fractal_State_find_in_Aldons_Ledge' -900.12 16.51 -569.21
-3	'Nr3_Mysterious_Armor_Find_in_Wildcreek_Run' -493.18 0.38 -295.01
-4	'Nr4_Reunited_find_in_Klovan_Gully' -284.89 7.52 -634.55
-5	'nr7_Further_Studies_find_in_Molevekian_Delve' -289.06 33.44 109.52
-6	'nr6_Spirit_of_the_Armor_Find_in_Darkrait_Inlet' 144.72 4.2 -645.74
-7	'nr5_Warclaw_find_in_Orgath_Uplands' 623.91 61.2 168.11

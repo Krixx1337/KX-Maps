@@ -1,3 +1,0 @@
-1	'Snowden-to-LornarsPass' -400.0 64.17 -677.11
-2	'Snowden-to-Gendarran' -1448.9 43.88 -349.61
-3	'Snowden-to-Wayfarer' 1450.47 75.26 533.82

@@ -1,9 +1,0 @@
-1	'Chasing_Waterfalls' 1011.306 76.277 -335.926
-2	'Chasing_Waterfalls' 1050.121 -0.487 -132.074
-3	'Chasing_Waterfalls' 967.426 -0.219 5.511
-4	'Chasing_Waterfalls' 1001.396 -0.501 393.108
-5	'Chasing_Waterfalls' 763.953 -0.501 355.677
-6	'Chasing_Waterfalls' 475.464 -0.501 295.529
-7	'Chasing_Waterfalls' 424.375 -0.501 -690.787
-8	'Chasing_Waterfalls' 1072.8 -0.500751 -797.007
-9	'Chasing_Waterfalls' 972.248 109.424 -671.236

@@ -1,6 +1,0 @@
-1	'Use_skill_4_and_talk_to_Cashel/Next_go_to_Harathi_Hinterlands' -414.537 64.1173 162.896
-2	'Use_skill_3_and_talk_to_Fenn' -1080 160.961 -167.506
-3	'Use_skill_2_and_complete_event_and_talk_to_Portia' -513.96 3.0536 564.412
-4	'Use_skill_4_and_talk_to_Rufus/Next_go_to_Bloodtie_Coast' -906.626 34.4919 355.845
-5	'Use_skill_1_and_complete_door_event_and_talk_to_Seamarshal_Bennu/Next_go_to_Sparkly_Fen' -578.158 42.2424 725.312
-6	'Use_skill_3_and_talk_to_Wynn/Mad_Mementos_is_completed!' 303.923 -0.554089 1157.22

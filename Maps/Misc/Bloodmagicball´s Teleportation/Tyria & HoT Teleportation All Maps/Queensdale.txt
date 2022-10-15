@@ -1,3 +1,0 @@
-1	'Queensdale-to-Divinity' -471.52 93.69 749.71
-2	'Queensdale-to-Kessex' -885.73 42.74 -747.69
-3	'Queensdale-to-Gendarran' 1255.33 37.63 240.93

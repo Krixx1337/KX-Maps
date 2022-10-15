@@ -1,5 +1,0 @@
-1	'First-Port-can-use-portal-to-tp-others-as-well' -967.84 963.51 -874.61
-2	'second-port-tp-others-is-possible-as-well-with-portal' -974.85 1023.8 -925.45
-7	'after-Tom-port-here-then-next-port-for-skip-other-ppl-can-gg' -1013.88 1038.15 -896.18
-8	'Port-here-for-skip' -1023.13 1055.83 -860.34
-5	'ENDBOSS-Singularity' -968.64 1050.62 -839.63

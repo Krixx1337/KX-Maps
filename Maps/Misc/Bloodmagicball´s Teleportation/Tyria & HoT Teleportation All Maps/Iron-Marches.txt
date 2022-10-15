@@ -1,3 +1,0 @@
-1	'IronMarches-to-Fireheart' -699.25 34.74 575.51
-2	'IronMarches-to-PlainsofAshford' 27.68 35.22 -1480.3
-3	'IronMarches-to-Blazeridge' 709.59 15.04 -700.43

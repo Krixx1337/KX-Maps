@@ -1,2 +1,0 @@
-1	'RataSum-to-Metrica' 169.93 471.32 116.23
-2	'RataSum-to-LionsArch' 86.39 471.44 345.84

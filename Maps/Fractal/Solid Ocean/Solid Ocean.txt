@@ -1,4 +1,0 @@
-1	'Singularity-before-boss' 923.97 736.18 900.77
-2	'Boss-Platfform' 916.53 723.25 958.84
-3	'first-Tenta' 906.85 723.27 1002.23
-4	'second-Tenta' 942.7 723.02 1013.63

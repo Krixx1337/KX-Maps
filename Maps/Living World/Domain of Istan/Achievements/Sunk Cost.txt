@@ -1,3 +1,0 @@
-1	'Scoundrel's_Bounty_Airwalk' 970.79 8.33 -313.68
-2	'The_Marauder_airwalk' 1013.92 8.33 -112.25
-3	'The_Red_Dagger_Airwalk' 1000.89 14.05 21.69

@@ -1,3 +1,0 @@
-1	'Reflection_Crystal_WP' -147.04 32.66 -544.51
-2	'Reflection_Arena_WP' 12.73 14.43 -435.52
-3	'Reflection_Dock_WP' -272.14 5.91 -32.28

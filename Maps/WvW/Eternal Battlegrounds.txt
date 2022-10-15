@@ -1,6 +1,0 @@
-1	'Golanta-Clearing' -246.176 2.78504 -754.72
-2	'Danelon-Passage' 386.284 11.8193 -878.321
-3	'Umberglade-Woods' 818.998 9.08904 -129.279
-4	'Pangloss-Rise' 557.792 25.1103 404.045
-5	'Speldan-Clearcut' -430.282 15.4719 593.358
-6	'Rques-Quarry' -662.447 22.0506 -26.5106

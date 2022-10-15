@@ -1,8 +1,0 @@
-1	'CrystalOasis-to-DesertHighlands' 671.94 119.04 881.29
-2	'DesertHighlands-to-CrystalOasis' 673.92 199.36 -897
-3	'CrystalOasis-to-ElonRiverlands' 1286.44 26.09 -714.2
-4	'ElonRiverlands-to-CrystalOasis' 746.09 125.18 1189.06
-5	'ElonRiverlands-to-TheDesolation' 48.21 -0.31 -1231.24
-6	'TheDesolation-to-ElonRiverlands' 49.61 -0.5 1909.48
-7	'TheDesolation-to-Vaabi' 1316.86 331.08 -1444.04
-8	'Vaabi-to-TheDesolation' -1738.73 105.57 1006.29
