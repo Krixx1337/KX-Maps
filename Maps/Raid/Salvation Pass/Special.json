@@ -1,4 +1,11 @@
 {
   "Name": "Special",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "MP1",
+      "X": 341.077,
+      "Y": -475.176,
+      "Z": 106.257
+    }
+  ]
 }

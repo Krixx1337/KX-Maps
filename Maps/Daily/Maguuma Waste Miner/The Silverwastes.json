@@ -1,4 +1,11 @@
 {
   "Name": "The Silverwastes",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Mithril-Remnants_Retreat",
+      "X": 259.422,
+      "Y": 179.808,
+      "Z": 508.942
+    }
+  ]
 }

@@ -1,4 +1,11 @@
 {
   "Name": "Dragonstand",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Dragonstand-to-Tangled",
+      "X": 715.49,
+      "Y": 1009.4,
+      "Z": 98.43
+    }
+  ]
 }

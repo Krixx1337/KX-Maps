@@ -1,4 +1,11 @@
 {
   "Name": "Invisible King",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "",
+      "X": -282.716049383,
+      "Y": 829.62962963,
+      "Z": 425.925925926
+    }
+  ]
 }

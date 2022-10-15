@@ -1,4 +1,11 @@
 {
   "Name": "Bitterfrost-Frontier",
-  "Coordinates": null
+  "Coordinates": [
+    {
+      "Name": "Bitterfrost-to-Frostgorge",
+      "X": -672.21,
+      "Y": -468.48,
+      "Z": 0.15
+    }
+  ]
 }
