@@ -1,0 +1,41 @@
+{
+  "Name": "Molten_Memorial",
+  "Coordinates": [
+    {
+      "Name": "Molten_Furnace_Crumpled_Pages",
+      "X": -193.81,
+      "Y": -140.99,
+      "Z": 265.27
+    },
+    {
+      "Name": "Molten_Furnace_Torn_Letter",
+      "X": -51.74,
+      "Y": -44.97,
+      "Z": 172.11
+    },
+    {
+      "Name": "Molten_Furnace_Crude_Drawing",
+      "X": -163.55,
+      "Y": -51.32,
+      "Z": 156.63
+    },
+    {
+      "Name": "Black_Citadel_Crumpled_Pages",
+      "X": -116.42,
+      "Y": -230.51,
+      "Z": 22.46
+    },
+    {
+      "Name": "Hoelbrak_Torn_Letter",
+      "X": 482.52,
+      "Y": -147.3,
+      "Z": 322.3
+    },
+    {
+      "Name": "Lions_Arch_Crude_Drawing",
+      "X": 459.61,
+      "Y": 408.04,
+      "Z": 36.38
+    }
+  ]
+}
