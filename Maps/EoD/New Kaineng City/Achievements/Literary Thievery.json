@@ -1,0 +1,25 @@
+{
+  "Name": "Literary Thievery",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/Literary_Thievery",
+  "Coordinates": [
+    {
+      "Name": "1",
+      "X": 1214.71,
+      "Y": -760.8,
+      "Z": 14.1
+    },
+    {
+      "Name": "2",
+      "X": 1266.94,
+      "Y": 788.01,
+      "Z": 3.23
+    },
+    {
+      "Name": "3",
+      "X": 1095.26,
+      "Y": 446.53,
+      "Z": 62.37
+    }
+  ]
+}

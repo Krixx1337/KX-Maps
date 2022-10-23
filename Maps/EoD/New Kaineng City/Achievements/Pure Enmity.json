@@ -1,0 +1,31 @@
+{
+  "Name": "Pure Enmity",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/Pure_Enmity",
+  "Coordinates": [
+    {
+      "Name": "1",
+      "X": 926.31,
+      "Y": 623.88,
+      "Z": 59.89
+    },
+    {
+      "Name": "2",
+      "X": 973.24,
+      "Y": 377.27,
+      "Z": 57.75
+    },
+    {
+      "Name": "3",
+      "X": 1139.11,
+      "Y": 458.74,
+      "Z": 204.94
+    },
+    {
+      "Name": "4",
+      "X": 1267.79,
+      "Y": 768.87,
+      "Z": 3.16
+    }
+  ]
+}
