@@ -199,6 +199,12 @@
       "Y": 279.08,
       "Z": 34.36
     },
+	  {
+      "Name": "Queensdale-to-Gendarran",
+      "X": 1255.33,
+      "Y": 240.93,
+      "Z": 37.63
+    },
     {
       "Name": "first-one-ine-Gendarran-Fields",
       "X": -1439.99,
@@ -354,6 +360,12 @@
       "X": 299.61,
       "Y": 492.82,
       "Z": 15.14
+    },
+	    {
+      "Name": "Gendarran-to-Kessex",
+      "X": -1442.99,
+      "Y": -607.13,
+      "Z": 11.12
     },
     {
       "Name": "First-one-Kessex-Hills",
@@ -517,6 +529,12 @@
       "Y": -543.0,
       "Z": 21.94
     },
+	    {
+      "Name": "Kessex-to-Caledon",
+      "X": -224.96,
+      "Y": -695.48,
+      "Z": 59.02
+    },
     {
       "Name": "first-one-Caledon-Forest",
       "X": 326.0,
@@ -672,6 +690,12 @@
       "X": 23.11,
       "Y": -323.82,
       "Z": 45.94
+    },
+	    {
+      "Name": "Caledon-to-Metrica",
+      "X": -604.63,
+      "Y": 384.69,
+      "Z": 53.35
     },
     {
       "Name": "first-one-Metrica-Province",
@@ -847,6 +871,30 @@
       "Y": -946.16,
       "Z": 66.92
     },
+	    {
+      "Name": "Metrica-to-RataSum",
+      "X": -680.19,
+      "Y": -924.71,
+      "Z": 65.27
+    },
+	    {
+      "Name": "RataSum-to-LionsArch",
+      "X": 86.39,
+      "Y": 345.84,
+      "Z": 471.44
+    },
+	    {
+      "Name": "LionsArch-to-Hoelbrak",
+      "X": 222.1,
+      "Y": 305.21,
+      "Z": 48.34
+    },
+	    {
+      "Name": "Hoelbrak-to-Wayfarer",
+      "X": 618.6,
+      "Y": -235.49,
+      "Z": 384.61
+    },
     {
       "Name": "first-one-Wayfarer-Foothills",
       "X": 64.12,
@@ -1015,6 +1063,18 @@
       "Y": -490.99,
       "Z": 211.55
     },
+	    {
+      "Name": "Wayfarer-to-Diessa",
+      "X": 528.22,
+      "Y": 1202.36,
+      "Z": 154.63
+    },
+	    {
+      "Name": "Diessa-to-PlainsofAshford",
+      "X": 1129.88,
+      "Y": -817.07,
+      "Z": 16.52
+    },
     {
       "Name": "first-one-Plains-of-Ashford",
       "X": -1198.71,
@@ -1158,6 +1218,18 @@
       "X": 99.26,
       "Y": -318.35,
       "Z": 49.71
+    },
+	    {
+      "Name": "PlainsofAshford-to-BlackCitadel",
+      "X": -1400.3,
+      "Y": 132.03,
+      "Z": 81.9
+    },
+	    {
+      "Name": "BlackCitadel-to-LionsArch",
+      "X": -202.82,
+      "Y": 400.3,
+      "Z": 215.75
     },
     {
       "Name": "First-one-Lions-Arch",
