@@ -2,7 +2,7 @@
   "Name": "Desert Borderlands",
   "Coordinates": [
     {
-      "Name": "MCLains-Lager",
+      "Name": "MCLains-Encampment",
       "X": -916.44,
       "Y": -653.6,
       "Z": 126.26
@@ -14,28 +14,28 @@
       "Z": 100.39
     },
     {
-      "Name": "Bauer-Gehöft",
+      "Name": "Bauer-Farmstead",
       "X": 906.92,
       "Y": -599.66,
       "Z": 147.42
     },
     {
-      "Name": "Boettigers-Versteck",
-      "X": -1073.56,
-      "Y": 370.21,
-      "Z": 83.08
+      "Name": "Boettigers-Hideaway",
+      "X": -1007.51,
+      "Y": 392.98,
+      "Z": 39.16
     },
     {
-      "Name": "Roys-Zuflucht",
-      "X": 994.49,
-      "Y": 274.79,
-      "Z": 103.07
+      "Name": "Roys-Refuge",
+      "X": 1091.87,
+      "Y": 328.05,
+      "Z": 42.26
     },
     {
-      "Name": "Hamms-Labor",
-      "X": -22.26,
-      "Y": 842.24,
-      "Z": 99.8
+      "Name": "Hamms-lab",
+      "X": -23.19,
+      "Y": 812.68,
+      "Z": 89.67
     },
     {
       "Name": "Parched-Outpost",
@@ -44,118 +44,190 @@
       "Z": 165.09
     },
     {
-      "Name": "Kurbelwellen-Depot",
-      "X": 370.77,
-      "Y": -762.98,
-      "Z": 221.96
+      "Name": "Crankshaft-Depot",
+      "X": 452.73,
+      "Y": -711.31,
+      "Z": 144.69
     },
     {
-      "Name": "Ewige-Nekropole",
-      "X": 753.91,
-      "Y": 614.79,
-      "Z": 184.52
+      "Name": "Eternal-Necropolis",
+      "X": 746.82,
+      "Y": 605.95,
+      "Z": 136.94
     },
     {
-      "Name": "Odel-Akademie",
-      "X": -700.14,
-      "Y": 723.56,
-      "Z": 138.39
+      "Name": "Odel-Academy",
+      "X": -735.93,
+      "Y": 726.8,
+      "Z": 80.35
     },
     {
-      "Name": "Feste-Links",
-      "X": -1080.21,
-      "Y": -104.11,
-      "Z": 167.55
+      "Name": "Blistering-Undercroft",
+      "X": -1102.73,
+      "Y": -233.1,
+      "Z": 111.89
     },
     {
-      "Name": "Feste-Rechts",
-      "X": 1076.56,
-      "Y": -113.28,
-      "Z": 168.81
+      "Name": "Osprey-Palace",
+      "X": 1091.64,
+      "Y": -251.97,
+      "Z": 132.59
     },
     {
-      "Name": "Feste-Oben",
+      "Name": "Stoic-Rampart",
       "X": -39.78,
       "Y": 243.46,
       "Z": 129.44
     },
     {
-      "Name": "Sentry",
-      "X": -646.6,
-      "Y": -654.44,
-      "Z": 123.84
+      "Name": "Sentry-SWC-SWT",
+      "X": -622.03,
+      "Y": -621.92,
+      "Z": 139.06
     },
     {
-      "Name": "Sentry",
-      "X": -2.02,
-      "Y": -806.18,
-      "Z": 95.5
+      "Name": "Sentry-SC",
+      "X": -3.23,
+      "Y": -805.79,
+      "Z": 95.49
     },
     {
-      "Name": "Sentry",
-      "X": 698.63,
-      "Y": -746.29,
-      "Z": 169.35
+      "Name": "Sentry-SEC-SET",
+      "X": -900.3,
+      "Y": 311.64,
+      "Z": 41.51
     },
     {
-      "Name": "Sentry",
-      "X": -902.49,
-      "Y": 299.14,
-      "Z": 41.96
+      "Name": "Sentry-NWC-Garri",
+      "X": -900.3,
+      "Y": 311.64,
+      "Z": 41.51
     },
     {
-      "Name": "Sentry",
-      "X": -778.51,
-      "Y": 404.55,
-      "Z": 57.56
+      "Name": "Sentry-NWC-NWT",
+      "X": -775.46,
+      "Y": 392.29,
+      "Z": 58.34
     },
     {
-      "Name": "Sentry",
-      "X": 755.94,
-      "Y": 396.74,
-      "Z": 77.71
+      "Name": "Sentry-NET-NEC",
+      "X": 756.11,
+      "Y": 396.9,
+      "Z": 77.7
     },
     {
-      "Name": "Sentry",
-      "X": 587.62,
-      "Y": 808.1,
-      "Z": 103.54
+      "Name": "Sentry-NC-NET",
+      "X": 584.86,
+      "Y": 814.15,
+      "Z": 105.66
     },
     {
-      "Name": "Sentry",
-      "X": -395.75,
-      "Y": 608.35,
-      "Z": 67.92
+      "Name": "Sentry-NC-NWT",
+      "X": -399.34,
+      "Y": 610.29,
+      "Z": 67.84
     },
     {
-      "Name": "",
-      "X": 136.38,
-      "Y": -524.38,
-      "Z": 23.98
+      "Name": "Sentry-SEC-AK",
+      "X": 642.46,
+      "Y": -505.27,
+      "Z": 86.27
     },
     {
-      "Name": "",
-      "X": -253.73,
-      "Y": -430.69,
-      "Z": 34.78
+      "Name": "Sentry-NEC-AK",
+      "X": 758.39,
+      "Y": 242.21,
+      "Z": 84.02
     },
     {
-      "Name": "",
+      "Name": "Sentry-SWC-FK",
+      "X": -939.05,
+      "Y": -391.89,
+      "Z": 26.72
+    },
+    {
+      "Name": "Ruin-5oClock",
+      "X": 136.14,
+      "Y": -524.34,
+      "Z": 23.95
+    },
+    {
+      "Name": "Ruin-7oClock",
+      "X": -253.94,
+      "Y": -430.71,
+      "Z": 34.79
+    },
+    {
+      "Name": "Ruin-9oClock",
       "X": -221.6,
       "Y": -201.54,
       "Z": 19.67
     },
     {
-      "Name": "",
+      "Name": "Ruin-12oClock",
       "X": -31.81,
       "Y": 23.74,
       "Z": 3.08
     },
     {
-      "Name": "",
+      "Name": "Ruin-3oClock",
       "X": 187.01,
       "Y": -215.54,
       "Z": 29.47
+    },
+    {
+      "Name": "Shrine-AK-North",
+      "X": 1022.85,
+      "Y": 141.59,
+      "Z": 35.96
+    },
+    {
+      "Name": "Shrine-AK-South",
+      "X": 995.83,
+      "Y": -452.18,
+      "Z": 77.38
+    },
+    {
+      "Name": "Shrine-AK-West",
+      "X": 663.21,
+      "Y": -307.18,
+      "Z": 161.29
+    },
+    {
+      "Name": "Shrine-Garri-East",
+      "X": 550.37,
+      "Y": 325.28,
+      "Z": 37.16
+    },
+    {
+      "Name": "Shrine-Garri-West",
+      "X": -607.37,
+      "Y": 290.6,
+      "Z": 22.74
+    },
+    {
+      "Name": "Shrine-Garri-North",
+      "X": -71.05,
+      "Y": 608.52,
+      "Z": 27.79
+    },
+    {
+      "Name": "Shrine-FK-North",
+      "X": -544.23,
+      "Y": 53.64,
+      "Z": 19.07
+    },
+    {
+      "Name": "Shrine-FK-South",
+      "X": -498.6,
+      "Y": -331.15,
+      "Z": 35.46
+    },
+    {
+      "Name": "Shrine-FK-Mid",
+      "X": -747.56,
+      "Y": -43.4,
+      "Z": 166.17
     }
   ]
 }
