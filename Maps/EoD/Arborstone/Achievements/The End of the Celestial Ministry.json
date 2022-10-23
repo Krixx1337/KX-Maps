@@ -1,0 +1,91 @@
+{
+  "Name": "The End of the Celestial Ministry",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/The_End_of_the_Celestial_Ministry",
+  "Coordinates": [
+    {
+      "Name": "Meet with Hui and accept his request",
+      "X": -838.26,
+      "Y": 724.0,
+      "Z": 146.6
+    },
+    {
+      "Name": "Speak to Xiaobo, the descendant of Minister Jaisan",
+      "X": -247.2,
+      "Y": -481.32,
+      "Z": 3.23
+    },
+    {
+      "Name": "Search the archives for Xiaobo's family history.",
+      "X": -643.24,
+      "Y": -655.45,
+      "Z": 254.18
+    },
+    {
+      "Name": "Return to Hui with the document about the Ministry of Earth.",
+      "X": -838.26,
+      "Y": 724.0,
+      "Z": 146.6
+    },
+    {
+      "Name": "Speak to Ju, the descendant of Minister Nai.\t",
+      "X": 329.88,
+      "Y": 265.75,
+      "Z": 3.22
+    },
+    {
+      "Name": "Find rare flowers for Ju to get in her good graces.",
+      "X": 329.78,
+      "Y": 265.46,
+      "Z": 3.23
+    },
+    {
+      "Name": "\tSpeak to Ju to receive her family history.",
+      "X": 329.78,
+      "Y": 265.46,
+      "Z": 3.23
+    },
+    {
+      "Name": "Return Ju's family history to Hui.",
+      "X": -838.54,
+      "Y": 726.17,
+      "Z": 146.64
+    },
+    {
+      "Name": "\tSpeak to Suyin, the descendant of Minister Tao.",
+      "X": 1027.89,
+      "Y": -424.76,
+      "Z": 12.09
+    },
+    {
+      "Name": "Disrupt the Jade Brotherhood in Kaineng City to get in Suyin's good graces.",
+      "X": 1027.89,
+      "Y": -424.76,
+      "Z": 12.09
+    },
+    {
+      "Name": "Speak to Suyin to get her family history.",
+      "X": 1027.97,
+      "Y": -424.89,
+      "Z": 12.09
+    },
+    {
+      "Name": "Return Suyin's document to Hui.",
+      "X": -837.9,
+      "Y": 724.85,
+      "Z": 146.6
+    },
+    {
+      "Name": "Disrupt Purist activity in Kaineng City for Hui.",
+      "X": -837.9,
+      "Y": 724.85,
+      "Z": 146.6
+    },
+    {
+      "Name": "Return to Hui to discuss your findings.",
+      "X": -838.42,
+      "Y": 724.16,
+      "Z": 146.6
+    }
+  ]
+}

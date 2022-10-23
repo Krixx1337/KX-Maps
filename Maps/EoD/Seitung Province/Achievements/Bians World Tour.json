@@ -1,0 +1,49 @@
+{
+  "Name": "Bians World Tour",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/Bian%27s_World_Tour",
+  "Coordinates": [
+    {
+      "Name": "Chat with M.U.P. employee Bian",
+      "X": -1009.53,
+      "Y": -245.7,
+      "Z": 116.08
+    },
+    {
+      "Name": "The Grove",
+      "X": 73.95,
+      "Y": -80.8,
+      "Z": 64.54
+    },
+    {
+      "Name": "Rata Sum",
+      "X": -30.55,
+      "Y": 342.78,
+      "Z": 447.3
+    },
+    {
+      "Name": "Divinity Reach",
+      "X": -25.22,
+      "Y": 139.76,
+      "Z": 151.97
+    },
+    {
+      "Name": "Lions Arch",
+      "X": -201.38,
+      "Y": 26.33,
+      "Z": 24.85
+    },
+    {
+      "Name": "Hoelbrak",
+      "X": 228.33,
+      "Y": 98.09,
+      "Z": 286.62
+    },
+    {
+      "Name": "Black Citadel",
+      "X": -28.85,
+      "Y": -65.61,
+      "Z": 125.81
+    }
+  ]
+}

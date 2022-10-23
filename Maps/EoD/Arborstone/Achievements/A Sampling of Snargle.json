@@ -1,0 +1,37 @@
+{
+  "Name": "A Sampling of Snargle",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/A_Sampling_of_Snargle",
+  "Coordinates": [
+    {
+      "Name": "Dragons_End",
+      "X": 587.76,
+      "Y": 595.73,
+      "Z": 75.61
+    },
+    {
+      "Name": "Seitung",
+      "X": -154.6,
+      "Y": -521.99,
+      "Z": 65.91
+    },
+    {
+      "Name": "Kaineng",
+      "X": -365.84,
+      "Y": 677.8,
+      "Z": 320.83
+    },
+    {
+      "Name": "Echovald Get Disguise",
+      "X": 51.91,
+      "Y": 648.31,
+      "Z": 214.4
+    },
+    {
+      "Name": "Echovald",
+      "X": 60.21,
+      "Y": 801.58,
+      "Z": 213.25
+    }
+  ]
+}
