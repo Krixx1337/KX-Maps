@@ -1,0 +1,113 @@
+{
+  "Name": "The Predator I",
+  "Coordinates": [
+    {
+      "Name": "LornarPass-Kill-Steam-Creatures",
+      "X": 309.34,
+      "Y": 392.33,
+      "Z": 144.23
+    },
+    {
+      "Name": "LornarPass-Go-Inside-Click-Prototype-Leftof-Door",
+      "X": -538.81,
+      "Y": 930.19,
+      "Z": 104.46
+    },
+    {
+      "Name": "LornarPass-Enter-Instance",
+      "X": -634.24,
+      "Y": 783.19,
+      "Z": 198.18
+    },
+    {
+      "Name": "LornarPass-Click-BlackPowder-and-itsUses",
+      "X": -618.53,
+      "Y": 816.21,
+      "Z": 175.83
+    },
+    {
+      "Name": "Gendarranfield-Collect-Chest-Aetherblade-Power-Source",
+      "X": -342.09,
+      "Y": -604.88,
+      "Z": 86.99
+    },
+    {
+      "Name": "DryTop-Click-Notebook",
+      "X": 298.68,
+      "Y": -286.77,
+      "Z": 2.85
+    },
+    {
+      "Name": "DredgehauntCliff-Kill-GreyTerror-duringevent-dredge-sniper-terrorizing-the-locals",
+      "X": 470.81,
+      "Y": -320.96,
+      "Z": 121.33
+    },
+    {
+      "Name": "WayfarerFoothills-Interact-Prototype-Dredge-Weapon",
+      "X": -481.94,
+      "Y": 527.91,
+      "Z": 117.41
+    },
+    {
+      "Name": "FieldsofRuin-Complete-Heart-Buy-IronLegionSchematics",
+      "X": 305.7,
+      "Y": 405.66,
+      "Z": 10.78
+    },
+    {
+      "Name": "BlazeridgeSteppes-Complete-Heart-Buy-SweptweaveSchematic",
+      "X": -9.95,
+      "Y": -1237.69,
+      "Z": 59.61
+    },
+    {
+      "Name": "MalchorsLeap-Purchase-InterceptedInquestCalculations-AfterEvent-DestroyMarkV",
+      "X": -847.33,
+      "Y": 184.29,
+      "Z": 3.47
+    },
+    {
+      "Name": "MalchorLeap-Event-InquestOrnithologist-Buy-ExperimentalRifle",
+      "X": 19.73,
+      "Y": -531.37,
+      "Z": 78.38
+    },
+    {
+      "Name": "VerdantBrink-CollectSniperRifle-DuringCertainEvents",
+      "X": 1129.62,
+      "Y": -211.11,
+      "Z": 487.94
+    },
+    {
+      "Name": "MountMalestrom-TakeFrom-WeaponRack",
+      "X": -725.51,
+      "Y": 739.36,
+      "Z": 110.63
+    },
+    {
+      "Name": "BloodtideCoast-Use-Panel",
+      "X": -530.81,
+      "Y": 827.18,
+      "Z": 29.15
+    },
+    {
+      "Name": "MoltenFurnceFraktal-End-Chest",
+      "X": -241.91,
+      "Y": 27.19,
+      "Z": 278.75
+    },
+    {
+      "Name": "MaiTrinFractal-EndChest",
+      "X": -17.78,
+      "Y": -91.13,
+      "Z": 95.64
+    },
+    {
+      "Name": "ThaumanovaReactorFractal-ENDChest",
+      "X": -20.05,
+      "Y": 205.89,
+      "Z": 5.31
+    }
+  ]
+}
