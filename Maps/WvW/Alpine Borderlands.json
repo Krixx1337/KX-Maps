@@ -8,22 +8,22 @@
       "Z": 210.203
     },
     {
-      "Name": "TheSpiritholme_Camp",
-      "X": 35.0913,
-      "Y": 1126.17,
-      "Z": 146.513
+      "Name": "North_Camp",
+      "X": 100.13,
+      "Y": 1180.78,
+      "Z": 112.65
     },
     {
-      "Name": "Woodhaven",
-      "X": -487.768,
-      "Y": 454.636,
-      "Z": 124.226
+      "Name": "North_West_Tower",
+      "X": -452.68,
+      "Y": 433.18,
+      "Z": 99.74
     },
     {
-      "Name": "GodsloreCamp",
-      "X": -681.502,
-      "Y": 323.656,
-      "Z": 5.05582
+      "Name": "North_West_Camp",
+      "X": -694.09,
+      "Y": 314.69,
+      "Z": 4.67
     },
     {
       "Name": "Garrison",
@@ -32,55 +32,55 @@
       "Z": 87.788
     },
     {
-      "Name": "Dawns_Eyrie",
-      "X": 451.393,
-      "Y": 484.456,
-      "Z": 163.739
+      "Name": "North_East_Tower",
+      "X": 462.95,
+      "Y": 463.72,
+      "Z": 133.05
     },
     {
-      "Name": "Star_Grove",
-      "X": 766.481,
-      "Y": 382.453,
-      "Z": 69.7632
+      "Name": "North_East_Camp",
+      "X": 787.85,
+      "Y": 375.16,
+      "Z": 55.18
     },
     {
-      "Name": "Ascension_Bay",
+      "Name": "Bay",
       "X": -818.06,
       "Y": -229.426,
       "Z": 16.3751
     },
     {
-      "Name": "Redvale_Refuge",
-      "X": -630.096,
-      "Y": -600.798,
-      "Z": 37.1434
+      "Name": "South_West_camp",
+      "X": -647.18,
+      "Y": -552.76,
+      "Z": 21.0
     },
     {
-      "Name": "Edbriar",
-      "X": -299.567,
-      "Y": -500.887,
-      "Z": 77.0816
+      "Name": "South_West_tower",
+      "X": -257.94,
+      "Y": -524.31,
+      "Z": 35.15
     },
     {
-      "Name": "Champions_Demesne",
-      "X": -6.15366,
-      "Y": -1060.33,
-      "Z": 10.0414
+      "Name": "South_Camp",
+      "X": -5.98,
+      "Y": -1059.87,
+      "Z": 10.03
     },
     {
-      "Name": "Greenlake",
+      "Name": "South_East_Tower",
       "X": 378.502,
       "Y": -572.396,
       "Z": 47.6159
     },
     {
-      "Name": "Greenwater_Lowlands",
+      "Name": "South_East_Camp",
       "X": 672.314,
       "Y": -658.95,
       "Z": 4.9066
     },
     {
-      "Name": "Askalion_Hills",
+      "Name": "Hills",
       "X": 904.9,
       "Y": -164.781,
       "Z": 109.278
@@ -114,6 +114,60 @@
       "X": 188.705,
       "Y": -66.7642,
       "Z": 22.7831
+    },
+    {
+      "Name": "Sentry_East_Citadel",
+      "X": 582.85,
+      "Y": 671.83,
+      "Z": 126.74
+    },
+    {
+      "Name": "Sentry_SE_Citadel",
+      "X": 398.1,
+      "Y": 246.11,
+      "Z": 14.18
+    },
+    {
+      "Name": "Sentry_SWC",
+      "X": -460.23,
+      "Y": -447.3,
+      "Z": 21.63
+    },
+    {
+      "Name": "Sentry_SW_Citadel",
+      "X": -245.78,
+      "Y": 121.11,
+      "Z": 16.23
+    },
+    {
+      "Name": "Sentry_West_Citadel",
+      "X": -518.91,
+      "Y": 701.33,
+      "Z": 127.7
+    },
+    {
+      "Name": "Sentry_SEC",
+      "X": 476.42,
+      "Y": -575.91,
+      "Z": 42.18
+    },
+    {
+      "Name": "Sentry_SC",
+      "X": -26.85,
+      "Y": -587.16,
+      "Z": 31.36
+    },
+    {
+      "Name": "Sentry_Ruins_3_oClock",
+      "X": 176.73,
+      "Y": -275.61,
+      "Z": 46.88
+    },
+    {
+      "Name": "Sentry_Ruins_7_oClock",
+      "X": -41.11,
+      "Y": -435.71,
+      "Z": 8.18
     }
   ]
 }
