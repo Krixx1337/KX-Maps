@@ -1,0 +1,43 @@
+{
+  "Name": "A woman of culture",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/Weight_of_the_World#A_Woman_of_Culture",
+  "Coordinates": [
+    {
+      "Name": "1",
+      "X": 418.94,
+      "Y": -34.87,
+      "Z": 277.56
+    },
+    {
+      "Name": "2",
+      "X": 414.5,
+      "Y": -20.79,
+      "Z": 277.62
+    },
+    {
+      "Name": "3",
+      "X": 429.64,
+      "Y": -94.85,
+      "Z": 277.56
+    },
+    {
+      "Name": "4",
+      "X": 432.11,
+      "Y": -19.23,
+      "Z": 287.24
+    },
+    {
+      "Name": "5",
+      "X": 448.73,
+      "Y": -9.08,
+      "Z": 287.21
+    },
+    {
+      "Name": "6",
+      "X": 292.81,
+      "Y": -54.25,
+      "Z": 291.85
+    }
+  ]
+}
