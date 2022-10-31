@@ -1,0 +1,67 @@
+{
+  "Name": "Jade Shadow",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/To_Catch_a_Spider#Jade_Shadow",
+  "Coordinates": [
+    {
+      "Name": "Speak to Kage to receive further instructions.",
+      "X": 48.44,
+      "Y": 647.22,
+      "Z": 214.93
+    },
+    {
+      "Name": "Get Disguise",
+      "X": 52.06,
+      "Y": 647.62,
+      "Z": 214.17
+    },
+    {
+      "Name": "Locate the Jade Brotherhood supply cache",
+      "X": 146.21,
+      "Y": 854.45,
+      "Z": 209.16
+    },
+    {
+      "Name": "Examine the Jade Brotherhood supply cache.",
+      "X": 146.21,
+      "Y": 854.45,
+      "Z": 209.16
+    },
+    {
+      "Name": "Get Disguise",
+      "X": -1073.17,
+      "Y": -538.13,
+      "Z": 219.47
+    },
+    {
+      "Name": "Go to the Speakers camp",
+      "X": -1065.06,
+      "Y": -580.08,
+      "Z": 218.1
+    },
+    {
+      "Name": "Locate and steal a source of arcane fire from the Speakers",
+      "X": -1169.41,
+      "Y": -669.26,
+      "Z": 215.68
+    },
+    {
+      "Name": "Get Disguise",
+      "X": 52.22,
+      "Y": 647.27,
+      "Z": 214.12
+    },
+    {
+      "Name": "Return to the supply cache in the Jade Brotherhood camp",
+      "X": 89.78,
+      "Y": 669.13,
+      "Z": 211.65
+    },
+    {
+      "Name": "Destroy the supply cache using the arcane flame to implicate the Speakers",
+      "X": 145.89,
+      "Y": 854.72,
+      "Z": 209.16
+    }
+  ]
+}
