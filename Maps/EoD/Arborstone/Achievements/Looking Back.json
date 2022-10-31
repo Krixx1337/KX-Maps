@@ -1,76 +1,78 @@
 {
   "Name": "Looking Back",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/Looking_Back",
   "Coordinates": [
     {
-      "Name": "Arborstone-talk-to-Delaqua(any_toon_who_have_completed_story)",
-      "X": -933.3,
-      "Y": 588.8,
-      "Z": 5.49
+      "Name": "[Arborstone] Check in with Marjory at Arborstone",
+      "X": -932.3,
+      "Y": 589.55,
+      "Z": 6.22
     },
     {
-      "Name": "New_Kaineng_City_(NKC)",
-      "X": 1227.87,
-      "Y": 741.56,
-      "Z": 114.59
+      "Name": "[Kaineng] Find Marjory on a bridge overlooking the Kaineng Ruins",
+      "X": 1227.98,
+      "Y": 743.08,
+      "Z": 114.55
     },
     {
-      "Name": "NKC",
-      "X": -15.59,
-      "Y": -624.86,
-      "Z": 147.88
+      "Name": "[Kaineng] Find Marjory looking over the apartments in Kaineng, high above Tengu Square",
+      "X": -16.48,
+      "Y": -625.59,
+      "Z": 148.02
     },
     {
-      "Name": "NKC",
-      "X": -871.63,
-      "Y": -32.73,
-      "Z": 188.19
+      "Name": "[Kaineng] Find Marjory in a garden near an enormous jade monument",
+      "X": -870.29,
+      "Y": -31.76,
+      "Z": 188.55
     },
     {
-      "Name": "SP",
-      "X": 401.71,
-      "Y": 851.37,
+      "Name": "[Seitung] Meet Marjory near Haiju Docks",
+      "X": 401.73,
+      "Y": 851.19,
       "Z": 0.68
     },
     {
-      "Name": "SP",
-      "X": -1216.24,
-      "Y": -230.63,
+      "Name": "[Seitung] Find Marjory at the monastery, near the Royal Court",
+      "X": -1216.04,
+      "Y": -230.64,
       "Z": 163.94
     },
     {
-      "Name": "SP",
-      "X": -39.09,
-      "Y": 234.54,
+      "Name": "[Seitung] Find Marjory at the afflicted memorial",
+      "X": -41.48,
+      "Y": 233.48,
       "Z": 171.1
     },
     {
-      "Name": "SP",
-      "X": 192.58,
-      "Y": -137.14,
-      "Z": 82.67
+      "Name": "[Seitung] Find Marjory near the Zen Daijun shrines",
+      "X": 192.04,
+      "Y": -136.92,
+      "Z": 82.62
     },
     {
-      "Name": "DE-Marjory_only_apper_when_Meta_success_(15-Mins)",
-      "X": -239.75,
-      "Y": 727.88,
+      "Name": "[DragonsEnd] find Marjory around the Outer Terrace",
+      "X": -236.4,
+      "Y": 727.29,
       "Z": 174.07
     },
     {
-      "Name": "DE-Marjory_only_apper_when_Meta_success_(15-Mins)",
-      "X": 23.33,
-      "Y": -380.33,
+      "Name": "[DragonsEnd] find Marjory in the Harvest Complex",
+      "X": 22.56,
+      "Y": -379.62,
       "Z": 234.28
     },
     {
-      "Name": "DE-Marjory_only_apper_when_Meta_success_(15-Mins)",
-      "X": 508.67,
-      "Y": -117.78,
-      "Z": 199.41
+      "Name": "[DragonsEnd] find Marjory in Seafarer's Enclave",
+      "X": 699.77,
+      "Y": -49.63,
+      "Z": 199.3
     },
     {
-      "Name": "DE-Marjory_only_apper_when_Meta_success_(Note:will_left_DE_map)",
-      "X": 572.43,
-      "Y": -1009.97,
+      "Name": "[DragonsEnd] Meet Marjory by the Silent Surf",
+      "X": 572.01,
+      "Y": -1007.79,
       "Z": 226.22
     }
   ]
