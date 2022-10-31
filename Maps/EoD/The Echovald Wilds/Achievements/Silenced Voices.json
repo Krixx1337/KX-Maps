@@ -1,0 +1,61 @@
+{
+  "Name": "Silenced Voices",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/To_Catch_a_Spider#Silenced_Voices",
+  "Coordinates": [
+    {
+      "Name": "Speak to Shisokana to receive further instructions",
+      "X": -1046.06,
+      "Y": -576.37,
+      "Z": 219.44
+    },
+    {
+      "Name": "Get Disguise",
+      "X": 52.41,
+      "Y": 646.83,
+      "Z": 214.07
+    },
+    {
+      "Name": "Go to the Jade Brotherhood camp.",
+      "X": 91.38,
+      "Y": 667.89,
+      "Z": 211.65
+    },
+    {
+      "Name": "Steal the tech from the Jade Brotherhood lieutenant's chest",
+      "X": 13.02,
+      "Y": 853.79,
+      "Z": 209.16
+    },
+    {
+      "Name": "Get Disguise",
+      "X": -1073.17,
+      "Y": -538.13,
+      "Z": 219.47
+    },
+    {
+      "Name": "Return to the Speakers camp",
+      "X": -1065.06,
+      "Y": -580.08,
+      "Z": 218.1
+    },
+    {
+      "Name": "Gain access to the Speaker ritualist's tent",
+      "X": -1140.02,
+      "Y": -781.95,
+      "Z": 211.03
+    },
+    {
+      "Name": "Plant the stolen tech in the Speaker ritualist's tent",
+      "X": -1140.02,
+      "Y": -781.95,
+      "Z": 211.03
+    },
+    {
+      "Name": "Inform the Speakers lieutenant of the ritualist's betrayal",
+      "X": -1244.32,
+      "Y": -634.23,
+      "Z": 199.44
+    }
+  ]
+}

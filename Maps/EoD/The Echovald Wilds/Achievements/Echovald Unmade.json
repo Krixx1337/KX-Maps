@@ -1,0 +1,37 @@
+{
+  "Name": "Echovald Unmade",
+  "Author":"Bitter",
+  "Wiki": "https://wiki.guildwars2.com/wiki/Echovald_Unmade",
+  "Coordinates": [
+    {
+      "Name": "Wrightstone Chantry",
+      "X": -177.31,
+      "Y": 424.04,
+      "Z": 219.0
+    },
+    {
+      "Name": "Skygazer Cathedral",
+      "X": -1017.14,
+      "Y": -99.71,
+      "Z": 162.97
+    },
+    {
+      "Name": "Karstadt Village",
+      "X": 1003.8,
+      "Y": -95.91,
+      "Z": 116.76
+    },
+    {
+      "Name": "Teleri Village",
+      "X": 540.43,
+      "Y": -352.02,
+      "Z": 75.83
+    },
+    {
+      "Name": "Speaker's Sanctum",
+      "X": -1081.56,
+      "Y": -593.96,
+      "Z": 218.4
+    }
+  ]
+}
