@@ -1,0 +1,24 @@
+{
+  "Name": "Special",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "MasteryPoint1",
+      "X": -140.351,
+      "Y": -155.855,
+      "Z": 183.741
+    },
+    {
+      "Name": "JP-Chest",
+      "X": -715.34,
+      "Y": -1030.55,
+      "Z": 81.81
+    },
+    {
+      "Name": "JP-Chest2",
+      "X": -768.76,
+      "Y": -767.26,
+      "Z": 107.34
+    }
+  ]
+}
