@@ -2072,6 +2072,10 @@
       "name":"Super Adventure Box"
    },
    {
+      "id":"937",
+      "name":"Scarlet's End"
+   },
+   {
       "id":"943",
       "name":"The Tower of Nightmares (Public)"
    },
@@ -2140,12 +2144,32 @@
       "name":"Scarlet's Secret Lair"
    },
    {
+      "id":"965",
+      "name":"The Origins of Madness: A Moment's Peace"
+   },
+   {
       "id":"968",
       "name":"Edge of the Mists"
    },
    {
+      "id":"971",
+      "name":"The Dead End: A Study in Scarlet"
+   },
+   {
+      "id":"973",
+      "name":"The Evacuation of Lion's Arch"
+   },
+   {
+      "id":"980",
+      "name":"The Dead End: Celebration"
+   },
+   {
       "id":"984",
       "name":"Courtyard"
+   },
+   {
+      "id":"987",
+      "name":"Lion's Arch: Honored Guests"
    },
    {
       "id":"988",
@@ -3670,5 +3694,37 @@
    {
       "id":"1477",
       "name":"The Tower of Nightmares (Private Squad)"
+   },
+   {
+      "id":"1478",
+      "name":"The Battle for Lion's Arch (Private Squad)"
+   },
+   {
+      "id":"1480",
+      "name":"The Twisted Marionette"
+   },
+   {
+      "id":"1481",
+      "name":"Battle on the Breachmaker"
+   },
+   {
+      "id":"1482",
+      "name":"The Battle For Lion's Arch (Public)"
+   },
+   {
+      "id":"1483",
+      "name":"Memory of Old Lion's Arch"
+   },
+   {
+      "id":"1484",
+      "name":"North Evacuation Camp"
+   },
+   {
+      "id":"1485",
+      "name":"Strike Mission: Old Lion's Court"
+   },
+   {
+      "id":"1487",
+      "name":"The Aether Escape"
    }
 ]
