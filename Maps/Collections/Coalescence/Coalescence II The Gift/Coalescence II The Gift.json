@@ -1,0 +1,127 @@
+{
+  "Name": "Coalescence_II_The_Gift",
+  "Author": "MMOminion Scotty",
+  "Translated": "Winter",
+  "Coordinates": [
+    {
+      "Name": "Straits of Devastation - Bottle of Rage (Empty)",
+      "X": -743.0,
+      "Y": -601,
+      "Z": 146.0
+    },
+    {
+      "Name": "Domain of Vabbi - Bottle of Rage (Filled)",
+      "X": 595.0,
+      "Y": -17,
+      "Z": 358.0
+    },
+    {
+      "Name": "Iron Marches - Bottle of Contempt (Empty)",
+      "X": -15.0,
+      "Y": -1251,
+      "Z": 20.0
+    },
+    {
+      "Name": "Fields of Ruin - Bottle of Contempt (Filled) Talk to Separtist Sympathizer",
+      "X": -638.0,
+      "Y": -804,
+      "Z": 62.0
+    },
+	{
+	  "Name": "Mystwright Gambit (Qadim Cleared) Hidden Chest - Bottle of Surprise (Empty)",
+	  "X": -42.64,
+	  "Y": 393.28,
+	  "Z": 149.36
+	},
+    {
+      "Name": "Lions Arch - Bottle of Suprise (Filled) Jump In Mystic Forge",
+      "X": -66.0,
+      "Y": 433,
+      "Z": 26.0
+    },
+    {
+      "Name": "Queensdale - Bottle of Fear (Empty)",
+      "X": 554.0,
+      "Y": -459,
+      "Z": -27.0
+    },
+    {
+      "Name": "Desert Highlands - Reopen Portal",
+      "X": 1790.0,
+      "Y": 716,
+      "Z": 201.0
+    },
+    {
+      "Name": "The Dark Library - Bottle of Fear (Filled) Sanctum Librarian",
+      "X": 799.0,
+      "Y": 194,
+      "Z": 17.0
+    },
+    {
+      "Name": "(LS1) Lonars Pass - Scarlet Briars Lair",
+      "X": -539.0,
+      "Y": 928,
+      "Z": 105.0
+    },
+    {
+      "Name": "Scarlet Briars Lair - Bottle of Anguish (Empty)",
+      "X": -535.0,
+      "Y": 961,
+      "Z": 144.0
+    },
+    {
+      "Name": "Lions Arch - Bottle of Anguish (Filled) /kneel",
+      "X": -693.0,
+      "Y": 168,
+      "Z": 6.0
+    },
+    {
+      "Name": "Metrica Province - Bottle of Excitement (Empty)",
+      "X": -81.0,
+      "Y": -957,
+      "Z": 48.0
+    },
+    {
+      "Name": "Lions Arch - Fractals of the Mist",
+      "X": 180.0,
+      "Y": -298,
+      "Z": 39.0
+    },
+    {
+      "Name": "Fractals of the Mist - Bottle of Excitement (Filled) Jump Into Hole",
+      "X": 128.73,
+      "Y": -114,
+      "Z": 300.0
+    },
+    {
+      "Name": "Timberline Falls - Bottle of Joy (Empty)",
+      "X": 383.0,
+      "Y": -1124,
+      "Z": 0.0
+    },
+    {
+      "Name": "Lions Arch - Bottle of Joy (Filled)",
+      "X": -147.0,
+      "Y": 390,
+      "Z": 29.0
+    },
+    {
+      "Name": "Divinitys Reach - Seraph Headquarters",
+      "X": 121.0,
+      "Y": -7,
+      "Z": 166.0
+    },
+    {
+      "Name": "Seraph Headquarters - Bottle of Shame (Empty)",
+      "X": 161.0,
+      "Y": 28,
+      "Z": 166.0
+    },
+    {
+      "Name": "Desert Highlands - Bottle of Shame (Filled)",
+      "X": 1493.0,
+      "Y": -540,
+      "Z":90
+    }
+  ]
+}

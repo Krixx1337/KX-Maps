@@ -1,0 +1,42 @@
+{
+  "Name": "Coalescence Meditation Book",
+  "Author": "Winter",
+  "Coordinates": [
+    {
+      "Name": "Crystal Oasis /sit for 60s",
+      "X": 684.06,
+      "Y": 398.01,
+      "Z": 342.3
+    },
+    {
+      "Name": "Elon Riverlands /sit for 60s",
+      "X": 1202.16,
+      "Y": -1116.5,
+      "Z": 2.87
+    },
+    {
+      "Name": "The Desolation /sit for 60s",
+      "X": 1292.33,
+      "Y": 1784.68,
+      "Z": 66.02
+    },
+    {
+      "Name": "Domain of Vabbit /sit for 60s",
+      "X": -51.16,
+      "Y": 616.83,
+      "Z": 135.65
+    },
+    {
+      "Name": "Desert Highlands /sit for 60s",
+      "X": -1491.83,
+      "Y": -416.0,
+      "Z": 164.2
+    },
+    {
+      "Name": "Talk to Hasara Done",
+      "X": -1719.28,
+      "Y": -91.78,
+      "Z": 637.19
+    }
+  ]
+}
