@@ -1,0 +1,29 @@
+{
+  "Name": "Coalescence III Culmination",
+  "Author": "Winter"
+  "Coordinates": [
+   	{
+	  "Name": "Do first 3 Bosses of Key of Ahdashim (Raid Wing 7)",
+      "X": 0,
+      "Y": 0,
+      "Z": 0	  
+    {
+      "Name": "Talk to Hasara (Desolation)",
+      "X": 1292.47,
+      "Y": 1784.34,
+      "Z": 66.02
+    },
+    {
+      "Name": "To Vabbi",
+      "X": 1311.8,
+      "Y": -1443.0,
+      "Z": 331.34
+    },
+    {
+      "Name": "Interact to finish collection",
+      "X": 1787.04,
+      "Y": -820.02,
+      "Z": 188.73
+    }
+  ]
+}
