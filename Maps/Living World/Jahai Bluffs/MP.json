@@ -1,29 +1,36 @@
 {
-  "Name": "Special",
+  "Name": "MP",
+  "Author": "Bloodmagicball",
   "Coordinates": [
     {
-      "Name": "Special1",
+      "Name": "MP1",
       "X": 501.463,
       "Y": 766.533,
       "Z": 246.227
     },
     {
-      "Name": "Special2",
+      "Name": "MP2",
       "X": -532.027,
       "Y": 226.382,
       "Z": 266.996
     },
     {
-      "Name": "Special3",
+      "Name": "MP3",
       "X": 952.472,
       "Y": 545.744,
       "Z": 285.135
     },
     {
-      "Name": "Special4",
+      "Name": "MP4",
       "X": -66.313,
       "Y": -288.53,
       "Z": 194.425
+    },
+    {
+      "Name": "MP5",
+      "X": 923.06,
+      "Y": -603.93,
+      "Z": 208.05
     }
   ]
 }
