@@ -1,0 +1,131 @@
+{
+  "Name": "POI",
+  "Coordinates": [
+    {
+      "Name": "Park Quarry",
+      "X": -466.64,
+      "Y": 1208.17,
+      "Z": 370.63
+    },
+    {
+      "Name": "Park Mining Ops",
+      "X": -152.52,
+      "Y": 1144.02,
+      "Z": 356.19
+    },
+    {
+      "Name": "Turtle Pen",
+      "X": 34.45,
+      "Y": 1181.06,
+      "Z": 335.09
+    },
+    {
+      "Name": "Tailings Pond",
+      "X": 246.77,
+      "Y": 1116.52,
+      "Z": 326.79
+    },
+    {
+      "Name": "Crestfallen Trench",
+      "X": -37.53,
+      "Y": 691.51,
+      "Z": 217.73
+    },
+    {
+      "Name": "Shipwreck Excavation",
+      "X": -152.34,
+      "Y": 447.78,
+      "Z": 256.17
+    },
+    {
+      "Name": "Jadepillar Point Base",
+      "X": 420.08,
+      "Y": 566.49,
+      "Z": 260.71
+    },
+    {
+      "Name": "Fossilized Overlook",
+      "X": 509.05,
+      "Y": 177.35,
+      "Z": 302.76
+    },
+    {
+      "Name": "Behemoth's Gap Base",
+      "X": -242.6,
+      "Y": 141.32,
+      "Z": 173.15
+    },
+    {
+      "Name": "Behemoth's Drop",
+      "X": 23.27,
+      "Y": -11.07,
+      "Z": 100.12
+    },
+    {
+      "Name": "Prospector's Landing",
+      "X": 264.82,
+      "Y": -197.17,
+      "Z": 60.56
+    },
+    {
+      "Name": "Shell-Side Excavation",
+      "X": 626.38,
+      "Y": -231.6,
+      "Z": 81.07
+    },
+    {
+      "Name": "Melting Pools",
+      "X": 452.88,
+      "Y": -390.41,
+      "Z": 51.29
+    },
+    {
+      "Name": "Stalagmite Islet",
+      "X": 252.83,
+      "Y": -442.76,
+      "Z": 16.31
+    },
+    {
+      "Name": "Mycelium Colony",
+      "X": 281.68,
+      "Y": -619.51,
+      "Z": 15.84
+    },
+    {
+      "Name": "Luxon Terminus Fort",
+      "X": 106.67,
+      "Y": -577.33,
+      "Z": 21.74
+    },
+    {
+      "Name": "Crystal Cavern",
+      "X": -183.83,
+      "Y": -563.8,
+      "Z": 31.0
+    },
+    {
+      "Name": "Ley-Line Nexus",
+      "X": -326.47,
+      "Y": -1012.45,
+      "Z": 2.51
+    },
+    {
+      "Name": "Celestial Pool",
+      "X": 339.58,
+      "Y": -1039.9,
+      "Z": 2.33
+    },
+    {
+      "Name": "Ley-Line Islet",
+      "X": 560.12,
+      "Y": -752.04,
+      "Z": 49.14
+    },
+    {
+      "Name": "Littoral Cave",
+      "X": 593.84,
+      "Y": -1089.03,
+      "Z": 0.21
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "WP",
+  "Coordinates": [
+    {
+      "Name": "Park Mining Ops",
+      "X": -52.11,
+      "Y": 1146.34,
+      "Z": 355.47
+    },
+    {
+      "Name": "Jadepillar Point",
+      "X": 438.25,
+      "Y": 602.37,
+      "Z": 261.94
+    },
+    {
+      "Name": "Behemoth's Gap",
+      "X": -208.12,
+      "Y": 184.27,
+      "Z": 172.94
+    },
+    {
+      "Name": "Luxon Terminus",
+      "X": 85.45,
+      "Y": -507.24,
+      "Z": 14.44
+    }
+  ]
+}
