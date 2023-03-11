@@ -1,0 +1,108 @@
+{
+  "Name": "06.Hallowed Ground",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "Instance-Hallowed-Ground",
+      "X": 1206.15,
+      "Y": 80.85,
+      "Z": 259.31
+    },
+    {
+      "Name": "talk",
+      "X": 1214.57,
+      "Y": 90.49,
+      "Z": 257.04
+    },
+    {
+      "Name": "port",
+      "X": 1401.29,
+      "Y": 321.43,
+      "Z": 247.97
+    },
+    {
+      "Name": "kill",
+      "X": 1421.77,
+      "Y": 349.78,
+      "Z": 251.14
+    },
+    {
+      "Name": "talk",
+      "X": 1440.15,
+      "Y": 371.38,
+      "Z": 251.24
+    },
+    {
+      "Name": "defeat-queen",
+      "X": 1440.15,
+      "Y": 371.38,
+      "Z": 251.24
+    },
+    {
+      "Name": "talk-if-you-want-extra-story-lore",
+      "X": 1421.8,
+      "Y": 348.11,
+      "Z": 251.03
+    },
+    {
+      "Name": "Clear",
+      "X": 1525.87,
+      "Y": 471.78,
+      "Z": 236.18
+    },
+    {
+      "Name": "clear",
+      "X": 1602.82,
+      "Y": 542.13,
+      "Z": 222.04
+    },
+    {
+      "Name": "more-lore-after-boss-or-next",
+      "X": 1597.58,
+      "Y": 538.35,
+      "Z": 221.74
+    },
+    {
+      "Name": "port-and-talk-boss-fight-against-queens-after",
+      "X": 1731.14,
+      "Y": 657.44,
+      "Z": 195.57
+    },
+    {
+      "Name": "after-fight-talk",
+      "X": 1729.62,
+      "Y": 654.47,
+      "Z": 195.49
+    },
+    {
+      "Name": "Show-Respect",
+      "X": 1743.53,
+      "Y": 668.45,
+      "Z": 198.07
+    },
+    {
+      "Name": "Show-Respect",
+      "X": 1676.29,
+      "Y": 665.57,
+      "Z": 199.38
+    },
+    {
+      "Name": "Show-Respect",
+      "X": 1732.53,
+      "Y": 599.42,
+      "Z": 199.81
+    },
+    {
+      "Name": "talk",
+      "X": 1728.53,
+      "Y": 654.05,
+      "Z": 195.47
+    },
+    {
+      "Name": "Chapter-done",
+      "X": 1728.53,
+      "Y": 654.05,
+      "Z": 195.47
+    }
+  ]
+}
