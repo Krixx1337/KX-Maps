@@ -1,5 +1,5 @@
 # KX-Maps
-Official repository of teleport files made by the [KX Trainer](https://krixx.xyz/) community. These files are used for exploring the maps much easier in Guild Wars 2!
+Official repository of teleport files made by the [KX Trainer](https://kxtools.xyz/) community. These files are used for exploring the maps much easier in Guild Wars 2!
 
 ## Usage
 To use these files, you need to have a paid version of KX Trainer. If you have it, you need to clone this repository and replace your `Maps` folder with the one from here. Then you need to load the desired file in the trainer and start teleporting.
