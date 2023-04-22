@@ -1,0 +1,108 @@
+{
+  "Name": "13.Small Victory (Epilogue)",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "Instance-start",
+      "X": -863.31,
+      "Y": -120.35,
+      "Z": 1.37
+    },
+    {
+      "Name": "Enter-City",
+      "X": -937.36,
+      "Y": -120.11,
+      "Z": 3.31
+    },
+    {
+      "Name": "talk-with-Taimi",
+      "X": -923.46,
+      "Y": -111.74,
+      "Z": 2.12
+    },
+    {
+      "Name": "talk-with-Imann",
+      "X": -995.94,
+      "Y": -120.44,
+      "Z": 10.74
+    },
+    {
+      "Name": "talk-Imann-second-spot",
+      "X": -1014.71,
+      "Y": -123.33,
+      "Z": 10.76
+    },
+    {
+      "Name": "talk-imann-third-spot",
+      "X": -1053.41,
+      "Y": -118.58,
+      "Z": 10.77
+    },
+    {
+      "Name": "Optional",
+      "X": -1089.41,
+      "Y": -86.97,
+      "Z": 10.76
+    },
+    {
+      "Name": "Optional",
+      "X": -1097.28,
+      "Y": -99.65,
+      "Z": 10.76
+    },
+    {
+      "Name": "Optional",
+      "X": -1092.02,
+      "Y": -149.17,
+      "Z": 10.77
+    },
+    {
+      "Name": "Optional",
+      "X": -1038.66,
+      "Y": -156.23,
+      "Z": 10.77
+    },
+    {
+      "Name": "Optional",
+      "X": -1038.86,
+      "Y": -138.91,
+      "Z": 10.77
+    },
+    {
+      "Name": "Optional",
+      "X": -1056.83,
+      "Y": -124.76,
+      "Z": 10.77
+    },
+    {
+      "Name": "Optional",
+      "X": -1054.93,
+      "Y": -119.24,
+      "Z": 10.77
+    },
+    {
+      "Name": "Optional",
+      "X": -1044.02,
+      "Y": -81.72,
+      "Z": 10.64
+    },
+    {
+      "Name": "hold-speech-choose-what-you-want",
+      "X": -1069.74,
+      "Y": -87.52,
+      "Z": 12.69
+    },
+    {
+      "Name": "talk-with-the-squad",
+      "X": -1195.34,
+      "Y": -128.74,
+      "Z": 0.97
+    },
+    {
+      "Name": "enjoy-the-cutscene-END-of-PoF",
+      "X": -1195.43,
+      "Y": -129.67,
+      "Z": 0.97
+    }
+  ]
+}
