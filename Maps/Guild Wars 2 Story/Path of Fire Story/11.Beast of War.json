@@ -1,0 +1,186 @@
+{
+  "Name": "11.Beast of War",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "instance-start",
+      "X": -69.93,
+      "Y": -278.09,
+      "Z": 133.09
+    },
+    {
+      "Name": "check-in-with-your-team",
+      "X": -77.11,
+      "Y": -268.41,
+      "Z": 133.09
+    },
+    {
+      "Name": "talk-with-Rytlock",
+      "X": -76.3,
+      "Y": -269.83,
+      "Z": 133.09
+    },
+    {
+      "Name": "check-in-with-the-Awakened-generals",
+      "X": -34.34,
+      "Y": -157.92,
+      "Z": 131.09
+    },
+    {
+      "Name": "FIGHT",
+      "X": -111.94,
+      "Y": -151.82,
+      "Z": 125.0
+    },
+    {
+      "Name": "after-first-bar-is-done-get-here-to-fight-assembler",
+      "X": -59.18,
+      "Y": -145.61,
+      "Z": 130.29
+    },
+    {
+      "Name": "after-the-fight-here",
+      "X": 38.4,
+      "Y": -148.84,
+      "Z": 132.27
+    },
+    {
+      "Name": "get-on-your-skimmer",
+      "X": 55.28,
+      "Y": -147.91,
+      "Z": 133.15
+    },
+    {
+      "Name": "next",
+      "X": 308.68,
+      "Y": -290.85,
+      "Z": 140.81
+    },
+    {
+      "Name": "next-fight",
+      "X": 443.59,
+      "Y": -387.5,
+      "Z": 154.05
+    },
+    {
+      "Name": "after-fight-next-ports-here",
+      "X": 484.8,
+      "Y": -264.8,
+      "Z": 151.45
+    },
+    {
+      "Name": "next",
+      "X": 389.77,
+      "Y": -201.88,
+      "Z": 164.33
+    },
+    {
+      "Name": "next",
+      "X": 358.15,
+      "Y": -157.23,
+      "Z": 152.05
+    },
+    {
+      "Name": "next",
+      "X": 514.57,
+      "Y": 6.59,
+      "Z": 169.09
+    },
+    {
+      "Name": "next",
+      "X": 363.26,
+      "Y": 184.54,
+      "Z": 135.1
+    },
+    {
+      "Name": "next",
+      "X": 424.32,
+      "Y": 268.13,
+      "Z": 169.42
+    },
+    {
+      "Name": "next-mini-boss",
+      "X": 441.34,
+      "Y": 324.06,
+      "Z": 180.76
+    },
+    {
+      "Name": "after-fight-next-ports-here",
+      "X": 593.24,
+      "Y": 297.94,
+      "Z": 189.29
+    },
+    {
+      "Name": "destroy",
+      "X": 593.69,
+      "Y": 297.61,
+      "Z": 189.29
+    },
+    {
+      "Name": "destroy",
+      "X": 562.77,
+      "Y": 80.95,
+      "Z": 167.52
+    },
+    {
+      "Name": "destroy",
+      "X": 748.06,
+      "Y": 93.82,
+      "Z": 193.5
+    },
+    {
+      "Name": "kill",
+      "X": 748.88,
+      "Y": 113.51,
+      "Z": 193.45
+    },
+    {
+      "Name": "destroy",
+      "X": 819.87,
+      "Y": 123.64,
+      "Z": 218.89
+    },
+    {
+      "Name": "destroy-kill",
+      "X": 871.74,
+      "Y": 56.42,
+      "Z": 219.12
+    },
+    {
+      "Name": "destroy",
+      "X": 930.77,
+      "Y": -12.22,
+      "Z": 219.17
+    },
+    {
+      "Name": "destroy&kill",
+      "X": 857.24,
+      "Y": -21.22,
+      "Z": 267.04
+    },
+    {
+      "Name": "next-is-boss-fight-with-Balthazar",
+      "X": 767.96,
+      "Y": -5.82,
+      "Z": 308.71
+    },
+    {
+      "Name": "Get-ready",
+      "X": 687.88,
+      "Y": -8.65,
+      "Z": 343.76
+    },
+    {
+      "Name": "FIGHT",
+      "X": 605.53,
+      "Y": -18.51,
+      "Z": 358.15
+    },
+    {
+      "Name": "while-still-in-the-fight-chapter-change-into-To-kill-a-GOD",
+      "X": 595.35,
+      "Y": -10.44,
+      "Z": 355.35
+    }
+  ]
+}

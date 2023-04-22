@@ -1,0 +1,30 @@
+{
+  "Name": "12.To Kill a God",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "inside-the-boss-arena-kill-balthazar",
+      "X": 623.36,
+      "Y": -15.9,
+      "Z": 358.15
+    },
+    {
+      "Name": "after-cutscene-go-to-aurene",
+      "X": 579.94,
+      "Y": -19.36,
+      "Z": 358.15
+    },
+    {
+      "Name": "check-in-with-your-team",
+      "X": 624.26,
+      "Y": -19.36,
+      "Z": 358.15
+    },
+    {
+      "Name": "CHAPTER-DONE",
+      "X": 624.26,
+      "Y": -19.36,
+      "Z": 358.15
+    }
+  ]
+}
