@@ -1,0 +1,156 @@
+{
+  "Name": "Story",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "start",
+      "X": -391.01,
+      "Y": 265.02,
+      "Z": 263.67
+    },
+    {
+      "Name": "kill-to-trigger-event-trigger",
+      "X": -347.26,
+      "Y": 152.0,
+      "Z": 256.36
+    },
+    {
+      "Name": "kill-boss",
+      "X": -265.95,
+      "Y": 53.61,
+      "Z": 256.32
+    },
+    {
+      "Name": "pull",
+      "X": -269.31,
+      "Y": 37.05,
+      "Z": 256.25
+    },
+    {
+      "Name": "trigger-cutscene",
+      "X": -110.69,
+      "Y": 76.39,
+      "Z": 223.29
+    },
+    {
+      "Name": "kill",
+      "X": -106.7,
+      "Y": 75.76,
+      "Z": 223.1
+    },
+    {
+      "Name": "kill-mini-boss",
+      "X": -87.21,
+      "Y": 73.51,
+      "Z": 223.1
+    },
+    {
+      "Name": "Examine",
+      "X": -8.98,
+      "Y": 0.47,
+      "Z": 223.11
+    },
+    {
+      "Name": "get-part",
+      "X": -76.88,
+      "Y": 128.06,
+      "Z": 223.1
+    },
+    {
+      "Name": "repair",
+      "X": -8.91,
+      "Y": 0.47,
+      "Z": 223.1
+    },
+    {
+      "Name": "get-part",
+      "X": -76.4,
+      "Y": 128.06,
+      "Z": 223.11
+    },
+    {
+      "Name": "repair",
+      "X": -7.97,
+      "Y": 0.47,
+      "Z": 223.12
+    },
+    {
+      "Name": "get-part-last",
+      "X": -76.06,
+      "Y": 128.06,
+      "Z": 223.1
+    },
+    {
+      "Name": "repair-last",
+      "X": -8.68,
+      "Y": 0.47,
+      "Z": 223.1
+    },
+    {
+      "Name": "trigger-cutscene",
+      "X": 337.78,
+      "Y": 21.91,
+      "Z": 179.61
+    },
+    {
+      "Name": "protect",
+      "X": 336.12,
+      "Y": 45.33,
+      "Z": 179.86
+    },
+    {
+      "Name": "trigger-cutscene",
+      "X": 346.11,
+      "Y": -51.9,
+      "Z": 176.35
+    },
+    {
+      "Name": "boss-time",
+      "X": 346.11,
+      "Y": -51.9,
+      "Z": 176.35
+    },
+    {
+      "Name": "boss-and-mini-bosses",
+      "X": 382.28,
+      "Y": -78.75,
+      "Z": 178.87
+    },
+    {
+      "Name": "after-boss-kill-the-3-golems-or-next-port",
+      "X": 384.03,
+      "Y": -85.49,
+      "Z": 178.86
+    },
+    {
+      "Name": "kill-mini-boss",
+      "X": 272.07,
+      "Y": -182.26,
+      "Z": 167.44
+    },
+    {
+      "Name": "trigger-cutscene",
+      "X": 267.5,
+      "Y": -309.92,
+      "Z": 140.84
+    },
+    {
+      "Name": "endboss-cutscene-trigger",
+      "X": 152.32,
+      "Y": -314.44,
+      "Z": 110.72
+    },
+    {
+      "Name": "use-air-walk-if-avaible-or-use-normal",
+      "X": 153.1,
+      "Y": -325.2,
+      "Z": 113.3
+    },
+    {
+      "Name": "Terminator-Refference-if-you-look-after-boss",
+      "X": 154.58,
+      "Y": -348.45,
+      "Z": 115.49
+    }
+  ]
+}
