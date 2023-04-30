@@ -1,0 +1,72 @@
+{
+  "Name": "P1 - Kopie",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "talk-select-Fergg-option-1",
+      "X": -366.6,
+      "Y": 272.89,
+      "Z": 263.49
+    },
+    {
+      "Name": "interact",
+      "X": -366.86,
+      "Y": 254.62,
+      "Z": 263.7
+    },
+    {
+      "Name": "cutscene-spot",
+      "X": -153.7,
+      "Y": -102.68,
+      "Z": 198.69
+    },
+    {
+      "Name": "after-cutscene-port-here",
+      "X": 89.02,
+      "Y": -126.41,
+      "Z": 217.85
+    },
+    {
+      "Name": "now-we-seperate-the-2-endbosses",
+      "X": 88.71,
+      "Y": -126.17,
+      "Z": 217.91
+    },
+    {
+      "Name": "first-we-kill-Commander-Kaeyi",
+      "X": 437.71,
+      "Y": -164.6,
+      "Z": 176.37
+    },
+    {
+      "Name": "now we-port-here-and-run-forward",
+      "X": 130.92,
+      "Y": -143.1,
+      "Z": 191.45
+    },
+    {
+      "Name": "now-first-boss-time",
+      "X": 167.62,
+      "Y": -114.81,
+      "Z": 180.28
+    },
+    {
+      "Name": "and-now-golems-",
+      "X": 374.83,
+      "Y": -56.84,
+      "Z": 176.36
+    },
+    {
+      "Name": "and-now-final-Boss-Tazza-cutscene-trigger",
+      "X": 410.87,
+      "Y": -131.34,
+      "Z": 181.39
+    },
+    {
+      "Name": "now-tazza-location-is-here-at-3-golems",
+      "X": 375.53,
+      "Y": -59.53,
+      "Z": 176.36
+    }
+  ]
+}
