@@ -1,0 +1,53 @@
+{
+  "Name": "Prologue Rally to Maguuma",
+  "Coordinates": [
+    {
+      "Name": "start-Mission",
+      "X": 263.16,
+      "Y": -475.71,
+      "Z": 508.4
+    },
+    {
+      "Name": "talk",
+      "X": 229.02,
+      "Y": -398.71,
+      "Z": 510.4
+    },
+    {
+      "Name": "check-in-with-friends",
+      "X": 85.85,
+      "Y": -355.76,
+      "Z": 507.42
+    },
+    {
+      "Name": "check-in-with-Marjory-and-Kas",
+      "X": -129.25,
+      "Y": -340.1,
+      "Z": 511.46
+    },
+    {
+      "Name": "help-lightbringer-Osa",
+      "X": -344.05,
+      "Y": -331.61,
+      "Z": 512.24
+    },
+    {
+      "Name": "talk-with-Canach-and-Taimi",
+      "X": -481.26,
+      "Y": -329.55,
+      "Z": 515.01
+    },
+    {
+      "Name": "cutscene",
+      "X": -487.22,
+      "Y": -349.07,
+      "Z": 521.96
+    },
+    {
+      "Name": "end-of-prologue",
+      "X": -496.0,
+      "Y": -382.73,
+      "Z": 524.49
+    }
+  ]
+}
