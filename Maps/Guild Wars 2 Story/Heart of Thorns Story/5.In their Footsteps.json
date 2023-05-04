@@ -1,0 +1,90 @@
+{
+  "Name": "5.In their Footsteps",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "talk",
+      "X": 31.16,
+      "Y": 185.08,
+      "Z": 536.48
+    },
+    {
+      "Name": "talk",
+      "X": -150.35,
+      "Y": 76.37,
+      "Z": 457.65
+    },
+    {
+      "Name": "port-here-and-trigger-story-part-to-glide",
+      "X": -97.39,
+      "Y": 57.14,
+      "Z": 528.07
+    },
+    {
+      "Name": "now-jump-off-and-open-glider-then-next-ports",
+      "X": -98.71,
+      "Y": 52.66,
+      "Z": 529.93
+    },
+    {
+      "Name": "",
+      "X": -108.27,
+      "Y": 26.08,
+      "Z": 524.55
+    },
+    {
+      "Name": "",
+      "X": -110.96,
+      "Y": -7.39,
+      "Z": 514.27
+    },
+    {
+      "Name": "",
+      "X": -111.98,
+      "Y": -40.53,
+      "Z": 504.68
+    },
+    {
+      "Name": "",
+      "X": -112.4,
+      "Y": -71.69,
+      "Z": 495.66
+    },
+    {
+      "Name": "talk",
+      "X": -112.31,
+      "Y": -85.69,
+      "Z": 487.07
+    },
+    {
+      "Name": "port-to-village",
+      "X": -332.06,
+      "Y": -176.2,
+      "Z": 450.47
+    },
+    {
+      "Name": "port-up",
+      "X": -345.64,
+      "Y": -204.7,
+      "Z": 497.74
+    },
+    {
+      "Name": "talk-with-Scout-Ubek",
+      "X": -320.32,
+      "Y": -236.64,
+      "Z": 525.42
+    },
+    {
+      "Name": "leave-the-village",
+      "X": -395.42,
+      "Y": -190.97,
+      "Z": 450.84
+    },
+    {
+      "Name": "end-of-chapter-safespot",
+      "X": -503.06,
+      "Y": -155.94,
+      "Z": 510.09
+    }
+  ]
+}
