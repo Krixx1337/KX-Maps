@@ -830,7 +830,7 @@
       "Z": 28.24
     },
     {
-      "Name": "kill",
+      "Name": "kill-wait-until-dialogue-is-done",
       "X": -439.26,
       "Y": -635.68,
       "Z": 28.28
