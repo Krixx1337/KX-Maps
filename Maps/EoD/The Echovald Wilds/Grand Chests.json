@@ -1,6 +1,5 @@
 {
   "Name": "Grand Chests",
-  "Author": "Bloodmagicball",
   "Coordinates": [
     {
       "Name": "",
@@ -19,6 +18,12 @@
       "X": 1307.55,
       "Y": -108.0,
       "Z": 34.69
+    },
+    {
+      "Name": "",
+      "X": 1219.43,
+      "Y": -402.09,
+      "Z": 216.75
     }
   ]
 }
