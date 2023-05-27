@@ -1,0 +1,120 @@
+{
+  "Name": "11.Roots of Terror",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "instance-start",
+      "X": -514.51,
+      "Y": 104.87,
+      "Z": 179.97
+    },
+    {
+      "Name": "meet-with-team",
+      "X": -568.35,
+      "Y": 101.09,
+      "Z": 163.1
+    },
+    {
+      "Name": "Find-Canach",
+      "X": -590.77,
+      "Y": 245.7,
+      "Z": 118.32
+    },
+    {
+      "Name": "Speak-to-Pact-Lieutenant",
+      "X": -585.48,
+      "Y": 137.75,
+      "Z": 95.8
+    },
+    {
+      "Name": "Search-for-missing-Magister",
+      "X": -694.09,
+      "Y": 46.61,
+      "Z": 91.39
+    },
+    {
+      "Name": "search-continous",
+      "X": -785.74,
+      "Y": -85.15,
+      "Z": 95.3
+    },
+    {
+      "Name": "choose-a-route-we-go-with-the-next-port",
+      "X": -784.49,
+      "Y": -85.13,
+      "Z": 95.21
+    },
+    {
+      "Name": "this-route",
+      "X": -809.82,
+      "Y": -101.3,
+      "Z": 96.39
+    },
+    {
+      "Name": "port",
+      "X": -858.31,
+      "Y": -90.16,
+      "Z": 100.97
+    },
+    {
+      "Name": "port",
+      "X": -876.48,
+      "Y": -138.05,
+      "Z": 83.61
+    },
+    {
+      "Name": "port",
+      "X": -927.86,
+      "Y": -175.33,
+      "Z": 96.88
+    },
+    {
+      "Name": "port",
+      "X": -939.8,
+      "Y": -153.25,
+      "Z": 106.01
+    },
+    {
+      "Name": "port",
+      "X": -982.63,
+      "Y": -162.28,
+      "Z": 93.83
+    },
+    {
+      "Name": "kill-veteran",
+      "X": -1092.42,
+      "Y": -100.27,
+      "Z": 95.17
+    },
+    {
+      "Name": "after-fight-talk-with-Magister",
+      "X": -1117.83,
+      "Y": -105.73,
+      "Z": 94.22
+    },
+    {
+      "Name": "talk-with-braham-after",
+      "X": -1095.0,
+      "Y": -125.37,
+      "Z": 93.91
+    },
+    {
+      "Name": "now-ether-do-achievment-here-kill-all-without-getting-downed-or-nexst-port-for-story",
+      "X": -1106.2,
+      "Y": -135.0,
+      "Z": 94.15
+    },
+    {
+      "Name": "meet-friends",
+      "X": -998.65,
+      "Y": -161.33,
+      "Z": 90.87
+    },
+    {
+      "Name": "Chapter-done",
+      "X": -997.94,
+      "Y": -162.55,
+      "Z": 91.21
+    }
+  ]
+}
