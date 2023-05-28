@@ -1,0 +1,114 @@
+{
+  "Name": "15.Bitter Harvest",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "start-instance-Bitter-Harvest",
+      "X": 912.47,
+      "Y": 713.09,
+      "Z": 62.15
+    },
+    {
+      "Name": "meet-the-boys",
+      "X": 617.02,
+      "Y": -455.43,
+      "Z": 144.68
+    },
+    {
+      "Name": "port&kill",
+      "X": 571.55,
+      "Y": -520.86,
+      "Z": 145.92
+    },
+    {
+      "Name": "port-here",
+      "X": 380.81,
+      "Y": -756.8,
+      "Z": 73.64
+    },
+    {
+      "Name": "wait-till-dialogue-is-over-choose-to-rescue-Logan",
+      "X": 382.78,
+      "Y": -755.9,
+      "Z": 74.04
+    },
+    {
+      "Name": "kill",
+      "X": 8.56,
+      "Y": -764.88,
+      "Z": 74.3
+    },
+    {
+      "Name": "rescue-logan-attack",
+      "X": 3.89,
+      "Y": -751.22,
+      "Z": 76.18
+    },
+    {
+      "Name": "port&attack&rescue",
+      "X": 0.49,
+      "Y": -691.88,
+      "Z": 84.09
+    },
+    {
+      "Name": "after-fight-talk-with-your-team",
+      "X": 3.32,
+      "Y": -685.34,
+      "Z": 85.37
+    },
+    {
+      "Name": "port",
+      "X": -26.78,
+      "Y": -651.33,
+      "Z": 86.91
+    },
+    {
+      "Name": "destroy",
+      "X": -84.28,
+      "Y": -655.68,
+      "Z": 87.15
+    },
+    {
+      "Name": "destroy",
+      "X": -179.07,
+      "Y": -824.06,
+      "Z": 86.78
+    },
+    {
+      "Name": "trigger-scene",
+      "X": -325.02,
+      "Y": -925.93,
+      "Z": 70.68
+    },
+    {
+      "Name": "trigger-scene",
+      "X": -544.98,
+      "Y": -910.78,
+      "Z": 48.4
+    },
+    {
+      "Name": "port",
+      "X": -725.79,
+      "Y": -724.65,
+      "Z": 37.77
+    },
+    {
+      "Name": "port-here-and-trigger-faolain",
+      "X": -706.97,
+      "Y": -694.25,
+      "Z": 234.5
+    },
+    {
+      "Name": "kill",
+      "X": -691.73,
+      "Y": -703.41,
+      "Z": 234.68
+    },
+    {
+      "Name": "after-fight-chapter-done",
+      "X": -694.61,
+      "Y": -703.5,
+      "Z": 234.64
+    }
+  ]
+}
