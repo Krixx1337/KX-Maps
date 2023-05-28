@@ -1,0 +1,48 @@
+{
+  "Name": "14.Sign Cutting",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "find-the-tracks-here",
+      "X": -807.37,
+      "Y": 95.64,
+      "Z": 265.38
+    },
+    {
+      "Name": "next-track",
+      "X": -703.22,
+      "Y": -38.97,
+      "Z": 258.07
+    },
+    {
+      "Name": "next-track",
+      "X": -784.54,
+      "Y": -238.67,
+      "Z": 223.84
+    },
+    {
+      "Name": "next-track",
+      "X": -575.25,
+      "Y": -583.96,
+      "Z": 1.82
+    },
+    {
+      "Name": "next-track",
+      "X": -976.79,
+      "Y": -622.3,
+      "Z": -0.55
+    },
+    {
+      "Name": "use-port-to-get-to-dragonstand",
+      "X": -996.89,
+      "Y": -732.57,
+      "Z": 21.89
+    },
+    {
+      "Name": "find-your-team",
+      "X": 906.69,
+      "Y": 731.39,
+      "Z": 64.3
+    }
+  ]
+}
