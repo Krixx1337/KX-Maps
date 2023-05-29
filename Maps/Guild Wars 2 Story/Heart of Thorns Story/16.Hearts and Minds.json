@@ -1,0 +1,186 @@
+{
+  "Name": "16.Hearts and Minds",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "start-instance-Hearts-and-Minds",
+      "X": -788.26,
+      "Y": -690.77,
+      "Z": 30.46
+    },
+    {
+      "Name": "check-with-the-boys",
+      "X": -24.78,
+      "Y": -321.72,
+      "Z": 139.66
+    },
+    {
+      "Name": "defeat-them",
+      "X": -29.17,
+      "Y": -319.39,
+      "Z": 138.93
+    },
+    {
+      "Name": "find-trahearne",
+      "X": -245.09,
+      "Y": -254.71,
+      "Z": 107.74
+    },
+    {
+      "Name": "talk",
+      "X": -249.02,
+      "Y": -244.73,
+      "Z": 110.39
+    },
+    {
+      "Name": "choose-canach&braham",
+      "X": -241.58,
+      "Y": -248.74,
+      "Z": 108.95
+    },
+    {
+      "Name": "enter-mordremoth",
+      "X": -251.11,
+      "Y": -244.94,
+      "Z": 110.88
+    },
+    {
+      "Name": "defeat-boss-then-next",
+      "X": 346.56,
+      "Y": -236.72,
+      "Z": 287.17
+    },
+    {
+      "Name": "stand-in-the-rift-to-cleanse-Eir",
+      "X": 347.27,
+      "Y": -246.87,
+      "Z": 287.02
+    },
+    {
+      "Name": "next-fight-Canach",
+      "X": 344.11,
+      "Y": 339.27,
+      "Z": 286.88
+    },
+    {
+      "Name": "after-fight-stand-in-rift-to-cleanse-Canach",
+      "X": 345.33,
+      "Y": 329.05,
+      "Z": 286.86
+    },
+    {
+      "Name": "Mordremoth-Boss",
+      "X": -242.49,
+      "Y": 317.09,
+      "Z": 287.49
+    },
+    {
+      "Name": "Rytlock-Rift",
+      "X": -210.25,
+      "Y": 326.66,
+      "Z": 288.98
+    },
+    {
+      "Name": "Marjory-Rift",
+      "X": -210.12,
+      "Y": 325.83,
+      "Z": 289.01
+    },
+    {
+      "Name": "go-into-shield-with-team",
+      "X": -234.87,
+      "Y": 312.32,
+      "Z": 288.21
+    },
+    {
+      "Name": "Caith-Rift",
+      "X": -273.16,
+      "Y": 327.51,
+      "Z": 287.69
+    },
+    {
+      "Name": "Trahearne-Rift",
+      "X": -273.3,
+      "Y": 327.15,
+      "Z": 287.7
+    },
+    {
+      "Name": "shield-again-for-boss-aoe-attack",
+      "X": -234.84,
+      "Y": 312.71,
+      "Z": 288.2
+    },
+    {
+      "Name": "shield-again",
+      "X": -234.78,
+      "Y": 311.91,
+      "Z": 288.22
+    },
+    {
+      "Name": "now-final-boss-part",
+      "X": -241.78,
+      "Y": 315.66,
+      "Z": 287.62
+    },
+    {
+      "Name": "kill-all-minions-until-boss-open",
+      "X": -253.17,
+      "Y": 311.73,
+      "Z": 287.43
+    },
+    {
+      "Name": "then-use-next-port",
+      "X": -247.19,
+      "Y": 313.52,
+      "Z": 287.52
+    },
+    {
+      "Name": "activate-rift",
+      "X": -240.95,
+      "Y": 305.38,
+      "Z": 287.64
+    },
+    {
+      "Name": "attack!",
+      "X": -244.0,
+      "Y": 370.96,
+      "Z": 286.02
+    },
+    {
+      "Name": "deliver-death-blow",
+      "X": -244.35,
+      "Y": 373.17,
+      "Z": 286.02
+    },
+    {
+      "Name": "back-at-Trahearne",
+      "X": -251.14,
+      "Y": -245.71,
+      "Z": 110.53
+    },
+    {
+      "Name": "Take-Caladbolg",
+      "X": -231.35,
+      "Y": -250.29,
+      "Z": 108.15
+    },
+    {
+      "Name": "talk-with-him-then-kill-him",
+      "X": -251.46,
+      "Y": -245.17,
+      "Z": 110.72
+    },
+    {
+      "Name": "after-cutscene-Chapter-done",
+      "X": -726.78,
+      "Y": -722.81,
+      "Z": 37.77
+    },
+    {
+      "Name": "Heart-of-Thorns-Story-Complete",
+      "X": -726.78,
+      "Y": -722.81,
+      "Z": 37.77
+    }
+  ]
+}
