@@ -1,0 +1,48 @@
+{
+  "Name": "Magellan's Memento",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "starting-point-here",
+      "X": 872.96,
+      "Y": -856.4,
+      "Z": 23.39
+    },
+    {
+      "Name": "Journal1",
+      "X": 846.05,
+      "Y": -1053.19,
+      "Z": 35.01
+    },
+    {
+      "Name": "Journal2",
+      "X": 799.12,
+      "Y": -1075.17,
+      "Z": 65.55
+    },
+    {
+      "Name": "Journal3",
+      "X": 693.73,
+      "Y": -1055.44,
+      "Z": 37.77
+    },
+    {
+      "Name": "kill-GIant-Slime-and-loot-chest-to-complete",
+      "X": 677.18,
+      "Y": -1008.03,
+      "Z": 34.69
+    },
+    {
+      "Name": "Slime-Boss",
+      "X": 688.16,
+      "Y": -985.67,
+      "Z": 29.91
+    },
+    {
+      "Name": "Grand-Chest",
+      "X": 696.62,
+      "Y": -974.04,
+      "Z": 30.47
+    }
+  ]
+}
