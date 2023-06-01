@@ -1,6 +1,6 @@
 {
   "Name": "Thaumanova Reactor",
-  "Author": "Bloodmagicball",
+  "Author": "Bloodmagicball, Robsie tweak",
   "Coordinates": [
     {
       "Name": "Detonator",
@@ -21,7 +21,19 @@
       "Z": 22.97
     },
     {
-      "Name": "Labyrinth-End-Consols",
+      "Name": "Collider Console 1",
+      "X": -2.76,
+      "Y": -263.36,
+      "Z": 47
+    },
+    {
+      "Name": "Collider Console 1",
+      "X": -63.71,
+      "Y": -236.98,
+      "Z": 47
+    },
+    {
+      "Name": "Labyrinth-End-Controls - STAND IN MIDDLE",
       "X": -17.91,
       "Y": -283.99,
       "Z": 49.62
