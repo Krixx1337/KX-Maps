@@ -1,0 +1,378 @@
+{
+  "Name": "straits of devastation fishing",
+  "Author": "Tarusinner",
+  "Coordinates": [
+    {
+      "Name": "shore fish",
+      "X": 1108.13,
+      "Y": -487.06,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 722.69,
+      "Y": -544.31,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 741.41,
+      "Y": -449.33,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 714.75,
+      "Y": -117.05,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 561.26,
+      "Y": 21.23,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 475.73,
+      "Y": 27.77,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 605.9,
+      "Y": 210.55,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 576.11,
+      "Y": 449.65,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 576.24,
+      "Y": 553.74,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 486.46,
+      "Y": 611.5,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 396.73,
+      "Y": 565.1,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 424.21,
+      "Y": 435.73,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 268.86,
+      "Y": 118.17,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 154.82,
+      "Y": 136.4,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 466.12,
+      "Y": -120.91,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 429.92,
+      "Y": -197.77,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 208.12,
+      "Y": -515.22,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 130.82,
+      "Y": -332.82,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 88.96,
+      "Y": -214.58,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 179.89,
+      "Y": -51.62,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 96.41,
+      "Y": 3.74,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 123.93,
+      "Y": 101.2,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 56.71,
+      "Y": 157.16,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -26.83,
+      "Y": 101.78,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -83.87,
+      "Y": 110.12,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -101.55,
+      "Y": -8.35,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -149.57,
+      "Y": -231.69,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -145.46,
+      "Y": -346.03,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -190.06,
+      "Y": -91.56,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -247.85,
+      "Y": 194.9,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -54.98,
+      "Y": 361.77,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 225.96,
+      "Y": 388.45,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 397.03,
+      "Y": 425.11,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 405.21,
+      "Y": 298.79,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 628.94,
+      "Y": 345.82,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 562.41,
+      "Y": 442.95,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 550.98,
+      "Y": 562.55,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 401.3,
+      "Y": 539.17,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 343.02,
+      "Y": 708.8,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 225.43,
+      "Y": 747.8,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": 133.24,
+      "Y": 654.8,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 175.12,
+      "Y": 509.62,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": 272.19,
+      "Y": 597.96,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -7.94,
+      "Y": 554.12,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -154.0,
+      "Y": 524.87,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -72.27,
+      "Y": 415.32,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -159.75,
+      "Y": 408.17,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -371.17,
+      "Y": 425.51,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -572.79,
+      "Y": 445.47,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -687.61,
+      "Y": 575.27,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -760.2,
+      "Y": 500.05,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -902.44,
+      "Y": 596.49,
+      "Z": 1.69
+    },
+    {
+      "Name": "shore fish",
+      "X": -981.36,
+      "Y": 487.86,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -759.6,
+      "Y": 714.03,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -702.99,
+      "Y": 776.19,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -538.99,
+      "Y": 728.07,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fishoffshore fish",
+      "X": -389.87,
+      "Y": 674.64,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -456.65,
+      "Y": 909.55,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -274.59,
+      "Y": 879.13,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -214.16,
+      "Y": 958.27,
+      "Z": 1.69
+    },
+    {
+      "Name": "offshore fish",
+      "X": -146.91,
+      "Y": 825.57,
+      "Z": 1.61
+    },
+    {
+      "Name": "offshore fish",
+      "X": -154.77,
+      "Y": 717.18,
+      "Z": 1.69
+    }
+  ]
+}
