@@ -1,0 +1,1529 @@
+{
+  "Name": "Noxious Pod",
+  "Coordinates": [
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 277.753,
+      "Y": 813.197,
+      "Z": 103.029
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 192.202,
+      "Y": 856.191,
+      "Z": 86.396
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 179.108,
+      "Y": 737.133,
+      "Z": 57.964
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 198.327,
+      "Y": 715.79,
+      "Z": 59.123
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 187.38,
+      "Y": 675.583,
+      "Z": 57.363
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 187.601,
+      "Y": 657.691,
+      "Z": 56.051
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 194.592,
+      "Y": 584.187,
+      "Z": 54.478
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 168.522,
+      "Y": 717.364,
+      "Z": 60.193
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 175.884,
+      "Y": 667.61,
+      "Z": 52.582
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 589.331,
+      "Y": 671.135,
+      "Z": 53.114
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 463.657,
+      "Y": 522.938,
+      "Z": 32.729
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 604.107,
+      "Y": 433.24,
+      "Z": 75.728
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 594.385,
+      "Y": 401.873,
+      "Z": 83.692
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 596.809,
+      "Y": 367.224,
+      "Z": 89.8
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 572.978,
+      "Y": 327.638,
+      "Z": 98.165
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 551.326,
+      "Y": 328.004,
+      "Z": 98.952
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 542.125,
+      "Y": 304.33,
+      "Z": 107.005
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1033.63,
+      "Y": 322.407,
+      "Z": 79.982
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1046.037,
+      "Y": 297.957,
+      "Z": 79.785
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1039.175,
+      "Y": 190.689,
+      "Z": 87.389
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1001.688,
+      "Y": 200.578,
+      "Z": 88.074
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 987.202,
+      "Y": 207.877,
+      "Z": 90.841
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 977.55,
+      "Y": 228.892,
+      "Z": 89.41
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 213.371,
+      "Y": 45.481,
+      "Z": 151.966
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 657.99,
+      "Y": -101.047,
+      "Z": 67.094
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 569.647,
+      "Y": -382.683,
+      "Z": 110.415
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 139.036,
+      "Y": -230.48,
+      "Z": 119.165
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 16.351,
+      "Y": 470.606,
+      "Z": 86.984
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 5.627,
+      "Y": 474.802,
+      "Z": 88.595
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -27.11,
+      "Y": 457.653,
+      "Z": 94.176
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -18.608,
+      "Y": 429.092,
+      "Z": 84.15
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -30.159,
+      "Y": 422.199,
+      "Z": 84.557
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -16.565,
+      "Y": 414.963,
+      "Z": 83.207
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -238.2,
+      "Y": 159.323,
+      "Z": 120.321
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -242.461,
+      "Y": 122.794,
+      "Z": 123.756
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -178.413,
+      "Y": 179.01,
+      "Z": 137.066
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -175.134,
+      "Y": 84.844,
+      "Z": 132.31
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -201.034,
+      "Y": 73.153,
+      "Z": 127.654
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -231.092,
+      "Y": 10.929,
+      "Z": 148.082
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -316.416,
+      "Y": -36.656,
+      "Z": 147.205
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -81.052,
+      "Y": 101.547,
+      "Z": 151.737
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -20.671,
+      "Y": 112.647,
+      "Z": 141.137
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -12.231,
+      "Y": 39.373,
+      "Z": 147.625
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 384.868,
+      "Y": 85.505,
+      "Z": 130.793
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 353.187,
+      "Y": 110.317,
+      "Z": 126.909
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 303.929,
+      "Y": 129.744,
+      "Z": 132.105
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 296.154,
+      "Y": 179.539,
+      "Z": 137.188
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 361.004,
+      "Y": 197.354,
+      "Z": 146.604
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 381.118,
+      "Y": 185.095,
+      "Z": 130.851
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 340.918,
+      "Y": 55.13,
+      "Z": 45.173
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 344.364,
+      "Y": 71.478,
+      "Z": 42.885
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 306.378,
+      "Y": 27.316,
+      "Z": 62.861
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 286.583,
+      "Y": 32.346,
+      "Z": 69.435
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 281.739,
+      "Y": 129.431,
+      "Z": 42.011
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 290.415,
+      "Y": 137.124,
+      "Z": 39.872
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 883.311,
+      "Y": -12.466,
+      "Z": 52.224
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 879.667,
+      "Y": -26.226,
+      "Z": 55.375
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 843.219,
+      "Y": -47.089,
+      "Z": 55.611
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 813.915,
+      "Y": -53.556,
+      "Z": 53.444
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 797.395,
+      "Y": -64.052,
+      "Z": 53.714
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 786.161,
+      "Y": -75.327,
+      "Z": 55.774
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1006.991,
+      "Y": 41.233,
+      "Z": 79.138
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1053.28,
+      "Y": 112.155,
+      "Z": 80.015
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -311.574,
+      "Y": 569.506,
+      "Z": 22.651
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -447.748,
+      "Y": 488.378,
+      "Z": 20.667
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -337.272,
+      "Y": 547.41,
+      "Z": 140.486
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -285.481,
+      "Y": 593.456,
+      "Z": 141.861
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -271.819,
+      "Y": 639.802,
+      "Z": 149.009
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -284.442,
+      "Y": 652.411,
+      "Z": 149.343
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -286.443,
+      "Y": 691.403,
+      "Z": 150.808
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -255.381,
+      "Y": 684.844,
+      "Z": 149.983
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -163.027,
+      "Y": 733.497,
+      "Z": 148.941
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -202.187,
+      "Y": 618.947,
+      "Z": 136.627
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -193.228,
+      "Y": 596.413,
+      "Z": 133.513
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -181.486,
+      "Y": 549.52,
+      "Z": 137.645
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 211.166,
+      "Y": 669.346,
+      "Z": 60.98
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 200.662,
+      "Y": 726.636,
+      "Z": 57.8
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 164.437,
+      "Y": 683.923,
+      "Z": 56.016
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 186.492,
+      "Y": 685.824,
+      "Z": 57.061
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 429.397,
+      "Y": 550.375,
+      "Z": 41.149
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 481.105,
+      "Y": 347.167,
+      "Z": 91.69
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 568.582,
+      "Y": 377.888,
+      "Z": 84.164
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 955.74,
+      "Y": 310.097,
+      "Z": 87.886
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 964.807,
+      "Y": 246.343,
+      "Z": 92.857
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 100.535,
+      "Y": 473.646,
+      "Z": 77.946
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 28.341,
+      "Y": 470.62,
+      "Z": 85.352
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -16.466,
+      "Y": 467.846,
+      "Z": 56.735
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -16.09,
+      "Y": 467.781,
+      "Z": 90.495
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -24.132,
+      "Y": 449.336,
+      "Z": 88.757
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -20.554,
+      "Y": 439.386,
+      "Z": 86.493
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 325.784,
+      "Y": 186.827,
+      "Z": 137.109
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 344.326,
+      "Y": 195.579,
+      "Z": 141.116
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 866.09,
+      "Y": -32.019,
+      "Z": 55.139
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 852.164,
+      "Y": -41.907,
+      "Z": 55.726
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 764.241,
+      "Y": -41.078,
+      "Z": 54.875
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -64.986,
+      "Y": 278.475,
+      "Z": 94.226
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -78.675,
+      "Y": 32.545,
+      "Z": 143.996
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -30.057,
+      "Y": 59.652,
+      "Z": 144.308
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -69.332,
+      "Y": -27.983,
+      "Z": 154.052
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 6.162,
+      "Y": -14.217,
+      "Z": 152.25
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 327.963,
+      "Y": 54.234,
+      "Z": 43.43
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 304.028,
+      "Y": 80.777,
+      "Z": 53.22
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -258.446,
+      "Y": 536.475,
+      "Z": 138.066
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -234.499,
+      "Y": 579.587,
+      "Z": 135.588
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -215.037,
+      "Y": 763.706,
+      "Z": 147.328
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -177.387,
+      "Y": 749.695,
+      "Z": 152.185
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -157.984,
+      "Y": 640.651,
+      "Z": 141.033
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 360.686,
+      "Y": 750.722,
+      "Z": 140.064
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 66.313,
+      "Y": 696.979,
+      "Z": 108.722
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 170.737,
+      "Y": 725.897,
+      "Z": 61.464
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 317.77,
+      "Y": 366.009,
+      "Z": 162.742
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 417.433,
+      "Y": 432.738,
+      "Z": 126.476
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 579.991,
+      "Y": 351.012,
+      "Z": 92.43
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 469.97,
+      "Y": 197.606,
+      "Z": 151.941
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 423.85,
+      "Y": 204.052,
+      "Z": 151.199
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 363.507,
+      "Y": 91.762,
+      "Z": 126.657
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 302.202,
+      "Y": 100.964,
+      "Z": 150.662
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 465.707,
+      "Y": 136.135,
+      "Z": 178.077
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 565.241,
+      "Y": -13.048,
+      "Z": 134.636
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 754.76,
+      "Y": -53.565,
+      "Z": 56.172
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 831.317,
+      "Y": -51.449,
+      "Z": 55.478
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 804.093,
+      "Y": 16.592,
+      "Z": 55.279
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 890.007,
+      "Y": 130.18,
+      "Z": 42.8
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1116.793,
+      "Y": 477.515,
+      "Z": 9.036
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 438.408,
+      "Y": 794.144,
+      "Z": 117.506
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 45.063,
+      "Y": 866.464,
+      "Z": 71.134
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 160.116,
+      "Y": 666.988,
+      "Z": 55.479
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 190.093,
+      "Y": 704.907,
+      "Z": 57.978
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 619.831,
+      "Y": 536.563,
+      "Z": 84.863
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 601.8,
+      "Y": 452.212,
+      "Z": 106.23
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 614.541,
+      "Y": 340.46,
+      "Z": 124.177
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 419.546,
+      "Y": 321.438,
+      "Z": 147.766
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1047.691,
+      "Y": 308.176,
+      "Z": 80.927
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 824.662,
+      "Y": 485.611,
+      "Z": 5.655
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 985.16,
+      "Y": 234.031,
+      "Z": 86.791
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1008.592,
+      "Y": 192.232,
+      "Z": 87.395
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1041.423,
+      "Y": 204.301,
+      "Z": 87.41
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 869.619,
+      "Y": 297.76,
+      "Z": 15.071
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 549.151,
+      "Y": 23.43,
+      "Z": 84.291
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 778.289,
+      "Y": -251.057,
+      "Z": 32.52
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1006.844,
+      "Y": 437.774,
+      "Z": 20.394
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 458.595,
+      "Y": 353.552,
+      "Z": 91.757
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 611.491,
+      "Y": 775.378,
+      "Z": 61.597
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 591.458,
+      "Y": 415.967,
+      "Z": 78.081
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 631.908,
+      "Y": 579.159,
+      "Z": 1.894
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1134.56,
+      "Y": 358.29,
+      "Z": 35.125
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 345.977,
+      "Y": 87.288,
+      "Z": 126.911
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 289.781,
+      "Y": 145.825,
+      "Z": 137.854
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 293.866,
+      "Y": 268.299,
+      "Z": 183.433
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 676.028,
+      "Y": -151.673,
+      "Z": 93.114
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -254.06,
+      "Y": 293.977,
+      "Z": 82.612
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 774.934,
+      "Y": 307.835,
+      "Z": 162.023
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 730.742,
+      "Y": 295.897,
+      "Z": 168.891
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 707.309,
+      "Y": 239.865,
+      "Z": 171.33
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 704.712,
+      "Y": 197.276,
+      "Z": 167.303
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 738.486,
+      "Y": 171.374,
+      "Z": 167.792
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 310.948,
+      "Y": 66.682,
+      "Z": 40.415
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 286.225,
+      "Y": 49.387,
+      "Z": 51.934
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 309.422,
+      "Y": 4.368,
+      "Z": 80.427
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 171.102,
+      "Y": 30.207,
+      "Z": 139.861
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 298.919,
+      "Y": 793.234,
+      "Z": 102.689
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -213.839,
+      "Y": 873.887,
+      "Z": 74.706
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 14.869,
+      "Y": 734.367,
+      "Z": 95.86
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 601.106,
+      "Y": 457.112,
+      "Z": 71.182
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1028.459,
+      "Y": 336.952,
+      "Z": 80.388
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 733.052,
+      "Y": 580.032,
+      "Z": 10.12
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -130.656,
+      "Y": 377.865,
+      "Z": 82.681
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -20.4,
+      "Y": 403.855,
+      "Z": 83.061
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 864.202,
+      "Y": 49.339,
+      "Z": 47.113
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 357.336,
+      "Y": 269.071,
+      "Z": 255.895
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -15.568,
+      "Y": 418.342,
+      "Z": 61.53
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 37.47,
+      "Y": 505.91,
+      "Z": 87.558
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 114.784,
+      "Y": 565.779,
+      "Z": 88.127
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 24.25,
+      "Y": 629.478,
+      "Z": 92.95
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 27.205,
+      "Y": 774.109,
+      "Z": 88.179
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 358.557,
+      "Y": 189.817,
+      "Z": 138.727
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 880.271,
+      "Y": -0.669,
+      "Z": 52.925
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 978.8,
+      "Y": 107.93,
+      "Z": 78.505
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1098.529,
+      "Y": 101.766,
+      "Z": 55.156
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 874.819,
+      "Y": 457.745,
+      "Z": 58.92
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 958.054,
+      "Y": 448.144,
+      "Z": 57.548
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1058.595,
+      "Y": 583.518,
+      "Z": 44.551
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 220.278,
+      "Y": -38.696,
+      "Z": 127.808
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 575.576,
+      "Y": -187.926,
+      "Z": 97.571
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 638.062,
+      "Y": -225.801,
+      "Z": 82.76
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 540.357,
+      "Y": -308.808,
+      "Z": 112.865
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 181.175,
+      "Y": -445.918,
+      "Z": 124.176
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 813.97,
+      "Y": 279.616,
+      "Z": 117.054
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 776.386,
+      "Y": 295.37,
+      "Z": 161.54
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 734.481,
+      "Y": 272.71,
+      "Z": 171.587
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 690.284,
+      "Y": 262.839,
+      "Z": 168.298
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 652.379,
+      "Y": 290.351,
+      "Z": 164.747
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 731.68,
+      "Y": 232.813,
+      "Z": 168.835
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 750.183,
+      "Y": 179.923,
+      "Z": 166.075
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 755.769,
+      "Y": 196.231,
+      "Z": 167.513
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -156.923,
+      "Y": 268.23,
+      "Z": 110.578
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -194.584,
+      "Y": 254.867,
+      "Z": 108.067
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -235.852,
+      "Y": -64.223,
+      "Z": 155.264
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -280.551,
+      "Y": -71.04,
+      "Z": 149.501
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 57.471,
+      "Y": -72.85,
+      "Z": 140.039
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 205.193,
+      "Y": 196.494,
+      "Z": 120.999
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -107.726,
+      "Y": 523.159,
+      "Z": 44.946
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -245.888,
+      "Y": 723.538,
+      "Z": 141.025
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1051.948,
+      "Y": 289.274,
+      "Z": 81.174
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1103.025,
+      "Y": 16.634,
+      "Z": 53.575
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1080.112,
+      "Y": -139.695,
+      "Z": 47.408
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 939.513,
+      "Y": -244.958,
+      "Z": 36.442
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 682.064,
+      "Y": -200.038,
+      "Z": 65.357
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 1108.838,
+      "Y": -29.363,
+      "Z": 74.316
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 233.914,
+      "Y": 333.26,
+      "Z": 207.264
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 294.022,
+      "Y": 200.581,
+      "Z": 216.189
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 436.256,
+      "Y": 916.499,
+      "Z": 140.156
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 462.902,
+      "Y": 736.178,
+      "Z": 103.966
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 76.329,
+      "Y": 222.919,
+      "Z": 157.911
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 155.526,
+      "Y": 295.774,
+      "Z": 138.023
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 482.314,
+      "Y": -11.983,
+      "Z": 155.006
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 739.085,
+      "Y": 138.764,
+      "Z": 162.384
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 626.973,
+      "Y": -16.449,
+      "Z": 79.102
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 472.166,
+      "Y": -317.018,
+      "Z": 116.934
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 652.788,
+      "Y": 457.482,
+      "Z": 6.344
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 724.964,
+      "Y": 350.614,
+      "Z": 178.748
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 702.071,
+      "Y": 366.804,
+      "Z": 172.603
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 328.576,
+      "Y": 729.878,
+      "Z": 114.597
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 552.908,
+      "Y": 134.341,
+      "Z": 154.55
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 575.747,
+      "Y": 325.999,
+      "Z": 98.874
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 357.827,
+      "Y": 416.76,
+      "Z": 158.753
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 614.758,
+      "Y": 49.334,
+      "Z": 129.726
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -358.593,
+      "Y": 355.063,
+      "Z": 122.795
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 893.384,
+      "Y": 83.507,
+      "Z": 60.597
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 798.705,
+      "Y": 481.001,
+      "Z": 102.144
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -231.387,
+      "Y": 288.052,
+      "Z": 66.392
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 271.985,
+      "Y": 691.75,
+      "Z": 113.186
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_richveins",
+      "X": -280.597,
+      "Y": -39.838,
+      "Z": 146.793
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn1",
+      "X": 118.353,
+      "Y": 705.124,
+      "Z": 55.719
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": 114.524,
+      "Y": 565.667,
+      "Z": 88.151
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2_2",
+      "X": -57.431,
+      "Y": 524.993,
+      "Z": 105.454
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2_1",
+      "X": -41.918,
+      "Y": 515.94,
+      "Z": 101.425
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignn2",
+      "X": -19.596,
+      "Y": 515.576,
+      "Z": 100.42
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc1",
+      "X": 480.057,
+      "Y": 386.707,
+      "Z": 77.054
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": 614.391,
+      "Y": 340.496,
+      "Z": 124.119
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc2",
+      "X": 393.989,
+      "Y": 103.976,
+      "Z": 128.322
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsignc2_1",
+      "X": 377.827,
+      "Y": 109.15,
+      "Z": 127.199
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": 156.983,
+      "Y": 152.478,
+      "Z": 119.969
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": 156.983,
+      "Y": 152.478,
+      "Z": 119.969
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": -16.453,
+      "Y": 468.114,
+      "Z": 56.73
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": -258.646,
+      "Y": 536.576,
+      "Z": 138.073
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": 57.409,
+      "Y": -72.889,
+      "Z": 140.062
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns1",
+      "X": 1047.258,
+      "Y": 259.769,
+      "Z": 82.436
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns1_1",
+      "X": 1040.023,
+      "Y": 267.579,
+      "Z": 80.883
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": 1052.434,
+      "Y": 289.347,
+      "Z": 81.392
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": 704.46,
+      "Y": 197.182,
+      "Z": 167.449
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_finish",
+      "X": 290.946,
+      "Y": 137.343,
+      "Z": 40.01
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
+      "X": -263.477,
+      "Y": 908.122,
+      "Z": 67.727
+    },
+    {
+      "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_signs.tw_hot_ds_noxiouspods_startsigns2",
+      "X": 800.037,
+      "Y": 21.526,
+      "Z": 57.305
+    }
+  ]
+}
