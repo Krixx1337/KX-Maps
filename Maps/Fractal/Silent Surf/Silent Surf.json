@@ -1,0 +1,210 @@
+{
+  "Name": "Silent Surf",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "talk",
+      "X": 226.05,
+      "Y": 185.85,
+      "Z": 770.26
+    },
+    {
+      "Name": "take-if-needed",
+      "X": 237.83,
+      "Y": 187.23,
+      "Z": 770.27
+    },
+    {
+      "Name": "port-down",
+      "X": 244.53,
+      "Y": 180.08,
+      "Z": 680.97
+    },
+    {
+      "Name": "talk",
+      "X": 247.42,
+      "Y": 162.62,
+      "Z": 680.46
+    },
+    {
+      "Name": "take",
+      "X": 244.75,
+      "Y": 166.67,
+      "Z": 680.67
+    },
+    {
+      "Name": "port-here-use-zip",
+      "X": 248.64,
+      "Y": 107.38,
+      "Z": 685.24
+    },
+    {
+      "Name": "use-zip-then-parachut-get-in-circle",
+      "X": 260.2,
+      "Y": 31.89,
+      "Z": 650.21
+    },
+    {
+      "Name": "circle-air-port",
+      "X": 224.69,
+      "Y": 193.3,
+      "Z": 582.43
+    },
+    {
+      "Name": "get-2-players-in-circle",
+      "X": 225.86,
+      "Y": 191.91,
+      "Z": 561.19
+    },
+    {
+      "Name": "defend",
+      "X": 227.73,
+      "Y": 188.91,
+      "Z": 561.18
+    },
+    {
+      "Name": "Mistlock-Sungularity",
+      "X": 242.45,
+      "Y": 196.55,
+      "Z": 561.36
+    },
+    {
+      "Name": "take",
+      "X": 223.58,
+      "Y": 181.98,
+      "Z": 560.67
+    },
+    {
+      "Name": "jump-down-use-para",
+      "X": 229.45,
+      "Y": 175.92,
+      "Z": 559.35
+    },
+    {
+      "Name": "Bouncing-Mushrooms-air-port",
+      "X": 254.95,
+      "Y": 139.87,
+      "Z": 460.39
+    },
+    {
+      "Name": "use-this-Mushroom-",
+      "X": 255.97,
+      "Y": 136.58,
+      "Z": 423.99
+    },
+    {
+      "Name": "port-here",
+      "X": 297.36,
+      "Y": -8.52,
+      "Z": 466.57
+    },
+    {
+      "Name": "hop-in",
+      "X": 286.76,
+      "Y": -50.48,
+      "Z": 470.62
+    },
+    {
+      "Name": "next-place-for-2-players",
+      "X": 236.3,
+      "Y": -97.76,
+      "Z": 395.13
+    },
+    {
+      "Name": "Mistlock-Singularity",
+      "X": 252.35,
+      "Y": -95.15,
+      "Z": 395.5
+    },
+    {
+      "Name": "defend",
+      "X": 238.3,
+      "Y": -97.71,
+      "Z": 395.27
+    },
+    {
+      "Name": "use-at-end-parachut",
+      "X": 269.45,
+      "Y": -125.55,
+      "Z": 391.87
+    },
+    {
+      "Name": "parachute-air-port",
+      "X": 199.86,
+      "Y": -281.88,
+      "Z": 379.43
+    },
+    {
+      "Name": "jump-on-shroom",
+      "X": 193.84,
+      "Y": -279.19,
+      "Z": 361.16
+    },
+    {
+      "Name": "landing-spot",
+      "X": -141.59,
+      "Y": -374.32,
+      "Z": 459.64
+    },
+    {
+      "Name": "next-spot",
+      "X": -164.76,
+      "Y": -218.02,
+      "Z": 308.16
+    },
+    {
+      "Name": "this-shroom",
+      "X": -157.65,
+      "Y": -219.65,
+      "Z": 312.58
+    },
+    {
+      "Name": "parachut-air-spot",
+      "X": -120.39,
+      "Y": 114.32,
+      "Z": 370.9
+    },
+    {
+      "Name": "next-2-player-spot",
+      "X": -121.22,
+      "Y": 109.71,
+      "Z": 344.95
+    },
+    {
+      "Name": "defend",
+      "X": -121.95,
+      "Y": 114.59,
+      "Z": 345.08
+    },
+    {
+      "Name": "kill-mini-boss",
+      "X": -118.45,
+      "Y": 117.02,
+      "Z": 344.97
+    },
+    {
+      "Name": "take-jumpdown-check-on-her-parachut",
+      "X": -116.43,
+      "Y": 91.25,
+      "Z": 344.6
+    },
+    {
+      "Name": "parachut-air-port",
+      "X": -99.84,
+      "Y": 78.02,
+      "Z": 144.78
+    },
+    {
+      "Name": "check-on-her",
+      "X": -106.47,
+      "Y": 73.56,
+      "Z": 123.69
+    },
+    {
+      "Name": "kill-boss",
+      "X": -87.29,
+      "Y": 79.27,
+      "Z": 123.69
+    }
+  ]
+}
