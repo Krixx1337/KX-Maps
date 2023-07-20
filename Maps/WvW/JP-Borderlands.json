@@ -1,0 +1,36 @@
+{
+  "Name": "JP-All-Maps",
+  "Author": "Bloodmagicball",
+  "Coordinates": [
+    {
+      "Name": "Just-to-start",
+      "X": -815.55,
+      "Y": 641.17,
+      "Z": 37.99
+    },
+    {
+      "Name": "chest",
+      "X": -845.73,
+      "Y": 712.73,
+      "Z": 44.28
+    },
+    {
+      "Name": "chest",
+      "X": -884.24,
+      "Y": 649.23,
+      "Z": 65.14
+    },
+    {
+      "Name": "Open-Door",
+      "X": -917.67,
+      "Y": 474.92,
+      "Z": 37.22
+    },
+    {
+      "Name": "JP-Chest",
+      "X": -926.42,
+      "Y": 452.75,
+      "Z": 42.34
+    }
+  ]
+}
