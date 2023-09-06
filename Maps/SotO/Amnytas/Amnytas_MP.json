@@ -1,0 +1,71 @@
+{
+  "Name": "Amnytas MP",
+  "Coordinates": [
+    {
+      "Name": "The Arboretum",
+      "X": 14.68,
+      "Y": -539.41,
+      "Z": 516.88
+    },
+    {
+      "Name": "Bastion Shallows",
+      "X": -213.49,
+      "Y": -496.41,
+      "Z": 226.06
+    },
+    {
+      "Name": "Obscured by the Clouds",
+      "X": -496.76,
+      "Y": 48.42,
+      "Z": 919.4
+    },
+    {
+      "Name": "The Plaza of Wisdom",
+      "X": 899.65,
+      "Y": -524.88,
+      "Z": 717.49
+    },
+    {
+      "Name": "Balanced Perspective",
+      "X": -594.85,
+      "Y": 826.64,
+      "Z": 941.6
+    },
+    {
+      "Name": "The Debate Hall",
+      "X": -632.83,
+      "Y": 864.29,
+      "Z": 511.64
+    },
+    {
+      "Name": "Windy Bluff",
+      "X": 443.34,
+      "Y": 703.78,
+      "Z": 698.99
+    },
+    {
+      "Name": "Caveside Lookout",
+      "X": 450.8,
+      "Y": 508.8,
+      "Z": 475.64
+    },
+    {
+      "Name": "Defensive Operations Camp",
+      "X": 626.81,
+      "Y": 605.37,
+      "Z": 467.1
+    },
+    {
+      "Name": "Courtyard of Gathering Strength",
+      "X": 771.8,
+      "Y": 260.64,
+      "Z": 430.1
+    },
+    {
+      "Name": "Astral Ward Training Grounds",
+      "X": 628.52,
+      "Y": 272.97,
+      "Z": 411.62
+    }
+  ]
+}

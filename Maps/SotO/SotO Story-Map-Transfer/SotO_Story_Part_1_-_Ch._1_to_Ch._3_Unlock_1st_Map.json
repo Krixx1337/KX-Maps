@@ -1,0 +1,311 @@
+{
+  "Name": "SotO Story Part 1 - Ch. 1 to Ch. 3 (Unlock 1st Map)",
+  "Coordinates": [
+    {
+      "Name": "TP to Kessex Hills - Talk to Villager",
+      "X": 1469.14,
+      "Y": -386.95,
+      "Z": 61.41
+    },
+    {
+      "Name": "Talk to Villager 2",
+      "X": 1447.97,
+      "Y": -466.66,
+      "Z": 40.51
+    },
+    {
+      "Name": "Talk to Villager 3",
+      "X": 1489.22,
+      "Y": -540.37,
+      "Z": 40.37
+    },
+    {
+      "Name": "Talk to Villager 4",
+      "X": 1393.18,
+      "Y": -475.86,
+      "Z": 2.18
+    },
+    {
+      "Name": "Talk to Villager 5",
+      "X": 1394.52,
+      "Y": -424.35,
+      "Z": 63.3
+    },
+    {
+      "Name": "Talk to NPC",
+      "X": 1455.6,
+      "Y": -468.76,
+      "Z": 40.64
+    },
+    {
+      "Name": "Talk to Villager 6",
+      "X": 1496.46,
+      "Y": -509.54,
+      "Z": 36.75
+    },
+    {
+      "Name": "Talk to Villager 7 - Kill",
+      "X": 1372.46,
+      "Y": -493.1,
+      "Z": 2.21
+    },
+    {
+      "Name": "Talk to NPC",
+      "X": 1456.42,
+      "Y": -468.05,
+      "Z": 40.69
+    },
+    {
+      "Name": "Enter House",
+      "X": 1367.26,
+      "Y": -436.01,
+      "Z": 63.5
+    },
+    {
+      "Name": "Read Note",
+      "X": 1367.69,
+      "Y": -434.29,
+      "Z": 69.56
+    },
+    {
+      "Name": "TP to Gendarran Fields - Talk to Sketchy Individual",
+      "X": 83.97,
+      "Y": -666.53,
+      "Z": 11.66
+    },
+    {
+      "Name": "Call Friend First - Then TP to Lookout Tower",
+      "X": 123.28,
+      "Y": -531.91,
+      "Z": 29.58
+    },
+    {
+      "Name": "Enter Instance First - Then Kill Trash",
+      "X": 165.26,
+      "Y": -527.08,
+      "Z": 1.86
+    },
+    {
+      "Name": "Sketchy Camp - Interact with Bush",
+      "X": 111.14,
+      "Y": -640.97,
+      "Z": 10.51
+    },
+    {
+      "Name": "Investigate Paper",
+      "X": 52.35,
+      "Y": -643.24,
+      "Z": 25.1
+    },
+    {
+      "Name": "Interact with Crate",
+      "X": 47.7,
+      "Y": -629.74,
+      "Z": 26.24
+    },
+    {
+      "Name": "Hide in Bush - Listen to Chatter",
+      "X": 46.14,
+      "Y": -702.81,
+      "Z": 11.75
+    },
+    {
+      "Name": "Talk to NPC",
+      "X": 35.81,
+      "Y": -720.98,
+      "Z": 11.38
+    },
+    {
+      "Name": "Hide in Bush - Listen to Chatter",
+      "X": -37.59,
+      "Y": -672.13,
+      "Z": 13.74
+    },
+    {
+      "Name": "Hide in Bush - Listen to Chatter",
+      "X": -18.63,
+      "Y": -616.31,
+      "Z": 18.28
+    },
+    {
+      "Name": "Talk to NPC",
+      "X": 26.4,
+      "Y": -618.93,
+      "Z": 27.96
+    },
+    {
+      "Name": "Investigate Horn - Hide in Bush",
+      "X": 55.55,
+      "Y": -653.55,
+      "Z": 24.15
+    },
+    {
+      "Name": "Wait for NPCs - Prepare to Fight Champion",
+      "X": -71.91,
+      "Y": -626.11,
+      "Z": 9.34
+    },
+    {
+      "Name": "Balcony",
+      "X": 0.46,
+      "Y": -244.61,
+      "Z": 252.24
+    },
+    {
+      "Name": "Boss Platform",
+      "X": 0.46,
+      "Y": -142.55,
+      "Z": 220.14
+    },
+    {
+      "Name": "Let Boss Kill You Once (Scripted Defeat)",
+      "X": -1.88,
+      "Y": -129.72,
+      "Z": 220.28
+    },
+    {
+      "Name": "Let Boss Kill You Twice",
+      "X": -0.73,
+      "Y": -130.66,
+      "Z": 220.29
+    },
+    {
+      "Name": "Let Boss Kill You Thrice",
+      "X": -0.06,
+      "Y": -130.48,
+      "Z": 220.28
+    },
+    {
+      "Name": "Wait for Portal to Spawn and Jump In",
+      "X": 0.55,
+      "Y": 215.13,
+      "Z": 217.67
+    },
+    {
+      "Name": "NPC (Recommend Applying Swiftness)",
+      "X": 1229.79,
+      "Y": -363.33,
+      "Z": 116.7
+    },
+    {
+      "Name": "Kill Trash Mobs",
+      "X": 1274.56,
+      "Y": -465.9,
+      "Z": 116.44
+    },
+    {
+      "Name": "Kill Trash Mobs",
+      "X": 1275.52,
+      "Y": -498.12,
+      "Z": 148.75
+    },
+    {
+      "Name": "Talk to NPC",
+      "X": 1347.5,
+      "Y": -430.31,
+      "Z": 151.14
+    },
+    {
+      "Name": "Interact with Object",
+      "X": 1346.75,
+      "Y": -441.05,
+      "Z": 151.14
+    },
+    {
+      "Name": "Kill Trash Mobs",
+      "X": 1346.09,
+      "Y": -500.12,
+      "Z": 178.03
+    },
+    {
+      "Name": "Kill Trash Mobs",
+      "X": 1272.63,
+      "Y": -443.47,
+      "Z": 177.0
+    },
+    {
+      "Name": "Interact with Object",
+      "X": 1263.14,
+      "Y": -433.11,
+      "Z": 177.0
+    },
+    {
+      "Name": "Doorway",
+      "X": 1219.7,
+      "Y": -445.33,
+      "Z": 177.0
+    },
+    {
+      "Name": "Get on Skyscale",
+      "X": 1089.37,
+      "Y": -438.61,
+      "Z": 164.43
+    },
+    {
+      "Name": "Hover then Interact with Object",
+      "X": 1079.42,
+      "Y": -481.26,
+      "Z": 247.68
+    },
+    {
+      "Name": "Kill Trash then Interact",
+      "X": 1033.3,
+      "Y": -589.09,
+      "Z": 194.8
+    },
+    {
+      "Name": "Kill Trash then Interact",
+      "X": 984.05,
+      "Y": -476.57,
+      "Z": 157.28
+    },
+    {
+      "Name": "Kill Trash then Skyscale Hover and Interact",
+      "X": 1169.09,
+      "Y": -544.69,
+      "Z": 178.56
+    },
+    {
+      "Name": "Kill Trash",
+      "X": 989.33,
+      "Y": -348.43,
+      "Z": 256.92
+    },
+    {
+      "Name": "Kill Boss",
+      "X": 994.18,
+      "Y": -368.1,
+      "Z": 256.76
+    },
+    {
+      "Name": "Talk to NPC 1 - Click Through All",
+      "X": 985.96,
+      "Y": -336.99,
+      "Z": 256.76
+    },
+    {
+      "Name": "Talk to NPC 2 - Click Through All",
+      "X": 998.9,
+      "Y": -347.89,
+      "Z": 256.76
+    },
+    {
+      "Name": "Talk to NPC 3 - Click Through All",
+      "X": 969.53,
+      "Y": -353.72,
+      "Z": 256.76
+    },
+    {
+      "Name": "Talk to NPC 4",
+      "X": 996.29,
+      "Y": -360.49,
+      "Z": 256.76
+    },
+    {
+      "Name": "Exit Instance - First SotO Map Unlocked",
+      "X": 987.82,
+      "Y": -368.29,
+      "Z": 256.76
+    }
+  ]
+}

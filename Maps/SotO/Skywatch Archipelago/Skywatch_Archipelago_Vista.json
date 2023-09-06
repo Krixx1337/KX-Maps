@@ -1,0 +1,53 @@
+{
+  "Name": "Skywatch Archipelago Vista",
+  "Coordinates": [
+    {
+      "Name": "Wizard's Ascent Vista",
+      "X": 1215.74,
+      "Y": -418.88,
+      "Z": 217.19
+    },
+    {
+      "Name": "Garenhoff Vista",
+      "X": 613.81,
+      "Y": 20.43,
+      "Z": 475.58
+    },
+    {
+      "Name": "Skyward Marches Vista",
+      "X": -409.79,
+      "Y": -586.9,
+      "Z": 349.36
+    },
+    {
+      "Name": "Jade Mech Habitation Zone 03 Vista",
+      "X": -311.34,
+      "Y": 1.91,
+      "Z": 615.95
+    },
+    {
+      "Name": "Droknar's Light Vista",
+      "X": -812.34,
+      "Y": 236.81,
+      "Z": 733.49
+    },
+    {
+      "Name": "Wizard's Tower Vista",
+      "X": -1169.06,
+      "Y": 522.38,
+      "Z": 1012.59
+    },
+    {
+      "Name": "Rata Novus Promenade Vista",
+      "X": 450.62,
+      "Y": 331.5,
+      "Z": 493.32
+    },
+    {
+      "Name": "Primal Maguuma Vista",
+      "X": -395.51,
+      "Y": 533.85,
+      "Z": 700.74
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "Name": "Amnytas POI",
+  "Coordinates": [
+    {
+      "Name": "The Underways",
+      "X": -63.74,
+      "Y": -512.2,
+      "Z": 252.39
+    },
+    {
+      "Name": "Vass's Tower",
+      "X": 14.62,
+      "Y": -501.71,
+      "Z": 407.4
+    },
+    {
+      "Name": "Creature Corral",
+      "X": 150.03,
+      "Y": -558.69,
+      "Z": 298.11
+    },
+    {
+      "Name": "Botanical Skygarden",
+      "X": 410.67,
+      "Y": -645.75,
+      "Z": 307.44
+    },
+    {
+      "Name": "The Veranda",
+      "X": 412.6,
+      "Y": -830.39,
+      "Z": 250.12
+    },
+    {
+      "Name": "Nature's Shore Meditation Circle",
+      "X": 230.83,
+      "Y": -877.45,
+      "Z": 356.57
+    },
+    {
+      "Name": "The Infirmary",
+      "X": 4.85,
+      "Y": -730.96,
+      "Z": 335.48
+    },
+    {
+      "Name": "Concocter's Lab",
+      "X": -41.86,
+      "Y": -735.12,
+      "Z": 272.75
+    },
+    {
+      "Name": "Overmere Meditation Circle",
+      "X": -217.28,
+      "Y": -581.39,
+      "Z": 452.32
+    },
+    {
+      "Name": "Bastionmere",
+      "X": -344.02,
+      "Y": -565.71,
+      "Z": 237.8
+    },
+    {
+      "Name": "Empyreal ObservationRing",
+      "X": 48.6,
+      "Y": 312.61,
+      "Z": 797.43
+    },
+    {
+      "Name": "Cosmic Theater Ring",
+      "X": -214.93,
+      "Y": 48.01,
+      "Z": 797.43
+    },
+    {
+      "Name": "Celestial Control Ring",
+      "X": 47.12,
+      "Y": -208.38,
+      "Z": 797.43
+    },
+    {
+      "Name": "Astromic Nexus Ring",
+      "X": 313.38,
+      "Y": 48.35,
+      "Z": 797.43
+    },
+    {
+      "Name": "Spireshadow Lagoon",
+      "X": 222.25,
+      "Y": 152.84,
+      "Z": 498.9
+    },
+    {
+      "Name": "Spire's Heart",
+      "X": 50.34,
+      "Y": 46.34,
+      "Z": 767.64
+    },
+    {
+      "Name": "Lonesome Steeple",
+      "X": -238.8,
+      "Y": -138.77,
+      "Z": 446.47
+    },
+    {
+      "Name": "The Riftworks",
+      "X": -777.01,
+      "Y": -150.64,
+      "Z": 620.05
+    },
+    {
+      "Name": "Akeem's Tower",
+      "X": -537.38,
+      "Y": -140.74,
+      "Z": 670.33
+    },
+    {
+      "Name": "Natatorium Obscurusa",
+      "X": -659.23,
+      "Y": -150.32,
+      "Z": 740.24
+    },
+    {
+      "Name": "Contretemps",
+      "X": -615.31,
+      "Y": -122.39,
+      "Z": 620.0
+    },
+    {
+      "Name": "Cartography Chamber",
+      "X": -487.06,
+      "Y": 49.96,
+      "Z": 753.19
+    },
+    {
+      "Name": "Spiritual Center",
+      "X": -744.46,
+      "Y": 223.39,
+      "Z": 630.46
+    },
+    {
+      "Name": "Relic Repository",
+      "X": -477.71,
+      "Y": 296.26,
+      "Z": 627.87
+    },
+    {
+      "Name": "Dubious Islet",
+      "X": -370.25,
+      "Y": 533.97,
+      "Z": 518.01
+    },
+    {
+      "Name": "Isgarren's Tower",
+      "X": 875.39,
+      "Y": -559.26,
+      "Z": 469.13
+    },
+    {
+      "Name": "Cellar of Arcana",
+      "X": 796.11,
+      "Y": -704.54,
+      "Z": 339.19
+    },
+    {
+      "Name": "Pool of Reflecton",
+      "X": 649.1,
+      "Y": -451.86,
+      "Z": 391.47
+    },
+    {
+      "Name": "Erudition Arcade POI",
+      "X": 596.1,
+      "Y": -239.71,
+      "Z": 282.87
+    },
+    {
+      "Name": "Museum of Curiosities: Main Gallery",
+      "X": 776.93,
+      "Y": -122.03,
+      "Z": 335.94
+    },
+    {
+      "Name": "Museum of Curiosities: Hall of Giants",
+      "X": 887.59,
+      "Y": -82.27,
+      "Z": 332.38
+    },
+    {
+      "Name": "Grand Library of Amnytas POI",
+      "X": 890.14,
+      "Y": -335.13,
+      "Z": 355.92
+    },
+    {
+      "Name": "Harmony Green",
+      "X": -386.7,
+      "Y": 747.94,
+      "Z": 564.02
+    },
+    {
+      "Name": "Thaumaturgy Park",
+      "X": 42.56,
+      "Y": 590.99,
+      "Z": 539.43
+    },
+    {
+      "Name": "Equilibrium Glade",
+      "X": -656.94,
+      "Y": 730.69,
+      "Z": 563.04
+    },
+    {
+      "Name": "Lyhr's Towers",
+      "X": -593.78,
+      "Y": 863.93,
+      "Z": 724.57
+    },
+    {
+      "Name": "Great Debate Hall",
+      "X": -488.51,
+      "Y": 864.64,
+      "Z": 564.05
+    },
+    {
+      "Name": "Vass Memorial Medical Plaza",
+      "X": -134.5,
+      "Y": 864.02,
+      "Z": 645.14
+    },
+    {
+      "Name": "Circle of Rituals",
+      "X": 230.48,
+      "Y": 813.06,
+      "Z": 459.82
+    },
+    {
+      "Name": "Mabon's Tower",
+      "X": 435.24,
+      "Y": 678.58,
+      "Z": 561.72
+    },
+    {
+      "Name": "Kryptis Front Line",
+      "X": 542.77,
+      "Y": 812.96,
+      "Z": 467.17
+    },
+    {
+      "Name": "Might Brink Thicket",
+      "X": 868.37,
+      "Y": 739.03,
+      "Z": 452.34
+    },
+    {
+      "Name": "Spellcrafting Workshop",
+      "X": 479.77,
+      "Y": 597.39,
+      "Z": 468.15
+    },
+    {
+      "Name": "Crystal Pool",
+      "X": 476.63,
+      "Y": 466.84,
+      "Z": 473.21
+    },
+    {
+      "Name": "Defensive Operations Camp",
+      "X": 626.97,
+      "Y": 604.83,
+      "Z": 467.1
+    },
+    {
+      "Name": "Courtyard of Gathering Strength",
+      "X": 773.33,
+      "Y": 264.56,
+      "Z": 430.1
+    },
+    {
+      "Name": "Astral Ward Training Ground",
+      "X": 628.6,
+      "Y": 273.44,
+      "Z": 411.62
+    },
+    {
+      "Name": "Island of Cognizance",
+      "X": 243.51,
+      "Y": -200.68,
+      "Z": 388.41
+    },
+    {
+      "Name": "Gloaming isle",
+      "X": -817.39,
+      "Y": -554.16,
+      "Z": 314.81
+    },
+    {
+      "Name": "The Sea of Clouds",
+      "X": -753.13,
+      "Y": -845.8,
+      "Z": 464.18
+    }
+  ]
+}

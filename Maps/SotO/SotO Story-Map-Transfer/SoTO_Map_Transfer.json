@@ -1,0 +1,41 @@
+{
+  "Name": "SoTO Map Transfer",
+  "Coordinates": [
+    {
+      "Name": "Skywatch to Wizard's Tower",
+      "X": 1091.0,
+      "Y": -630.0,
+      "Z": 164.0
+    },
+    {
+      "Name": "Wizard's Tower to Skywatch",
+      "X": 47.63,
+      "Y": -264.0,
+      "Z": 406.14
+    },
+    {
+      "Name": "Wizard's Tower to Amnytas",
+      "X": 47.35,
+      "Y": 150.0,
+      "Z": 359.0
+    },
+    {
+      "Name": "Amnytas to Wizard's Tower",
+      "X": -78.59,
+      "Y": -546.0,
+      "Z": 336.88
+    },
+    {
+      "Name": "Wizard's Tower to Lion's Arch",
+      "X": 394.23,
+      "Y": -49.43,
+      "Z": 358.89
+    },
+    {
+      "Name": "Lion's Arch to Wizard's Tower",
+      "X": 208.88,
+      "Y": 318.00,
+      "Z": 48.34
+    }
+  ]
+}
