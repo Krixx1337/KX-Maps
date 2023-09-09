@@ -1,5 +1,6 @@
 {
   "Name": "Amnytas MP",
+  "Author": "Winter",
   "Coordinates": [
     {
       "Name": "The Arboretum",
@@ -66,6 +67,12 @@
       "X": 628.52,
       "Y": 272.97,
       "Z": 411.62
+    },
+    {
+      "Name": "Celestial Pilaster",
+      "X": 80.79,
+      "Y": -267.06,
+      "Z": 861.68
     }
   ]
 }
