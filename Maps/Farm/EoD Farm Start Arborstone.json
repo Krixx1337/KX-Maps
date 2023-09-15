@@ -1,0 +1,150 @@
+{
+  "Name": "Jade runestones farm",
+  "Author": "ChiefKeefe"
+  "Coordinates": [
+    {
+      "Name": "Arborstone_Tsuko_Talonedge",
+      "X": -963.48,
+      "Y": 792.65,
+      "Z": 11.91
+    },
+    {
+      "Name": "Take_torch",
+      "X": -651.71,
+      "Y": 193.89,
+      "Z": 188.6
+    },
+    {
+      "Name": "Brazier1",
+      "X": -815.33,
+      "Y": 257.83,
+      "Z": 176.97
+    },
+    {
+      "Name": "Brazier2",
+      "X": -921.22,
+      "Y": 286.37,
+      "Z": 188.08
+    },
+    {
+      "Name": "Brazier3",
+      "X": -1051.96,
+      "Y": 290.57,
+      "Z": 219.8
+    },
+    {
+      "Name": "Brazier4",
+      "X": -1066.92,
+      "Y": 432.11,
+      "Z": 221.36
+    },
+    {
+      "Name": "Brazier5",
+      "X": -1201.89,
+      "Y": 488.14,
+      "Z": 220.16
+    },
+    {
+      "Name": "Chest",
+      "X": -1196.91,
+      "Y": 490.93,
+      "Z": 217.33
+    },
+    {
+      "Name": "Veteran_Jade_Bulwark-part_of_story",
+      "X": -638.31,
+      "Y": -457.72,
+      "Z": 57.16
+    },
+    {
+      "Name": "Old_Bell_Shrine",
+      "X": 488.59,
+      "Y": 571.15,
+      "Z": 44.65
+    },
+    {
+      "Name": "transit to Kaening",
+      "X": 612.46,
+      "Y": 1039.89,
+      "Z": 19.47
+    },
+    {
+      "Name": "Kaening JP chest",
+      "X": 1211.11,
+      "Y": 829.07,
+      "Z": 234.51
+    },
+    {
+      "Name": "Engineer_Hu",
+      "X": -672.53,
+      "Y": 230.46,
+      "Z": 147.83
+    },
+    {
+      "Name": "Veteran_Purist_Necromancer",
+      "X": 1282.22,
+      "Y": -1.0,
+      "Z": 14.83
+    },
+    {
+      "Name": "Transit to Echovald",
+      "X": 1342.91,
+      "Y": -428.49,
+      "Z": 45.85
+    },
+    {
+      "Name": "Amber runestone",
+      "X": 871.78,
+      "Y": 134.6,
+      "Z": 39.77
+    },
+    {
+      "Name": "Kill runestone master",
+      "X": 892.17,
+      "Y": 31.85,
+      "Z": 1.77
+    },
+    {
+      "Name": "Chest",
+      "X": 763.34,
+      "Y": 122.18,
+      "Z": 14.51
+    },
+    {
+      "Name": "Chest 2",
+      "X": 587.12,
+      "Y": -406.31,
+      "Z": 243.56
+    },
+    {
+      "Name": "Chest 3",
+      "X": 1307.09,
+      "Y": 38.74,
+      "Z": 219.37
+    },
+    {
+      "Name": "Chest 4",
+      "X": 1307.55,
+      "Y": -108.0,
+      "Z": 34.69
+    },
+    {
+      "Name": "Chest 5",
+      "X": 1219.12,
+      "Y": -402.45,
+      "Z": 216.75
+    },
+    {
+      "Name": "Extra loot hurts",
+      "X": 432.49,
+      "Y": 193.23,
+      "Z": 122.96
+    },
+    {
+      "Name": "Safe Spot",
+      "X": 763.34,
+      "Y": 122.18,
+      "Z": 14.51
+    }
+  ]
+}
