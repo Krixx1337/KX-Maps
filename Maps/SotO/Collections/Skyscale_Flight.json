@@ -1,0 +1,342 @@
+{
+  "Name": "Skyscale Flight",
+  "Author": "Kubuzeer",
+  "Coordinates": [
+    {
+	  "Name": "Jahai-Bluffs-Launch",
+	  "X": 1014.69988,
+	  "Y": 363.6556,
+	  "Z": 272.73801
+	},
+	{
+	  "Name": "Jahai-Bluffs-Rift",
+	  "X": 996.30873,
+	  "Y": 419.43542,
+	  "Z": 292.44895
+	},
+	{
+	  "Name": "Domain-of-Vabbi-Launch",
+	  "X": 244.64699,
+	  "Y": -588.42189,
+	  "Z": 105.1786
+	},
+	{
+	  "Name": "Domain-of-Vabbi-Rift",
+	  "X": 248.47355,
+	  "Y": -669.00369,
+	  "Z": 123.7171
+	},
+	{
+	  "Name": "Domain-of-Kourna-Launch",
+	  "X": -779.88807,
+	  "Y": 939.56827,
+	  "Z": 72.87601
+	},
+	{
+	  "Name": "Domain-of-Kourna-Rift",
+	  "X": -857.08241,
+	  "Y": 901.77245,
+	  "Z": 73.38942
+	},
+	{
+	  "Name": "Domain-of-Istan-Launch",
+	  "X": 492.75523,
+	  "Y": 598.50677,
+	  "Z": 2.92486
+	},
+	{
+	  "Name": "Domain-of-Istan-Rift",
+	  "X": 457.98647,
+	  "Y": 652.7048,
+	  "Z": 17.74686
+	},
+	{
+	  "Name": "Sandswept-Isles-Launch",
+	  "X": 772.11931,
+	  "Y": 158.73678,
+	  "Z": 8.40766
+	},
+	{
+	  "Name": "Sandswept-Isles-Rift",
+	  "X": 678.38376,
+	  "Y": 203.86224,
+	  "Z": 76.70603
+	},
+	{
+	  "Name": "The-Desolation-Launch",
+	  "X": 95.50185,
+	  "Y": 1555.70726,
+	  "Z": 57.08585
+	},
+	{
+	  "Name": "The-Desolation-Rift",
+	  "X": -18.19422,
+	  "Y": 1535.21525,
+	  "Z": 59.28512
+	},
+	{
+	  "Name": "Elon-Riverlands-Launch",
+	  "X": -383.04305,
+	  "Y": -203.17958,
+	  "Z": 5.42803
+	},
+	{
+	  "Name": "Elon-Riverlands-Rift",
+	  "X": -421.51907,
+	  "Y": -278.17097,
+	  "Z": 27.98893
+	},
+	{
+	  "Name": "Crystal-Oasis-Launch",
+	  "X": 1139.20787,
+	  "Y": 370.57565,
+	  "Z": 171.35178
+	},
+	{
+	  "Name": "Crystal-Oasis-Rift",
+	  "X": 1147.4305,
+	  "Y": 353.99631,
+	  "Z": 103.23272
+	},
+	{
+	  "Name": "Desert-Highlands-Launch",
+	  "X": -466.62608,
+	  "Y": 553.39114,
+	  "Z": 337.36039
+	},
+	{
+	  "Name": "Desert-Highlands-Rift",
+	  "X": -331.37761,
+	  "Y": 511.10332,
+	  "Z": 330.60886
+	},
+	{
+	  "Name": "Thunderhead-Peaks-Launch",
+	  "X": -599.95572,
+	  "Y": -399.754,
+	  "Z": 4.48182
+	},
+	{
+	  "Name": "Thunderhead-Peaks-Rift",
+	  "X": -521.62608,
+	  "Y": -358.46863,
+	  "Z": 62.37417
+	},
+	{
+	  "Name": "Blazeridge-Steppes-Launch",
+	  "X": -260.78721,
+	  "Y": 1033.43419,
+	  "Z": 13.48499
+	},
+	{
+	  "Name": "Blazeridge-Steppes-Rift",
+	  "X": -262.21894,
+	  "Y": 1067.87823,
+	  "Z": 21.64121
+	},
+	{
+	  "Name": "Iron-Marches-Launch",
+	  "X": -230.56335,
+	  "Y": -530.57688,
+	  "Z": 43.08401
+	},
+	{
+	  "Name": "Iron-Marches-Rift",
+	  "X": -300.71341,
+	  "Y": -555.49938,
+	  "Z": 35.12
+	},
+	{
+	  "Name": "Diessa-Plateau-Launch",
+	  "X": 739.14022,
+	  "Y": -299.33456,
+	  "Z": 64.6813
+	},
+	{
+	  "Name": "Diessa-Plateau-Rift",
+	  "X": 565.89299,
+	  "Y": -155.31365,
+	  "Z": 77.14637
+	},
+	{
+	  "Name": "Fireheart-Rise-Launch",
+	  "X": 409.17958,
+	  "Y": 411.8401,
+	  "Z": 50.66531
+	},
+	{
+	  "Name": "Fireheart-Rise-Rift",
+	  "X": 525.57073,
+	  "Y": 406.41205,
+	  "Z": 40.25793
+	},
+	{
+	  "Name": "Frostgorge-Sound-Launch",
+	  "X": 67.60959,
+	  "Y": -251.83149,
+	  "Z": 73.15424
+	},
+	{
+	  "Name": "Frostgorge-Sound-Rift",
+	  "X": 28.17183,
+	  "Y": -89.48401,
+	  "Z": 39.01587
+	},
+	{
+	  "Name": "Harathi-Hinterlands-Launch",
+	  "X": -625.76261,
+	  "Y": -115.08696,
+	  "Z": 85.34526
+	},
+	{
+	  "Name": "Harathi-Hinterlands-Rift",
+	  "X": -583.05043,
+	  "Y": -116.86999,
+	  "Z": 59.48868
+	},
+	{
+	  "Name": "Bloodtide-Coast-Launch",
+	  "X": 86.78745,
+	  "Y": 673.15867,
+	  "Z": 121.30947
+	},
+	{
+	  "Name": "Bloodtide-Coast-Rift",
+	  "X": -2.98482,
+	  "Y": 954.81427,
+	  "Z": 25.10234
+	},
+	{
+	  "Name": "Lornar's-Pass-Launch",
+	  "X": 468.66298,
+	  "Y": 792.47232,
+	  "Z": 204.27429
+	},
+	{
+	  "Name": "Lornar's-Pass-Rift",
+	  "X": 442.59779,
+	  "Y": 759.28044,
+	  "Z": 156.17589
+	},
+	{
+	  "Name": "Dredgehaunt-Cliffs-Launch",
+	  "X": -553.91882,
+	  "Y": 585.65929,
+	  "Z": 88.51993
+	},
+	{
+	  "Name": "Dredgehaunt-Cliffs-Rift",
+	  "X": -738.05412,
+	  "Y": 754.29889,
+	  "Z": 65.38672
+	},
+	{
+	  "Name": "Timberline-Falls-Launch",
+	  "X": 222.07257,
+	  "Y": 1014.40959,
+	  "Z": 58.26556
+	},
+	{
+	  "Name": "Timberline-Falls-Rift",
+	  "X": 253.11931,
+	  "Y": 1083.32349,
+	  "Z": 75.24317
+	},
+	{
+	  "Name": "Mount-Maelstrom-Launch",
+	  "X": 498.21156,
+	  "Y": -349.72202,
+	  "Z": 43.07835
+	},
+	{
+	  "Name": "Mount-Maelstrom-Rift",
+	  "X": 563.64576,
+	  "Y": -461.40344,
+	  "Z": 36.58561
+	},
+	{
+	  "Name": "Sparkfly-Fen-Launch",
+	  "X": -594.89053,
+	  "Y": 55.55252,
+	  "Z": 40.83456
+	},
+	{
+	  "Name": "Sparkfly-Fen-Rift",
+	  "X": -690.14883,
+	  "Y": -11.81005,
+	  "Z": 17.54367
+	},
+	{
+	  "Name": "Straits-of-Devastation-Launch",
+	  "X": 714.90283,
+	  "Y": 374.38745,
+	  "Z": 46.86261
+	},
+	{
+	  "Name": "Straits-of-Devastation-Rift",
+	  "X": 596.61255,
+	  "Y": 399.1968,
+	  "Z": 35.12804
+	},
+	{
+	  "Name": "Malchor's-Leap-Launch",
+	  "X": 977.11931,
+	  "Y": -176.22017,
+	  "Z": 74.91316
+	},
+	{
+	  "Name": "Malchor's-Leap-Rift",
+	  "X": 965.67036,
+	  "Y": -239.58426,
+	  "Z": 91.61476
+	},
+	{
+	  "Name": "Cursed-Shore-Launch",
+	  "X": -255.69988,
+	  "Y": 583.73924,
+	  "Z": 30.3925
+	},
+	{
+	  "Name": "Cursed-Shore-Rift",
+	  "X": -243.9016,
+	  "Y": 525.50554,
+	  "Z": 29.12546
+	},
+	{
+	  "Name": "Dragonfall-Launch",
+	  "X": 929.0615,
+	  "Y": 729.26691,
+	  "Z": 174.06519
+	},
+	{
+	  "Name": "Dragonfall-Rift",
+	  "X": 780.24846,
+	  "Y": 903.68512,
+	  "Z": 118.32977
+	},
+	{
+	  "Name": "The-Silverwastes-Launch",
+	  "X": 552.07503,
+	  "Y": -381.7417,
+	  "Z": 552.26814
+	},
+	{
+	  "Name": "The-Silverwastes-Rift",
+	  "X": 501.17097,
+	  "Y": -402.22386,
+	  "Z": 530.5572
+	},
+	{
+	  "Name": "Drytop-Launch",
+	  "X": -458.74908,
+	  "Y": -281.0738,
+	  "Z": 136.37023
+	},
+	{
+	  "Name": "Drytop-Rift",
+	  "X": -421.78844,
+	  "Y": -319.89422,
+	  "Z": 106.32681
+	}
+]
+}

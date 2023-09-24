@@ -1,0 +1,71 @@
+{
+  "Name": "Skywatch Archipelago MP",
+  "Coordinates": [
+    {
+      "Name": "Beacon of Ages",
+      "X": 1091.27,
+      "Y": -479.76,
+      "Z": 401.87
+    },
+    {
+      "Name": "Skyscale Sanctuary",
+      "X": 911.08,
+      "Y": -247.61,
+      "Z": 159.66
+    },
+    {
+      "Name": "The Fractured Tower",
+      "X": 752.94,
+      "Y": 12.39,
+      "Z": 460.39
+    },
+    {
+      "Name": "War God's Spire",
+      "X": -423.46,
+      "Y": -330.43,
+      "Z": 454.45
+    },
+    {
+      "Name": "Under the Dunes",
+      "X": 23.69,
+      "Y": -185.86,
+      "Z": 277.15
+    },
+    {
+      "Name": "Southern Clearing",
+      "X": -1017.58,
+      "Y": -216.34,
+      "Z": 547.78
+    },
+    {
+      "Name": "MinSec Server Room",
+      "X": -241.11,
+      "Y": 183.09,
+      "Z": 565.31
+    },
+    {
+      "Name": "Droknar Mines",
+      "X": -642.55,
+      "Y": 406.34,
+      "Z": 517.41
+    },
+    {
+      "Name": "Rata Novus Foundations",
+      "X": 536.06,
+      "Y": 604.67,
+      "Z": 268.2
+    },
+    {
+      "Name": "Rava Novus Outcrop",
+      "X": 920.73,
+      "Y": 762.77,
+      "Z": 835.29
+    },
+    {
+      "Name": "Above the Jungle",
+      "X": -367.17,
+      "Y": 463.16,
+      "Z": 753.18
+    }
+  ]
+}
