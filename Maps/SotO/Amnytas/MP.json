@@ -1,0 +1,53 @@
+{
+  "Name": "Amnytas_MP",
+  "Coordinates": [
+    {
+      "Name": "The Arboretum",
+      "X": 14.68,
+      "Y": -539.41,
+      "Z": 516.88
+    },
+    {
+      "Name": "Bastion Shallows",
+      "X": -213.49,
+      "Y": -496.41,
+      "Z": 226.06
+    },
+    {
+      "Name": "Obscured by the Clouds",
+      "X": -496.76,
+      "Y": 48.42,
+      "Z": 919.4
+    },
+    {
+      "Name": "The Debate Hall",
+      "X": -631.59,
+      "Y": 864.01,
+      "Z": 511.64
+    },
+    {
+      "Name": "Balanced Perspective",
+      "X": -594.6,
+      "Y": 826.5,
+      "Z": 941.61
+    },
+    {
+      "Name": "Windy Bluff",
+      "X": 444.82,
+      "Y": 703.5,
+      "Z": 698.87
+    },
+    {
+      "Name": "Caveside Lookout",
+      "X": 450.87,
+      "Y": 508.01,
+      "Z": 475.65
+    },
+    {
+      "Name": "The Plaza of Wisdom",
+      "X": 900.45,
+      "Y": -523.98,
+      "Z": 717.68
+    }
+  ]
+}

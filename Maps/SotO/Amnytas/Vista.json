@@ -1,0 +1,53 @@
+{
+  "Name": "Amnytas Vista",
+  "Coordinates": [
+    {
+      "Name": "Bastion of the Natural Vista",
+      "X": 417.31,
+      "Y": -681.43,
+      "Z": 307.47
+    },
+    {
+      "Name": "Bastion of the Celestial Vista",
+      "X": -92.3,
+      "Y": -113.08,
+      "Z": 806.85
+    },
+    {
+      "Name": "Spireshadow Lagoon Vista",
+      "X": 202.4,
+      "Y": 168.44,
+      "Z": 538.93
+    },
+    {
+      "Name": "Bastion of the Obscure",
+      "X": -722.98,
+      "Y": 146.37,
+      "Z": 757.31
+    },
+    {
+      "Name": "Museum of Curiosities Vista",
+      "X": 791.96,
+      "Y": -65.38,
+      "Z": 421.36
+    },
+    {
+      "Name": "Great Debate Hall Vista",
+      "X": -453.32,
+      "Y": 865.02,
+      "Z": 726.09
+    },
+    {
+      "Name": "Bastion of Strength Vista",
+      "X": 705.05,
+      "Y": 800.67,
+      "Z": 709.98
+    },
+    {
+      "Name": "Spellcasting Workshop Vista",
+      "X": 459.79,
+      "Y": 559.34,
+      "Z": 502.15
+    }
+  ]
+}

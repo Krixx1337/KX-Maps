@@ -1,0 +1,131 @@
+{
+  "Name": "Comrades in Arms",
+  "Coordinates": [
+    {
+      "Name": "Start in Wizards Tower",
+      "X": -144.73,
+      "Y": -243.54,
+      "Z": 442.79
+    },
+    {
+      "Name": "Tele to Amnytas First",
+      "X": 867.46,
+      "Y": 238.36,
+      "Z": 467.27
+    },
+    {
+      "Name": "Abelin Favre 543",
+      "X": 830.65,
+      "Y": 723.24,
+      "Z": 455.18
+    },
+    {
+      "Name": "Olava Skumasdottir 403",
+      "X": -753.36,
+      "Y": -826.29,
+      "Z": 416.3
+    },
+    {
+      "Name": "Daytona Jaque 982 Bloom 0XX1 Unsworn",
+      "X": 235.41,
+      "Y": 67.46,
+      "Z": 797.36
+    },
+    {
+      "Name": "Fulla 733 Tide VIXV Unsworn",
+      "X": -551.88,
+      "Y": 411.01,
+      "Z": 617.39
+    },
+    {
+      "Name": "Yexxi the Stern 092 Tide 00XI Knowledge",
+      "X": -152.52,
+      "Y": 446.05,
+      "Z": 575.03
+    },
+    {
+      "Name": "Mildred Goswin 403 Frost 0IIX Unsworn",
+      "X": -252.1,
+      "Y": 988.41,
+      "Z": 570.84
+    },
+    {
+      "Name": "Vaulz Baelwalker 576 Frost 0X0I Knowledge",
+      "X": -542.61,
+      "Y": -455.87,
+      "Z": 255.01
+    },
+    {
+      "Name": "Basil 329 Tide II0X Celestial",
+      "X": -811.66,
+      "Y": 408.42,
+      "Z": 548.86
+    },
+    {
+      "Name": "Ivane Saberlin 809 Frost X00V Balance",
+      "X": 37.37,
+      "Y": -711.16,
+      "Z": 335.47
+    },
+    {
+      "Name": "Silque 109 Tide 00XX Natural",
+      "X": 567.66,
+      "Y": -50.26,
+      "Z": 337.28
+    },
+    {
+      "Name": "Complete the event Defeat the mysterious entity",
+      "X": 725.48,
+      "Y": -733.29,
+      "Z": 394.26
+    },
+    {
+      "Name": "Complete the event Exorcise the possessed researchers",
+      "X": -770.75,
+      "Y": -133.9,
+      "Z": 620.05
+    },
+    {
+      "Name": "Complete the event Help Vanak Faithwalker Prepare A Group Spell",
+      "X": 226.88,
+      "Y": 804.9,
+      "Z": 459.82
+    },
+    {
+      "Name": "Killing any Champion wildlife roaming around Bastion of the Celestia",
+      "X": 48.01,
+      "Y": 366.33,
+      "Z": 833.22
+    },
+    {
+      "Name": "Tele to Skywatch Archipelago",
+      "X": 15.05,
+      "Y": -94.14,
+      "Z": 492.86
+    },
+    {
+      "Name": "Cethis 102 Tide X001 Strength",
+      "X": -921.51,
+      "Y": -488.01,
+      "Z": 731.07
+    },
+    {
+      "Name": "Percy Gammons 892 Dusk XIVV Unsworn",
+      "X": 216.85,
+      "Y": 262.97,
+      "Z": 715.66
+    },
+    {
+      "Name": "Travel to Gendarran Fields",
+      "X": -119.33,
+      "Y": -612.21,
+      "Z": 19.93
+    },
+    {
+      "Name": "Arina 892 Snow 0XV1 Obscure",
+      "X": -94.49,
+      "Y": -639.89,
+      "Z": 7.37
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Skywatch Archipelago WP",
+  "Coordinates": [
+    {
+      "Name": "Beacon of Ages Waypoint",
+      "X": 1090.94,
+      "Y": -438.58,
+      "Z": 164.42
+    },
+    {
+      "Name": "Garenhoff Refugee Camp",
+      "X": 1196.07,
+      "Y": -132.82,
+      "Z": 228.65
+    },
+    {
+      "Name": "Astral Ward Encampment",
+      "X": 335.95,
+      "Y": -272.95,
+      "Z": 314.01
+    },
+    {
+      "Name": "Kestrel's Vow",
+      "X": 15.07,
+      "Y": -93.85,
+      "Z": 492.87
+    },
+    {
+      "Name": "Droknar's Light",
+      "X": -790.97,
+      "Y": 202.05,
+      "Z": 676.27
+    },
+    {
+      "Name": "Observation Camp",
+      "X": 132.8,
+      "Y": 701.26,
+      "Z": 541.7
+    },
+    {
+      "Name": "Rata Novus Promenade",
+      "X": 711.91,
+      "Y": 546.06,
+      "Z": 383.58
+    }
+  ]
+}
