@@ -1,0 +1,67 @@
+{
+  "Name": "Black Lion Stole Goods Recovery Event",
+  "Author": "Seveurs",
+  "Wiki": "https://wiki.guildwars2.com/wiki/Black_Lion_Stolen_Goods_Recovery_Event",
+  "Coordinates": [
+    {
+      "Name": "Queensdale",
+      "X": 226.54,
+      "Y": 551.44,
+      "Z": 2.02
+    },
+    {
+      "Name": "Queensdale JP",
+      "X": 1261.38,
+      "Y": -843.95,
+      "Z": 79.69
+    },
+    {
+      "Name": "Bloodtide Coast",
+      "X": -351.4,
+      "Y": -420.64,
+      "Z": 35.38
+    },
+    {
+      "Name": "Lornar's Pass",
+      "X": 590.95,
+      "Y": -69.68,
+      "Z": 152.38
+    },
+    {
+      "Name": "Verdant Brink",
+      "X": 1073.26,
+      "Y": 359.76,
+      "Z": 444.66
+    },
+    {
+      "Name": "Ember Bay",
+      "X": -708.33,
+      "Y": -577.47,
+      "Z": 16.6
+    },
+    {
+      "Name": "Siren's Landing JP",
+      "X": 677.14,
+      "Y": 223.03,
+      "Z": 603.98
+    },
+    {
+      "Name": "Crystal Oasis",
+      "X": -1125.32,
+      "Y": 37.02,
+      "Z": 10.48
+    },
+    {
+      "Name": "Desert Highlands",
+      "X": -554.28,
+      "Y": -262.23,
+      "Z": 88.02
+    },
+    {
+      "Name": "New Kaineng City",
+      "X": -791.25,
+      "Y": -411.66,
+      "Z": 257.53
+    }
+  ]
+}
