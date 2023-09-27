@@ -1,0 +1,23 @@
+{
+  "Name": "Mystic Tower Vista",
+  "Coordinates": [
+    {
+      "Name": "Memory's Gaze Vista",
+      "X": 232.33,
+      "Y": -33.14,
+      "Z": 529.56
+    },
+    {
+      "Name": "Wizard's Tower Vista",
+      "X": 48.48,
+      "Y": -233.88,
+      "Z": 585.07
+    },
+    {
+      "Name": "Open Sky Vista",
+      "X": -298.61,
+      "Y": 158.16,
+      "Z": 495.93
+    }
+  ]
+}

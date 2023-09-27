@@ -1,0 +1,29 @@
+{
+  "Name": "Skywatch Archipelago Special",
+  "Coordinates": [
+    {
+      "Name": "Diving Goggles",
+      "X": 86.68,
+      "Y": 120.19,
+      "Z": 878.78
+    },
+    {
+      "Name": "Diving Goggles: Pillar Plunge",
+      "X": 16.91,
+      "Y": 478.05,
+      "Z": 533.39
+    },
+    {
+      "Name": " Diving Goggles: Astral Dive",
+      "X": 1288.8,
+      "Y": 319.75,
+      "Z": 451.87
+    },
+    {
+      "Name": "Diving Goggles: Free Fall of New Kaineng",
+      "X": 85.13,
+      "Y": 119.91,
+      "Z": 877.79
+    }
+  ]
+}

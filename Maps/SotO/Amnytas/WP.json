@@ -1,0 +1,41 @@
+{
+  "Name": "Amnytas WP",
+  "Coordinates": [
+    {
+      "Name": "Bastion of the Natural",
+      "X": -93.27,
+      "Y": -513.89,
+      "Z": 332.45
+    },
+    {
+      "Name": "Bastion of the Celestial",
+      "X": 47.96,
+      "Y": 367.92,
+      "Z": 833.22
+    },
+    {
+      "Name": "Bastion of the Obscure",
+      "X": -665.51,
+      "Y": -85.04,
+      "Z": 623.84
+    },
+    {
+      "Name": "Bastion of Balance",
+      "X": -203.42,
+      "Y": 707.68,
+      "Z": 485.69
+    },
+    {
+      "Name": "Bastion of Knowledge",
+      "X": 852.94,
+      "Y": -451.64,
+      "Z": 357.93
+    },
+    {
+      "Name": "Bastion of Strength",
+      "X": 862.45,
+      "Y": 235.12,
+      "Z": 467.27
+    }
+  ]
+}
