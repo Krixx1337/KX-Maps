@@ -1,0 +1,65 @@
+{
+  "Name": "Arcane Chests",
+  "Coordinates": [
+    {
+      "Name": "Minor Arcane Chest",
+      "X": 928.06,
+      "Y": 20.93,
+      "Z": 369.08
+    },
+    {
+      "Name": "Greater Arcane Chest",
+      "X": 636.22,
+      "Y": -46.41,
+      "Z": 337.82
+    },
+    {
+      "Name": "Greater Arcane Chest",
+      "X": 11.93,
+      "Y": -680.46,
+      "Z": 312.57
+    },
+    {
+      "Name": "Greater Arcane Chest",
+      "X": 98.84,
+      "Y": -50.39,
+      "Z": 546.94
+    },
+    {
+      "Name": "Greater Arcane Chest",
+      "X": 120.13,
+      "Y": 65.49,
+      "Z": 786.67
+    },
+    {
+      "Name": "Minor Arcane Chest",
+      "X": 770.76,
+      "Y": -474.8,
+      "Z": 45.19
+    },
+    {
+      "Name": "Minor Arcane Chest",
+      "X": -256.94,
+      "Y": 159.88,
+      "Z": 565.28
+    },
+    {
+      "Name": "Greater Arcane Chest",
+      "X": -924.08,
+      "Y": -436.15,
+      "Z": 743.73
+    },
+    {
+      "Name": "Greater Arcane Chest",
+      "X": -1099.75,
+      "Y": 122.83,
+      "Z": 681.25
+    },
+    {
+      "Name": "Minor Arcane Chest",
+      "X": -1096.4,
+      "Y": 142.39,
+      "Z": 681.25
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Amnytas Special",
+  "Coordinates": [
+    {
+      "Name": "Diving Goggles",
+      "X": 49.5,
+      "Y": -50.64,
+      "Z": 992.53
+    },
+    {
+      "Name": "Strange Orb",
+      "X": 80.64,
+      "Y": 29.09,
+      "Z": 868.12
+    },
+	{
+      "Name": "Aether Hunter",
+      "X": 452.16,
+      "Y": 3.02,
+      "Z": 390.83
+    }
+  ]
+}

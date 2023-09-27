@@ -1,0 +1,17 @@
+{
+  "Name": "Amnytas Arcane Chests",
+  "Coordinates": [
+    {
+      "Name": "Minor Arcane Chest",
+      "X": -8.29,
+      "Y": 344.09,
+      "Z": 861.66
+    },
+    {
+      "Name": "Minor Arcane Chest",
+      "X": -662.06,
+      "Y": -273.19,
+      "Z": 620.01
+    }
+  ]
+}

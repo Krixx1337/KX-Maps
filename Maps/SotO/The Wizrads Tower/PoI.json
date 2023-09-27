@@ -1,0 +1,149 @@
+{
+  "Name": "Mystic Tower POI",
+  "Coordinates": [
+    {
+      "Name": "Mystic Passage",
+      "X": 47.41,
+      "Y": -256.17,
+      "Z": 406.18
+    },
+    {
+      "Name": "Empyrean Plaza",
+      "X": 46.95,
+      "Y": -39.06,
+      "Z": 361.26
+    },
+    {
+      "Name": "The Wizard's Court",
+      "X": 47.41,
+      "Y": -207.05,
+      "Z": 538.46
+    },
+    {
+      "Name": "Amnytas Connector",
+      "X": 47.31,
+      "Y": 143.15,
+      "Z": 359.39
+    },
+    {
+      "Name": "Forge of the Timeless",
+      "X": 47.59,
+      "Y": -80.53,
+      "Z": 361.49
+    },
+    {
+      "Name": "Hall of Gallantry",
+      "X": 89.95,
+      "Y": -124.16,
+      "Z": 401.96
+    },
+    {
+      "Name": "Rift Hunter Lounge",
+      "X": 6.07,
+      "Y": -128.01,
+      "Z": 402.03
+    },
+    {
+      "Name": "Wizard's Trial",
+      "X": -68.07,
+      "Y": -173.22,
+      "Z": 351.07
+    },
+    {
+      "Name": "Isgarren's Hidden Library",
+      "X": -181.36,
+      "Y": -106.84,
+      "Z": 250.59
+    },
+    {
+      "Name": "Wizard's Vault",
+      "X": 172.75,
+      "Y": -209.13,
+      "Z": 329.39
+    },
+    {
+      "Name": "Memory's Gaze",
+      "X": 191.81,
+      "Y": -4.78,
+      "Z": 442.86
+    },
+    {
+      "Name": "Training Platform",
+      "X": 257.75,
+      "Y": -247.58,
+      "Z": 444.66
+    },
+    {
+      "Name": "Astral Ward Barracks",
+      "X": 302.04,
+      "Y": -228.48,
+      "Z": 361.26
+    },
+    {
+      "Name": "Refugee Camp",
+      "X": -163.62,
+      "Y": -250.69,
+      "Z": 442.9
+    },
+    {
+      "Name": "Skyscale Stables",
+      "X": -209.1,
+      "Y": -236.97,
+      "Z": 361.31
+    },
+    {
+      "Name": "Lyhr's Quarters",
+      "X": 89.13,
+      "Y": -223.02,
+      "Z": 500.42
+    },
+    {
+      "Name": "Mabon's Quarters",
+      "X": 113.65,
+      "Y": -248.29,
+      "Z": 500.52
+    },
+    {
+      "Name": "Dagda's Quarters",
+      "X": 0.57,
+      "Y": -221.01,
+      "Z": 500.46
+    },
+    {
+      "Name": "Isgarren's Quarters",
+      "X": -18.68,
+      "Y": -247.06,
+      "Z": 500.41
+    },
+    {
+      "Name": "War Room",
+      "X": 6.53,
+      "Y": -240.51,
+      "Z": 443.83
+    },
+    {
+      "Name": "The Reliquary",
+      "X": 86.2,
+      "Y": -248.37,
+      "Z": 443.83
+    },
+    {
+      "Name": "Wizard's Respite",
+      "X": -264.56,
+      "Y": 143.16,
+      "Z": 471.13
+    },
+    {
+      "Name": "Underconstruction (East Port POI)",
+      "X": -292.57,
+      "Y": -49.12,
+      "Z": 363.0
+    },
+    {
+      "Name": "Lion's Arch Connector",
+      "X": 390.27,
+      "Y": -52.1,
+      "Z": 358.89
+    }
+  ]
+}
