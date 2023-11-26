@@ -1,0 +1,48 @@
+{
+  "Name": "ProvisionerToken",
+  "Author": "ShadowPlague"
+  "Coordinates": [
+    {
+      "Name": "HoT Guild Exit Glided Hollow",
+      "X": -460.5,
+      "Y": -397.5,
+      "Z": 47.5
+    },
+    {
+      "Name": "Auric-to-Verdant",
+      "X": -558.94,
+      "Y": 988.49,
+      "Z": 614.76
+    },
+    {
+      "Name": "Verdant Brink",
+      "X": 1111.59,
+      "Y": 67.12,
+      "Z": 521.24
+    },
+    {
+      "Name": "Verdant-to-Auric",
+      "X": -972.76,
+      "Y": -528.59,
+      "Z": 466.83
+    },
+    {
+      "Name": "Auric Basin",
+      "X": -450.76,
+      "Y": 827.94,
+      "Z": 584.79
+    },
+    {
+      "Name": "Auric-to-TangledDepths",
+      "X": 642.45,
+      "Y": -944.88,
+      "Z": 268.82
+    },
+    {
+      "Name": "Tangled Depth",
+      "X": -247.07,
+      "Y": -180.54,
+      "Z": 278.01
+    }
+  ]
+}

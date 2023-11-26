@@ -1,0 +1,72 @@
+{
+  "Name": "Flax FarmStart-Gilded Hollow",
+  "Author": "ShadowPlague"
+  "Coordinates": [
+    {
+      "Name": "HoT Guild Exit Gilded Hollow",
+      "X": -460.5,
+      "Y": -397.5,
+      "Z": 47.5
+    },
+    {
+      "Name": "Auric-to-Verdant",
+      "X": -558.94,
+      "Y": 988.49,
+      "Z": 614.76
+    },
+    {
+      "Name": "Verdant_Brink_Spot1",
+      "X": 889.299,
+      "Y": 507.586,
+      "Z": 17.7582
+    },
+    {
+      "Name": "Verdant-to-Auric",
+      "X": -972.76,
+      "Y": -528.59,
+      "Z": 466.83
+    },
+    {
+      "Name": "Auric-to-TangledDepths",
+      "X": 642.45,
+      "Y": -944.88,
+      "Z": 268.82
+    },
+    {
+      "Name": "Tangled_Depths_Spot2/Next Bloodstone Fen",
+      "X": -371.082,
+      "Y": -100.765,
+      "Z": 404.97
+    },
+    {
+      "Name": "Bloodstone_Fen_Spot3",
+      "X": 249.257,
+      "Y": -5.50002,
+      "Z": 985.165
+    },
+    {
+      "Name": "Bloodstone_Fen_Spot4",
+      "X": 201.186,
+      "Y": 12.2074,
+      "Z": 946.799
+    },
+    {
+      "Name": "Bloodstone_Fen_Spot5",
+      "X": 182.32,
+      "Y": 167.8,
+      "Z": 1015.02
+    },
+    {
+      "Name": "Bloodstone_Fen_Spot6/Next Draconic Mons",
+      "X": 157.16,
+      "Y": 109.51,
+      "Z": 1037.87
+    },
+    {
+      "Name": "Draconic_Mons_ENDspot",
+      "X": 665.15,
+      "Y": -565.86,
+      "Z": 130.83
+    }
+  ]
+}
