@@ -8,10 +8,10 @@ To use these files, you need to have a paid version of KX Trainer. If you have i
 Pull requests are welcome. If you think that there is something missing you can always make your own teleports using KX Trainer map-making system and open a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Map Requests
-If you want us to add a specific file, please simply open an issue with the label "request". Before you do that, you should make sure that your requested file doesn't exist yet!
+If you want us to add a specific file, please simply open an issue with the label "request." Before you do that, you should make sure that your requested file doesn't exist yet!
 
 ## Contact
-If you are a paid member of the KX Trainer, you can contact us on our Discord. 
+You can contact us on our [Discord server](https://discord.gg/z92rnB4kHm) for any questions or support.
 
 ## Acknowledgments
-* [Bloodmagicball](https://github.com/Bloodmagicball) - for being the first person who bought KX Trainer, making most of the teleport files and helping our community over the years ❤
+* [Bloodmagicball](https://github.com/Bloodmagicball) - for being the first person who bought KX Trainer, making most of the teleport files, and helping our community over the years ❤
