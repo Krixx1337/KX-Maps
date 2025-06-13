@@ -504,6 +504,10 @@
     "name": "In the Ruins"
   },
   {
+    "id": "261",
+    "name": "Busted Flagon Public House"
+  },
+  {
     "id": "262",
     "name": "Chain of Command"
   },
@@ -886,6 +890,10 @@
   {
     "id": "466",
     "name": "Misplaced Faith"
+  },
+  {
+    "id": "469",
+    "name": "Gladiator"
   },
   {
     "id": "470",
@@ -2672,6 +2680,10 @@
     "name": "Salvation Pass"
   },
   {
+    "id": "1150",
+    "name": ""
+  },
+  {
     "id": "1153",
     "name": "Tiger Den"
   },
@@ -3193,11 +3205,11 @@
   },
   {
     "id": "1326",
-    "name": "Dragon Bash Arena"
+    "name": "Dragon Arena (Public)"
   },
   {
     "id": "1327",
-    "name": "Dragon Arena Survival"
+    "name": "Dragon Arena (Private)"
   },
   {
     "id": "1328",
@@ -3733,7 +3745,7 @@
   },
   {
     "id": "1489",
-    "name": "A Raw Deal: Red Duck Tea House"
+    "name": "A Raw Deal: Red Duck Teahouse"
   },
   {
     "id": "1490",
@@ -3765,7 +3777,7 @@
   },
   {
     "id": "1498",
-    "name": "Full Circle: Red Duck Tea House"
+    "name": "Full Circle: Red Duck Teahouse"
   },
   {
     "id": "1499",
@@ -3861,7 +3873,7 @@
   },
   {
     "id": "1523",
-    "name": "Convergences (Public)"
+    "name": "Convergence: Outer Nayos (Public)"
   },
   {
     "id": "1524",
@@ -3877,7 +3889,7 @@
   },
   {
     "id": "1527",
-    "name": "Convergences (Private Squad)"
+    "name": "Convergence: Outer Nayos (Private Squad)"
   },
   {
     "id": "1528",
@@ -3894,5 +3906,221 @@
   {
     "id": "1531",
     "name": "Duress: Nayos"
+  },
+  {
+    "id": "1532",
+    "name": "Forced Hand: Nyedra"
+  },
+  {
+    "id": "1533",
+    "name": "Eventide's March: Coliseum of the Midnight King"
+  },
+  {
+    "id": "1534",
+    "name": "The War Council: Astral Ward Camp"
+  },
+  {
+    "id": "1535",
+    "name": "Eventide's March: Nyedra Surrounds"
+  },
+  {
+    "id": "1536",
+    "name": "Desperate Measures: Forward Bivouac"
+  },
+  {
+    "id": "1537",
+    "name": "Sovereign of Nayos: The Wizard's Tower"
+  },
+  {
+    "id": "1538",
+    "name": "Fractals of the Mists"
+  },
+  {
+    "id": "1539",
+    "name": "The Eleventh Hour: Citadel of Zakiros"
+  },
+  {
+    "id": "1540",
+    "name": "Desperate Measures: Forward Bivouac"
+  },
+  {
+    "id": "1541",
+    "name": "Twice Stricken: Landfall"
+  },
+  {
+    "id": "1542",
+    "name": "Finding Balance: Hearth's Glow"
+  },
+  {
+    "id": "1543",
+    "name": "Titan Research"
+  },
+  {
+    "id": "1544",
+    "name": "Twice Stricken: Hearth's Glow"
+  },
+  {
+    "id": "1545",
+    "name": "Finding Balance: Sanguine Crater"
+  },
+  {
+    "id": "1546",
+    "name": "Home Sweet Home: Hearth's Glow"
+  },
+  {
+    "id": "1547",
+    "name": "Sorrow in These Halls: Harvest Den"
+  },
+  {
+    "id": "1549",
+    "name": "Missing in Action: Haar Mire"
+  },
+  {
+    "id": "1550",
+    "name": "Lowland Shore"
+  },
+  {
+    "id": "1551",
+    "name": "The Tyrian Alliance: Guild Initiative Headquarters"
+  },
+  {
+    "id": "1552",
+    "name": "Against the Wall: Sulfurous Springs"
+  },
+  {
+    "id": "1553",
+    "name": "Sorrow in These Halls: The Wizard's Tower"
+  },
+  {
+    "id": "1554",
+    "name": "Janthir Syntri"
+  },
+  {
+    "id": "1555",
+    "name": "Strangers among Lands: Festering Basin"
+  },
+  {
+    "id": "1556",
+    "name": "Unknown Territory: Moon Camp"
+  },
+  {
+    "id": "1557",
+    "name": "Home Sweet Home: Abandoned Homestead"
+  },
+  {
+    "id": "1558",
+    "name": "Hearth's Glow"
+  },
+  {
+    "id": "1559",
+    "name": "Against the Wall: Hearth's Glow"
+  },
+  {
+    "id": "1560",
+    "name": "Strangers among Lands: Guild Initiative Headquarters"
+  },
+  {
+    "id": "1561",
+    "name": "Push Prototype—BETA"
+  },
+  {
+    "id": "1562",
+    "name": "Convergence: Mount Balrior (Private Squad)"
+  },
+  {
+    "id": "1563",
+    "name": "Trial and Error: The Wizard's Tower"
+  },
+  {
+    "id": "1564",
+    "name": "Mount Balrior"
+  },
+  {
+    "id": "1565",
+    "name": "Battle's Eve: Harvest Den"
+  },
+  {
+    "id": "1567",
+    "name": "Balrior Peak: Harvest Den"
+  },
+  {
+    "id": "1568",
+    "name": "Trial and Error: Janthir Syntri"
+  },
+  {
+    "id": "1569",
+    "name": "Trial and Error: Durmand Priory"
+  },
+  {
+    "id": "1570",
+    "name": "Mists Vault"
+  },
+  {
+    "id": "1571",
+    "name": "Convergence: Mount Balrior (Public)"
+  },
+  {
+    "id": "1572",
+    "name": "Balrior Peak: Mount Balrior"
+  },
+  {
+    "id": "1573",
+    "name": "Mabon's Grief: Bava Nisos Outskirts"
+  },
+  {
+    "id": "1574",
+    "name": "Bava Nisos"
+  },
+  {
+    "id": "1575",
+    "name": "Mistburned Barrens"
+  },
+  {
+    "id": "1577",
+    "name": "A Legacy Damned: The Golden Lake"
+  },
+  {
+    "id": "1578",
+    "name": "A Legacy Damned: Alliance Staging Ground"
+  },
+  {
+    "id": "1579",
+    "name": "Into the Valley of Shadow: Valley of Agony"
+  },
+  {
+    "id": "1580",
+    "name": "Into the Valley of Shadow: Alliance Staging Ground"
+  },
+  {
+    "id": "1582",
+    "name": "A Titanic Undertaking: Saevus's Heart"
+  },
+  {
+    "id": "1583",
+    "name": "Salvation's Cost: Foundry of Failed Creations"
+  },
+  {
+    "id": "1584",
+    "name": "Fractals of the Mists"
+  },
+  {
+    "id": "1585",
+    "name": "Salvation's Cost: Saevus's Heart"
+  },
+  {
+    "id": "1586",
+    "name": "Forced Entry: Bava Nisos Outskirts"
+  },
+  {
+    "id": "1587",
+    "name": "Forced Entry: Bava Nisos"
+  },
+  {
+    "id": "1588",
+    "name": "Salvation's Cost: Guild Initiative Headquarters"
+  },
+  {
+    "id": "1589",
+    "name": "A Titanic Undertaking: Bava Nisos"
   }
 ]
